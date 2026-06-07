@@ -10,13 +10,20 @@ multiples**. We hold verified per-target **FMCSA bus counts**, so an **EV-per-bu
 highest-priority valuation cross-check.
 
 ## Source-quality & output rules (apply to every metric)
+
+> **We form the final conclusions ourselves** by synthesizing the sources you surface. Your job is (a) **maximal
+> discovery** of credible primary sources and (b) **faithful, verbatim extraction** of every relevant figure with a
+> precise, locatable citation — **NOT** resolving the evidence into your own final number. Where sources are thin,
+> vary, or conflict, **surface all of them and flag the conflict**; never collapse them into one synthesized value.
+
 - Prioritize **PRIMARY / proprietary / paywalled** evidence: SEC EDGAR & LSE/RNS filings and deal circulars,
   earnings-call and **expert-network** transcripts (Tegus/AlphaSense, GLG, Guidepoint, Third Bridge),
   **sell-side** research, law-firm transaction announcements, and **S&P Global Ratings** credit reports.
 - Do **NOT** use commodity aggregators (S&P Capital IQ, PitchBook, IBISWorld, Mergermarket) as primary evidence
   — only as an explicitly-labeled cross-check, if at all.
-- For **every** metric return: (1) clear definition, (2) value or **RANGE**, (3) time period, (4) geographic +
-  sub-sector scope, (5) citation to the underlying **primary** source with **sentence-level attribution**.
+- For **every figure**, extract it **as the source states it** (verbatim value + unit) and give a **precise,
+  locatable citation**: document **title**, **date**, **page / section / table**, and the **exact quoted passage** —
+  so we can pull and re-read the source ourselves. Do **not** convert, normalize, round, or synthesize values.
 - **NATIONAL FALLBACK:** if a metric will not resolve to a specific state/region, return the **national** figure
   labeled `national` and note the gap — **never drop a metric** for lack of granularity.
 - Distinguish audited/filed vs survey/sentiment vs estimate; flag confidence.
@@ -34,7 +41,7 @@ highest-priority valuation cross-check.
 - Expert-network transcripts & sell-side on **integration economics, procurement leverage, insurance/benefits pooling** in multi-yard school-bus platforms.
 - **S&P Global Ratings** reports on Student Transportation Inc. for capital-structure/leverage context.
 
-## Deliverables (ranges + primary citations)
+## Deliverables (report each figure **as stated per source/deal**, with full locator citations — we form the ranges)
 
 ### A. EV per bus — PRIORITY OUTPUT
 Implied **EV per bus** for student-transportation transactions (and per the named precedents above). State the
@@ -59,12 +66,18 @@ Benchmarks for what route/depot **density overlap** converts to in cost savings,
 in-house-computed overlap per target.
 
 ## Output format
-A **precedents table** (`deal | date | size | EV/bus | EV/EBITDA | EV/Revenue | sub-sector | primary source`)
-with **EV/bus populated first**, plus a **synergy-bridge benchmark table** (`lever | basis | range | source`).
+A **precedents table** with **one row per deal** (`deal | date | size | EV/bus | EV/EBITDA | EV/Revenue | sub-sector
+| primary source`), **EV/bus first**, each figure **as disclosed** (no synthesized cross-deal average), plus a
+**synergy-bridge table** reporting each lever **as stated per source**. Then the **Evidence ledger** below.
 
-## Machine-readable summary (for ingest — include in addition to the narrative)
-End with a **flat table, one row per metric** (each precedent multiple and each synergy lever), columns exactly:
-`metric | sub_sector | scale_tier | geo | low | point | high | period | primary_source_cite`
-so results drop straight into our database without re-keying. Conventions: for precedents use `metric` =
-`EV/bus` / `EV/EBITDA` / `EV/Revenue` and put the deal name in `primary_source_cite`; `geo` = `national` unless
-deal-specific; `scale_tier` ∈ {platform, tuck-in, all}; leave `point` blank if only a range exists.
+## Evidence ledger (required output format — machine-readable)
+Return a flat table with **one row per (data point × source)** — *not* per synthesized range — reporting each
+figure **exactly as that source states it**. Columns:
+`metric | sub_sector | scale_tier | geo | value_as_stated | period | source_title | source_date | locator | quoted_passage | source_confidence`
+- **One row per source/deal**: each precedent and each synergy-lever benchmark is its own row — *we* aggregate.
+- For precedents, `metric` = `EV/bus` / `EV/EBITDA` / `EV/Revenue`; name the deal in `source_title` and the
+  filing/circular in `locator` + `quoted_passage`.
+- `value_as_stated` = verbatim (do not convert or round); `geo` = `national` unless deal-specific.
+- `scale_tier` ∈ {platform, tuck-in, all}; `source_confidence` = reliability read (filing/circular > press > estimate) + basis.
+- If you want to offer your **own** synthesized view, put it in a **separate, clearly-labeled** section
+  ("BrightWave synthesized view — not authoritative"); never merge it into the ledger.

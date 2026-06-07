@@ -10,14 +10,21 @@ escalators, reimbursement, and driver-driven contract risk vary by **state** and
 Priority states: **FL, NY, PA, MO, GA, IN, UT.**
 
 ## Source-quality & output rules (apply to every metric)
+
+> **We form the final conclusions ourselves** by synthesizing the sources you surface. Your job is (a) **maximal
+> discovery** of credible primary sources and (b) **faithful, verbatim extraction** of every relevant figure with a
+> precise, locatable citation — **NOT** resolving the evidence into your own final number. Where sources are thin,
+> vary, or conflict, **surface all of them and flag the conflict**; never collapse them into one synthesized value.
+
 - Prioritize **PRIMARY / proprietary / paywalled** evidence: SEC EDGAR & LSE/RNS filings, earnings-call and
   **expert-network** transcripts (Tegus/AlphaSense, GLG, Guidepoint, Third Bridge), **sell-side** research,
   **federal/state regulatory & DOE** disclosures, and **trade-association** surveys (NSTA, NAPT, NASDPTS,
   state contractor associations).
 - Do **NOT** use commodity aggregators (S&P Capital IQ, PitchBook, IBISWorld) as primary evidence — only as an
   explicitly-labeled cross-check, if at all.
-- For **every** metric return: (1) clear definition, (2) value or **RANGE**, (3) time period, (4) geographic +
-  sub-sector scope, (5) citation to the underlying **primary** source with **sentence-level attribution**.
+- For **every figure**, extract it **as the source states it** (verbatim value + unit) and give a **precise,
+  locatable citation**: document **title**, **date**, **page / section / table**, and the **exact quoted passage** —
+  so we can pull and re-read the source ourselves. Do **not** convert, normalize, round, or synthesize values.
 - **NATIONAL FALLBACK:** if a metric will not resolve to a specific state, return the **national** figure
   labeled `national` and note the state-disclosure gap — **never drop a metric** for lack of state granularity.
 - Distinguish audited/filed vs survey/sentiment vs estimate; flag confidence.
@@ -35,7 +42,7 @@ Priority states: **FL, NY, PA, MO, GA, IN, UT.**
 - Cross-state: **NCES NPEFS & Census F-33** (district/state transportation expenditure & spend-per-pupil);
   **NSTA / state contractor associations** (NYSBCA, PSBA) for contracting-structure norms; posted district RFPs/awarded contracts for actual pricing.
 
-## Deliverables (ranges + primary citations; PER STATE, and by sub-sector where it differs)
+## Deliverables (report each figure **as stated per source**, with full locator citations — we form the ranges; PER STATE, and by sub-sector where it differs)
 
 ### A. Reimbursement structure
 Funding-formula **type** per state (per-rider / per-mile / per-route / %-of-cost reimbursement / block grant /
@@ -69,12 +76,19 @@ Incremental contract economics for special-needs routes — **aide billing**, pe
 vehicle requirements — by state.
 
 ## Output format
-Per-state tables: `metric | definition | range | period | sub-sector | primary source (sentence-level cite)`.
-Flag clearly where only the **structure** (not dollar values) is publicly disclosed, and apply the national fallback otherwise.
+Present **per-state narrative**, reporting **each source's figure as stated** (not a synthesized number); flag
+clearly where only the **structure** (not dollar values) is publicly disclosed, and apply the national fallback
+otherwise. Then the **Evidence ledger** below.
 
-## Machine-readable summary (for ingest — include in addition to the narrative)
-End with a **flat table, one row per metric**, columns exactly:
-`metric | sub_sector | scale_tier | geo | low | point | high | period | primary_source_cite`
-so results drop straight into our database without re-keying. Conventions: `geo` = state code (FL/NY/PA/MO/GA/IN/UT)
-or `national` (per the fallback rule); `sub_sector` ∈ {Y,S,C,all}; `scale_tier` = `all` unless a metric is scale-specific;
-leave `point` blank if only a range exists; emit **one row per (metric × sub_sector × geo)** combination.
+## Evidence ledger (required output format — machine-readable)
+Return a flat table with **one row per (data point × source)** — *not* per synthesized range — reporting each
+figure **exactly as that source states it**. Columns:
+`metric | sub_sector | scale_tier | geo | value_as_stated | period | source_title | source_date | locator | quoted_passage | source_confidence`
+- **One row per source**: if three sources speak to a state's per-pupil spend, that's three rows — *we* aggregate.
+- `value_as_stated` = verbatim in the source's own units/wording (do not convert or round).
+- `locator` = page / section / table / portal query (or URL anchor) precise enough to re-find it.
+- `quoted_passage` = the exact sentence(s) the figure is drawn from.
+- `source_confidence` = your read of reliability (DOE filing/awarded contract > survey > estimate) + one-line basis.
+- Conventions: `geo` = state code (FL/NY/PA/MO/GA/IN/UT) or `national`; `sub_sector` ∈ {Y,S,C,all}; `scale_tier` = `all` unless scale-specific.
+- If you want to offer your **own** synthesized view, put it in a **separate, clearly-labeled** section
+  ("BrightWave synthesized view — not authoritative"); never merge it into the ledger.

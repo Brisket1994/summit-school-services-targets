@@ -10,14 +10,21 @@ and school buses by capacity class: ≤8, 9–15, 16+ seats). We need defensible
 buses → revenue → EBITDA, by sub-sector and operator scale, that **reconcile to that bus anchor**.
 
 ## Source-quality & output rules (apply to every metric)
+
+> **We form the final conclusions ourselves** by synthesizing the sources you surface. Your job is (a) **maximal
+> discovery** of credible primary sources and (b) **faithful, verbatim extraction** of every relevant figure with a
+> precise, locatable citation — **NOT** resolving the evidence into your own final number. Where sources are thin,
+> vary, or conflict, **surface all of them and flag the conflict**; never collapse them into one synthesized value.
+
 - Prioritize **PRIMARY / proprietary / paywalled** evidence: SEC EDGAR & LSE/RNS filings, earnings-call
   and **expert-network** transcripts (Tegus/AlphaSense, GLG, Guidepoint, Third Bridge, AlphaSights),
   **sell-side** research (e.g., UBS/Numis/Peel Hunt on Mobico & FirstGroup), federal/state regulatory &
   DOE disclosures, and **trade-association** surveys (NSTA, NAPT, School Bus Fleet, School Transportation News).
 - Do **NOT** use commodity aggregators (S&P Capital IQ, PitchBook, IBISWorld) as primary evidence — only
   as an explicitly-labeled cross-check, if at all.
-- For **every** metric return: (1) clear definition, (2) value or **RANGE**, (3) time period, (4) geographic
-  + sub-sector scope, (5) citation to the underlying **primary** source with **sentence-level attribution**.
+- For **every figure**, extract it **as the source states it** (verbatim value + unit) and give a **precise,
+  locatable citation**: document **title**, **date**, **page / section / table**, and the **exact quoted passage** —
+  so we can pull and re-read the source ourselves. Do **not** convert, normalize, round, or synthesize values.
 - **NATIONAL FALLBACK:** if a metric will not resolve to a specific state, return the **national** figure
   labeled `national` and note the state-disclosure gap — **never drop a metric** for lack of state granularity.
 - Distinguish audited/filed figures vs survey/sentiment vs estimate; flag confidence.
@@ -40,7 +47,7 @@ buses → revenue → EBITDA, by sub-sector and operator scale, that **reconcile
 - Public cost-input context (triangulation only): BLS OEWS SOC 53-3051 (driver wage by state), BLS ECI/CPI,
   EIA on-highway diesel; NSTA Cost Analysis framework; School Bus Fleet Maintenance & Contractor surveys.
 
-## Deliverables (ranges + primary citations; segment by sub-sector Y/S/C and by scale tier <50 / 50–250 / 250+ buses)
+## Deliverables (report each figure **as stated per source**, with full locator citations — we form the ranges; segment by sub-sector Y/S/C and by scale tier <50 / 50–250 / 250+ buses)
 
 ### A. Revenue per unit — reported THREE ways against our bus anchor
 Because our anchor is the FMCSA count, every revenue-per-bus figure must state its denominator. Provide:
@@ -90,11 +97,19 @@ operating-lease cost per bus.
 **Charter/motorcoach:** utilization (miles/coach, passenger-miles) and seasonality vs contracted yellow-bus.
 
 ## Output format
-A metrics table: `metric | definition | range | period | geo (national/state) | sub-sector | scale tier | primary source (sentence-level cite)`, plus the calibration set in Section C shown as an explicit per-year, per-company computation.
+Present a **narrative organized by the sections above**, reporting **each source's figure as stated** (not a
+synthesized number), followed by the **Evidence ledger** below. For the §C calibration set, show the explicit
+per-year, per-company computation (segment revenue ÷ fleet) with full citations.
 
-## Machine-readable summary (for ingest — include in addition to the narrative)
-End with a **flat table, one row per metric**, columns exactly:
-`metric | sub_sector | scale_tier | geo | low | point | high | period | primary_source_cite`
-so results drop straight into our database without re-keying. Conventions: `geo` = state code or `national`
-(per the fallback rule); `sub_sector` ∈ {Y,S,C,all}; `scale_tier` ∈ {<50,50-250,250+,all}; leave `point`
-blank if only a range exists; emit **one row per (metric × sub_sector × scale_tier × geo)** combination.
+## Evidence ledger (required output format — machine-readable)
+Return a flat table with **one row per (data point × source)** — *not* per synthesized range — reporting each
+figure **exactly as that source states it**. Columns:
+`metric | sub_sector | scale_tier | geo | value_as_stated | period | source_title | source_date | locator | quoted_passage | source_confidence`
+- **One row per source**: if five sources speak to revenue-per-bus, that's five rows — *we* aggregate into ranges.
+- `value_as_stated` = the figure verbatim in the source's own units/wording (do not convert or round).
+- `locator` = page / section / table / exhibit (or URL anchor) precise enough to re-find it.
+- `quoted_passage` = the exact sentence(s) the figure is drawn from.
+- `source_confidence` = your read of reliability (audited filing > survey > estimate) + one-line basis.
+- Conventions: `geo` = state code or `national`; `sub_sector` ∈ {Y,S,C,all}; `scale_tier` ∈ {<50,50-250,250+,all}.
+- If you want to offer your **own** synthesized view, put it in a **separate, clearly-labeled** section
+  ("BrightWave synthesized view — not authoritative"); never merge it into the ledger.

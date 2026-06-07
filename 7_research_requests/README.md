@@ -26,7 +26,11 @@ Data Axle source); the empty folder persists via `.gitkeep`. Briefs and `results
 | `02_contract_reimbursement_by_state/` | Independent revenue cross-check via contracts | per-state reimbursement structure, contract pricing/terms/escalators, **contracted-vs-total** district spend/pupil, driver→contract-penalty risk (FL,NY,PA,MO,GA,IN,UT) |
 | `03_synergies_precedent_valuation/` | Tuck-in value | **EV/bus (priority)**, EV/EBITDA & EV/Revenue precedents (incl. Mobico→I Squared sale), procurement curves, consolidation & overlap savings |
 
-Each brief ends with a **machine-readable summary table** (`metric \| sub_sector \| scale_tier \| geo \| low \| point \| high \| period \| primary_source_cite`) so returned results ingest into the DB as the overlay re-score without re-keying.
+**Division of labor:** BrightWave does **source discovery + faithful, verbatim extraction** (with locatable
+citations) — **we** synthesize the final view. So each brief ends with an **Evidence ledger** —
+**one row per (data point × source)**, each figure reported *as stated* (`metric \| sub_sector \| scale_tier \| geo
+\| value_as_stated \| period \| source_title \| source_date \| locator \| quoted_passage \| source_confidence`) — not a
+pre-synthesized range. We aggregate the ledger into ranges ourselves at ingest.
 
 **Design choice:** segmented by **theme** (not sub-sector) — each maps to one coherent source-set;
 sub-sector deltas (yellow / SPED / charter) are captured *within* each. Requester identity kept generic
