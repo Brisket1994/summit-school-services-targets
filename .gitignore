@@ -14,3 +14,9 @@
 .remember/
 
 # NOTE: 5_working/batch_outputs/ IS committed (~8MB) as raw enrichment provenance.
+
+# BrightWave raw source DOWNLOADS — keep local (may be large / paywalled), like the DB & Data Axle source.
+# Ignore the contents of every brief's sources/ folder, but keep the empty folder in git via .gitkeep.
+# (Briefs and BrightWave results/ stay committed.)
+7_research_requests/*/sources/*
+!7_research_requests/*/sources/.gitkeep

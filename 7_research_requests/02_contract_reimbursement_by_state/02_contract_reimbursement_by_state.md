@@ -52,6 +52,10 @@ Typical **term length**, renewal/extension rights, **retention / re-bid** norms,
 ### D. District spend (independent revenue cross-check)
 Transportation **expenditure per pupil / per enrolled rider** by state (and district range), to bound revenue
 from the districts a target serves.
+**Critical — isolate the contractor's slice:** many districts run a **hybrid in-house + contracted** model, so
+distinguish **contracted-out** transportation spend (paid to private operators) from **total** district
+transportation expenditure. Report **both**, plus the **contracted share %** where disclosed, so we bound the
+*contractor's* revenue — not the district's whole transportation budget.
 
 ### E. Driver workforce → contract risk (required)
 - Regional **driver wage scale** as embedded in/assumed by contracts; **turnover / retention** rates.
@@ -67,3 +71,10 @@ vehicle requirements — by state.
 ## Output format
 Per-state tables: `metric | definition | range | period | sub-sector | primary source (sentence-level cite)`.
 Flag clearly where only the **structure** (not dollar values) is publicly disclosed, and apply the national fallback otherwise.
+
+## Machine-readable summary (for ingest — include in addition to the narrative)
+End with a **flat table, one row per metric**, columns exactly:
+`metric | sub_sector | scale_tier | geo | low | point | high | period | primary_source_cite`
+so results drop straight into our database without re-keying. Conventions: `geo` = state code (FL/NY/PA/MO/GA/IN/UT)
+or `national` (per the fallback rule); `sub_sector` ∈ {Y,S,C,all}; `scale_tier` = `all` unless a metric is scale-specific;
+leave `point` blank if only a range exists; emit **one row per (metric × sub_sector × geo)** combination.

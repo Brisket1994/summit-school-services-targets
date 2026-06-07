@@ -24,6 +24,11 @@ buses → revenue → EBITDA, by sub-sector and operator scale, that **reconcile
 - Sub-sectors throughout: **(Y)** home-to-school yellow-bus, **(S)** special-needs/SPED, **(C)** charter/motorcoach.
 - We already hold verified FMCSA fleet counts; we do **not** want commodity revenue estimates (e.g., Data Axle).
 - Regional priority where state detail exists: **FL, NY, PA, MO, GA, IN, UT** (else `national`).
+- **RECENCY:** weight and flag the most recent **3–5 years**; explicitly note where **pre-2020** unit
+  economics may not reflect current driver-cost / wage structure — never present a pre-2020 figure as
+  applicable to a 2026 target without that caveat.
+- **SCALE FOCUS:** most of our targets are **<50 buses**. The filed calibration operators are all large
+  platforms, so press hardest on the **<50-bus tier**, where filings give the least coverage (see §C).
 
 ## Anchor sources to mine first (the only audited operator disclosures that exist)
 - **Student Transportation Inc. (STI/STA, ticker STB)** — SEC EDGAR 40-F/6-K, FY2008–2018 (NA pure-play).
@@ -55,6 +60,13 @@ revenue ÷ disclosed fleet count**, for **each fiscal year** both are disclosed.
 the exact source figures, the division shown, currency/FX basis, and citations. This is the **calibration /
 back-test set** our modeled ranges must reconcile against; flag where "fleet" definition differs (buses vs power units).
 
+**Scale caveat (critical):** this filed calibration set is **large-scale platforms only**, but most of our
+targets are **<50 buses**. Filings give the least coverage there — so **press hardest on the <50-bus tier**
+using expert-network transcripts, smaller-operator/owner interviews, trade & association sources, and posted
+small-district contracts; report explicitly **how small-operator unit economics diverge from the large-platform
+calibration**. **Recency:** within all of the above, weight the most recent **3–5 years** and flag that
+**pre-2020** figures may not reflect current driver-cost / wage structure.
+
 ### D. Cost structure — as % of revenue AND per-bus
 Fully-loaded driver labor; fuel (incl. typical **gallons/bus/year**); maintenance $/bus/yr; insurance
 (auto-liability + workers-comp, split); facilities/depot; G&A.
@@ -79,3 +91,10 @@ operating-lease cost per bus.
 
 ## Output format
 A metrics table: `metric | definition | range | period | geo (national/state) | sub-sector | scale tier | primary source (sentence-level cite)`, plus the calibration set in Section C shown as an explicit per-year, per-company computation.
+
+## Machine-readable summary (for ingest — include in addition to the narrative)
+End with a **flat table, one row per metric**, columns exactly:
+`metric | sub_sector | scale_tier | geo | low | point | high | period | primary_source_cite`
+so results drop straight into our database without re-keying. Conventions: `geo` = state code or `national`
+(per the fallback rule); `sub_sector` ∈ {Y,S,C,all}; `scale_tier` ∈ {<50,50-250,250+,all}; leave `point`
+blank if only a range exists; emit **one row per (metric × sub_sector × scale_tier × geo)** combination.

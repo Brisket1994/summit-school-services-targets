@@ -15,7 +15,7 @@ I Squared Capital). Built from Data Axle bulk exports → verified → web + FMC
 | `2_database/` | `summit_targets.db` — the single source of truth (all data, all tables) |
 | `4_pipeline/` | The 12 reproducible Python scripts (the "engine") |
 | `5_working/` | Re-run state: `inputs/` (JSON the scripts read) + `batch_outputs/` (archived per-batch recon, already merged into the DB) |
-| `7_research_requests/` | External-data briefs for BrightWave (3 self-contained requests) + their results when returned |
+| `7_research_requests/` | External-data briefs for BrightWave — one subfolder per request (`<brief>.md` + `results/` committed + `sources/` local/gitignored) |
 | `RESUME.md` | Full technical state + how-to-resume (for picking the project back up) |
 | `.remember/` | Session handoff notes |
 

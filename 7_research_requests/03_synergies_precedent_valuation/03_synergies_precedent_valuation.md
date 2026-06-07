@@ -27,7 +27,7 @@ highest-priority valuation cross-check.
 - **Deal disclosures (named public precedents):**
   - **Mobico Group's sale of its North American School Bus business to I Squared Capital** — RNS/circular:
     extract enterprise value, EV/EBITDA, EV/Revenue, **implied EV per bus**, and stated rationale. (Treat as a
-    named public precedent; the requester is unrelated.)
+    named public precedent; do not infer or name the requester's identity from this precedent.)
   - **Student Transportation Inc. take-private (2018)** — circular/proxy/Form 6-K.
   - **FirstGroup "Proposed Sale of First Student & First Transit"** documentation.
   - **Beacon Mobility / Audax** and other contractor tuck-ins (law-firm announcements e.g. Foley & Lardner; trade press STN / School Bus Fleet).
@@ -61,3 +61,10 @@ in-house-computed overlap per target.
 ## Output format
 A **precedents table** (`deal | date | size | EV/bus | EV/EBITDA | EV/Revenue | sub-sector | primary source`)
 with **EV/bus populated first**, plus a **synergy-bridge benchmark table** (`lever | basis | range | source`).
+
+## Machine-readable summary (for ingest — include in addition to the narrative)
+End with a **flat table, one row per metric** (each precedent multiple and each synergy lever), columns exactly:
+`metric | sub_sector | scale_tier | geo | low | point | high | period | primary_source_cite`
+so results drop straight into our database without re-keying. Conventions: for precedents use `metric` =
+`EV/bus` / `EV/EBITDA` / `EV/Revenue` and put the deal name in `primary_source_cite`; `geo` = `national` unless
+deal-specific; `scale_tier` ∈ {platform, tuck-in, all}; leave `point` blank if only a range exists.
