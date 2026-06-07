@@ -1,5 +1,7 @@
 # Summit School Services — M&A Target Screening
 
+**Cloud:** private GitHub repo `Brisket1994/summit-school-services-targets` (machine-readable backbone — scripts, composite exports, per-target packets, status tracker). The 507 MB DB and 433 MB source stay **local** (gitignored); they're the analytical engine + raw source.
+
 Identifies and ranks private, independent school-bus / special-needs operators as tuck-in
 acquisition targets for **Summit School Services** (ex-Durham/National Express, owned by
 I Squared Capital). Built from Data Axle bulk exports → verified → web + FMCSA enriched → scored.
@@ -34,6 +36,13 @@ The database in `2_database/` holds everything; scoring (`_w4_score.py`) is free
 and re-runnable. To apply the planned **market-data overlay** (deal multiples, contract/RFP timing,
 driver-labor, outsourcing trend, EV mandates, owner-age), drop the data in and re-run W4 with the
 overlay weights — a clean re-run, not a rebuild.
+
+## 🌙 Night-one runbook (overnight A-list research → outreach)
+1. `python3 4_pipeline/_next_batch.py 100` → next 100 un-researched A-list targets → `5_working/inputs/_night_batch.json`
+2. Kick off the research workflow (one agent per target, per `6_targets/RESEARCH_SPEC.md`) → writes `6_targets/<slug>/{overview.md, facts.json, outreach_draft.md}` and marks `researched=1` in `targets_status.csv`
+3. `git add -A && git commit && git push` → packets + status land in the cloud
+4. Review packets alongside the staged short emails; (from tomorrow) send via connected Outlook drafts
+Idempotent & resumable: only `researched=0` targets are picked, so a missed/half night just resumes. ~12 nights @100 to cover 1,126.
 
 ## 🗃️ Database tables (`summit_targets.db`)
 `companies` (291,561 establishments) · `entities` (13,129 consolidated operators, with `verdict`)
