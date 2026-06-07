@@ -1,0 +1,30 @@
+{"idx": 240, "name": "B G Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ transport company with website"}
+{"idx": 241, "name": "Mile High Ambulance LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance company, not school transport"}
+{"idx": 242, "name": "School Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department, .org school site"}
+{"idx": 243, "name": "Westfield WA Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation, k12 website"}
+{"idx": 244, "name": "Mid Placer Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Possibly private CA contractor, ambiguous name"}
+{"idx": 245, "name": "Dudoits Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus service Inc"}
+{"idx": 246, "name": "Lakeland Area Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc, NJ"}
+{"idx": 247, "name": "Los Angeles Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "LAUSD school district, public"}
+{"idx": 248, "name": "NEC", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely New England College, not transport"}
+{"idx": 249, "name": "Shamrock Group Inc Which Will", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private CA bus company, truncated name"}
+{"idx": 250, "name": "Old Mission School Bus Off", "verdict": "not_transport", "confidence": 0.85, "reason": "Old Mission School in-house, private school"}
+{"idx": 251, "name": "Dee Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private MA bus operator likely"}
+{"idx": 252, "name": "School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Nacogdoches ISD bus barn, district"}
+{"idx": 253, "name": "Mercy Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private FL special-needs transport"}
+{"idx": 254, "name": "Pro Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private FL special-needs transport"}
+{"idx": 255, "name": "Depew Public Schools-Bus Garag", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Depew public schools bus garage"}
+{"idx": 256, "name": "B-B Mtals Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Garbled name, unclear entity"}
+{"idx": 257, "name": "Rockford Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Rockford public schools transportation"}
+{"idx": 258, "name": "Hudsonville Public Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Hudsonville public schools, district"}
+{"idx": 259, "name": "Johnson School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private WI school bus"}
+{"idx": 260, "name": "SJ Enterprises Amer Bus Rsrcs", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private IL bus enterprise"}
+{"idx": 261, "name": "Fort Bend Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Fort Bend ISD transportation department"}
+{"idx": 262, "name": "Pape School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private WI school bus Inc"}
+{"idx": 263, "name": "Koch School Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private MN school bus"}
+{"idx": 264, "name": "Daniel/Liberty Bus Office", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Pickens County SC schools bus office"}
+{"idx": 265, "name": "Professional Bus Svc Mntnc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NY bus service Inc"}
+{"idx": 266, "name": "Advanced Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private DE school/special-needs transport"}
+{"idx": 267, "name": "Mcilwain School Bus Line", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private PA school bus line"}
+{"idx": 268, "name": "A Plus Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private NY school/special-needs transport"}
+{"idx": 269, "name": "Frank's School-Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private NY school transport"}

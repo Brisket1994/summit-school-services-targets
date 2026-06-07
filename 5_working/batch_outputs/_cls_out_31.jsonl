@@ -1,0 +1,30 @@
+{"idx": 930, "name": "Ballston Spa CSD Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "CSD transportation department"}
+{"idx": 931, "name": "Little Rock Sch Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "school district transportation"}
+{"idx": 932, "name": "CMR School Bus Co LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "private LLC school bus contractor"}
+{"idx": 933, "name": "Lake Orion Cmnty Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "community school district"}
+{"idx": 934, "name": "Woodburn Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "ambulance service, not student transport"}
+{"idx": 935, "name": "Bend Transportation", "verdict": "unsure", "confidence": 0.4, "reason": "generic name, no clear signal"}
+{"idx": 936, "name": "Academy Business Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Yonkers NY bus company, private Inc"}
+{"idx": 937, "name": "Fayetteville Transportation", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "fayar.net district website"}
+{"idx": 938, "name": "Cicero School Dist 99 Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "school district transportation"}
+{"idx": 939, "name": "C J's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "private NJ bus service Inc"}
+{"idx": 940, "name": "Splendora Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation"}
+{"idx": 941, "name": "Go Line", "verdict": "not_transport", "confidence": 0.85, "reason": "Indian River transit, public bus"}
+{"idx": 942, "name": "Jefferson County Pubc Sch-Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "county public schools"}
+{"idx": 943, "name": "Kinder Glide Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "private NJ Inc, likely school transport"}
+{"idx": 944, "name": "Ashland School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "district website k12.or.us"}
+{"idx": 945, "name": "Bangor Area Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "school district transportation"}
+{"idx": 946, "name": "Tarps", "verdict": "not_transport", "confidence": 0.85, "reason": "TARTA public transit Toledo"}
+{"idx": 947, "name": "Schools Tecumseh Public School", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "public school district"}
+{"idx": 948, "name": "Enumclaw School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "district website wednet.edu"}
+{"idx": 949, "name": "All Ways Medical Carrier", "verdict": "not_transport", "confidence": 0.85, "reason": "medical carrier not school transport"}
+{"idx": 950, "name": "Canton Isd", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD school district"}
+{"idx": 951, "name": "Raytown Schools Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "schools transportation department"}
+{"idx": 952, "name": "Falls City High School", "verdict": "not_transport", "confidence": 0.95, "reason": "actual high school"}
+{"idx": 953, "name": "Koala Kruizers", "verdict": "private_contractor", "confidence": 0.8, "reason": "private OH special needs transport"}
+{"idx": 954, "name": "Whitesboro Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "central school district"}
+{"idx": 955, "name": "Rio Rancho Public School-Rrps", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "public school district"}
+{"idx": 956, "name": "Temple Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation"}
+{"idx": 957, "name": "Washington Local Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "local schools transportation"}
+{"idx": 958, "name": "School Bus Sales Of CA Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "bus dealer/sales not operator"}
+{"idx": 959, "name": "Albert Lea Bus Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "private MN bus company Inc"}

@@ -1,0 +1,30 @@
+{"idx": 1320, "name": "Sweeny Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 1321, "name": "Goose Creek Cisd Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "CISD district transportation"}
+{"idx": 1322, "name": "Miami-Dade County Sch Vehicle", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district vehicle dept"}
+{"idx": 1323, "name": "Truck & Bus Compliance", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "NY state compliance/regulatory entity"}
+{"idx": 1324, "name": "Greene Central School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district bus garage"}
+{"idx": 1325, "name": "Marshall County Highway Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County highway government department"}
+{"idx": 1326, "name": "School Transportation Leasing", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private leasing company, IL"}
+{"idx": 1327, "name": "School Van Group Of Amer Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc school van operator"}
+{"idx": 1328, "name": "A W Shire Student TRNSPRTN", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name student transportation"}
+{"idx": 1329, "name": "Lake Country Industries", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company MN"}
+{"idx": 1330, "name": "Gsa Enterprises Subsidiary", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private subsidiary, special needs transport"}
+{"idx": 1331, "name": "Mt Blue Regl Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Regional school district transportation"}
+{"idx": 1332, "name": "Pearl Public Sch Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 1333, "name": "Brandywine Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc transportation, PA"}
+{"idx": 1334, "name": "Austin Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation"}
+{"idx": 1335, "name": "NBP Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc filing name, unclear"}
+{"idx": 1336, "name": "Silver Lining Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport CA"}
+{"idx": 1337, "name": "Northland Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company NY"}
+{"idx": 1338, "name": "Private School Bus Contract", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus contractor PA"}
+{"idx": 1339, "name": "School Board North Central Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Polk County school board, FL"}
+{"idx": 1340, "name": "Advanced Co Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic filing name, unclear"}
+{"idx": 1341, "name": "Itm-USA Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Korean IT-M tech company, not transport"}
+{"idx": 1342, "name": "Kutir Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.65, "reason": "Cupertino tech consulting, not transport"}
+{"idx": 1343, "name": "Moveon Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic filing name, unclear"}
+{"idx": 1344, "name": "Professional School Of Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Professional school of business, not transport"}
+{"idx": 1345, "name": "Sportsplus Inc Which Will Do", "verdict": "not_transport", "confidence": 0.6, "reason": "Sports-related entity, not transport"}
+{"idx": 1346, "name": "R E Wilson & Sons School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus operator MD"}
+{"idx": 1347, "name": "Faith 13 Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company NJ"}
+{"idx": 1348, "name": "America's Best Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport OH"}
+{"idx": 1349, "name": "Allen Co Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic filing name, unclear"}

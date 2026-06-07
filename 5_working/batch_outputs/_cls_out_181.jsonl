@@ -1,0 +1,30 @@
+{"idx": 5430, "name": "Sunny Rae's School Shuttle", "verdict": "private_contractor", "confidence": 0.85, "reason": "possessive name, school shuttle service"}
+{"idx": 5431, "name": "KCW Design Group LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "design group, not transport"}
+{"idx": 5432, "name": "Auto Rental", "verdict": "unsure", "confidence": 0.4, "reason": "generic name, possibly rental not transport"}
+{"idx": 5433, "name": "Concord Transportation Ctr", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Concord Schools district transportation dept"}
+{"idx": 5434, "name": "Harper Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 5435, "name": "Amphitheater Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Amphi school district transportation"}
+{"idx": 5436, "name": "Medi-Redi Med TRANSPORT LLC", "verdict": "not_transport", "confidence": 0.75, "reason": "medical transport, not student"}
+{"idx": 5437, "name": "Rapid Wheelchair Transport", "verdict": "not_transport", "confidence": 0.7, "reason": "wheelchair medical transport"}
+{"idx": 5438, "name": "Gold Cross Transportation", "verdict": "not_transport", "confidence": 0.7, "reason": "ambulance/medical transport company"}
+{"idx": 5439, "name": "Boyd Transport Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "private transport Inc, possibly special-needs"}
+{"idx": 5440, "name": "Pegasus Lifts", "verdict": "not_transport", "confidence": 0.6, "reason": "wheelchair lifts, not student transport"}
+{"idx": 5441, "name": "South Bay Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "limousine service, not school"}
+{"idx": 5442, "name": "Above Medical Transportation", "verdict": "not_transport", "confidence": 0.9, "reason": "medical transport, not student"}
+{"idx": 5443, "name": "A Ride", "verdict": "unsure", "confidence": 0.35, "reason": "generic name, unclear service type"}
+{"idx": 5444, "name": "Curb To Curb Wheelchair", "verdict": "not_transport", "confidence": 0.8, "reason": "wheelchair medical transport"}
+{"idx": 5445, "name": "Pegasus School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "private school transportation Inc"}
+{"idx": 5446, "name": "Red Wing Mobility", "verdict": "not_transport", "confidence": 0.75, "reason": "mobility/medical, not student transport"}
+{"idx": 5447, "name": "Z Limo Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "limo service, not school"}
+{"idx": 5448, "name": "Vicar", "verdict": "unsure", "confidence": 0.3, "reason": "unclear name, no info"}
+{"idx": 5449, "name": "Alvarado Parkway Inst Bus Ofc", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "institute bus office, in-house transport"}
+{"idx": 5450, "name": "N County Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "North County student transportation operator"}
+{"idx": 5451, "name": "P S Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "limousine service, not school"}
+{"idx": 5452, "name": "San Diego Bus Drivers Union", "verdict": "not_transport", "confidence": 0.95, "reason": "labor union, not operator"}
+{"idx": 5453, "name": "San Diego School Bus Co LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "private school bus company LLC"}
+{"idx": 5454, "name": "Elite Transportation Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "private Inc, possibly special-needs transport"}
+{"idx": 5455, "name": "Wiseco Transport Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "private transport Inc, possibly special-needs"}
+{"idx": 5456, "name": "Assistance Travel & Transport", "verdict": "not_transport", "confidence": 0.7, "reason": "travel/medical assistance, not student"}
+{"idx": 5457, "name": "W W Elite Transportation", "verdict": "private_contractor", "confidence": 0.5, "reason": "private transport, possibly special-needs"}
+{"idx": 5458, "name": "Wheels To Go", "verdict": "not_transport", "confidence": 0.6, "reason": "medical mobility, not student transport"}
+{"idx": 5459, "name": "Buna Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "private LLC, possibly special-needs transport"}

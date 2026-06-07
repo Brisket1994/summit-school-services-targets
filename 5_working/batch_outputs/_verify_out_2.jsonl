@@ -1,0 +1,25 @@
+{"idx": 50, "name": "Transportation Services", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Polk County FL schools transportation dept"}
+{"idx": 51, "name": "Consolidated Bus Transit", "verdict": "private_contractor", "confidence": 0.95, "reason": "Known private NYC school bus operator"}
+{"idx": 52, "name": "Barker Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private NJ bus company"}
+{"idx": 53, "name": "Logan Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Major private NYC school bus contractor"}
+{"idx": 54, "name": "Belair Transport Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ transport corporation"}
+{"idx": 55, "name": "Vocell Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private MA bus company"}
+{"idx": 56, "name": "Huntington Coach Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NY school bus and coach operator"}
+{"idx": 57, "name": "Lucini Bus Lines", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private MA bus operator"}
+{"idx": 58, "name": "Total Transportation Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NYC school bus contractor"}
+{"idx": 59, "name": "Pickens County Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Pickens County AL school district transportation"}
+{"idx": 60, "name": "Cyr Bus Line", "verdict": "private_contractor", "confidence": 0.95, "reason": "John T Cyr private ME bus operator"}
+{"idx": 61, "name": "Canyon State Bus Sales Inc", "verdict": "not_transport", "confidence": 0.75, "reason": "Bus dealer/sales not operator"}
+{"idx": 62, "name": "B G Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NJ school transport company"}
+{"idx": 63, "name": "Laurel Automotive", "verdict": "unsure", "confidence": 0.4, "reason": "Automotive name unclear if operator"}
+{"idx": 64, "name": "Southwest Transportation Agcy", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "JPA joint powers authority public entity"}
+{"idx": 65, "name": "Jefferson Co Public Transport", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Jefferson County CO public schools transport"}
+{"idx": 66, "name": "Carrier Coach Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NY coach and school bus operator"}
+{"idx": 67, "name": "Royal Coach Lines", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NY coach line operator"}
+{"idx": 68, "name": "Jefferson County Pubc Sch-Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Jefferson County CO public schools bus dept"}
+{"idx": 69, "name": "F & S Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private PA school transport company"}
+{"idx": 70, "name": "Superior Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MI school bus service"}
+{"idx": 71, "name": "American School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Cook-Illinois private IL bus operator"}
+{"idx": 72, "name": "Centralia Pupil Trnsprtn Co-Op", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district transportation cooperative"}
+{"idx": 73, "name": "Lizak Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private MA bus company"}
+{"idx": 74, "name": "B R Williams Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ school bus company"}

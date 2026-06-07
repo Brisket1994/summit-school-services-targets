@@ -1,0 +1,30 @@
+{"idx": 6390, "name": "Lake Crystal Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus service Inc"}
+{"idx": 6391, "name": "Aleksander Cohen-Harris Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Personal-name bus operator"}
+{"idx": 6392, "name": "On Time Medi Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely medical transport, possibly special-needs"}
+{"idx": 6393, "name": "Hill's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name bus service Inc"}
+{"idx": 6394, "name": "Office Minority Women Bus Entp", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "State government MWBE office, not transport"}
+{"idx": 6395, "name": "Marshall School District Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 6396, "name": "Durrin Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc, likely bus contractor"}
+{"idx": 6397, "name": "Tavin Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs contracts"}
+{"idx": 6398, "name": "Ciufo Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name bus service Inc"}
+{"idx": 6399, "name": "Harford County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6400, "name": "Independent Living", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability services nonprofit, not transport"}
+{"idx": 6401, "name": "Care Van Svc Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private van service, special-needs flagged"}
+{"idx": 6402, "name": "Day Night Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs"}
+{"idx": 6403, "name": "W P V L A M & F M Rdo Bus Line", "verdict": "not_transport", "confidence": 0.85, "reason": "Radio station WPVL/WFM, not bus"}
+{"idx": 6404, "name": "Taylor County Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools bus garage, in-house"}
+{"idx": 6405, "name": "Limo Time West Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo Inc, possible special-needs"}
+{"idx": 6406, "name": "Mac KALL School Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus LLC"}
+{"idx": 6407, "name": "All Points Sedans", "verdict": "private_contractor", "confidence": 0.55, "reason": "Sedan service, possible special-needs"}
+{"idx": 6408, "name": "Gateway Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation Inc, school flagged"}
+{"idx": 6409, "name": "Impact Logistics Div LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Logistics division, ambiguous transport role"}
+{"idx": 6410, "name": "Miller Enterprises LLC", "verdict": "unsure", "confidence": 0.45, "reason": "Generic enterprises name, unclear"}
+{"idx": 6411, "name": "A Ride In Style Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs"}
+{"idx": 6412, "name": "Galaxy Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs"}
+{"idx": 6413, "name": "Milvia School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation operator"}
+{"idx": 6414, "name": "ASAP Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, possible special-needs"}
+{"idx": 6415, "name": "On-Call Medical Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, possible special-needs"}
+{"idx": 6416, "name": "Andrew S Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs"}
+{"idx": 6417, "name": "BJ Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 6418, "name": "C & L Limo & Sedan Svc LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo/sedan LLC, possible special-needs"}
+{"idx": 6419, "name": "Exquisite School Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus service LLC"}

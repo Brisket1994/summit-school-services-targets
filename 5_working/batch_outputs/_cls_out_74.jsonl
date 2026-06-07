@@ -1,0 +1,30 @@
+{"idx": 2220, "name": "South Vermillion Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "K12.in.us website indicates district transport dept"}
+{"idx": 2221, "name": "Rose Hill Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public schools transportation department"}
+{"idx": 2222, "name": "Fleming Transportation Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corp suffix, own website, private operator"}
+{"idx": 2223, "name": "Catawba County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transport dept"}
+{"idx": 2224, "name": "Gallup Mckinley County Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district"}
+{"idx": 2225, "name": "Bobbys Bus Svc", "verdict": "unsure", "confidence": 0.5, "reason": "Possessive name but tax website mismatch"}
+{"idx": 2226, "name": "Cogni Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.9, "reason": "Cogni is fintech/edtech, not transport"}
+{"idx": 2227, "name": "Carrollton Exempted", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Carrollton Exempted Village School District"}
+{"idx": 2228, "name": "Transportation Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Franklin City Schools bus garage"}
+{"idx": 2229, "name": "Duncan Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2230, "name": "Jake G Schneider Bus Contr LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family name, LLC, bus contractor"}
+{"idx": 2231, "name": "STS Motorcoaches", "verdict": "private_contractor", "confidence": 0.85, "reason": "Motorcoach operator, own website"}
+{"idx": 2232, "name": "Royal Street Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Bus garage, Alexandria likely district facility"}
+{"idx": 2233, "name": "Schools-Public Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Carbon County school district transport"}
+{"idx": 2234, "name": "Tavares Bus Lot", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Lake County Schools bus lot"}
+{"idx": 2235, "name": "Grisim School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name school bus operator"}
+{"idx": 2236, "name": "Sheridan Japanese Charter Sch", "verdict": "not_transport", "confidence": 0.95, "reason": "Charter school, not transport company"}
+{"idx": 2237, "name": "American Chair Car Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC, special needs transport service"}
+{"idx": 2238, "name": "Southwinds School Activity Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school activity bus service"}
+{"idx": 2239, "name": "Johnsburg High School Bus Bay", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "High school bus bay, district facility"}
+{"idx": 2240, "name": "Sandusky City Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City schools bus garage"}
+{"idx": 2241, "name": "Vermilion Local Schl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Local school district transport dept"}
+{"idx": 2242, "name": "N Riverdale Merchant & Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Merchant & bus association unclear"}
+{"idx": 2243, "name": "Calvert County Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus facility"}
+{"idx": 2244, "name": "Fowler Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family name, Inc, bus service"}
+{"idx": 2245, "name": "Jefferson's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive family name, Inc"}
+{"idx": 2246, "name": "Polk School Board Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School board bus garage"}
+{"idx": 2247, "name": "Oregon Inter-City Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inter-city bus company"}
+{"idx": 2248, "name": "Harold's School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive name, LLC, school bus"}
+{"idx": 2249, "name": "Marilys School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive name, own website, school bus"}

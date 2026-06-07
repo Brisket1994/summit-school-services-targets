@@ -1,0 +1,30 @@
+{"idx": 780, "name": "Beach Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MT transportation company with website"}
+{"idx": 781, "name": "Georgia North Bus PDTS Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc suffix, private bus company"}
+{"idx": 782, "name": "Nasai Tryaki Overlake Bus Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear entity type"}
+{"idx": 783, "name": "B & F Skilled Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc, Brooklyn school bus operator"}
+{"idx": 784, "name": "HHH School Dist Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 785, "name": "Mcas Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Michigan City Area Schools district dept"}
+{"idx": 786, "name": "Expressway Truck & Bus Parts", "verdict": "not_transport", "confidence": 0.85, "reason": "Parts supplier, not transport operator"}
+{"idx": 787, "name": "Bethlehem Area School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 788, "name": "Hartnett Transit Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name, private transit service"}
+{"idx": 789, "name": "St Francis Regional Bus Office", "verdict": "unsure", "confidence": 0.4, "reason": "Could be Catholic school or regional office"}
+{"idx": 790, "name": "Comtrans", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private AZ special-needs transport company"}
+{"idx": 791, "name": "Clover Park Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 792, "name": "Moore Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools transportation department"}
+{"idx": 793, "name": "Liberty Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 794, "name": "Carmel Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district"}
+{"idx": 795, "name": "Mobile Martin EMS", "verdict": "not_transport", "confidence": 0.8, "reason": "EMS ambulance service, not school transport"}
+{"idx": 796, "name": "East Grand Forks Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 797, "name": "Hicksville Bus Lot LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC, private bus lot operator"}
+{"idx": 798, "name": "Abington School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 799, "name": "Crosby Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district"}
+{"idx": 800, "name": "LA Porte Isd Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 801, "name": "E Class Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc, private NY transportation company"}
+{"idx": 802, "name": "Alpha Home Health", "verdict": "not_transport", "confidence": 0.85, "reason": "Home health agency, not transport"}
+{"idx": 803, "name": "Gloucester Transportation Bldg", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County schools transportation building"}
+{"idx": 804, "name": "Forest Lake Area Cmnty Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community schools district"}
+{"idx": 805, "name": "Bus Bus & Limoz Limoz", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Houston bus/limo operator"}
+{"idx": 806, "name": "Jisd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Judson ISD transportation department"}
+{"idx": 807, "name": "Medride Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private OK special-needs medical transport"}
+{"idx": 808, "name": "City-Hammond Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation"}
+{"idx": 809, "name": "Carrier Management Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Corp, PA private carrier management"}

@@ -1,0 +1,30 @@
+{"idx": 5760, "name": "Warren Express Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine svc, possible special-needs transport"}
+{"idx": 5761, "name": "S & T Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation company"}
+{"idx": 5762, "name": "Vw Bus LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus LLC, school flagged"}
+{"idx": 5763, "name": "Continental Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, weak school transport tie"}
+{"idx": 5764, "name": "E-Z Way Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, weak school tie"}
+{"idx": 5765, "name": "Poyas Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, weak school tie"}
+{"idx": 5766, "name": "Ride In Style LTD", "verdict": "private_contractor", "confidence": 0.5, "reason": "Likely limo, weak school transport tie"}
+{"idx": 5767, "name": "Rise To Shine Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation, special-needs tagged"}
+{"idx": 5768, "name": "Top Entertainment Limosne Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Entertainment limo, unlikely school operator"}
+{"idx": 5769, "name": "Topaz Limousine LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine LLC, weak school tie"}
+{"idx": 5770, "name": "Western Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, weak school tie"}
+{"idx": 5771, "name": "Coachmaster Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation, school flagged"}
+{"idx": 5772, "name": "Johnson City Transportation", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "Website jcschools.com suggests district in-house"}
+{"idx": 5773, "name": "Matos Transportation-Mobility", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs mobility transportation"}
+{"idx": 5774, "name": "24/7 Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, weak school tie"}
+{"idx": 5775, "name": "ABC Emergency Medical Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Emergency medical service, not school transport"}
+{"idx": 5776, "name": "Bachelors III Entertainment", "verdict": "not_transport", "confidence": 0.75, "reason": "Entertainment company, not school transport"}
+{"idx": 5777, "name": "Brown Joyce", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear business"}
+{"idx": 5778, "name": "Covenant Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, weak school tie"}
+{"idx": 5779, "name": "Dons Limousines Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine company, weak school tie"}
+{"idx": 5780, "name": "Fendley Jr Carl E", "verdict": "unsure", "confidence": 0.35, "reason": "Personal name, unclear business"}
+{"idx": 5781, "name": "Fers Transportation & Limo Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation/limo service"}
+{"idx": 5782, "name": "Fine Towncar & Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Towncar/limo, weak school transport tie"}
+{"idx": 5783, "name": "First Impressions Limosne Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, weak school tie"}
+{"idx": 5784, "name": "Get N Go Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, weak school tie"}
+{"idx": 5785, "name": "J M K C School Rides Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "School rides service, private operator"}
+{"idx": 5786, "name": "Mosleys Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, weak school tie"}
+{"idx": 5787, "name": "Navigation Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, weak school tie"}
+{"idx": 5788, "name": "New Era Valet Inc", "verdict": "not_transport", "confidence": 0.75, "reason": "Valet service, not school transport"}
+{"idx": 5789, "name": "Night Rider Limousine & Town", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/towncar, weak school tie"}

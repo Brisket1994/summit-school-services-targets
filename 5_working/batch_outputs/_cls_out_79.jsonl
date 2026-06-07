@@ -1,0 +1,30 @@
+{"idx": 2370, "name": "Mansfield Independent School", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD district (isd.org)"}
+{"idx": 2371, "name": "Jefferson Co Pubc Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 2372, "name": "Athens City Sch Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City school district bus garage"}
+{"idx": 2373, "name": "Bricks-Mortar Corp Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated/unclear name"}
+{"idx": 2374, "name": "Hudson Valley Christian Acad", "verdict": "not_transport", "confidence": 0.95, "reason": "Christian academy school"}
+{"idx": 2375, "name": "Yukon School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus shop (yukonps.com)"}
+{"idx": 2376, "name": "Clinton County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school bus garage"}
+{"idx": 2377, "name": "Cutler-Orosi Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 2378, "name": "Rayco School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation Inc"}
+{"idx": 2379, "name": "Kabata Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation Inc"}
+{"idx": 2380, "name": "Warren Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus lines Inc"}
+{"idx": 2381, "name": "School Bus Training Team Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Training service, not operator"}
+{"idx": 2382, "name": "West Branch Dist Ofc Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District office transportation"}
+{"idx": 2383, "name": "Regal Classic Limousines", "verdict": "private_contractor", "confidence": 0.75, "reason": "Limo service, special needs flag"}
+{"idx": 2384, "name": "Novi Community Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community schools transportation"}
+{"idx": 2385, "name": "Eastern Iowa Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Dev Center (eicc.edu)"}
+{"idx": 2386, "name": "Whitehall City School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City school transportation"}
+{"idx": 2387, "name": "North Main Street Bus", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Niagara Falls city hall address"}
+{"idx": 2388, "name": "School Bus Shelters Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Shelter manufacturer, not operator"}
+{"idx": 2389, "name": "Time Line Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company"}
+{"idx": 2390, "name": "United School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus Inc"}
+{"idx": 2391, "name": "Devine Isd Facilities-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD facilities transportation"}
+{"idx": 2392, "name": "All City Corporate TRNSP", "verdict": "private_contractor", "confidence": 0.7, "reason": "Corporate transport company"}
+{"idx": 2393, "name": "Seneca Central Sch-Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school bus garage"}
+{"idx": 2394, "name": "Bluff Country Bus-Plainview", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus company, likely private operator"}
+{"idx": 2395, "name": "Massillon City SCHLS Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City schools transportation"}
+{"idx": 2396, "name": "R & R Big Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name bus operator"}
+{"idx": 2397, "name": "Gaming School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus LLC"}
+{"idx": 2398, "name": "Yukon Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public schools transportation"}
+{"idx": 2399, "name": "Lakewood School Syst Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School system transportation"}

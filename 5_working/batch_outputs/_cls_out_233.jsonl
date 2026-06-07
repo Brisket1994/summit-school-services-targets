@@ -1,0 +1,30 @@
+{"idx": 6990, "name": "Warrick County School Corp", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school corporation"}
+{"idx": 6991, "name": "Cowley County Council On Aging", "verdict": "not_transport", "confidence": 0.92, "reason": "Senior services nonprofit, not school transport"}
+{"idx": 6992, "name": "Emporia Unified School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 6993, "name": "Fort Larned Unifid School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 6994, "name": "Unified School Dist 470", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 6995, "name": "Allen County Sch Bus Compound", "verdict": "public_or_inhouse", "confidence": 0.96, "reason": "County school district bus compound"}
+{"idx": 6996, "name": "Boone County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.96, "reason": "County school district transportation department"}
+{"idx": 6997, "name": "Muhlenberg School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District-owned school bus garage"}
+{"idx": 6998, "name": "Morehouse Parish School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public parish school district"}
+{"idx": 6999, "name": "New Orleans Taxi School", "verdict": "not_transport", "confidence": 0.9, "reason": "Driver training school, not transport operator"}
+{"idx": 7000, "name": "Beverly Public Schools Transpo", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 7001, "name": "Fall River School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.96, "reason": "Public school district transportation"}
+{"idx": 7002, "name": "J & J Driving School", "verdict": "not_transport", "confidence": 0.93, "reason": "Driving school, not transport operator"}
+{"idx": 7003, "name": "Suprins Driving School", "verdict": "not_transport", "confidence": 0.93, "reason": "Driving school, not transport operator"}
+{"idx": 7004, "name": "Amazon Driving School", "verdict": "not_transport", "confidence": 0.93, "reason": "Driving school, not transport operator"}
+{"idx": 7005, "name": "Region School Unit 21", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Regional public school unit"}
+{"idx": 7006, "name": "Chelsea School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7007, "name": "Howell Public Schools Oper Ofc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district operations"}
+{"idx": 7008, "name": "Jackson Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7009, "name": "Lamphere School District Mntnc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district maintenance"}
+{"idx": 7010, "name": "West Bloomfield Parks-Rec", "verdict": "public_or_inhouse", "confidence": 0.93, "reason": "Municipal parks and recreation department"}
+{"idx": 7011, "name": "Duluth School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7012, "name": "Eden Prairie Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 7013, "name": "Four Point O School Svc", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous name, possibly private school service"}
+{"idx": 7014, "name": "GFW School Dist-Trnsprtn Ofc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation office"}
+{"idx": 7015, "name": "Indp School District 196", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent public school district"}
+{"idx": 7016, "name": "Kingsschool District 2137", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district"}
+{"idx": 7017, "name": "Salden School Bus Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named private school bus service"}
+{"idx": 7018, "name": "Mcdonald County R1 School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public county school district"}
+{"idx": 7019, "name": "Pattonville School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}

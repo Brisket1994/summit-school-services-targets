@@ -1,0 +1,25 @@
+{"idx": 225, "name": "Stratford Student Bus Svc", "verdict": "unsure", "confidence": 0.5, "reason": "Durham website suggests subsidiary of large operator"}
+{"idx": 226, "name": "Interntonal SCHL Bus Svc Isbs", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus service name, Globayo is logistics platform"}
+{"idx": 227, "name": "Illinois Bus & Van Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Best Bus Sales website indicates dealer, not operator"}
+{"idx": 228, "name": "Illinois School Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Named bus company, likely private contractor"}
+{"idx": 229, "name": "Missouri Central Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Named bus company, likely private operator"}
+{"idx": 230, "name": "Dairyland Hamilton Inc", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Hamilton K12 WI district website, in-house"}
+{"idx": 231, "name": "Vision Of Buffalo", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "BHM schools website, district transportation"}
+{"idx": 232, "name": "Detroit Country Day School", "verdict": "not_transport", "confidence": 0.98, "reason": "Private school, not transportation operator"}
+{"idx": 233, "name": "Columbia Bus Resources LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC with bus in name, private operator"}
+{"idx": 234, "name": "Papillion-LA Vista Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "PLC Schools district transportation department"}
+{"idx": 235, "name": "Bay Area Bus Repair Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Bus repair shop, not transportation operator"}
+{"idx": 236, "name": "Anthony Wayne Local Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Local school district, not acquirable"}
+{"idx": 237, "name": "Indiana Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.98, "reason": "Small Business Development Center, not transport"}
+{"idx": 238, "name": "Battle Creek Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools transportation department"}
+{"idx": 239, "name": "Liberty Healthcare Corp", "verdict": "not_transport", "confidence": 0.95, "reason": "Healthcare company, not transportation"}
+{"idx": 240, "name": "Turkish American Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "TABC-US.org likely cultural organization"}
+{"idx": 241, "name": "Salter's Express Co Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Express company but website is chamber of commerce"}
+{"idx": 242, "name": "Winkle Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named bus company with own website"}
+{"idx": 243, "name": "Las Cruces Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools transportation department"}
+{"idx": 244, "name": "Tri Star Transport", "verdict": "private_contractor", "confidence": 0.9, "reason": "Named transport company with own website"}
+{"idx": 245, "name": "Metro Omaha WNS Bus Ctr-Mwbc", "verdict": "not_transport", "confidence": 0.85, "reason": "Women's Business Center, not transport operator"}
+{"idx": 246, "name": "Alliance Home Health Inc Which", "verdict": "not_transport", "confidence": 0.95, "reason": "Home health care, not transportation"}
+{"idx": 247, "name": "A School Ride LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school ride service, private operator"}
+{"idx": 248, "name": "Honeoye Falls-Lima Transporta", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "HFL CSD district transportation department"}
+{"idx": 249, "name": "Stratford High Bus Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Berkeley County School District bus office"}

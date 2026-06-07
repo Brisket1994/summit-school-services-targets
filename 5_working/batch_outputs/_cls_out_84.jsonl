@@ -1,0 +1,30 @@
+{"idx": 2520, "name": "Bus Station-Boulderxfer", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "RTD Denver public transit station"}
+{"idx": 2521, "name": "Douglas County SD Re-1", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2522, "name": "Schools-Public-Dist Re 8", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2523, "name": "Tony 's School Van", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-named small school van operator"}
+{"idx": 2524, "name": "Bibb County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation"}
+{"idx": 2525, "name": "Richmond Community Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus dept"}
+{"idx": 2526, "name": "South Spencer Co Sch Corp", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school corporation district"}
+{"idx": 2527, "name": "Ultra Guard Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name, no website"}
+{"idx": 2528, "name": "Newton USD 373 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD public school district"}
+{"idx": 2529, "name": "Winfield USD 465 Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD public school district"}
+{"idx": 2530, "name": "Schmitz Bus Line", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus line"}
+{"idx": 2531, "name": "School Bus W/Flames Projecting", "verdict": "unsure", "confidence": 0.3, "reason": "Nonsensical name, likely data artifact"}
+{"idx": 2532, "name": "Z Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation company name"}
+{"idx": 2533, "name": "Jackson County Sm Bus Incbtr", "verdict": "not_transport", "confidence": 0.9, "reason": "Small business incubator, not transport"}
+{"idx": 2534, "name": "Agri-Systems Which Will Do Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Agri-Systems construction, not transport"}
+{"idx": 2535, "name": "Jamestown Public Sch Bus Svc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus service"}
+{"idx": 2536, "name": "Autonomous Inc Which Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated name, unclear business"}
+{"idx": 2537, "name": "Esm School Bus Driver", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "ESM school district driver listing"}
+{"idx": 2538, "name": "K & K Bus Ny INC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Incorporated NY private bus operator"}
+{"idx": 2539, "name": "NYC School Bus Umbrella Svc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "NYC DOE nonprofit umbrella service"}
+{"idx": 2540, "name": "Ratp Dev USA LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "RATP Dev strategic, foreign-owned non-independent"}
+{"idx": 2541, "name": "Sweetlime Inc Which Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated name, unclear business"}
+{"idx": 2542, "name": "Synergy Associates Inc Which", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated name, unclear business"}
+{"idx": 2543, "name": "Tateh Productions Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Productions company, likely not transport"}
+{"idx": 2544, "name": "Lima City Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation"}
+{"idx": 2545, "name": "Tipp City Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house bus garage"}
+{"idx": 2546, "name": "Leon County Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation department"}
+{"idx": 2547, "name": "Watson", "verdict": "not_transport", "confidence": 0.8, "reason": "Watson Inc, ingredients manufacturer"}
+{"idx": 2548, "name": "Sheyenne Transport LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC transport operator"}
+{"idx": 2549, "name": "Lone Star College Trnsprtn", "verdict": "not_transport", "confidence": 0.7, "reason": "College, law firm website mismatch"}

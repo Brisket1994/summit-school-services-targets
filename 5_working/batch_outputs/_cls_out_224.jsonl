@@ -1,0 +1,30 @@
+{"idx": 6720, "name": "Lola's School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school bus operator"}
+{"idx": 6721, "name": "Davis North Truck & Bus Ctr", "verdict": "not_transport", "confidence": 0.75, "reason": "Truck/bus center, likely dealer/service"}
+{"idx": 6722, "name": "Metro Alarm Systems Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Alarm systems company, not transport"}
+{"idx": 6723, "name": "Bentworth Area School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 6724, "name": "Calvary Christian Preschool", "verdict": "not_transport", "confidence": 0.98, "reason": "Preschool, not transport operator"}
+{"idx": 6725, "name": "Urbanosh Event Planners Austin", "verdict": "not_transport", "confidence": 0.9, "reason": "Event planners, not transport"}
+{"idx": 6726, "name": "Kid's Choice", "verdict": "not_transport", "confidence": 0.9, "reason": "Daycare per website"}
+{"idx": 6727, "name": "Douoglass Bus Lot", "verdict": "unsure", "confidence": 0.4, "reason": "Bus lot, ambiguous public/private"}
+{"idx": 6728, "name": "613 School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc school bus contractor"}
+{"idx": 6729, "name": "Boutte, Cynthia", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear entity"}
+{"idx": 6730, "name": "Surry County Pubc Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County public school bus garage"}
+{"idx": 6731, "name": "Dream On Foundation Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Foundation, not transport operator"}
+{"idx": 6732, "name": "Yarmouth School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage"}
+{"idx": 6733, "name": "Fabiana Safety Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company"}
+{"idx": 6734, "name": "H & C Bus Line Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc bus line operator"}
+{"idx": 6735, "name": "Jo-Lo Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus Co, possibly Logan Bus affiliate"}
+{"idx": 6736, "name": "School Bus Safety City Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Possibly training facility, not operator"}
+{"idx": 6737, "name": "STP Trasnportatio", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation company, likely private"}
+{"idx": 6738, "name": "Citi Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special needs"}
+{"idx": 6739, "name": "Solas School Bus Instruction", "verdict": "not_transport", "confidence": 0.7, "reason": "Bus instruction/training, not operator"}
+{"idx": 6740, "name": "School Board-Volusia County", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school board, public"}
+{"idx": 6741, "name": "LCP Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC transportation company"}
+{"idx": 6742, "name": "Dufour Training-Safety Crdntr", "verdict": "unsure", "confidence": 0.5, "reason": "Training/safety coordinator, unclear"}
+{"idx": 6743, "name": "Dyson Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Inc bus service, private"}
+{"idx": 6744, "name": "Hafermann Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named bus company"}
+{"idx": 6745, "name": "Wheelchair Service-Black Hills", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport, special needs"}
+{"idx": 6746, "name": "Courtesy Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Wheelchair transport service"}
+{"idx": 6747, "name": "Accessible Medivan Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical van transport, special needs"}
+{"idx": 6748, "name": "Angel Lift Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc lift/transport for special needs"}
+{"idx": 6749, "name": "Bryant's Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named transportation service"}

@@ -1,0 +1,30 @@
+{"idx": 6210, "name": "Susans Express Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private express; tiny operator"}
+{"idx": 6211, "name": "Todd Transit Care", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transit care; small"}
+{"idx": 6212, "name": "Twenty Four Hour Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; likely not school"}
+{"idx": 6213, "name": "VIP Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; small"}
+{"idx": 6214, "name": "Way", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous one-word name"}
+{"idx": 6215, "name": "Xman Express LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC express"}
+{"idx": 6216, "name": "Anthonys Limousine & Arprt Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/airport service"}
+{"idx": 6217, "name": "Celebrity Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport; small private"}
+{"idx": 6218, "name": "D K Brown Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-named Inc operator"}
+{"idx": 6219, "name": "Et Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; small private"}
+{"idx": 6220, "name": "MLNM Limo & Tansprot", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo & transport; small"}
+{"idx": 6221, "name": "Rodeo Drive Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company; unlikely school"}
+{"idx": 6222, "name": "Akin To Plez Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; small"}
+{"idx": 6223, "name": "Winslow's Inc Which Will Do Bs", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-named Inc; school flagged"}
+{"idx": 6224, "name": "Coquille School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house; k12.or.us website"}
+{"idx": 6225, "name": "Groesbeck Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 6226, "name": "Aero Airport Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Airport service; not school"}
+{"idx": 6227, "name": "Cspta", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely school transportation assoc/PTA"}
+{"idx": 6228, "name": "Bike Taxi Of The Palm Beaches", "verdict": "not_transport", "confidence": 0.7, "reason": "Bike taxi; not school transport"}
+{"idx": 6229, "name": "Comfort Coach South Florida", "verdict": "private_contractor", "confidence": 0.6, "reason": "Coach service; small private"}
+{"idx": 6230, "name": "Empireluxurycarservicecom", "verdict": "private_contractor", "confidence": 0.4, "reason": "Luxury car service; not school"}
+{"idx": 6231, "name": "Rother Del Impress Limo Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service; small"}
+{"idx": 6232, "name": "Royce Rolls Only", "verdict": "private_contractor", "confidence": 0.35, "reason": "Likely luxury car rental; not school"}
+{"idx": 6233, "name": "Shirleys Limo Connection", "verdict": "private_contractor", "confidence": 0.5, "reason": "Family-named limo service"}
+{"idx": 6234, "name": "Z Taxi & Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Taxi/limo service"}
+{"idx": 6235, "name": "Ants", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name; no address"}
+{"idx": 6236, "name": "Custom Rides", "verdict": "private_contractor", "confidence": 0.45, "reason": "Generic rides service"}
+{"idx": 6237, "name": "Lords & Ladies Limousine", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company"}
+{"idx": 6238, "name": "Metro Link Car & Limousine", "verdict": "private_contractor", "confidence": 0.45, "reason": "Car/limo service"}
+{"idx": 6239, "name": "Ambassador Limo Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service; small"}

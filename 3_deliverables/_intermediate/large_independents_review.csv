@@ -1,0 +1,7 @@
+score,canonical_name,primary_state,locations,employees,revenue_est,year_established,school,special_needs,website,rationale
+81.2,Lakeside Transportation,IL,20,2301,2281000,1957,1,0,Cookillinois.Com,2301 emp; $2.3M rev; est 1957 (69y); large(15-49); web+phone; school
+75.8,Coast Mountain Bus Co,CA,24,482,21543000,,1,0,Coastmountainbus.Com,482 emp; $21.5M rev; year n/a; large(15-49); web+phone; school
+74.5,Martz Trailways,PA,58,1734,62766000,1908,1,0,Trailways.Com,1734 emp; $62.8M rev; est 1908 (118y); very-large(50+); web+phone; school
+72.2,Atlantic Express,NY,17,1492,112586000,1964,1,0,Atlanticexpresscorp.Com,1492 emp; $112.6M rev; est 1964 (62y); large(15-49); web+phone; school
+70.0,Academy Bus,NJ,58,2328,193394000,1968,1,0,Academybus.Com,2328 emp; $193.4M rev; est 1968 (58y); very-large(50+); web+phone; school
+67.0,Maranata School Bus Svc Corp,CA,221,5597,246973000,1998,1,0,Paxway.Com,5597 emp; $247.0M rev; est 1998 (28y); very-large(50+); web+phone; school

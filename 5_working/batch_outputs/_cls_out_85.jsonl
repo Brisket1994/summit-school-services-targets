@@ -1,0 +1,30 @@
+{"idx": 2550, "name": "Texarkana Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 2551, "name": "Brittany's Transit Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named LLC transit service"}
+{"idx": 2552, "name": "Rappahannock County Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district bus operation"}
+{"idx": 2553, "name": "Robali Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc, special-needs transport"}
+{"idx": 2554, "name": "Commercial Appeal The Bus Dept", "verdict": "not_transport", "confidence": 0.85, "reason": "Newspaper bus delivery department"}
+{"idx": 2555, "name": "Wesley Wheels Transportation", "verdict": "not_transport", "confidence": 0.85, "reason": "WesleyLife senior living transport"}
+{"idx": 2556, "name": "Community Transportation Ntwrk", "verdict": "not_transport", "confidence": 0.8, "reason": "Nonprofit community paratransit network"}
+{"idx": 2557, "name": "Cormiers Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private bus service"}
+{"idx": 2558, "name": "Byron Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2559, "name": "D & M Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport company"}
+{"idx": 2560, "name": "Tri County Area SCHLS Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 2561, "name": "Faribault Transportation Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company"}
+{"idx": 2562, "name": "Metro Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc bus service"}
+{"idx": 2563, "name": "Festus R-Vi Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "R-VI school district transportation"}
+{"idx": 2564, "name": "CTC Logistics & Enterprise LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, special-needs transport"}
+{"idx": 2565, "name": "Cv Usd Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Unified school district transportation"}
+{"idx": 2566, "name": "Richmond Interagency Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Government interagency transportation program"}
+{"idx": 2567, "name": "B C Transport Enterprises", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport enterprise"}
+{"idx": 2568, "name": "Jamaica Center Bus Imprvmt Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Business improvement district nonprofit"}
+{"idx": 2569, "name": "Joseph Muccio Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Owner-named private LLC transportation"}
+{"idx": 2570, "name": "Shenandoah Valley Sch Dist Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus operation"}
+{"idx": 2571, "name": "Administrative Bus Solutions", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus solutions company"}
+{"idx": 2572, "name": "Aka School Transportation LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private LLC school transportation"}
+{"idx": 2573, "name": "Avanti School Bus Svc Co", "verdict": "private_contractor", "confidence": 0.93, "reason": "Private school bus service company"}
+{"idx": 2574, "name": "St Jude's Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transportation operator"}
+{"idx": 2575, "name": "Okeechobee County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transportation"}
+{"idx": 2576, "name": "Brasher Falls Central Bldg", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Central school district building"}
+{"idx": 2577, "name": "Wooster City SCHLS Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City school district transportation"}
+{"idx": 2578, "name": "Leon George II School Buses", "verdict": "private_contractor", "confidence": 0.95, "reason": "Owner-named private school bus operator"}
+{"idx": 2579, "name": "N J School Bus Owners Assn", "verdict": "not_transport", "confidence": 0.98, "reason": "Trade association, not an operator"}

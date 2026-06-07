@@ -1,0 +1,30 @@
+{"idx": 3030, "name": "Impiccini Brothers School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named school bus operator"}
+{"idx": 3031, "name": "R & A Hitchcock Busing", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named small busing contractor"}
+{"idx": 3032, "name": "Southwest Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Student transportation company name"}
+{"idx": 3033, "name": "Universal Bus Solutions", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus solutions company"}
+{"idx": 3034, "name": "Bec N Call Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Wheelchair transport, special needs focus"}
+{"idx": 3035, "name": "Care Trips Foundation", "verdict": "not_transport", "confidence": 0.6, "reason": "Foundation likely nonprofit, not operator"}
+{"idx": 3036, "name": "Medivan Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical/special needs transport company"}
+{"idx": 3037, "name": "Bus Contractor", "verdict": "private_contractor", "confidence": 0.85, "reason": "Named bus contractor, private operator"}
+{"idx": 3038, "name": "Net Runs LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous name, possibly transport LLC"}
+{"idx": 3039, "name": "T S L Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Initials-based private transportation company"}
+{"idx": 3040, "name": "Ramsiss Limo Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo company, special needs transport"}
+{"idx": 3041, "name": "Rochdale Taxi Cabs", "verdict": "private_contractor", "confidence": 0.6, "reason": "Taxi service, not core school bus"}
+{"idx": 3042, "name": "Big Rapids Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Website brps.org indicates school district dept"}
+{"idx": 3043, "name": "Bow Tie Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, possibly special needs"}
+{"idx": 3044, "name": "C & B Transit Care", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transit care, special needs operator"}
+{"idx": 3045, "name": "One Step Enterprises LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic LLC name, unclear business"}
+{"idx": 3046, "name": "Flint Bus Ctr Inc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "MTA Flint website, public transit agency"}
+{"idx": 3047, "name": "Defea School Bus Garage", "verdict": "private_contractor", "confidence": 0.7, "reason": "Named school bus garage operator"}
+{"idx": 3048, "name": "Happy Angels School Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation company"}
+{"idx": 3049, "name": "Lake Area Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus operator"}
+{"idx": 3050, "name": "Marathon Central Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district bus garage"}
+{"idx": 3051, "name": "Bell City Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "K12.mo.us website, school district dept"}
+{"idx": 3052, "name": "G & C Bus Co LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus company LLC"}
+{"idx": 3053, "name": "American Medical Transprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transport, special needs focus"}
+{"idx": 3054, "name": "Eclipse Mobility", "verdict": "private_contractor", "confidence": 0.65, "reason": "Mobility company, special needs transport"}
+{"idx": 3055, "name": "Resilience Mke Transitional", "verdict": "not_transport", "confidence": 0.7, "reason": "Transitional services nonprofit, not transport"}
+{"idx": 3056, "name": "Enroute Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus operator Inc"}
+{"idx": 3057, "name": "Universal Trading Co LTD Which", "verdict": "unsure", "confidence": 0.4, "reason": "Trading company, unclear school bus link"}
+{"idx": 3058, "name": "Red Bus Pickup School Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation company"}
+{"idx": 3059, "name": "WFLA Newsradio Bus Ofc", "verdict": "not_transport", "confidence": 0.95, "reason": "Radio station business office, not transport"}

@@ -1,0 +1,30 @@
+{"idx": 5700, "name": "S & J Expedite LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC, special needs transport"}
+{"idx": 5701, "name": "Cary Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, possible special needs"}
+{"idx": 5702, "name": "Cochran Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Co Inc, school transport"}
+{"idx": 5703, "name": "Dyer & Dyer", "verdict": "unsure", "confidence": 0.4, "reason": "Name vague, school flag only"}
+{"idx": 5704, "name": "Gllbert School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "School Bus Co, private operator"}
+{"idx": 5705, "name": "Three Points Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Inc, special needs transport"}
+{"idx": 5706, "name": "Allas Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, special needs"}
+{"idx": 5707, "name": "Mak Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service Inc"}
+{"idx": 5708, "name": "N J Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service"}
+{"idx": 5709, "name": "Prime Time Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine Inc"}
+{"idx": 5710, "name": "Convenient Rent-A-Car", "verdict": "not_transport", "confidence": 0.7, "reason": "Rental car, not transport operator"}
+{"idx": 5711, "name": "Class Act Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company"}
+{"idx": 5712, "name": "Executive Limo Sedan", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/sedan service"}
+{"idx": 5713, "name": "Reston Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service Inc"}
+{"idx": 5714, "name": "Ride Right LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC, special needs transport"}
+{"idx": 5715, "name": "Randy Roloff Special Needs", "verdict": "private_contractor", "confidence": 0.65, "reason": "Special needs transport operator"}
+{"idx": 5716, "name": "Good Shepherd Interfaith", "verdict": "not_transport", "confidence": 0.75, "reason": "Interfaith org, likely nonprofit/volunteer"}
+{"idx": 5717, "name": "Encounter Handicapped", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear entity, special needs"}
+{"idx": 5718, "name": "Weiser Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company"}
+{"idx": 5719, "name": "Kristy Dee Limosne & Arprt Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/airport service"}
+{"idx": 5720, "name": "Dean & Dean Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family name Inc, special needs"}
+{"idx": 5721, "name": "Dallas Student Busing Transpor", "verdict": "unsure", "confidence": 0.4, "reason": "Could be district affiliate, DCSchools domain"}
+{"idx": 5722, "name": "Usfi A Bus Unit Of Safeguard", "verdict": "private_contractor", "confidence": 0.55, "reason": "Bus unit of Safeguard, possible parent"}
+{"idx": 5723, "name": "Dineste Transportation Group", "verdict": "private_contractor", "confidence": 0.65, "reason": "Transportation Group, special needs"}
+{"idx": 5724, "name": "Unique Transportation Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation Inc, special needs"}
+{"idx": 5725, "name": "Road Runner Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Service company, special needs"}
+{"idx": 5726, "name": "Crafts Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company"}
+{"idx": 5727, "name": "Main Trans Mobility Solutions", "verdict": "private_contractor", "confidence": 0.65, "reason": "Mobility/transport solutions, special needs"}
+{"idx": 5728, "name": "Alpine Livery Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Livery company"}
+{"idx": 5729, "name": "Bernhrdts Limousines Unlimited", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company"}

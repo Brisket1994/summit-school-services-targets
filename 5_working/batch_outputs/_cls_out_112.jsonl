@@ -1,0 +1,30 @@
+{"idx": 3360, "name": "Vazquez Elizabeth", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name, no entity suffix"}
+{"idx": 3361, "name": "Richland School Bus Shop", "verdict": "unsure", "confidence": 0.5, "reason": "Could be district shop or contractor"}
+{"idx": 3362, "name": "School Transit Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc suffix, transit name"}
+{"idx": 3363, "name": "Faust Stephen E MD Bus Ofc", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical doctor business office"}
+{"idx": 3364, "name": "Queen Bee Business Co Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic business name, unclear"}
+{"idx": 3365, "name": "Working Group 1 LTD Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear entity"}
+{"idx": 3366, "name": "Freedom 2 Go Sch Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc suffix, school transportation"}
+{"idx": 3367, "name": "Union Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district transport, k12.ia.us domain"}
+{"idx": 3368, "name": "Pride Transportation Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus service, transportation name"}
+{"idx": 3369, "name": "Rio Transport LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC, special needs transport"}
+{"idx": 3370, "name": "District Of Columbia Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District name suggests government"}
+{"idx": 3371, "name": "Entrusted Transport LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC, special needs transport"}
+{"idx": 3372, "name": "Dark Moon LLC", "verdict": "unsure", "confidence": 0.5, "reason": "LLC but unclear if transport"}
+{"idx": 3373, "name": "Not Without US", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability advocacy org, not transport"}
+{"idx": 3374, "name": "White Knights Ballroom", "verdict": "not_transport", "confidence": 0.9, "reason": "Ballroom, not transport"}
+{"idx": 3375, "name": "Ridgecrest Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, likely NEMT not school"}
+{"idx": 3376, "name": "Freeman's Second Time Around", "verdict": "not_transport", "confidence": 0.8, "reason": "Resale/thrift shop name, not transport"}
+{"idx": 3377, "name": "Vizion One", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear"}
+{"idx": 3378, "name": "South Lake Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transport, solake.org domain"}
+{"idx": 3379, "name": "First Choice Non-Med Emergency", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT operator, likely not school"}
+{"idx": 3380, "name": "Wanda Whitaker", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, no entity info"}
+{"idx": 3381, "name": "Accurate Transportation-Whlchr", "verdict": "private_contractor", "confidence": 0.65, "reason": "Wheelchair transport, likely NEMT"}
+{"idx": 3382, "name": "Carryall Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation service, special needs"}
+{"idx": 3383, "name": "Med Shore EMS", "verdict": "not_transport", "confidence": 0.85, "reason": "EMS ambulance service, not school"}
+{"idx": 3384, "name": "Dcgovt Schls Pblc Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "DC government schools public transport"}
+{"idx": 3385, "name": "Washington Flyer Express Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Airport shuttle service, not school"}
+{"idx": 3386, "name": "Edna Non Emergency Wheelchair", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT wheelchair, likely not school"}
+{"idx": 3387, "name": "Mt Pleasant Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3388, "name": "Ebenezer Specialty Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Specialty transport, special needs"}
+{"idx": 3389, "name": "Para Tran Medical Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, likely NEMT"}

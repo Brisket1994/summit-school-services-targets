@@ -1,0 +1,30 @@
+{"idx": 6930, "name": "Forrest City School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6931, "name": "Gurdon School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6932, "name": "Rivercrest School Dist-Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6933, "name": "Weiner School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6934, "name": "Coolidge Unified School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 6935, "name": "Graham County School", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school entity"}
+{"idx": 6936, "name": "Oracle School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6937, "name": "City Charter School", "verdict": "not_transport", "confidence": 0.95, "reason": "Charter school, not transport"}
+{"idx": 6938, "name": "Dial-A-Ride Of Corona", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Municipal paratransit, public safety address"}
+{"idx": 6939, "name": "Healdsburg Unified School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 6940, "name": "San Jose Unified School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 6941, "name": "Alamosa School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6942, "name": "Bayfield School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6943, "name": "El Paso County School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6944, "name": "Elizabeth School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6945, "name": "Everdriven", "verdict": "private_contractor", "confidence": 0.9, "reason": "PE-owned by Palladium, non-independent strategic"}
+{"idx": 6946, "name": "Huerfano School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6947, "name": "Modivcare Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Public NEMT broker, non-independent strategic"}
+{"idx": 6948, "name": "Salida School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6949, "name": "Thompson School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 6950, "name": "Angie School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transportation"}
+{"idx": 6951, "name": "Milford Driving School Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Driving instruction school, not transport"}
+{"idx": 6952, "name": "Murphy Community School", "verdict": "not_transport", "confidence": 0.9, "reason": "Community school, not transport operator"}
+{"idx": 6953, "name": "Southbury Driving School LLC", "verdict": "not_transport", "confidence": 0.95, "reason": "Driving instruction school"}
+{"idx": 6954, "name": "Avanti Auto Driving School", "verdict": "not_transport", "confidence": 0.95, "reason": "Driving instruction school"}
+{"idx": 6955, "name": "Baker County Council On Aging", "verdict": "not_transport", "confidence": 0.9, "reason": "Council on aging, not student transport"}
+{"idx": 6956, "name": "Cape Coral Charter School", "verdict": "not_transport", "confidence": 0.95, "reason": "Charter school, not transport"}
+{"idx": 6957, "name": "Carlos & Susana School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private school bus operator"}
+{"idx": 6958, "name": "Groveland Elementary School", "verdict": "not_transport", "confidence": 0.97, "reason": "Public elementary school"}
+{"idx": 6959, "name": "Mily School Trnsprtn Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transportation service"}

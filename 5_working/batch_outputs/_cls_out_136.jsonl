@@ -1,0 +1,30 @@
+{"idx": 4080, "name": "Chappell-Partners Non", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly non-emergency medical transport"}
+{"idx": 4081, "name": "North Country Union School", "verdict": "not_transport", "confidence": 0.95, "reason": "School district, not a transport company"}
+{"idx": 4082, "name": "5 Star Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4083, "name": "Michaels Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation service, school flag set"}
+{"idx": 4084, "name": "Trust Medical Transportations", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, possible special-needs operator"}
+{"idx": 4085, "name": "Y R Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation company"}
+{"idx": 4086, "name": "LA Junta East Otero Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 4087, "name": "Ever Balance", "verdict": "not_transport", "confidence": 0.7, "reason": "Name suggests non-transport business"}
+{"idx": 4088, "name": "A & G Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs"}
+{"idx": 4089, "name": "Advanced Medtrans Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, likely NEMT not school"}
+{"idx": 4090, "name": "Butterfli Technologies", "verdict": "not_transport", "confidence": 0.7, "reason": "Technology firm, not transport operator"}
+{"idx": 4091, "name": "Cali Assisted Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Assisted transport, possible special-needs"}
+{"idx": 4092, "name": "Global Paratransit", "verdict": "private_contractor", "confidence": 0.7, "reason": "Paratransit operator, possible special-needs"}
+{"idx": 4093, "name": "Rosemead Dial A Ride", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Dial-a-ride typically municipal transit"}
+{"idx": 4094, "name": "Jet Transport Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport company"}
+{"idx": 4095, "name": "Arizona Medical Transport LLC", "verdict": "private_contractor", "confidence": 0.45, "reason": "Medical transport, likely NEMT not school"}
+{"idx": 4096, "name": "Storer School Buses", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus operator"}
+{"idx": 4097, "name": "Devine Towncar & Limousine", "verdict": "private_contractor", "confidence": 0.45, "reason": "Towncar/limo, mostly livery not school"}
+{"idx": 4098, "name": "Spinning Global LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 4099, "name": "Western Kenosha County Transit", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "County transit, likely public agency"}
+{"idx": 4100, "name": "Medex Flying", "verdict": "not_transport", "confidence": 0.5, "reason": "Medical/air transport, not school bus"}
+{"idx": 4101, "name": "Foundation-The Monroe County", "verdict": "not_transport", "confidence": 0.75, "reason": "Foundation entity, not transport operator"}
+{"idx": 4102, "name": "Heaven Sent Home Care", "verdict": "not_transport", "confidence": 0.85, "reason": "Home care provider, not transportation"}
+{"idx": 4103, "name": "Porter's Wheelchair Van Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair van, possible special-needs"}
+{"idx": 4104, "name": "Bev's School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school transportation LLC"}
+{"idx": 4105, "name": "A-1", "verdict": "unsure", "confidence": 0.3, "reason": "Name too generic to classify"}
+{"idx": 4106, "name": "PJS LLC", "verdict": "unsure", "confidence": 0.3, "reason": "Generic LLC name, unclear business"}
+{"idx": 4107, "name": "Itn Monterey County", "verdict": "not_transport", "confidence": 0.7, "reason": "ITN typically senior ride nonprofit"}
+{"idx": 4108, "name": "Travel By Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus operator, school flag set"}
+{"idx": 4109, "name": "All Exclusive Trnsprtn Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transportation service LLC"}

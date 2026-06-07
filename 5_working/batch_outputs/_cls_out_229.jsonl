@@ -1,0 +1,30 @@
+{"idx": 6870, "name": "Boeker, Steve", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name; possible owner-operator contractor"}
+{"idx": 6871, "name": "Marily's School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Possessive name, school bus service"}
+{"idx": 6872, "name": "Moise Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus service, private operator"}
+{"idx": 6873, "name": "Smart Kids School Bus Broward", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator"}
+{"idx": 6874, "name": "Joyner, Mary Craig", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name; possible owner-operator"}
+{"idx": 6875, "name": "Metropolitan School-Transportn", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous; could be private or district"}
+{"idx": 6876, "name": "Stanton Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "ISD district transportation department"}
+{"idx": 6877, "name": "Pine Creek Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation service, special needs"}
+{"idx": 6878, "name": "Strong Public Schl Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school bus garage"}
+{"idx": 6879, "name": "First Choice Transit Inc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Corporate transit operator"}
+{"idx": 6880, "name": "New Generation Auto School", "verdict": "not_transport", "confidence": 0.9, "reason": "Driving school, not transport operator"}
+{"idx": 6881, "name": "Elba School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus shop/garage"}
+{"idx": 6882, "name": "Carlisle School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus shop/garage"}
+{"idx": 6883, "name": "Clarendon School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus shop/garage"}
+{"idx": 6884, "name": "Buscorp Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Incorporated bus company"}
+{"idx": 6885, "name": "Kooskia Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus shop/garage"}
+{"idx": 6886, "name": "Louisiana School Bus Operators", "verdict": "not_transport", "confidence": 0.9, "reason": "Trade association, not operator"}
+{"idx": 6887, "name": "Thompson Transport", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport company"}
+{"idx": 6888, "name": "Clinton-Graceville-Beardsley", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public school district"}
+{"idx": 6889, "name": "Independent School Dist 229", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Independent school district"}
+{"idx": 6890, "name": "Hartley School Bus", "verdict": "unsure", "confidence": 0.55, "reason": "Could be private or district"}
+{"idx": 6891, "name": "Larimore Public Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 6892, "name": "Schwede, Herb", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name; possible owner-operator"}
+{"idx": 6893, "name": "Hoffman, Carla", "verdict": "private_contractor", "confidence": 0.7, "reason": "CJS Bus Service website, owner-operator"}
+{"idx": 6894, "name": "Suazo, Clara", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name; possible owner-operator"}
+{"idx": 6895, "name": "Pickner Busing", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name busing operator"}
+{"idx": 6896, "name": "Panther Creek C S D-Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Consolidated school district bus barn"}
+{"idx": 6897, "name": "King & Queen County", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County government entity"}
+{"idx": 6898, "name": "Dworak Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name bus service"}
+{"idx": 6899, "name": "BGM Enterprises", "verdict": "unsure", "confidence": 0.55, "reason": "Generic enterprises name, unclear scope"}

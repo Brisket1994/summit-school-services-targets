@@ -1,0 +1,30 @@
+{"idx": 4140, "name": "Longmire Bus Line Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named bus line, Inc, school flag"}
+{"idx": 4141, "name": "Blue Horizons Group Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, could be transport or other"}
+{"idx": 4142, "name": "Scio School Bus Station", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "K12.or.us website indicates district in-house"}
+{"idx": 4143, "name": "Accessible Minivan Rentals", "verdict": "not_transport", "confidence": 0.7, "reason": "Rental company, not contracted transport operator"}
+{"idx": 4144, "name": "Global-Aid TRANSPORTATION LLC", "verdict": "private_contractor", "confidence": 0.78, "reason": "Special needs transport LLC, plausible NEMT/paratransit"}
+{"idx": 4145, "name": "Mobility Plus", "verdict": "unsure", "confidence": 0.5, "reason": "Could be NEMT operator or mobility equipment"}
+{"idx": 4146, "name": "B Jays Transportation Inc", "verdict": "private_contractor", "confidence": 0.82, "reason": "Family-named transportation Inc, special needs flag"}
+{"idx": 4147, "name": "Seift Transportation", "verdict": "unsure", "confidence": 0.4, "reason": "Likely Swift Transportation trucking, not student"}
+{"idx": 4148, "name": "Kuehn Rental", "verdict": "not_transport", "confidence": 0.75, "reason": "Rental business, not transport operator"}
+{"idx": 4149, "name": "Easy Transit Medical Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possibly special-needs contractor"}
+{"idx": 4150, "name": "Link Executive Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Executive service, unclear scope"}
+{"idx": 4151, "name": "Rid Inc", "verdict": "unsure", "confidence": 0.35, "reason": "Vague name, cannot determine"}
+{"idx": 4152, "name": "Ask For Diane", "verdict": "unsure", "confidence": 0.3, "reason": "Vague name, cannot determine"}
+{"idx": 4153, "name": "Medical Transport Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possibly special-needs operator"}
+{"idx": 4154, "name": "Bay Area Transportation Sltns", "verdict": "private_contractor", "confidence": 0.75, "reason": "Transportation solutions, school flag"}
+{"idx": 4155, "name": "Triple D", "verdict": "unsure", "confidence": 0.3, "reason": "Vague name, cannot determine"}
+{"idx": 4156, "name": "E Z Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation company, special needs flag"}
+{"idx": 4157, "name": "Abed Sedant Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special needs transport"}
+{"idx": 4158, "name": "Califrnia PCF Larkspur Limosne", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possibly special needs"}
+{"idx": 4159, "name": "For Big Things Limousines", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limousine service, unclear student focus"}
+{"idx": 4160, "name": "Golden State Limo Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special needs"}
+{"idx": 4161, "name": "Limo Magic", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limousine service, unclear student focus"}
+{"idx": 4162, "name": "Oly Limo Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special needs"}
+{"idx": 4163, "name": "Mets Mobility Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Mobility transportation, special needs flag"}
+{"idx": 4164, "name": "Antelope Valley Bus Inc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "AVTA is public transit authority, not private"}
+{"idx": 4165, "name": "Ata Kids Shuttle", "verdict": "private_contractor", "confidence": 0.82, "reason": "Kids shuttle, school flag, private operator"}
+{"idx": 4166, "name": "DNA Logistics LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Logistics LLC, special needs flag"}
+{"idx": 4167, "name": "King Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possibly special needs"}
+{"idx": 4168, "name": "Shoebox Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation company, school flag"}
+{"idx": 4169, "name": "Trico Bus Ctr LLC", "verdict": "private_contractor", "confidence": 0.78, "reason": "Bus center LLC, school flag"}

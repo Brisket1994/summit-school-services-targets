@@ -1,0 +1,30 @@
+{"idx": 2850, "name": "Tomahawk Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus service Inc"}
+{"idx": 2851, "name": "Shearer School Bus Station Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus Inc"}
+{"idx": 2852, "name": "Vickie A Cubbage Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Personal-name Inc, likely private contractor"}
+{"idx": 2853, "name": "Swyft Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC special-needs transport"}
+{"idx": 2854, "name": "Oakdale Joint Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Unified school district"}
+{"idx": 2855, "name": "San Luis Valley Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Could be regional transit authority"}
+{"idx": 2856, "name": "ABC Transport School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private LLC school bus"}
+{"idx": 2857, "name": "Rochelle School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 2858, "name": "Schwartz Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus service Inc"}
+{"idx": 2859, "name": "Garner Hayfield Ventura Cmnty", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district"}
+{"idx": 2860, "name": "J B Big Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus operator name"}
+{"idx": 2861, "name": "Precision Bus Solutions", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 2862, "name": "Graham Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD transportation department"}
+{"idx": 2863, "name": "Market Smart Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear entity"}
+{"idx": 2864, "name": "World5 Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc doing bus, likely private"}
+{"idx": 2865, "name": "Top Notch Logistics Mgmt LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC special-needs transport"}
+{"idx": 2866, "name": "Rochester Handi Van", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private paratransit/handi-van operator"}
+{"idx": 2867, "name": "Elite School Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school service"}
+{"idx": 2868, "name": "Sullivan Bus Barn Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus barn operator"}
+{"idx": 2869, "name": "Campbell Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus company Inc"}
+{"idx": 2870, "name": "Sta Of Pennsylvania Inc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Student Transportation of America subsidiary"}
+{"idx": 2871, "name": "Woodland Wheelchair Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private wheelchair/special-needs Inc"}
+{"idx": 2872, "name": "Biomedical Technologies Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Biomedical name, not transport"}
+{"idx": 2873, "name": "Top Notch Limo Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service"}
+{"idx": 2874, "name": "Henry School Buses LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private LLC school buses"}
+{"idx": 2875, "name": "Martini School Bus Co Drs", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus company"}
+{"idx": 2876, "name": "Bellville Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD transportation"}
+{"idx": 2877, "name": "I & R Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company"}
+{"idx": 2878, "name": "Kidz On The Run", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private kid transport operator"}
+{"idx": 2879, "name": "Pfeiler Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus service Inc"}

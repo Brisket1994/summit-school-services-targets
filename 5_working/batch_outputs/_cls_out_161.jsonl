@@ -1,0 +1,30 @@
+{"idx": 4830, "name": "Alliance Specialty Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Specialty transport, likely special-needs contractor"}
+{"idx": 4831, "name": "Ambu Care Transportation Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely medical/ambulette, possible special-needs transport"}
+{"idx": 4832, "name": "Cooks Luxury Limousines", "verdict": "private_contractor", "confidence": 0.45, "reason": "Luxury limo, unlikely school transport focus"}
+{"idx": 4833, "name": "Transmit Ambulance", "verdict": "not_transport", "confidence": 0.7, "reason": "Ambulance service, not student transport"}
+{"idx": 4834, "name": "Hopkins County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district bus garage"}
+{"idx": 4835, "name": "JS Hawkins & Sons Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family name, Inc suffix, school flag"}
+{"idx": 4836, "name": "Singing School Bus Driver", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely entertainer/musician, not operator"}
+{"idx": 4837, "name": "What A Ride Limousine LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine LLC, possible special-needs contractor"}
+{"idx": 4838, "name": "Prestige Limousine LLC", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, unlikely school focus"}
+{"idx": 4839, "name": "M LAKER LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Mlaker, established PA school bus contractor"}
+{"idx": 4840, "name": "Rohrer Business Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Rohrer Bus, PA school bus contractor"}
+{"idx": 4841, "name": "Custom Care & Transport Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Care transport, possible special-needs operator"}
+{"idx": 4842, "name": "Ohana Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair transport, possible special-needs"}
+{"idx": 4843, "name": "A Latin Touch Limousine LLC", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo LLC, unlikely school transport"}
+{"idx": 4844, "name": "Limo Service Intl", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo service, unlikely school focused"}
+{"idx": 4845, "name": "Midtown Express Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Transportation service, unclear school focus"}
+{"idx": 4846, "name": "Boston Mass Transportation Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Transportation Inc, possible special-needs contractor"}
+{"idx": 4847, "name": "Palms Pride Inc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Generic name, unclear transport role"}
+{"idx": 4848, "name": "Stealth Peptide Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Peptide company, not transport"}
+{"idx": 4849, "name": "Clarkston Community Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public community school district"}
+{"idx": 4850, "name": "Carey Of Portland", "verdict": "private_contractor", "confidence": 0.4, "reason": "Carey limo franchise, unlikely school"}
+{"idx": 4851, "name": "Audiobooks Ministries", "verdict": "not_transport", "confidence": 0.95, "reason": "Religious ministry, not transport"}
+{"idx": 4852, "name": "Eagle Limo Town Car Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo/towncar service, not school"}
+{"idx": 4853, "name": "Great Towncar Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Towncar service, not school transport"}
+{"idx": 4854, "name": "Green Forhire & Wheelchair Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair service, possible special-needs"}
+{"idx": 4855, "name": "J Mac Cabulance", "verdict": "not_transport", "confidence": 0.7, "reason": "Cabulance/medical transport, not student"}
+{"idx": 4856, "name": "Limousine Town Car Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo/towncar, unlikely school transport"}
+{"idx": 4857, "name": "Manhattanlimo", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo service, unlikely school transport"}
+{"idx": 4858, "name": "Top Limo Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Luxury limo service, not school"}
+{"idx": 4859, "name": "Zalitan Limo Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo service, unlikely school transport"}

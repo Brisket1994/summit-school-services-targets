@@ -1,0 +1,30 @@
+{"idx": 2250, "name": "Raul & Rosy School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named school bus LLC"}
+{"idx": 2251, "name": "Skyliner Transportation Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation bus operator"}
+{"idx": 2252, "name": "South Bend Pubc Trnsprtn Corp", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public transit authority, not school bus"}
+{"idx": 2253, "name": "Farther-Son Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private transport business"}
+{"idx": 2254, "name": "Mid Wisconsin Buses Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Inc"}
+{"idx": 2255, "name": "Ast Detroit School Mntnc Ofc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "East Detroit school maintenance office"}
+{"idx": 2256, "name": "Warren Woods Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2257, "name": "B & W Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 2258, "name": "Pioneer Home Medical Supl LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Home medical supply, not transport"}
+{"idx": 2259, "name": "Q Q Bus Line Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus line corp"}
+{"idx": 2260, "name": "Abr Production Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Production company, unclear transport role"}
+{"idx": 2261, "name": "Auto Bus Planet Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company Inc"}
+{"idx": 2262, "name": "Rides 4 School", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school rides operator"}
+{"idx": 2263, "name": "Safe Care Mobility Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Mobility/NEMT services, possibly special needs"}
+{"idx": 2264, "name": "Union School Trnsprtn & Nemt", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport and NEMT"}
+{"idx": 2265, "name": "School Bus Boss LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC"}
+{"idx": 2266, "name": "Chattooga Co Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation"}
+{"idx": 2267, "name": "ADM Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "ADM school district bus garage"}
+{"idx": 2268, "name": "Habitus Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Odd name, intent unclear"}
+{"idx": 2269, "name": "Carecruiz Homecare Agency LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Homecare agency, not transport"}
+{"idx": 2270, "name": "Clermont Northeastern School", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School district transportation route"}
+{"idx": 2271, "name": "Tahlequah Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2272, "name": "Cody Public Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2273, "name": "Mccalls Ministry", "verdict": "not_transport", "confidence": 0.9, "reason": "Religious ministry, not transport"}
+{"idx": 2274, "name": "Eastern School Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus corp NY"}
+{"idx": 2275, "name": "SFCS Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Seneca Falls CSD transportation department"}
+{"idx": 2276, "name": "Calallen Isd Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 2277, "name": "Robinson Transport Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transport Inc with website"}
+{"idx": 2278, "name": "Isd 833 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD 833 school district transportation"}
+{"idx": 2279, "name": "Rockford Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}

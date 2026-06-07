@@ -1,0 +1,30 @@
+{"idx": 6600, "name": "J Balbuena School Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name school bus service, micro operator"}
+{"idx": 6601, "name": "Jenny T School Bus LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name LLC school bus operator"}
+{"idx": 6602, "name": "K & K School Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation contractor"}
+{"idx": 6603, "name": "Kelly's School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive-name Inc school transportation"}
+{"idx": 6604, "name": "Kidz Shuttle", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private shuttle, likely small operator"}
+{"idx": 6605, "name": "L & A School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Initials LLC school transportation operator"}
+{"idx": 6606, "name": "L G Bus Line Inc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Bus Line Inc, private operator"}
+{"idx": 6607, "name": "LA Rana School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc school transportation contractor"}
+{"idx": 6608, "name": "Liana School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name Inc school transportation"}
+{"idx": 6609, "name": "Lisset Valladares School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name school bus contractor"}
+{"idx": 6610, "name": "Little Giant School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Inc school bus private operator"}
+{"idx": 6611, "name": "Lourdes Castaneda School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name school bus contractor"}
+{"idx": 6612, "name": "Lucy Sanchez School Bus LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name LLC school bus operator"}
+{"idx": 6613, "name": "M-Dcps Southwest Regl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Miami-Dade Public Schools regional transportation depot"}
+{"idx": 6614, "name": "Manny School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus contractor"}
+{"idx": 6615, "name": "Maria's School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive Inc school bus service"}
+{"idx": 6616, "name": "Maricela School Bus LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name LLC school bus operator"}
+{"idx": 6617, "name": "Mayra School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school transportation; website is district portal"}
+{"idx": 6618, "name": "Mercy & Norman School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus contractor"}
+{"idx": 6619, "name": "Mimi's School Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive-name school bus service"}
+{"idx": 6620, "name": "Mireya School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus contractor"}
+{"idx": 6621, "name": "Niurka's School Bus Trnsprtn", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive-name school bus transportation"}
+{"idx": 6622, "name": "No Bullying Sch Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Corp school transportation, private operator"}
+{"idx": 6623, "name": "O L R School BUS Svc LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Initials LLC school bus service"}
+{"idx": 6624, "name": "Quality School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service operator"}
+{"idx": 6625, "name": "Riki School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus contractor"}
+{"idx": 6626, "name": "Rosy School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name Inc school bus operator"}
+{"idx": 6627, "name": "Rubi's School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive-name school bus contractor"}
+{"idx": 6628, "name": "Santa Fe School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Inc school bus private operator"}
+{"idx": 6629, "name": "Sofia School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name LLC school transportation"}

@@ -1,0 +1,30 @@
+{"idx": 5820, "name": "Bus R Us Trans", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus transport company name"}
+{"idx": 5821, "name": "Tri Able Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc, special needs transport"}
+{"idx": 5822, "name": "Williams Brothers", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family name, school transport"}
+{"idx": 5823, "name": "Adrc Of Northwest Wisconsin", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Aging/Disability Resource Center, county-based"}
+{"idx": 5824, "name": "Onward Care Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc, special needs rides"}
+{"idx": 5825, "name": "Pinckney Community Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district"}
+{"idx": 5826, "name": "5 CS Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limousine service, special needs"}
+{"idx": 5827, "name": "Champion Limousine Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc limousine, special needs transport"}
+{"idx": 5828, "name": "K & P Enterprises Limosne Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limousine service"}
+{"idx": 5829, "name": "Managed Medical Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transport Inc, special needs"}
+{"idx": 5830, "name": "Pace The Suburban Bus Div", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public transit agency, RTA division"}
+{"idx": 5831, "name": "Nimco Bus Div", "verdict": "private_contractor", "confidence": 0.6, "reason": "Bus division, school transport"}
+{"idx": 5832, "name": "Russell Academy Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Could be school transport dept"}
+{"idx": 5833, "name": "Back Mountain Transit Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Transit Co Inc, school transport"}
+{"idx": 5834, "name": "Abulva Limousines", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine operator"}
+{"idx": 5835, "name": "Dallas Wheelchair Ride", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair transport, special needs"}
+{"idx": 5836, "name": "Express Limousine & Trans", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limousine and transport"}
+{"idx": 5837, "name": "M & M Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.65, "reason": "Wheelchair transport, special needs"}
+{"idx": 5838, "name": "Ride USA", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport, special needs"}
+{"idx": 5839, "name": "Texas Accessibility Speclsts", "verdict": "private_contractor", "confidence": 0.55, "reason": "Accessibility transport specialists"}
+{"idx": 5840, "name": "Elite Limousine & Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limousine and transport"}
+{"idx": 5841, "name": "ABC Limousine Network Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc limousine network"}
+{"idx": 5842, "name": "Advanced Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine operator"}
+{"idx": 5843, "name": "Affinity Limousine Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc limousine company"}
+{"idx": 5844, "name": "C & J Express LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC private transport"}
+{"idx": 5845, "name": "DJ Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine operator"}
+{"idx": 5846, "name": "High Class Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc private transportation"}
+{"idx": 5847, "name": "Securus Services", "verdict": "unsure", "confidence": 0.45, "reason": "Generic name, unclear transport focus"}
+{"idx": 5848, "name": "Seniors Choice Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "LLC senior transport, special needs"}
+{"idx": 5849, "name": "Cajun Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transportation operator"}

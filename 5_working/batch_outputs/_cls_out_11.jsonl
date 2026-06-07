@@ -1,0 +1,30 @@
+{"idx": 330, "name": "Student Transportation Of NH", "verdict": "unsure", "confidence": 0.5, "reason": "Name resembles STA subsidiary; possibly non-independent"}
+{"idx": 331, "name": "Kelly S Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned bus service"}
+{"idx": 332, "name": "STS School Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus service company"}
+{"idx": 333, "name": "Anso School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Ansonia school district garage, k12.oh.us domain"}
+{"idx": 334, "name": "Dean Office Fox Sch-Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Temple Fox School of Business office"}
+{"idx": 335, "name": "Golden Ring Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NY transportation Inc"}
+{"idx": 336, "name": "Powder River Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private WY transportation operator"}
+{"idx": 337, "name": "Bowen's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned WI bus service Inc"}
+{"idx": 338, "name": "Mao & Ed Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned FL bus service Inc"}
+{"idx": 339, "name": "L & S Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private MD bus service Inc"}
+{"idx": 340, "name": "Elite Medical Transport LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not school transport"}
+{"idx": 341, "name": "David Eccles School Of Bus", "verdict": "not_transport", "confidence": 0.95, "reason": "University of Utah business school"}
+{"idx": 342, "name": "Teton Stage Lines School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private ID stage line school bus operator"}
+{"idx": 343, "name": "Big Bus Co", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, Philadelphia tourism address"}
+{"idx": 344, "name": "Holcomb Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned IA bus service Inc"}
+{"idx": 345, "name": "Man Truck & Bus", "verdict": "not_transport", "confidence": 0.95, "reason": "MAN bus manufacturer, not operator"}
+{"idx": 346, "name": "Owner Bernhard Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Owner-operated CT bus service"}
+{"idx": 347, "name": "Unity School Bus Parts", "verdict": "not_transport", "confidence": 0.95, "reason": "Bus parts supplier, not operator"}
+{"idx": 348, "name": "Around The Sound Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private WA special-needs transport"}
+{"idx": 349, "name": "Brown Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private MA transportation company"}
+{"idx": 350, "name": "East Lake Enterprise", "verdict": "unsure", "confidence": 0.5, "reason": "Generic enterprise name, unclear transport role"}
+{"idx": 351, "name": "North Bend Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NJ bus company Inc"}
+{"idx": 352, "name": "Care Trans", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private CA paratransit/cab operator"}
+{"idx": 353, "name": "E & M Bus Line Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private SD bus line Inc"}
+{"idx": 354, "name": "Schools-Public", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public school district transportation"}
+{"idx": 355, "name": "Onslow County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation department"}
+{"idx": 356, "name": "General Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private CA transportation Inc"}
+{"idx": 357, "name": "Bud's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned MN bus service"}
+{"idx": 358, "name": "Kids Door To Door", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private FL student transport operator"}
+{"idx": 359, "name": "RW Fulkerson Bus & Bus Parts", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-owned MO bus operator/parts"}

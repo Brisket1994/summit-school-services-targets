@@ -1,0 +1,30 @@
+{"idx": 5610, "name": "Invincible Corp Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name, app website, not clearly transport"}
+{"idx": 5611, "name": "Kaprielian James M Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named bus operator"}
+{"idx": 5612, "name": "Maintenance & Operations", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "MCUSD district maintenance/operations dept"}
+{"idx": 5613, "name": "Rye School Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District70.org school district garage"}
+{"idx": 5614, "name": "RGS Cars & Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service, special needs flagged"}
+{"idx": 5615, "name": "Haralson County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation dept"}
+{"idx": 5616, "name": "Ramm Enterprise Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC bus service"}
+{"idx": 5617, "name": "Mississippi Valley Farm Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Likely small private bus operator"}
+{"idx": 5618, "name": "Illinois Central Sch Bus-West", "verdict": "private_contractor", "confidence": 0.75, "reason": "Illinois Central School Bus, private contractor"}
+{"idx": 5619, "name": "D & J Hauling Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc, possible school bus contractor"}
+{"idx": 5620, "name": "Dekalb Central Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Dekalbcentral.net school district garage"}
+{"idx": 5621, "name": "Maxwell Schools Business Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 5622, "name": "R A Brown II E-Bus Mgmt", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named bus management"}
+{"idx": 5623, "name": "School Bus Driver", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, monument website, unclear"}
+{"idx": 5624, "name": "El Dorado Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 5625, "name": "Kansas Federation Bus Prof Wmn", "verdict": "not_transport", "confidence": 0.9, "reason": "Business professional women federation, not transport"}
+{"idx": 5626, "name": "A J's School Buses LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private LLC school bus operator"}
+{"idx": 5627, "name": "Alpena Public Schools-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 5628, "name": "Ethiopian Orphan Wheelchair", "verdict": "not_transport", "confidence": 0.85, "reason": "Nonprofit/charity, not a transport operator"}
+{"idx": 5629, "name": "Get Around Town Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}
+{"idx": 5630, "name": "R & R Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special needs flagged"}
+{"idx": 5631, "name": "Yesterdays Prfmce Classics", "verdict": "not_transport", "confidence": 0.7, "reason": "Classic car/performance, not transport operator"}
+{"idx": 5632, "name": "Rudroff Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus company"}
+{"idx": 5633, "name": "Covington School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus garage"}
+{"idx": 5634, "name": "LPS", "verdict": "unsure", "confidence": 0.4, "reason": "Acronym unclear, possibly district"}
+{"idx": 5635, "name": "Spartan Bus Line LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private LLC bus line"}
+{"idx": 5636, "name": "Tyrrell Cnty School Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district bus"}
+{"idx": 5637, "name": "Vance County SCH-Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation department"}
+{"idx": 5638, "name": "Maxime & Co", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, special needs flagged"}
+{"idx": 5639, "name": "West Fargo Pubc Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}

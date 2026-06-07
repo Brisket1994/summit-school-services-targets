@@ -1,0 +1,30 @@
+{"idx": 4290, "name": "Montco Union Taxi", "verdict": "private_contractor", "confidence": 0.6, "reason": "Taxi service, possible special needs transport"}
+{"idx": 4291, "name": "Tealwood Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation LLC, special needs"}
+{"idx": 4292, "name": "Health Ride Plus Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely medical/NEMT transport not school"}
+{"idx": 4293, "name": "Zyvra Mobility", "verdict": "unsure", "confidence": 0.4, "reason": "Mobility startup, unclear school transport role"}
+{"idx": 4294, "name": "Wheel Chair Van Taxi LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair taxi, likely NEMT not school"}
+{"idx": 4295, "name": "Ride On Time Town Car Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Town car service, likely livery not school"}
+{"idx": 4296, "name": "Anywhere Limo Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company, unlikely school transport"}
+{"idx": 4297, "name": "Pierce Public School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus barn"}
+{"idx": 4298, "name": "Aries Transportation LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC, special needs transport"}
+{"idx": 4299, "name": "Custom Class Limousines", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4300, "name": "Prestigious Star Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, likely livery not school"}
+{"idx": 4301, "name": "Starlite Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, likely livery not school"}
+{"idx": 4302, "name": "Sue's Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named bus service, school flag"}
+{"idx": 4303, "name": "Furlegan Management LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Mastercare transport, likely NEMT not school"}
+{"idx": 4304, "name": "Avalon Lmsne Town Car Svc LLC", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo/town car, likely livery not school"}
+{"idx": 4305, "name": "Bananas Joe Park PL Limosne Co", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4306, "name": "Mainline Limousine Inc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4307, "name": "Detroit Lakes Public Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 4308, "name": "Powell Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC, special needs transport"}
+{"idx": 4309, "name": "Black Diamond Busing LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus LLC, school flag"}
+{"idx": 4310, "name": "Old School Trnsprtn Of TX LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, school transportation"}
+{"idx": 4311, "name": "D A Bears & Bulls Acquisition", "verdict": "unsure", "confidence": 0.3, "reason": "Holding company name, unclear operations"}
+{"idx": 4312, "name": "A Limo Express", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4313, "name": "A Twin Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, likely livery not school"}
+{"idx": 4314, "name": "Ambassador Limousine", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4315, "name": "B & Z Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, likely livery not school"}
+{"idx": 4316, "name": "Bergen Limo", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4317, "name": "Chris Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, likely livery not school"}
+{"idx": 4318, "name": "Concord Limousine", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo company, likely livery not school"}
+{"idx": 4319, "name": "Express Car & Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Car/limo service, likely livery not school"}

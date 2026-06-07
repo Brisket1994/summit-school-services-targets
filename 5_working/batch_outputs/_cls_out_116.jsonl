@@ -1,0 +1,30 @@
+{"idx": 3480, "name": "Ohio Medical Trnsprtn Non", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private NEMT operator; possibly special-needs adjacent"}
+{"idx": 3481, "name": "Ada Transportation SVC LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC special-needs transport operator"}
+{"idx": 3482, "name": "Tiffin City School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation department"}
+{"idx": 3483, "name": "Almont Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district in-house transport"}
+{"idx": 3484, "name": "East Brandywine Twp Genl Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Township general bus; public entity"}
+{"idx": 3485, "name": "Advanced Care Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private NEMT/special-needs transport company"}
+{"idx": 3486, "name": "Wilkerson Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private family-named transport operator"}
+{"idx": 3487, "name": "R Squared Transport Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc transport operator"}
+{"idx": 3488, "name": "Marion Independent School TRNS", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Independent school district transportation"}
+{"idx": 3489, "name": "Willard City Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City schools district in-house transport"}
+{"idx": 3490, "name": "Eagle Cabulance LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private cabulance LLC; medical transport"}
+{"idx": 3491, "name": "Puget Sound Cabulance", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private cabulance operator"}
+{"idx": 3492, "name": "Panhandle Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private wheelchair transport company"}
+{"idx": 3493, "name": "A M C School Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private Inc school bus contractor"}
+{"idx": 3494, "name": "Reading Community Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Community schools district transport"}
+{"idx": 3495, "name": "Olson School & Charter Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school and charter bus operator"}
+{"idx": 3496, "name": "Gaston School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District-owned bus garage"}
+{"idx": 3497, "name": "All State Leasing Car", "verdict": "private_contractor", "confidence": 0.5, "reason": "Possibly leasing/livery; uncertain transport role"}
+{"idx": 3498, "name": "Aunt-Med Invalid Coach", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private invalid coach transport"}
+{"idx": 3499, "name": "Friends Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limousine operator"}
+{"idx": 3500, "name": "GMZ Corp", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corp name; unclear scope"}
+{"idx": 3501, "name": "Hijjawi Limo Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo company"}
+{"idx": 3502, "name": "Pegasus Transport Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc transport service"}
+{"idx": 3503, "name": "Felicity Franklin Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department"}
+{"idx": 3504, "name": "Lift-Up Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Wheelchair Getaways franchise; private operator"}
+{"idx": 3505, "name": "Advantage Medical Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private medical transport operator"}
+{"idx": 3506, "name": "A1 Non-Emergency MED Trnsprtn", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private NEMT operator"}
+{"idx": 3507, "name": "Elderide Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private senior transport Inc"}
+{"idx": 3508, "name": "Maria Estrada De Jesus", "verdict": "private_contractor", "confidence": 0.55, "reason": "Sole proprietor transport in PR"}
+{"idx": 3509, "name": "Nirvana Medical Transport Inc", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private Inc medical transport"}

@@ -1,0 +1,30 @@
+{"idx": 60, "name": "Educational Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus contractor, NY"}
+{"idx": 61, "name": "Canyon State Bus Sales Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Bus sales/dealer, not operator"}
+{"idx": 62, "name": "Bennett & Bennett Trnsp INC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private transport Inc"}
+{"idx": 63, "name": "Transportation", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, insufficient information"}
+{"idx": 64, "name": "Little Richie Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Logan Bus affiliate, NYC contractor"}
+{"idx": 65, "name": "Bus Stop", "verdict": "not_transport", "confidence": 0.6, "reason": "Greyhound website, likely retail/depot"}
+{"idx": 66, "name": "Student Bus Co", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private student bus company NY/NJ"}
+{"idx": 67, "name": "Positive Connections", "verdict": "private_contractor", "confidence": 0.7, "reason": "Special-needs transport, Ridesta/STA related"}
+{"idx": 68, "name": "We Care Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private; parent First Snyder Corp"}
+{"idx": 69, "name": "Antelope Valley Sch Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport contractor CA"}
+{"idx": 70, "name": "Durham Transportation", "verdict": "public_or_inhouse", "confidence": 0.5, "reason": "Likely National Express/Durham brand"}
+{"idx": 71, "name": "Signature School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC Texas"}
+{"idx": 72, "name": "Crawford Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Cook-Illinois affiliated private contractor"}
+{"idx": 73, "name": "Montauk Student Transport", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private student transport NY/NJ"}
+{"idx": 74, "name": "Super Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus Inc"}
+{"idx": 75, "name": "Jones School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private school bus IL"}
+{"idx": 76, "name": "Fullington School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Fullington Tours; private PA operator"}
+{"idx": 77, "name": "Able Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus Inc Brooklyn NY"}
+{"idx": 78, "name": "Riteway Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Riteway, private WI school bus"}
+{"idx": 79, "name": "Golden Arrow Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus service"}
+{"idx": 80, "name": "Anderson Zurmuehlen Certified", "verdict": "not_transport", "confidence": 0.95, "reason": "CPA accounting firm, not transport"}
+{"idx": 81, "name": "American Truck & Bus Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Could be dealer or operator MD"}
+{"idx": 82, "name": "Boston Express Bus", "verdict": "not_transport", "confidence": 0.6, "reason": "Commuter coach, not school bus"}
+{"idx": 83, "name": "A Ace Bus Charter Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Charter; may do school routes"}
+{"idx": 84, "name": "American International Bus LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private bus LLC, charter possible"}
+{"idx": 85, "name": "Man Truck & Bus Deutschland", "verdict": "not_transport", "confidence": 0.95, "reason": "MAN truck manufacturer, not operator"}
+{"idx": 86, "name": "G G & C Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private family-named bus company PA"}
+{"idx": 87, "name": "Diamond State Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company AR"}
+{"idx": 88, "name": "Lakeland Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service Inc"}
+{"idx": 89, "name": "Green Local Sch Trnsprtn Ofc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Green Local School District transport office"}

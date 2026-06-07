@@ -1,0 +1,30 @@
+{"idx": 2790, "name": "Simple Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corp name, unclear transport role"}
+{"idx": 2791, "name": "Tri Global Corp Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corp name, unclear transport role"}
+{"idx": 2792, "name": "Excel Transport LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC transport operator, special needs"}
+{"idx": 2793, "name": "Access Transportation Sltns", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation solutions provider"}
+{"idx": 2794, "name": "Marion Cmnty Schools Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District bus garage, k12 domain"}
+{"idx": 2795, "name": "Miller Motor Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family name motor company, school flag"}
+{"idx": 2796, "name": "Johnsons School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school bus operator"}
+{"idx": 2797, "name": "Okmulgee Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school transportation department"}
+{"idx": 2798, "name": "Jasper-Troupsburg Central Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Central school district, .org domain"}
+{"idx": 2799, "name": "Willamette Valley Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport company, special needs"}
+{"idx": 2800, "name": "Nostalgia Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special needs transport"}
+{"idx": 2801, "name": "Carolina Mobility & Seating", "verdict": "not_transport", "confidence": 0.8, "reason": "Mobility equipment dealer, not transport operator"}
+{"idx": 2802, "name": "A & M School Transport Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school transport Inc"}
+{"idx": 2803, "name": "Safe Student Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private student transportation LLC"}
+{"idx": 2804, "name": "Brooks Transportation Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name transportation service Inc"}
+{"idx": 2805, "name": "United School Bus Inc Mansoor", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus Inc operator"}
+{"idx": 2806, "name": "Washington Township Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Township school district, .org domain"}
+{"idx": 2807, "name": "Metro County Connect", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Kalamazoo Metro public transit agency"}
+{"idx": 2808, "name": "Metro County Connect Schdlng", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Kalamazoo Metro public transit scheduling"}
+{"idx": 2809, "name": "S S Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation operator, special needs"}
+{"idx": 2810, "name": "Amb-U-Cab Svc", "verdict": "not_transport", "confidence": 0.75, "reason": "Ambulance service, not student transport"}
+{"idx": 2811, "name": "Edwards-KNOX School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus garage, k12 domain"}
+{"idx": 2812, "name": "SC Eaton County Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school bus garage, k12 domain"}
+{"idx": 2813, "name": "George's Transportation Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named transportation, school buses website"}
+{"idx": 2814, "name": "Holston Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus company Inc, school"}
+{"idx": 2815, "name": "Hessian Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc doing bus, school flag"}
+{"idx": 2816, "name": "West Coast Bus Sales Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Bus sales dealer, not operator"}
+{"idx": 2817, "name": "Glen Rhinard Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named transportation, school flag"}
+{"idx": 2818, "name": "Aldine Isd Admin Annex", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD admin annex, district facility"}
+{"idx": 2819, "name": "Doniphan R-1 Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School transportation department, k12 domain"}

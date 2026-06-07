@@ -1,0 +1,30 @@
+{"idx": 6570, "name": "Safe-Secure Bus Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.92, "reason": "Corp suffix, bus transportation operator"}
+{"idx": 6571, "name": "We Care Wheelchair Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc suffix, special-needs paratransit operator"}
+{"idx": 6572, "name": "Croswell-Lexington Cmnty Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district, k12 website"}
+{"idx": 6573, "name": "Silver A Brady Contractor", "verdict": "private_contractor", "confidence": 0.75, "reason": "Individual contractor name, special needs"}
+{"idx": 6574, "name": "Chester County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transport dept"}
+{"idx": 6575, "name": "Northland Collage Bus Ofc", "verdict": "not_transport", "confidence": 0.85, "reason": "College bus office, not contractor"}
+{"idx": 6576, "name": "Warco Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc, school flagged, likely operator"}
+{"idx": 6577, "name": "San Mateo Paratransit", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Public paratransit coordinating council org"}
+{"idx": 6578, "name": "A B C School Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Miami school bus operator"}
+{"idx": 6579, "name": "A+kids School Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "LLC, school bus service operator"}
+{"idx": 6580, "name": "Bus Service KIK", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus service, school flagged"}
+{"idx": 6581, "name": "Busy Bee School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Inc, school bus operator"}
+{"idx": 6582, "name": "Carlos & Lily Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Inc, family-named bus service"}
+{"idx": 6583, "name": "Carracedo School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Inc, family-named school transportation"}
+{"idx": 6584, "name": "Claribel's School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive name, school bus operator"}
+{"idx": 6585, "name": "Damaris Oristela School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Person-named school bus operator"}
+{"idx": 6586, "name": "Darine Suarez School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Person-named school bus operator"}
+{"idx": 6587, "name": "Department Public Transport", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Public transport department"}
+{"idx": 6588, "name": "Dreamers School Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Corp, school transportation operator"}
+{"idx": 6589, "name": "Duque School Bus-After Sch Cr", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school bus operator"}
+{"idx": 6590, "name": "E & E Jomarron School Bus Svc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Family-named school bus service"}
+{"idx": 6591, "name": "Franco School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "LLC, family-named school transport"}
+{"idx": 6592, "name": "Frigeni School Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Corp, family-named school transport"}
+{"idx": 6593, "name": "G & G School Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Corp, school bus operator"}
+{"idx": 6594, "name": "Gemini's School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Inc, school bus operator"}
+{"idx": 6595, "name": "God First SCH Bus Transport", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus transport operator"}
+{"idx": 6596, "name": "Gonzalez Trnsprtn School Bus", "verdict": "private_contractor", "confidence": 0.93, "reason": "Family-named school bus operator"}
+{"idx": 6597, "name": "Intermerican Caribbean Bus Ctr", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus center, school flagged"}
+{"idx": 6598, "name": "Isachi School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus operator"}
+{"idx": 6599, "name": "J & J School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "LLC, school transportation operator"}

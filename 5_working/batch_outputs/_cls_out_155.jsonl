@@ -1,0 +1,30 @@
+{"idx": 4650, "name": "Ace Luxury Limousines", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service; likely NEMT not school"}
+{"idx": 4651, "name": "Casablanca Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service; likely NEMT not school"}
+{"idx": 4652, "name": "Okaford Transport Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport service, small NEMT"}
+{"idx": 4653, "name": "Wheelchair Vans For All", "verdict": "private_contractor", "confidence": 0.65, "reason": "NEMT wheelchair van operator"}
+{"idx": 4654, "name": "Excutive Service LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private LLC; likely executive/NEMT transport"}
+{"idx": 4655, "name": "Washington Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service; likely NEMT"}
+{"idx": 4656, "name": "Daily Grace Medical TRSPRTN", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transport, NEMT operator"}
+{"idx": 4657, "name": "3 In 1 Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; likely NEMT"}
+{"idx": 4658, "name": "U Auto Bequik LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name; small LLC"}
+{"idx": 4659, "name": "Rural/Metro Ambulance Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not school transport"}
+{"idx": 4660, "name": "Kosti School Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school transport operator"}
+{"idx": 4661, "name": "Chariot Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service; likely NEMT"}
+{"idx": 4662, "name": "Latta School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus shop, ed.sc.gov website"}
+{"idx": 4663, "name": "First Class Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service; likely NEMT"}
+{"idx": 4664, "name": "Apex Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service; likely NEMT"}
+{"idx": 4665, "name": "Art", "verdict": "private_contractor", "confidence": 0.55, "reason": "AR Transportation, private operator"}
+{"idx": 4666, "name": "Tasha Services", "verdict": "private_contractor", "confidence": 0.5, "reason": "Same address as ART, private service"}
+{"idx": 4667, "name": "Anson County Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transport dept"}
+{"idx": 4668, "name": "Disabled Veterans Pamilico Co", "verdict": "not_transport", "confidence": 0.7, "reason": "Veterans organization, not school transport"}
+{"idx": 4669, "name": "Independence Healthcare", "verdict": "not_transport", "confidence": 0.7, "reason": "Healthcare provider, not transport"}
+{"idx": 4670, "name": "Happy Rides LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private ride service, NEMT-style"}
+{"idx": 4671, "name": "Shift Technology Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Tech company, not transport operator"}
+{"idx": 4672, "name": "Septran Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Septran private school bus contractor"}
+{"idx": 4673, "name": "Felicity Franklin Local Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Local school district, .org website"}
+{"idx": 4674, "name": "Riverside Community School Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Community school, not transport operator"}
+{"idx": 4675, "name": "Montgomery County Public Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4676, "name": "Brumant Medical Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transport, NEMT operator"}
+{"idx": 4677, "name": "Waterford USD Mntnc & Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Unified school district transport dept"}
+{"idx": 4678, "name": "White Star Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; likely NEMT"}
+{"idx": 4679, "name": "Harbor Care Assoc", "verdict": "not_transport", "confidence": 0.7, "reason": "Care services, not transport operator"}

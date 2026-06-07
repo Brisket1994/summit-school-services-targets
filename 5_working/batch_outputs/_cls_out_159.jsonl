@@ -1,0 +1,30 @@
+{"idx": 4770, "name": "First Impression Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, possibly special-needs transport"}
+{"idx": 4771, "name": "NTS", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility vans, special-needs transport"}
+{"idx": 4772, "name": "Priority Care Wheelchair", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair transit, special-needs focus"}
+{"idx": 4773, "name": "United Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4774, "name": "Care2 Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC transportation, special-needs flag"}
+{"idx": 4775, "name": "Love's House LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly care home"}
+{"idx": 4776, "name": "S & B Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs"}
+{"idx": 4777, "name": "Sierra-Sacramento VLY Ems Agcy", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public EMS agency, not private operator"}
+{"idx": 4778, "name": "Windsor Community Unit Schls", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 4779, "name": "National Seating & Mobility", "verdict": "not_transport", "confidence": 0.85, "reason": "Mobility equipment provider, not transport"}
+{"idx": 4780, "name": "R & J Mobility Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Mobility service, special-needs flag"}
+{"idx": 4781, "name": "Classic Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, possibly special-needs"}
+{"idx": 4782, "name": "Eternity Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, possibly special-needs"}
+{"idx": 4783, "name": "Jay School Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Jay School Corp district transport"}
+{"idx": 4784, "name": "Barnesville Bus Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus company name suggests private contractor"}
+{"idx": 4785, "name": "Silver Star", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear nature"}
+{"idx": 4786, "name": "Loudonville Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 4787, "name": "DTS Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation entity"}
+{"idx": 4788, "name": "E Providence Transfer Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Inc, transfer service, possibly transport"}
+{"idx": 4789, "name": "Guerras Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Family name Inc, special-needs flag"}
+{"idx": 4790, "name": "Aaerways Taxi & Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Taxi and limo service"}
+{"idx": 4791, "name": "Foster Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family name transportation company"}
+{"idx": 4792, "name": "A C H Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC transportation, special-needs"}
+{"idx": 4793, "name": "Charity Transport LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "LLC transport, charity-care affiliated"}
+{"idx": 4794, "name": "Walton Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School bus garage, school address"}
+{"idx": 4795, "name": "Inland Empire Sm Bus Devmnt", "verdict": "not_transport", "confidence": 0.9, "reason": "Small business development center"}
+{"idx": 4796, "name": "Club Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possibly special-needs"}
+{"idx": 4797, "name": "E M Strauss Intl Bus Mgmt", "verdict": "not_transport", "confidence": 0.6, "reason": "International business management, not transport"}
+{"idx": 4798, "name": "Hillcrest Limosne & Trnsp SVC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine and transport service"}
+{"idx": 4799, "name": "Merit Medi Trans", "verdict": "private_contractor", "confidence": 0.65, "reason": "Medical transport, special-needs"}

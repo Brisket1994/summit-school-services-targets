@@ -1,0 +1,30 @@
+{"idx": 4320, "name": "I K S Transportation Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private NJ special-needs transport Inc"}
+{"idx": 4321, "name": "Lux Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4322, "name": "Marek Wolosz Co", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear business type"}
+{"idx": 4323, "name": "Mike Johnson Carwash", "verdict": "not_transport", "confidence": 0.9, "reason": "Carwash, not transport operator"}
+{"idx": 4324, "name": "Northeast Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4325, "name": "Pristine Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4326, "name": "Rede Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service Inc, special-needs flagged"}
+{"idx": 4327, "name": "Rezman Express Corp", "verdict": "private_contractor", "confidence": 0.65, "reason": "Express Corp, likely private transport"}
+{"idx": 4328, "name": "Saba Trading Co", "verdict": "not_transport", "confidence": 0.75, "reason": "Trading company, not transport"}
+{"idx": 4329, "name": "TNS Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4330, "name": "M T G Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4331, "name": "Stay In Your Lane Schoolie Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Schoolie Bus, private school transport"}
+{"idx": 4332, "name": "Berlington Transporting", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private PA school transport company"}
+{"idx": 4333, "name": "Mobility Partners Of Houston", "verdict": "private_contractor", "confidence": 0.65, "reason": "Mobility services, special-needs transport"}
+{"idx": 4334, "name": "Cretan Logistix LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Logistics LLC, possible special-needs transport"}
+{"idx": 4335, "name": "Felix Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4336, "name": "Independent Living Partnership", "verdict": "not_transport", "confidence": 0.85, "reason": "Nonprofit ILP, not transport operator"}
+{"idx": 4337, "name": "Jade Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 4338, "name": "Marketplace Foods", "verdict": "not_transport", "confidence": 0.9, "reason": "Food business, not transport"}
+{"idx": 4339, "name": "Limousine Corp America", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo corp, possible special-needs transport"}
+{"idx": 4340, "name": "PCC Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private VA transportation LLC"}
+{"idx": 4341, "name": "School Boy Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LA school transportation LLC"}
+{"idx": 4342, "name": "Medline 1 LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Medical-sounding name, unclear transport"}
+{"idx": 4343, "name": "Royal Health Care", "verdict": "not_transport", "confidence": 0.8, "reason": "Healthcare, not transport operator"}
+{"idx": 4344, "name": "Steelhead Enterprises Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic enterprise name, unclear"}
+{"idx": 4345, "name": "Campus Cab & Limo Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Cab/limo service, possible student transport"}
+{"idx": 4346, "name": "Pax Assist Inc", "verdict": "not_transport", "confidence": 0.75, "reason": "Airport passenger assist, not school"}
+{"idx": 4347, "name": "Valera Global-Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "NYC ground transport, possible special-needs"}
+{"idx": 4348, "name": "Unique Senior Concierge Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Senior concierge, not school transport"}
+{"idx": 4349, "name": "Carey/Phoenix Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Carey limo franchise, possible transport"}

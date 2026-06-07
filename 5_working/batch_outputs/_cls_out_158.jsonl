@@ -1,0 +1,30 @@
+{"idx": 4740, "name": "Sfax Limousine Svc LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Limousine LLC, special needs transport"}
+{"idx": 4741, "name": "Northampton County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County public school district"}
+{"idx": 4742, "name": "Star-News Newsroom Bus Ofc Mgr", "verdict": "not_transport", "confidence": 0.9, "reason": "Newspaper business office, not transport"}
+{"idx": 4743, "name": "Spectran Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Nebraska school bus operator, Inc"}
+{"idx": 4744, "name": "Sutton Public School-Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus barn"}
+{"idx": 4745, "name": "Rapid City Area Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 4746, "name": "South Dakota Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small business development center"}
+{"idx": 4747, "name": "Tennessee Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small business development center"}
+{"idx": 4748, "name": "Alliance Premier Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 4749, "name": "Nelson County Transportation", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "County transportation, likely public"}
+{"idx": 4750, "name": "A Plus Bus Forms & Systems", "verdict": "not_transport", "confidence": 0.85, "reason": "Business forms supplier, not transport"}
+{"idx": 4751, "name": "Northern Express Bus Serivce", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus service company name"}
+{"idx": 4752, "name": "American Russian Bus Council", "verdict": "not_transport", "confidence": 0.95, "reason": "Business council, not transport"}
+{"idx": 4753, "name": "Higgins & Bagwell Bus Mgmt", "verdict": "not_transport", "confidence": 0.9, "reason": "Business management firm"}
+{"idx": 4754, "name": "Outbound Transportation Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Transportation Inc, special needs"}
+{"idx": 4755, "name": "Vision Contractor Institute", "verdict": "not_transport", "confidence": 0.9, "reason": "Training institute, not transport"}
+{"idx": 4756, "name": "Ap Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear"}
+{"idx": 4757, "name": "Atlanta Transportation Systems", "verdict": "private_contractor", "confidence": 0.75, "reason": "Transportation company, special needs flag"}
+{"idx": 4758, "name": "Breen Group", "verdict": "unsure", "confidence": 0.4, "reason": "Generic group name"}
+{"idx": 4759, "name": "Coat & Tails Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limousine operator"}
+{"idx": 4760, "name": "Eirelave", "verdict": "unsure", "confidence": 0.35, "reason": "Unknown name, unclear business"}
+{"idx": 4761, "name": "Executive Priority Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limousine service operator"}
+{"idx": 4762, "name": "Georgia One Limousine Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Limousine Inc operator"}
+{"idx": 4763, "name": "J TS Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service operator"}
+{"idx": 4764, "name": "National Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limousine service operator"}
+{"idx": 4765, "name": "Sir DS Limo Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service operator"}
+{"idx": 4766, "name": "Presidential Limousines", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limousine service operator"}
+{"idx": 4767, "name": "Cathay Express Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Transportation company, special needs"}
+{"idx": 4768, "name": "Dallas Knights", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, unclear business"}
+{"idx": 4769, "name": "Dme Scooters & More Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Durable medical equipment scooters supplier"}

@@ -1,0 +1,30 @@
+{"idx": 5850, "name": "Mason & Sons Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned bus service, school transport"}
+{"idx": 5851, "name": "Cummings Mobility Convrsn", "verdict": "not_transport", "confidence": 0.85, "reason": "Mobility vehicle conversion business, not operator"}
+{"idx": 5852, "name": "Cherokee County Sch Dist Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus garage"}
+{"idx": 5853, "name": "Swain County Schools Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district garage"}
+{"idx": 5854, "name": "American Ambulette Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Ambulette likely special-needs transport"}
+{"idx": 5855, "name": "Dawn To Dusk Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, possible special-needs transport"}
+{"idx": 5856, "name": "Home Mobility Able", "verdict": "unsure", "confidence": 0.5, "reason": "Unclear, possible mobility/disability transport"}
+{"idx": 5857, "name": "Salem Central School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district bus garage"}
+{"idx": 5858, "name": "Pride Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible special-needs"}
+{"idx": 5859, "name": "All State Line Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, school transport"}
+{"idx": 5860, "name": "School Link Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC"}
+{"idx": 5861, "name": "West Side Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation, school flag"}
+{"idx": 5862, "name": "Jumbo Westchester Taxi Svc Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Taxi service, contracts school transport"}
+{"idx": 5863, "name": "Red Oak Luxury Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service, school transport"}
+{"idx": 5864, "name": "Logan County Historical Scty", "verdict": "not_transport", "confidence": 0.95, "reason": "Historical society, trolley museum"}
+{"idx": 5865, "name": "S & C Collins Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned private bus company"}
+{"idx": 5866, "name": "Backroads Auto Truck & Bus LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Possibly auto/truck/bus dealer not operator"}
+{"idx": 5867, "name": "Rivero School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company"}
+{"idx": 5868, "name": "Flojean Elite Svc LLC", "verdict": "unsure", "confidence": 0.45, "reason": "Generic name, unclear service type"}
+{"idx": 5869, "name": "Canton City Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public city school district"}
+{"idx": 5870, "name": "Hope Haven Intl", "verdict": "not_transport", "confidence": 0.9, "reason": "Disability nonprofit, not transport operator"}
+{"idx": 5871, "name": "Advance Courier Transportation", "verdict": "unsure", "confidence": 0.4, "reason": "Courier service, unclear special-needs role"}
+{"idx": 5872, "name": "Aloha Limousine Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine company, possible special-needs"}
+{"idx": 5873, "name": "Panorama Management Inc Which", "verdict": "unsure", "confidence": 0.35, "reason": "Management company, unclear operator role"}
+{"idx": 5874, "name": "A-Amore Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible special-needs"}
+{"idx": 5875, "name": "A1 Medicar", "verdict": "private_contractor", "confidence": 0.65, "reason": "Medicar, likely medical/special-needs transport"}
+{"idx": 5876, "name": "Age Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible special-needs"}
+{"idx": 5877, "name": "Aitis Inc", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, unclear business"}
+{"idx": 5878, "name": "Alacranes De Durango Inc", "verdict": "unsure", "confidence": 0.35, "reason": "Generic ethnic name, unclear transport role"}
+{"idx": 5879, "name": "Ashika Medicar LTD", "verdict": "private_contractor", "confidence": 0.65, "reason": "Medicar, likely medical/special-needs transport"}

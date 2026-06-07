@@ -1,0 +1,30 @@
+{"idx": 2310, "name": "Maria Gamboa Sch Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named school bus service Inc"}
+{"idx": 2311, "name": "F & M Bus Van Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus/van corp, NYC area"}
+{"idx": 2312, "name": "A1 School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator"}
+{"idx": 2313, "name": "Dependability Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private co, Philly school transport"}
+{"idx": 2314, "name": "Dependability Co School", "verdict": "private_contractor", "confidence": 0.7, "reason": "Related Philly school bus operator"}
+{"idx": 2315, "name": "Metro West Limousine", "verdict": "private_contractor", "confidence": 0.75, "reason": "Limo company doing special needs transport"}
+{"idx": 2316, "name": "KBR Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private Inc school bus operator"}
+{"idx": 2317, "name": "Fairview Range Trnsprtn Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Fairview Health hospital transport, not school"}
+{"idx": 2318, "name": "Schools Public Bus Mntnc Dept", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public schools bus maintenance department"}
+{"idx": 2319, "name": "School Plus Shuttle LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school shuttle service"}
+{"idx": 2320, "name": "Road Runner", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, special needs transport"}
+{"idx": 2321, "name": "Ingham County In-Tran Rural Sm", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County public transit agency (CATA)"}
+{"idx": 2322, "name": "Joiner Enterprises", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private enterprises, rural school bus"}
+{"idx": 2323, "name": "Brookville Local Sch Dist TRNS", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 2324, "name": "Anywhere Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo company doing special needs"}
+{"idx": 2325, "name": "LED Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc, LED Transportation special needs"}
+{"idx": 2326, "name": "Pymatuning Bus Garage", "verdict": "unsure", "confidence": 0.5, "reason": "Bus garage, ambiguous public/private"}
+{"idx": 2327, "name": "Sealy Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD school district transportation"}
+{"idx": 2328, "name": "Basma School Transport Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school transport"}
+{"idx": 2329, "name": "Southern Tier TRCK & Bus Parts", "verdict": "not_transport", "confidence": 0.85, "reason": "Truck and bus parts supplier"}
+{"idx": 2330, "name": "Montevideo Public Schl Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus operation"}
+{"idx": 2331, "name": "British American Bus Council", "verdict": "not_transport", "confidence": 0.7, "reason": "Council/association, not operator"}
+{"idx": 2332, "name": "KATY Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD school district transportation"}
+{"idx": 2333, "name": "Friendly Harbor Svc Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private service Inc, special needs"}
+{"idx": 2334, "name": "Iberia R-5 School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "R-5 school district bus operation"}
+{"idx": 2335, "name": "Woodbridge Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 2336, "name": "Deming Karen", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, beach wheelchair website"}
+{"idx": 2337, "name": "Curative Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport service, special needs"}
+{"idx": 2338, "name": "BCDPF Greenwood Bus Ctr LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC bus center"}
+{"idx": 2339, "name": "Space Shipping Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Shipping/logistics, not school transport"}

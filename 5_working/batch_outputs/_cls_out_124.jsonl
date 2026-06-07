@@ -1,0 +1,30 @@
+{"idx": 3720, "name": "Latta Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.96, "reason": "District transport dept, Dillon3 K12 website"}
+{"idx": 3721, "name": "Martinez School Bus Svc", "verdict": "private_contractor", "confidence": 0.86, "reason": "Family-name school bus service"}
+{"idx": 3722, "name": "Caregiver Assist Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Special-needs transport provider, likely NEMT"}
+{"idx": 3723, "name": "Arc Glow", "verdict": "not_transport", "confidence": 0.75, "reason": "Arc disability services nonprofit, not transport co"}
+{"idx": 3724, "name": "Ngongo Non-Emergency Trnsprtn", "verdict": "private_contractor", "confidence": 0.65, "reason": "NEMT operator, possible special-needs"}
+{"idx": 3725, "name": "Mallard Regional Trnsprtn", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private regional special-needs transport"}
+{"idx": 3726, "name": "St Marys Cy Schools-Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City schools bus garage, district-owned"}
+{"idx": 3727, "name": "Top Tier Senior Transport", "verdict": "not_transport", "confidence": 0.7, "reason": "Senior transport, not student"}
+{"idx": 3728, "name": "Cleveland Wheelchair Cavaliers", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair transport, possibly special-needs"}
+{"idx": 3729, "name": "Otte School Buses", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 3730, "name": "Cambridge Isanti Transport", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transport, c-ischools.org website"}
+{"idx": 3731, "name": "Patient First Transport", "verdict": "not_transport", "confidence": 0.75, "reason": "Patient/medical NEMT, not student"}
+{"idx": 3732, "name": "Weatherford Public Sch Bus BRN", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school bus barn, district-owned"}
+{"idx": 3733, "name": "Lyme Central School Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district garage"}
+{"idx": 3734, "name": "Shamrock Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not student transport"}
+{"idx": 3735, "name": "Shandon Unified Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Unified school district transportation"}
+{"idx": 3736, "name": "Littleton Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 3737, "name": "Cummings Mobility", "verdict": "not_transport", "confidence": 0.8, "reason": "Mobility equipment dealer, not transport operator"}
+{"idx": 3738, "name": "Blue Ridge School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus barn, blueridge18.org"}
+{"idx": 3739, "name": "Drakeford Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name private transport service"}
+{"idx": 3740, "name": "Afton Central School-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transportation"}
+{"idx": 3741, "name": "On Time Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair NEMT, possibly special-needs"}
+{"idx": 3742, "name": "Access Transit", "verdict": "unsure", "confidence": 0.4, "reason": "Could be public transit agency or private"}
+{"idx": 3743, "name": "E & E Medical Trnsprtn LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical NEMT, not student transport"}
+{"idx": 3744, "name": "Texim Brokerage LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Brokerage, not transport operator"}
+{"idx": 3745, "name": "CST Trucking", "verdict": "not_transport", "confidence": 0.75, "reason": "Trucking company, not student transport"}
+{"idx": 3746, "name": "Nico Care Med Transport LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical NEMT, not student transport"}
+{"idx": 3747, "name": "Swing Natural Limousine", "verdict": "not_transport", "confidence": 0.75, "reason": "Limousine service, not student transport"}
+{"idx": 3748, "name": "A1 Senior Trnsprtn Svc LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "Senior transport, not student"}
+{"idx": 3749, "name": "Cass City Public Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school bus garage, district-owned"}

@@ -1,0 +1,30 @@
+{"idx": 1710, "name": "Stroudsburg Area Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district name and .org domain"}
+{"idx": 1711, "name": "Mid South Bus Ctr Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Bus center may be dealership, not operator"}
+{"idx": 1712, "name": "Raytown Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District-owned bus garage"}
+{"idx": 1713, "name": "JG Us Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc with bus DBA, likely private operator"}
+{"idx": 1714, "name": "School Craft County Transit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County transit authority, public entity"}
+{"idx": 1715, "name": "Highland Schools Bus Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District transportation department"}
+{"idx": 1716, "name": "Tri-County Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc bus company, likely private contractor"}
+{"idx": 1717, "name": "Gilbert School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named school bus company"}
+{"idx": 1718, "name": "Guardian School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company"}
+{"idx": 1719, "name": "School Bus Air LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC operating school bus service"}
+{"idx": 1720, "name": "Tallmadge Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District bus garage with schools.org"}
+{"idx": 1721, "name": "Cram 101 Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc with bus DBA"}
+{"idx": 1722, "name": "Orange Line Bus Stop", "verdict": "unsure", "confidence": 0.4, "reason": "Name ambiguous, could be transit stop"}
+{"idx": 1723, "name": "Dothan Bus Station LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Bus station LLC, unclear if school operator"}
+{"idx": 1724, "name": "Clearcut Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc with bus DBA"}
+{"idx": 1725, "name": "Non Emergency Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Medex non-emergency transport, special needs"}
+{"idx": 1726, "name": "Supervisor Of Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation supervisor role"}
+{"idx": 1727, "name": "Community Bus Resource Council", "verdict": "not_transport", "confidence": 0.85, "reason": "Council/resource organization, not operator"}
+{"idx": 1728, "name": "London Bus Food LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "Food business in bus, not transport"}
+{"idx": 1729, "name": "CMR Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc with bus DBA"}
+{"idx": 1730, "name": "Joplin Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District transportation department"}
+{"idx": 1731, "name": "New York City Sch Bus Umbrella", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "NYCSBUS is NYC DOE nonprofit, not acquirable"}
+{"idx": 1732, "name": "Premiere Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "NYC private bus company"}
+{"idx": 1733, "name": "STP Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NYC transport company"}
+{"idx": 1734, "name": "Better Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus service"}
+{"idx": 1735, "name": "BTT United Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service"}
+{"idx": 1736, "name": "Janet Cioffi School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Personal-named school bus operator"}
+{"idx": 1737, "name": "Licia School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Personal-named school bus operator"}
+{"idx": 1738, "name": "Tania School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Personal-named school bus operator"}
+{"idx": 1739, "name": "Lesa Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "LESA k12.mi.us, educational service agency"}

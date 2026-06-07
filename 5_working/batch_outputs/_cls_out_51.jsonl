@@ -1,0 +1,30 @@
+{"idx": 1530, "name": "Recurrency Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear if transport"}
+{"idx": 1531, "name": "1st ABC School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation provider"}
+{"idx": 1532, "name": "Bluebonnett School Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation operator"}
+{"idx": 1533, "name": "Catano's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1534, "name": "Company Bus Entreprise Inv", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus enterprise"}
+{"idx": 1535, "name": "Copperas Cove Isd Trnsprtn Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department, in-house"}
+{"idx": 1536, "name": "Denton Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Independent school district, public"}
+{"idx": 1537, "name": "E Auto & Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Could be auto dealer not transport"}
+{"idx": 1538, "name": "Elementary School Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Likely small private operator"}
+{"idx": 1539, "name": "Elsy's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1540, "name": "H S Bus Express", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus service operator"}
+{"idx": 1541, "name": "Houston Students Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private student bus service"}
+{"idx": 1542, "name": "J-Lo School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service"}
+{"idx": 1543, "name": "Lopez School Bus Seat Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private school bus operator"}
+{"idx": 1544, "name": "Lucy's Magik School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1545, "name": "Lulu's School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1546, "name": "Magic Little People School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus operator"}
+{"idx": 1547, "name": "Marias School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1548, "name": "Maxin's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1549, "name": "Najera's School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1550, "name": "Nancy Perez School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1551, "name": "R & M School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus operator"}
+{"idx": 1552, "name": "Ramirez School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1553, "name": "Renae's One Stop Bus Ctr", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus center, family-name"}
+{"idx": 1554, "name": "Ricky's School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1555, "name": "Russian American Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus operator"}
+{"idx": 1556, "name": "Sandra's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1557, "name": "Sarai School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1558, "name": "Yederlin's Bus School Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1559, "name": "Little Falls Bus Corp", "verdict": "private_contractor", "confidence": 0.92, "reason": "Corp suffix, private bus operator"}

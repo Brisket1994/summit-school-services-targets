@@ -1,0 +1,30 @@
+{"idx": 4260, "name": "West Prairie Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department"}
+{"idx": 4261, "name": "Anywhere Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport service"}
+{"idx": 4262, "name": "Joedread Enterprises LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, special needs transport"}
+{"idx": 4263, "name": "Action International Bus CCHNG", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus/coach operator"}
+{"idx": 4264, "name": "Boscobel Area Public Schl Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 4265, "name": "Simi Valley School Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department"}
+{"idx": 4266, "name": "British Bus Co LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC bus company"}
+{"idx": 4267, "name": "Palatka LLC A NV Doing Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous LLC name, unclear operations"}
+{"idx": 4268, "name": "Turtle Beach Corp Which Will", "verdict": "not_transport", "confidence": 0.7, "reason": "Turtle Beach is audio products company"}
+{"idx": 4269, "name": "Alexis Limo", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service, special needs"}
+{"idx": 4270, "name": "Bay Shippers LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Name suggests freight not student transport"}
+{"idx": 4271, "name": "Raichles Transport Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name private transport service"}
+{"idx": 4272, "name": "Supreme Limousine Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo Inc, special needs"}
+{"idx": 4273, "name": "Limo Motion Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo Inc, special needs"}
+{"idx": 4274, "name": "Phillips Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 4275, "name": "Redeem Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport"}
+{"idx": 4276, "name": "Primo Select Limousines", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service, special needs"}
+{"idx": 4277, "name": "Sister America Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear operations"}
+{"idx": 4278, "name": "Grand Mesa Medical Supply", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical supply company, not transport"}
+{"idx": 4279, "name": "R & S Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private family-initial transport"}
+{"idx": 4280, "name": "Professional Care Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private medical/care transport"}
+{"idx": 4281, "name": "Rapid Transit Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private Inc, special-needs transport"}
+{"idx": 4282, "name": "Becker Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 4283, "name": "National Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service"}
+{"idx": 4284, "name": "Magic Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service"}
+{"idx": 4285, "name": "Upstream USA", "verdict": "not_transport", "confidence": 0.9, "reason": "Nonprofit healthcare org, not transport"}
+{"idx": 4286, "name": "BML Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transportation service"}
+{"idx": 4287, "name": "Fort Bragg Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 4288, "name": "Yuma School District Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 4289, "name": "Central Wheelchair-Van", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private wheelchair van service"}

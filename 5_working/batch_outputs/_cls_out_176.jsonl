@@ -1,0 +1,30 @@
+{"idx": 5280, "name": "Deanna Specialty Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Specialty transport Inc, special needs"}
+{"idx": 5281, "name": "Love Out Reach", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely nonprofit outreach, not transport"}
+{"idx": 5282, "name": "Always From The Heart Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special needs transport name"}
+{"idx": 5283, "name": "Always Platinum Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine Inc, possibly NEMT/special"}
+{"idx": 5284, "name": "Back In Time LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous LLC name"}
+{"idx": 5285, "name": "School Bus 1", "verdict": "private_contractor", "confidence": 0.6, "reason": "Howard Management, possible private operator"}
+{"idx": 5286, "name": "West Orange Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District-owned bus garage"}
+{"idx": 5287, "name": "Amen Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport, special needs flagged"}
+{"idx": 5288, "name": "BTW Transportation Shop", "verdict": "unsure", "confidence": 0.4, "reason": "BTW likely Booker T Washington school"}
+{"idx": 5289, "name": "Complete Patient Care Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Patient care company, not transport"}
+{"idx": 5290, "name": "CTC Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC transport with website"}
+{"idx": 5291, "name": "CTT Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Initials only, no detail"}
+{"idx": 5292, "name": "M & C Community Transit", "verdict": "private_contractor", "confidence": 0.6, "reason": "Community transit, possibly private"}
+{"idx": 5293, "name": "Quality Transportation", "verdict": "not_transport", "confidence": 0.6, "reason": "Website is aluminum company"}
+{"idx": 5294, "name": "Always Quality Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special needs transport"}
+{"idx": 5295, "name": "Always Quality TRNSP LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport operator"}
+{"idx": 5296, "name": "Impressions Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly NEMT"}
+{"idx": 5297, "name": "Millennium Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly NEMT"}
+{"idx": 5298, "name": "European-American Bus Council", "verdict": "not_transport", "confidence": 0.9, "reason": "Trade/policy council, not operator"}
+{"idx": 5299, "name": "National Womens Bus Ctr Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Business center nonprofit, not transport"}
+{"idx": 5300, "name": "Ukrain Nted States Bus Council", "verdict": "not_transport", "confidence": 0.9, "reason": "Business council, not transport operator"}
+{"idx": 5301, "name": "Habersham Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Likely county school bus shop"}
+{"idx": 5302, "name": "Faletti Enterprises Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-owned Inc, special needs"}
+{"idx": 5303, "name": "Medical-Mobility SPECLSTS TX", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical mobility specialists, NEMT not school"}
+{"idx": 5304, "name": "Stat Care EMS", "verdict": "not_transport", "confidence": 0.9, "reason": "EMS ambulance, not school transport"}
+{"idx": 5305, "name": "Ty's Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport service"}
+{"idx": 5306, "name": "Milwaukee Bus Co Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus Co Inc private operator"}
+{"idx": 5307, "name": "Stenerson Buses Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named Buses Inc operator"}
+{"idx": 5308, "name": "Abet Medical Transportation", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical NEMT, not school transport"}
+{"idx": 5309, "name": "Active Mobility Ctr", "verdict": "not_transport", "confidence": 0.7, "reason": "Mobility equipment center, not transport"}

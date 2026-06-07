@@ -1,0 +1,30 @@
+{"idx": 1920, "name": "Franklin Driving Sch-Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "Driving school with transport arm, ambiguous"}
+{"idx": 1921, "name": "Palmer Bus Svc Of Maple River", "verdict": "private_contractor", "confidence": 0.9, "reason": "Palmer Bus Service branch, private contractor"}
+{"idx": 1922, "name": "Gotham Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NYC transportation company name"}
+{"idx": 1923, "name": "Z Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC bus service, private operator"}
+{"idx": 1924, "name": "Kent City Schools Trnsprtn Ctr", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district in-house transportation"}
+{"idx": 1925, "name": "Mt Horeb Area Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus garage"}
+{"idx": 1926, "name": "Bath Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service operator"}
+{"idx": 1927, "name": "Accessible Vans Of NC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Ilderton vans dealership/transport, possibly private"}
+{"idx": 1928, "name": "CJ Medical Trnsprtn Co Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possible special needs operator"}
+{"idx": 1929, "name": "Marion Co School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school bus garage, public"}
+{"idx": 1930, "name": "Ray's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service Inc"}
+{"idx": 1931, "name": "Beaumont USD Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district transportation"}
+{"idx": 1932, "name": "J & J School Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus transportation Inc"}
+{"idx": 1933, "name": "Academy Express LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private charter/transit operator LLC"}
+{"idx": 1934, "name": "Atlantic Express Si Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Atlantic Express defunct/private operator"}
+{"idx": 1935, "name": "Central Valley Sch Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "Could be district or private, ambiguous"}
+{"idx": 1936, "name": "Carthage Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD in-house transportation"}
+{"idx": 1937, "name": "Lakes Medi-Van", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical van service, possible special needs"}
+{"idx": 1938, "name": "Transit Service", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear ownership"}
+{"idx": 1939, "name": "Goodwill Transportation Co", "verdict": "unsure", "confidence": 0.5, "reason": "Possibly Goodwill nonprofit transport arm"}
+{"idx": 1940, "name": "Schools Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department"}
+{"idx": 1941, "name": "Utah Valley Paratransit", "verdict": "unsure", "confidence": 0.5, "reason": "Paratransit, possibly nonprofit/public"}
+{"idx": 1942, "name": "Carrollton City Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district"}
+{"idx": 1943, "name": "Empiric Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Incorporation filing artifact, likely not transport"}
+{"idx": 1944, "name": "Facet Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Incorporation filing artifact, likely not transport"}
+{"idx": 1945, "name": "Outdoor Living Inc Which Will", "verdict": "not_transport", "confidence": 0.75, "reason": "Outdoor Living company, not transport"}
+{"idx": 1946, "name": "Wethetrillions PBC Which Will", "verdict": "not_transport", "confidence": 0.75, "reason": "PBC company, not transport operator"}
+{"idx": 1947, "name": "Sammi Daewoo Bus Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus service company"}
+{"idx": 1948, "name": "Stephens Truck & Bus Repair", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus repair shop, not operator"}
+{"idx": 1949, "name": "M & K Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus service LLC"}

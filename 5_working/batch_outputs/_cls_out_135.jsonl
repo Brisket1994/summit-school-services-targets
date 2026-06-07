@@ -1,0 +1,30 @@
+{"idx": 4050, "name": "Quonset Tradesman's Units", "verdict": "not_transport", "confidence": 0.8, "reason": "Tradesman units, not transport operator"}
+{"idx": 4051, "name": "Keystone Bus Solutions LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus services company"}
+{"idx": 4052, "name": "Newport News Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4053, "name": "Pryor Rawland", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear entity"}
+{"idx": 4054, "name": "Servicec-Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 4055, "name": "Whitaker Brothers Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private bus operator"}
+{"idx": 4056, "name": "Schools Public Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus garage"}
+{"idx": 4057, "name": "Personal Care Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely NEMT/special needs private operator"}
+{"idx": 4058, "name": "P M Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, likely NEMT/special needs"}
+{"idx": 4059, "name": "John Henrys Express Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus company"}
+{"idx": 4060, "name": "Blackford County High School", "verdict": "not_transport", "confidence": 0.97, "reason": "Actual high school, not transport"}
+{"idx": 4061, "name": "East Coast Floor Covering", "verdict": "not_transport", "confidence": 0.97, "reason": "Floor covering business, not transport"}
+{"idx": 4062, "name": "Gulf Coast Executive Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, possibly special-needs transport"}
+{"idx": 4063, "name": "Union Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, likely special needs"}
+{"idx": 4064, "name": "Robert's Hawaii School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus Inc, established operator"}
+{"idx": 4065, "name": "North Plainfield Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District in-house transportation department"}
+{"idx": 4066, "name": "Net-Care Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Net-Care, unclear if transport operator"}
+{"idx": 4067, "name": "Diamond Transport Of VA LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transport, likely NEMT"}
+{"idx": 4068, "name": "Transport4elders LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Elder transport, not student/school"}
+{"idx": 4069, "name": "Virginia Non Emergency Med", "verdict": "not_transport", "confidence": 0.75, "reason": "NEMT medical transport, not student-focused"}
+{"idx": 4070, "name": "All Around Transport LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC transport, likely special needs"}
+{"idx": 4071, "name": "ATS Apex Transit Solutions", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transit solutions company"}
+{"idx": 4072, "name": "Budget Dumpster Rental", "verdict": "not_transport", "confidence": 0.98, "reason": "Dumpster rental, not transport"}
+{"idx": 4073, "name": "Friendly Ride Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private ride company, likely NEMT/special needs"}
+{"idx": 4074, "name": "Graceful Living Med Trnsprtn", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not student-focused"}
+{"idx": 4075, "name": "Open Arms Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, possibly special needs"}
+{"idx": 4076, "name": "Tobi Transportation LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC transport, likely special needs"}
+{"idx": 4077, "name": "Alliance Interoffice Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Interoffice business center, not transport"}
+{"idx": 4078, "name": "Cheltenham Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Could be district or private; township name"}
+{"idx": 4079, "name": "Lake Country Area Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "LCAAA area agency on aging, not student"}

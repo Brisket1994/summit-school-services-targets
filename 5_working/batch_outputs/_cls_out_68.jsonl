@@ -1,0 +1,30 @@
+{"idx": 2040, "name": "Meramec Valley R3", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "R3 designates Missouri public school district"}
+{"idx": 2041, "name": "Ponca City Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 2042, "name": "Damas Service School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus service company"}
+{"idx": 2043, "name": "Ever Spring Inc Which Will Do", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc corporate suffix, NY school operator"}
+{"idx": 2044, "name": "Curl School Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name bus service, but district website"}
+{"idx": 2045, "name": "Brady Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 2046, "name": "School Time Transit Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Corp suffix, private transit operator"}
+{"idx": 2047, "name": "Efficient School TRNSPRTN", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation company"}
+{"idx": 2048, "name": "Rock Island County Senior Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Senior center, not transport operator"}
+{"idx": 2049, "name": "Condo Pharmacy Ltc", "verdict": "not_transport", "confidence": 0.98, "reason": "Pharmacy, not transportation"}
+{"idx": 2050, "name": "Orange Street Bus Facility", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "SLC district bus yard facility"}
+{"idx": 2051, "name": "Leon County Sch Trnsprtn-Buses", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation"}
+{"idx": 2052, "name": "Universal Cab & Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Cab/limo, possibly some special needs transport"}
+{"idx": 2053, "name": "Sandusky Community Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 2054, "name": "Athens Public Schools Oper Ctr", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district operations center"}
+{"idx": 2055, "name": "Busy Bus USA", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company name"}
+{"idx": 2056, "name": "Gaylord Community Sch Dist Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district bus dept"}
+{"idx": 2057, "name": "Wayland Union SCHLS Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Union schools transportation dept"}
+{"idx": 2058, "name": "Coulter Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name Inc bus service"}
+{"idx": 2059, "name": "Amestoy Corp Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name Corp bus operator"}
+{"idx": 2060, "name": "Another Level Sch Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc school transportation company"}
+{"idx": 2061, "name": "Dino School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation company"}
+{"idx": 2062, "name": "Florida Bus Mart Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus mart/dealer, not operator"}
+{"idx": 2063, "name": "Lucy's School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC possessive-name school transport"}
+{"idx": 2064, "name": "M D Child School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation company"}
+{"idx": 2065, "name": "Sonrisa Private Schl Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation company"}
+{"idx": 2066, "name": "Teenagers School Trnsprtn-More", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation operator"}
+{"idx": 2067, "name": "Y & M School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation company"}
+{"idx": 2068, "name": "Yami's School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC possessive-name school transport"}
+{"idx": 2069, "name": "Yeya School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation company"}

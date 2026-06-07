@@ -1,0 +1,30 @@
+{"idx": 2400, "name": "Ohio School Bus SVC LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school bus service operator"}
+{"idx": 2401, "name": "Coweta County Sch Syst", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school system, public district"}
+{"idx": 2402, "name": "National Mobil Medical Concept", "verdict": "private_contractor", "confidence": 0.6, "reason": "Special needs medical transport company"}
+{"idx": 2403, "name": "Kent Mitchell Bus Sales & Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Bus sales and service, not operator"}
+{"idx": 2404, "name": "Layla Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport NJ"}
+{"idx": 2405, "name": "Lpi Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc with bus operations Nevada"}
+{"idx": 2406, "name": "Ozarks Bus Svc", "verdict": "unsure", "confidence": 0.5, "reason": "Website suggests business services not bus"}
+{"idx": 2407, "name": "Lee School Bus Maintenance SHP", "verdict": "not_transport", "confidence": 0.7, "reason": "Maintenance shop not operator"}
+{"idx": 2408, "name": "Buncombe County Sch Transport", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transport department"}
+{"idx": 2409, "name": "A1 School Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc school transport NJ"}
+{"idx": 2410, "name": "Trinity Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Wheelchair special needs transport"}
+{"idx": 2411, "name": "Bayer Truck & Auto Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Truck and auto center, not bus"}
+{"idx": 2412, "name": "Wheelchairability LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair LLC special needs transport"}
+{"idx": 2413, "name": "Lochenheath Bus Office", "verdict": "unsure", "confidence": 0.4, "reason": "Possibly resort business office, unclear"}
+{"idx": 2414, "name": "Cannon Falls Area Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School bus garage, district facility"}
+{"idx": 2415, "name": "Oconto Falls Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation"}
+{"idx": 2416, "name": "Northern Bus Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus lines private operator MA"}
+{"idx": 2417, "name": "Mcalester Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school transportation department"}
+{"idx": 2418, "name": "American General Bus Inc Gen", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc bus operator NYC"}
+{"idx": 2419, "name": "Integrated Tech Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus service Michigan private"}
+{"idx": 2420, "name": "Richland Center Bus Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Website Kobussen suggests Kobussen ownership"}
+{"idx": 2421, "name": "Oklahoma Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small business development center"}
+{"idx": 2422, "name": "El Campo Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Independent school district"}
+{"idx": 2423, "name": "Amex Medi-Car Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transport Inc special needs"}
+{"idx": 2424, "name": "Handi-Wheels Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Special needs wheelchair transport ND"}
+{"idx": 2425, "name": "VII Equity Bus Resources LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "LLC bus resources, possible equity ownership"}
+{"idx": 2426, "name": "Crossroads Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC special needs transport CT"}
+{"idx": 2427, "name": "Keller Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name bus service Idaho"}
+{"idx": 2428, "name": "Scootaround", "verdict": "not_transport", "confidence": 0.85, "reason": "Mobility scooter rental, not school transport"}
+{"idx": 2429, "name": "Aseneth School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator FL"}

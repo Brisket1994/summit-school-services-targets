@@ -1,0 +1,25 @@
+{"idx": 75, "name": "Randall Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus service, FL"}
+{"idx": 76, "name": "Raphael Irvin Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private bus Inc, NJ"}
+{"idx": 77, "name": "GST Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NJ school transport company"}
+{"idx": 78, "name": "Twincity Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MN school transport company"}
+{"idx": 79, "name": "Kearsley Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District site k12.mi.us; in-house transport"}
+{"idx": 80, "name": "Cobleskill-Richmondville", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district crcsd.org transport dept"}
+{"idx": 81, "name": "Mt Horeb Area Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District bus garage, k12.wi.us"}
+{"idx": 82, "name": "Harlow's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned private MT bus service"}
+{"idx": 83, "name": "Southwinds School Activity Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private CA activity bus service"}
+{"idx": 84, "name": "Southwest Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private WI bus service Inc"}
+{"idx": 85, "name": "Highpoint Baptist Church", "verdict": "not_transport", "confidence": 0.98, "reason": "Church, not transport operator"}
+{"idx": 86, "name": "Safeway Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MI special-needs transport company"}
+{"idx": 87, "name": "Community Ambulance Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance/EMS, not school transport"}
+{"idx": 88, "name": "Aetna Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Ambulance EMS, not student transport"}
+{"idx": 89, "name": "Access Ambulance Co Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Ambulance/EMS, not student transport"}
+{"idx": 90, "name": "Comtrans", "verdict": "private_contractor", "confidence": 0.7, "reason": "AZ special-needs transport provider"}
+{"idx": 91, "name": "Medride Corp", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical NEMT, not school transport"}
+{"idx": 92, "name": "Alternative Homemaking With A", "verdict": "not_transport", "confidence": 0.9, "reason": "Homemaking service, not transport"}
+{"idx": 93, "name": "Lifestar Medical Van Transport", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical van/EMS, not school transport"}
+{"idx": 94, "name": "Handi Van Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Disability NEMT van service"}
+{"idx": 95, "name": "Koala Kruizers", "verdict": "private_contractor", "confidence": 0.7, "reason": "OH special-needs private transport"}
+{"idx": 96, "name": "Van's Med-Tec Transport & Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not school"}
+{"idx": 97, "name": "New Malwa Express Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "MI private transport Inc"}
+{"idx": 98, "name": "Care-A-Van", "verdict": "not_transport", "confidence": 0.7, "reason": "NEMT/wheelchair van service"}
+{"idx": 99, "name": "Performance Mobility", "verdict": "not_transport", "confidence": 0.85, "reason": "BraunAbility mobility dealer, not transport"}

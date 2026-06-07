@@ -1,0 +1,30 @@
+{"idx": 1950, "name": "Buffalo Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation dept"}
+{"idx": 1951, "name": "Intrepid US Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; insufficient info"}
+{"idx": 1952, "name": "North American Alliance-Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus company name"}
+{"idx": 1953, "name": "PQ Calabasas Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; insufficient info"}
+{"idx": 1954, "name": "Union Springs Central Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district"}
+{"idx": 1955, "name": "X.Com Inc. Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; insufficient info"}
+{"idx": 1956, "name": "Mani Private School Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school transportation operator"}
+{"idx": 1957, "name": "XTRA Mile School Bus LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus LLC"}
+{"idx": 1958, "name": "Greenwood Community School Bus", "verdict": "public_or_inhouse", "confidence": 0.93, "reason": "Community school district transport"}
+{"idx": 1959, "name": "Fremont Public School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.96, "reason": "Public school bus garage"}
+{"idx": 1960, "name": "GWB Co-VA Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; insufficient info"}
+{"idx": 1961, "name": "Complete Bus Sltons Accnting", "verdict": "private_contractor", "confidence": 0.6, "reason": "Bus solutions accounting firm; possibly services"}
+{"idx": 1962, "name": "Western School-Health & Bus", "verdict": "unsure", "confidence": 0.45, "reason": "Ambiguous school-health-bus entity"}
+{"idx": 1963, "name": "National Charter Bus Jackson", "verdict": "private_contractor", "confidence": 0.8, "reason": "Charter bus operator"}
+{"idx": 1964, "name": "Gross School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private school bus service"}
+{"idx": 1965, "name": "Blanca's School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive-name private school bus service"}
+{"idx": 1966, "name": "Fort Bend School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Fort Bend ISD transportation"}
+{"idx": 1967, "name": "Totman Enterprises Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named private bus enterprise"}
+{"idx": 1968, "name": "National Charter Bus Fort WRTH", "verdict": "private_contractor", "confidence": 0.8, "reason": "Charter bus operator"}
+{"idx": 1969, "name": "Whitebird Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; insufficient info"}
+{"idx": 1970, "name": "Formal Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Special-needs transportation provider"}
+{"idx": 1971, "name": "Resound Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; insufficient info"}
+{"idx": 1972, "name": "Waltham Central Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.96, "reason": "Public school district transportation"}
+{"idx": 1973, "name": "Bay Parkway Bus Mntnc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Brooklyn bus maintenance company"}
+{"idx": 1974, "name": "Boro Crescent Corp", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private Brooklyn bus operator"}
+{"idx": 1975, "name": "Dle Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Brooklyn school bus service"}
+{"idx": 1976, "name": "P Benowitz", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name Brooklyn school bus operator"}
+{"idx": 1977, "name": "Brushton Moira CSD Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transportation"}
+{"idx": 1978, "name": "Krapf School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Krapf family private school bus operator"}
+{"idx": 1979, "name": "Corning-Painted Post Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district"}

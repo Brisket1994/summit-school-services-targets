@@ -1,0 +1,30 @@
+{"idx": 1620, "name": "Rock Hill School Bus Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District website (k12.sc.us); district transportation"}
+{"idx": 1621, "name": "Park Management Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; unclear business"}
+{"idx": 1622, "name": "Bertila School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Personal name school bus operator"}
+{"idx": 1623, "name": "Briar Forest School Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus service in Houston"}
+{"idx": 1624, "name": "Kaylynn School Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Personal name school bus service"}
+{"idx": 1625, "name": "Tona School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Small private school bus operator"}
+{"idx": 1626, "name": "Envap Buenviaje-SMITH PC Which", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name; PC unclear"}
+{"idx": 1627, "name": "Lancaster School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District website k12.oh.us"}
+{"idx": 1628, "name": "Ohio Association For Pupil", "verdict": "not_transport", "confidence": 0.95, "reason": "Trade association (OAPT.org)"}
+{"idx": 1629, "name": "Canisteo Central Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central School District transportation"}
+{"idx": 1630, "name": "Amherst Exempted Village Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 1631, "name": "Beal School Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named bus company in Albuquerque"}
+{"idx": 1632, "name": "Golden Marks Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name; unclear"}
+{"idx": 1633, "name": "Consolidated Bus Resources", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus resources company NJ"}
+{"idx": 1634, "name": "Erie's Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 1635, "name": "New Prairie Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School district bus garage"}
+{"idx": 1636, "name": "Reynoldsburg City Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district"}
+{"idx": 1637, "name": "Hayes Medical Transport Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport not school bus"}
+{"idx": 1638, "name": "Waterloo Central Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central School District transportation"}
+{"idx": 1639, "name": "Ride N Safe Medical Transport", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical transport not school"}
+{"idx": 1640, "name": "School To Home Drop-Off", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private school drop-off service"}
+{"idx": 1641, "name": "Flint Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 1642, "name": "Kearsley Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District website k12.mi.us"}
+{"idx": 1643, "name": "Central Bucks Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc; private PA bus contractor"}
+{"idx": 1644, "name": "Farmersville Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent School District"}
+{"idx": 1645, "name": "School Bound TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC private school transport NJ"}
+{"idx": 1646, "name": "Huettl Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named small WI bus operator"}
+{"idx": 1647, "name": "Cloquet Transit Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transit company MN"}
+{"idx": 1648, "name": "All County Ambulance", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service not school transport"}
+{"idx": 1649, "name": "Amtronix Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}

@@ -1,0 +1,30 @@
+{"idx": 2970, "name": "Carlos & Maty School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named LLC school bus operator"}
+{"idx": 2971, "name": "Tita School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus operator with website"}
+{"idx": 2972, "name": "Wyoming Technology Bus Ctr", "verdict": "not_transport", "confidence": 0.7, "reason": "Tech center, hcsc.org district website"}
+{"idx": 2973, "name": "Oklahoma Indian Bus PDTS Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Unclear; possibly tribal program"}
+{"idx": 2974, "name": "Barron Area Sch-Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, k12 website"}
+{"idx": 2975, "name": "Gulfstream Auto Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus operator name"}
+{"idx": 2976, "name": "Hiawatha USD 415 Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "USD school district transportation"}
+{"idx": 2977, "name": "Kingman USD 331 Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "USD school district bus barn"}
+{"idx": 2978, "name": "Kearney Public Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transportation"}
+{"idx": 2979, "name": "Seneca County Honor Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear; possibly veterans honor bus"}
+{"idx": 2980, "name": "Bus Ads", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus advertising company, not operator"}
+{"idx": 2981, "name": "Permian Basin Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Business development center, not transport"}
+{"idx": 2982, "name": "Rochester School Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus service"}
+{"idx": 2983, "name": "SJS Partners Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic partners name, unclear"}
+{"idx": 2984, "name": "New England Canada Bus Council", "verdict": "not_transport", "confidence": 0.9, "reason": "Trade association/council, not operator"}
+{"idx": 2985, "name": "Chesaning Union Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, k12 website"}
+{"idx": 2986, "name": "Lovejoy Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special needs transport"}
+{"idx": 2987, "name": "Bus Patrol America LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Stop-arm camera enforcement vendor"}
+{"idx": 2988, "name": "AA Affordable Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation operator"}
+{"idx": 2989, "name": "CVCSD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Central Valley CSD transportation department"}
+{"idx": 2990, "name": "A J Myers & Sons Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus company Inc"}
+{"idx": 2991, "name": "Iowa Park Cisd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "CISD school district bus barn"}
+{"idx": 2992, "name": "First Priority Health Care Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Healthcare service, not transport"}
+{"idx": 2993, "name": "Johnsons Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus Inc"}
+{"idx": 2994, "name": "Pape Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus service"}
+{"idx": 2995, "name": "Cars For College Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "College car program, not school bus"}
+{"idx": 2996, "name": "Berrien Bus", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "County website, likely county transit"}
+{"idx": 2997, "name": "Acme Transportation Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special needs transport Corp"}
+{"idx": 2998, "name": "W R Ross School Bus Shop", "verdict": "private_contractor", "confidence": 0.7, "reason": "Named school bus shop, likely private"}
+{"idx": 2999, "name": "Attentive Care Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special needs transport LLC"}

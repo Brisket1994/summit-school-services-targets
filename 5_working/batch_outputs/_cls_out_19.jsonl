@@ -1,0 +1,30 @@
+{"idx": 570, "name": "M & K Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs wheelchair transport operator"}
+{"idx": 571, "name": "Class Act Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs contractor"}
+{"idx": 572, "name": "Premium Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company tagged special-needs; small operator"}
+{"idx": 573, "name": "Country Coach Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private coach company, Inc suffix"}
+{"idx": 574, "name": "American Rose Bud Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small private limo, possible special-needs"}
+{"idx": 575, "name": "Imperial Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Private limo service, special-needs flag"}
+{"idx": 576, "name": "Silver State Bus Line Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus line, Inc suffix"}
+{"idx": 577, "name": "Richmond Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, trolley/limo website"}
+{"idx": 578, "name": "Bellevue School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 579, "name": "Excel School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private LLC school transportation contractor"}
+{"idx": 580, "name": "G G School Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company, Inc"}
+{"idx": 581, "name": "Bath County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}
+{"idx": 582, "name": "Dalia Y Eduardo School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private school bus operator"}
+{"idx": 583, "name": "Taty School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private family-named school bus operator"}
+{"idx": 584, "name": "City Express Corp", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport corp, special-needs flag"}
+{"idx": 585, "name": "Wheelchair Accessible Van Rntl", "verdict": "not_transport", "confidence": 0.6, "reason": "Van rental business, not contractor"}
+{"idx": 586, "name": "Safe T School Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transit operator"}
+{"idx": 587, "name": "Eli & C School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private family school bus service, Inc"}
+{"idx": 588, "name": "Mary's School Bus", "verdict": "private_contractor", "confidence": 0.88, "reason": "Possessive family-named school bus operator"}
+{"idx": 589, "name": "Romy School Bus Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus transportation company"}
+{"idx": 590, "name": "School Cab LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC student transport operator"}
+{"idx": 591, "name": "Yoly School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private school bus operator"}
+{"idx": 592, "name": "United States Sm Bus Admin C/O", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Administration government office"}
+{"idx": 593, "name": "Garland School District", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 594, "name": "Jefferson County Public School", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 595, "name": "Dade County Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Miami-Dade public school transportation dept"}
+{"idx": 596, "name": "Clark County Sch DST Transport", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Clark County school district transport"}
+{"idx": 597, "name": "Monongalia County Schools", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public county school district"}
+{"idx": 598, "name": "Prince William County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public county school district"}
+{"idx": 599, "name": "Hartley's School Buses", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive family-named private bus operator"}

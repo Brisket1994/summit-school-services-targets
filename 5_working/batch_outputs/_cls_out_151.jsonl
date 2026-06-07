@@ -1,0 +1,30 @@
+{"idx": 4530, "name": "Elegant Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly NEMT not school"}
+{"idx": 4531, "name": "H & B Assoc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic associates name, unclear business"}
+{"idx": 4532, "name": "Patient Care Car Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical patient transport, not school"}
+{"idx": 4533, "name": "Richards Luxury Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Luxury limo, unlikely school transport"}
+{"idx": 4534, "name": "Pearl Transit Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transit Corp, possible contractor"}
+{"idx": 4535, "name": "K & M Hubbard Enterprise LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "NEMT services per website"}
+{"idx": 4536, "name": "Senior Care Transport LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior care, not student transport"}
+{"idx": 4537, "name": "Motor Carriage Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Generic carriage service, unclear focus"}
+{"idx": 4538, "name": "Pauls Executive Sedan", "verdict": "private_contractor", "confidence": 0.45, "reason": "Executive sedan, likely not school"}
+{"idx": 4539, "name": "United States Amer Limosne Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limousine service, likely not school"}
+{"idx": 4540, "name": "Rides & Smiles", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small rideshare-style service"}
+{"idx": 4541, "name": "So Cal Small Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Small Business Center, not transport"}
+{"idx": 4542, "name": "Thermalito Elementary School", "verdict": "not_transport", "confidence": 0.98, "reason": "Elementary school, not transport"}
+{"idx": 4543, "name": "Prime Dispatch LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Dispatch service, possibly NEMT"}
+{"idx": 4544, "name": "Tammie's Helping Hands TRNSPTN", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small NEMT-style transport operator"}
+{"idx": 4545, "name": "Sharecare Faith In Action", "verdict": "not_transport", "confidence": 0.85, "reason": "Faith-based charity, not transport company"}
+{"idx": 4546, "name": "Limousines By Mr Mel Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, likely not school"}
+{"idx": 4547, "name": "P & W Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, likely NEMT"}
+{"idx": 4548, "name": "A Plus Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair NEMT operator"}
+{"idx": 4549, "name": "Care Conextion LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Care-focused NEMT operator"}
+{"idx": 4550, "name": "Provide A Ride Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT ride provider"}
+{"idx": 4551, "name": "Drivers Inc Of Kansas City", "verdict": "private_contractor", "confidence": 0.55, "reason": "Driver service, possibly NEMT"}
+{"idx": 4552, "name": "Executive Transportation Co", "verdict": "private_contractor", "confidence": 0.5, "reason": "Executive transport, likely non-school"}
+{"idx": 4553, "name": "Whc Kcl LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Opaque acronym, unclear business"}
+{"idx": 4554, "name": "Rosetta Home Healthcare LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Home healthcare, not transport"}
+{"idx": 4555, "name": "Above & Behond", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, unclear business"}
+{"idx": 4556, "name": "America West", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear business"}
+{"idx": 4557, "name": "East Bay Wheel Chair Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair NEMT, possible special-needs"}
+{"idx": 4558, "name": "Lino Transportation", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small generic transportation LLC"}
+{"idx": 4559, "name": "Star Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limousine service, likely not school"}

@@ -1,0 +1,30 @@
+{"idx": 4590, "name": "T P Carters Milwaukee", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous name, possibly small transport operator"}
+{"idx": 4591, "name": "Caring Connections For Special", "verdict": "private_contractor", "confidence": 0.6, "reason": "Special needs transport, private operator"}
+{"idx": 4592, "name": "Midw Paratransit Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private paratransit service operator"}
+{"idx": 4593, "name": "Lavere Jones School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named school bus service"}
+{"idx": 4594, "name": "Transport Central", "verdict": "unsure", "confidence": 0.4, "reason": ".org domain suggests possible nonprofit"}
+{"idx": 4595, "name": "Accent Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs flag"}
+{"idx": 4596, "name": "West Coast Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo with special-needs work"}
+{"idx": 4597, "name": "STAM", "verdict": "unsure", "confidence": 0.4, "reason": "Likely School Transportation Association of Mass"}
+{"idx": 4598, "name": "Carlson Corporate Bus Ctr", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus operator, family name"}
+{"idx": 4599, "name": "Schooltrans", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport operator"}
+{"idx": 4600, "name": "Aloha Services", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear scope"}
+{"idx": 4601, "name": "Biscayne Limousine & Trnsp SVC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo/transport service"}
+{"idx": 4602, "name": "Excelsior Limousine LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC limo operator"}
+{"idx": 4603, "name": "Lets Go Limo Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc limo operator"}
+{"idx": 4604, "name": "RW Limo Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc limo operator"}
+{"idx": 4605, "name": "Stepping Out Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo operator"}
+{"idx": 4606, "name": "Unlimited Access Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private accessible limo operator"}
+{"idx": 4607, "name": "Yellow Cab Wheel Chair", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private accessible taxi operator"}
+{"idx": 4608, "name": "Union Public Sch Dist Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district garage"}
+{"idx": 4609, "name": "Fair Lawn Board Edu Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Board of education transportation"}
+{"idx": 4610, "name": "JRS Limousines", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo operator"}
+{"idx": 4611, "name": "WCSD Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Weston County School District transport"}
+{"idx": 4612, "name": "Black Tie Limousine Palm Be", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo operator"}
+{"idx": 4613, "name": "R C Svc LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC name, unclear"}
+{"idx": 4614, "name": "Tiger Limousine Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc limo operator"}
+{"idx": 4615, "name": "Newtrax", "verdict": "unsure", "confidence": 0.4, "reason": ".org domain, unclear entity type"}
+{"idx": 4616, "name": "Open Road Mobility", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private mobility/transport operator"}
+{"idx": 4617, "name": "FT Lauderdale Limo Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc limo operator"}
+{"idx": 4618, "name": "Security Management-Intgrtn", "verdict": "not_transport", "confidence": 0.6, "reason": "Security management, not transport"}
+{"idx": 4619, "name": "Logan-Hocking School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}

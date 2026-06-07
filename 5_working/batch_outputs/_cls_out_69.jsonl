@@ -1,0 +1,30 @@
+{"idx": 2070, "name": "Worth County Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transportation dept"}
+{"idx": 2071, "name": "Marshall Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "K12.il.us website indicates district garage"}
+{"idx": 2072, "name": "Washington Student Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous name, no website"}
+{"idx": 2073, "name": "Riley's School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name LLC school bus operator"}
+{"idx": 2074, "name": "Appalachian District Bus Ofc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus office, not private"}
+{"idx": 2075, "name": "Mountain School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school bus operator"}
+{"idx": 2076, "name": "Big 10 Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Independent bus operator name"}
+{"idx": 2077, "name": "Downs School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name LLC school bus operator"}
+{"idx": 2078, "name": "LA Services LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear if transport"}
+{"idx": 2079, "name": "Peak Media Inc Which Will Do", "verdict": "not_transport", "confidence": 0.7, "reason": "Media company, name truncated"}
+{"idx": 2080, "name": "Vulcan I Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated DBA name, unclear"}
+{"idx": 2081, "name": "Hood River County Schl Dist 1", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 2082, "name": "St Marys School Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Independent school bus lines Inc"}
+{"idx": 2083, "name": "Rocky Top Tours Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Tour/charter operator, may do school work"}
+{"idx": 2084, "name": "Anahauc Isd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "ISD bus barn, district-owned"}
+{"idx": 2085, "name": "Kountze Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district"}
+{"idx": 2086, "name": "School Bus Drivers For", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear entity"}
+{"idx": 2087, "name": "Tendercare CA Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA, possibly daycare"}
+{"idx": 2088, "name": "Wyshinski Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus service Inc"}
+{"idx": 2089, "name": "East Syracuse Sch Bus Attndnt", "verdict": "unsure", "confidence": 0.4, "reason": "Bus attendant entity, ambiguous"}
+{"idx": 2090, "name": "Taylor Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Independent school district"}
+{"idx": 2091, "name": "Marthon Bus Station", "verdict": "not_transport", "confidence": 0.7, "reason": "Citgo website, likely gas station"}
+{"idx": 2092, "name": "Kemps School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus service"}
+{"idx": 2093, "name": "Leaders School Svc", "verdict": "unsure", "confidence": 0.5, "reason": "Could be school or transport service"}
+{"idx": 2094, "name": "Gorham School Bus Transportn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Gorhamschools.org district-run transport"}
+{"idx": 2095, "name": "Joseph L Hamilton Sch Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Personal-name school bus service"}
+{"idx": 2096, "name": "Chic Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, special needs transport"}
+{"idx": 2097, "name": "Lanes Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service"}
+{"idx": 2098, "name": "Vendmart Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA, vending company name"}
+{"idx": 2099, "name": "A+ KIKO & KIKA Sch Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Independent school bus service Inc"}

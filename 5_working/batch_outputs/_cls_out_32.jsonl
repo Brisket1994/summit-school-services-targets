@@ -1,0 +1,30 @@
+{"idx": 960, "name": "Anderson County School Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "K12.ky.us domain, county school district transport"}
+{"idx": 961, "name": "West Bloomfield Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Wbsd.org, district transportation department"}
+{"idx": 962, "name": "Fusd Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Fremont Unified School District in-house transport"}
+{"idx": 963, "name": "Ambassador Wheelchair Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private wheelchair/special-needs transport company"}
+{"idx": 964, "name": "KWRL Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Kalama-Woodland-Ridgefield-La Center school consortium"}
+{"idx": 965, "name": "Kelly's Transit", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name transit company since 1977"}
+{"idx": 966, "name": "Mil Transit Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Pittsburgh PPS district website, but Inc suffix"}
+{"idx": 967, "name": "Park Bethel School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Bethel Park School District transport"}
+{"idx": 968, "name": "Non Emergency Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private NEMT/special-needs transport in Texas"}
+{"idx": 969, "name": "East Coast Bus Assoc Coast Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Association name unclear, possibly NY private operator"}
+{"idx": 970, "name": "Penny Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Brooklyn private school transport contractor"}
+{"idx": 971, "name": "Suburban Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport, Schenectady"}
+{"idx": 972, "name": "Community Bus Svc Corner", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus service, Warren OH"}
+{"idx": 973, "name": "Hunterdon County Educational", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Educational services commission, public entity"}
+{"idx": 974, "name": "Franklin Pierce Sch Transport", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Fpschools.org, district transport department"}
+{"idx": 975, "name": "Roberts Student Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Roberts Hawaii subsidiary, possibly strategic owned"}
+{"idx": 976, "name": "Els-Fl Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Unclear corporate name, possible private bus operator"}
+{"idx": 977, "name": "Global Sources USA Inc Which", "verdict": "unsure", "confidence": 0.5, "reason": "Unclear name, possibly private operator Evanston"}
+{"idx": 978, "name": "Gentry School Bus Line", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name school bus line, Knoxville"}
+{"idx": 979, "name": "Garfield School Bus Trnsprtn", "verdict": "unsure", "confidence": 0.55, "reason": "Could be Garfield County district or private"}
+{"idx": 980, "name": "Massive Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc, special-needs transport, Mount Vernon NY"}
+{"idx": 981, "name": "Homer CCSD 33c Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community Consolidated School District 33c"}
+{"idx": 982, "name": "Springfield School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Springfield school district, Oregon"}
+{"idx": 983, "name": "Warsaw Schools Trnsprtn Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Warsaw schools transportation garage, Indiana"}
+{"idx": 984, "name": "West County Transportation", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "JPA cooperative, Sonoma County districts"}
+{"idx": 985, "name": "Pcs-Clearwater Bus Compound", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Pinellas County Schools bus compound"}
+{"idx": 986, "name": "Camden Central Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Camden Central School District transport"}
+{"idx": 987, "name": "Xna Ruberi School Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name school bus operator, Miami"}
+{"idx": 988, "name": "Security Transport Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs/medical transport, Topeka"}
+{"idx": 989, "name": "Swartz Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not school transport"}

@@ -1,0 +1,30 @@
+{"idx": 5190, "name": "A S P Enterprise Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear if transport operator"}
+{"idx": 5191, "name": "Access Lynx", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "LYNX is Orlando public transit paratransit service"}
+{"idx": 5192, "name": "Ameri Care Transport Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely NEMT medical transport, not school bus"}
+{"idx": 5193, "name": "Crown Med Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possibly special needs"}
+{"idx": 5194, "name": "Selective Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, not school bus operator"}
+{"idx": 5195, "name": "Schools Bus Shop", "verdict": "unsure", "confidence": 0.4, "reason": "Possibly bus repair shop, not operator"}
+{"idx": 5196, "name": "Nates Airporter", "verdict": "private_contractor", "confidence": 0.5, "reason": "Airport shuttle, not school transport"}
+{"idx": 5197, "name": "Pams Clean Machine Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Name unclear, possibly cleaning service"}
+{"idx": 5198, "name": "Progressive Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport company, possibly special needs"}
+{"idx": 5199, "name": "Clio Area Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District-owned transportation department"}
+{"idx": 5200, "name": "Ultimate Choice Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, not school bus"}
+{"idx": 5201, "name": "Mobility Solution LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Mobility transport, possibly special needs"}
+{"idx": 5202, "name": "On Demand Paratransit", "verdict": "private_contractor", "confidence": 0.6, "reason": "Paratransit operator, possibly special needs"}
+{"idx": 5203, "name": "Ambu-Lift", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical lift transport, not school bus"}
+{"idx": 5204, "name": "White Lightning Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, not school transport"}
+{"idx": 5205, "name": "Greater Harvest Medical TRNSPN", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, not school bus"}
+{"idx": 5206, "name": "Ivy Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, possibly special needs"}
+{"idx": 5207, "name": "Lifeline Taxi", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi service, not school bus operator"}
+{"idx": 5208, "name": "Midwest Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Generic transport company name"}
+{"idx": 5209, "name": "School Board Of Lee County", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school board, not acquirable"}
+{"idx": 5210, "name": "Waymakers Mobility Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Mobility transport, possibly special needs"}
+{"idx": 5211, "name": "A-Z Medical Transportation LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, not school bus"}
+{"idx": 5212, "name": "City Of Lafayette", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City government entity"}
+{"idx": 5213, "name": "Kids Taxi Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private kids taxi, possibly school transport"}
+{"idx": 5214, "name": "Marion County Bus Maintenance", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district bus maintenance"}
+{"idx": 5215, "name": "National School Trnsprtn Assn", "verdict": "not_transport", "confidence": 0.98, "reason": "Trade association, not operator"}
+{"idx": 5216, "name": "Billups Limo Bus & Van Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo/bus/van service"}
+{"idx": 5217, "name": "Medacare Transportation Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, not school bus"}
+{"idx": 5218, "name": "Style & Elegance Limousines", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine service, not school transport"}
+{"idx": 5219, "name": "Universal Work & Power LLC", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear if transport operator"}

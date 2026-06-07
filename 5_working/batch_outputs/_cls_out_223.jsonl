@@ -1,0 +1,30 @@
+{"idx": 6690, "name": "Canby Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 6691, "name": "Floors 4 U", "verdict": "not_transport", "confidence": 0.95, "reason": "Flooring business, not transport"}
+{"idx": 6692, "name": "Rustad Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus service"}
+{"idx": 6693, "name": "Progressive Education Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 6694, "name": "Wauneta Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District-owned bus barn"}
+{"idx": 6695, "name": "Michel Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private bus Inc"}
+{"idx": 6696, "name": "Benton-Carroll-Salem Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage (BCSSD)"}
+{"idx": 6697, "name": "Evans School Bus Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named LLC transportation"}
+{"idx": 6698, "name": "Henwood Busing", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private busing"}
+{"idx": 6699, "name": "Harlows Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus company"}
+{"idx": 6700, "name": "Midwest Family Bus Alliance", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus alliance"}
+{"idx": 6701, "name": "Bryant Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named LLC bus service"}
+{"idx": 6702, "name": "Cumberland Mountain Sch Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous regional school bus name"}
+{"idx": 6703, "name": "Curtis Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus service"}
+{"idx": 6704, "name": "Decatur County School Bus", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "County school bus operation"}
+{"idx": 6705, "name": "Hancock County Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County district bus garage"}
+{"idx": 6706, "name": "SB School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school bus"}
+{"idx": 6707, "name": "Southeast TX Truck & Bus LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Could be dealer/repair shop"}
+{"idx": 6708, "name": "Accomack County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County public schools"}
+{"idx": 6709, "name": "Galax City Of School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district bus garage"}
+{"idx": 6710, "name": "Durand Panther Bus Svc", "verdict": "unsure", "confidence": 0.5, "reason": "Panther mascot, possibly district"}
+{"idx": 6711, "name": "Voc School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus garage"}
+{"idx": 6712, "name": "Ride-Rite Medi-Van Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private medi-van Inc, special needs"}
+{"idx": 6713, "name": "Testerman Bus Svc & Repair", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private bus service"}
+{"idx": 6714, "name": "Scrapbook School Bus LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC school bus"}
+{"idx": 6715, "name": "West Side Trnsprtn Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation bus service"}
+{"idx": 6716, "name": "American Bus Tours Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private tour bus Inc"}
+{"idx": 6717, "name": "Journey's Playground Bus LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC bus"}
+{"idx": 6718, "name": "Krug's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus Inc"}
+{"idx": 6719, "name": "Urban League Acad Bus & Ecmcs", "verdict": "not_transport", "confidence": 0.7, "reason": "Urban League Academy, school entity"}

@@ -1,0 +1,30 @@
+{"idx": 5520, "name": "Citizens' Provisions Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, no transport indicator"}
+{"idx": 5521, "name": "Precise Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 5522, "name": "Quality Connection Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation company"}
+{"idx": 5523, "name": "R & D Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation company"}
+{"idx": 5524, "name": "Evening Magic Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly transport"}
+{"idx": 5525, "name": "TLC Medical Transport Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, may serve special needs"}
+{"idx": 5526, "name": "New Transport Cabulance", "verdict": "private_contractor", "confidence": 0.6, "reason": "Cabulance, wheelchair/special-needs transport"}
+{"idx": 5527, "name": "Tri-County Cabulance", "verdict": "private_contractor", "confidence": 0.6, "reason": "Cabulance, wheelchair/special-needs transport"}
+{"idx": 5528, "name": "First Light Med Transport LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport LLC"}
+{"idx": 5529, "name": "Ride With Class Wheelchair", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair transport, special needs"}
+{"idx": 5530, "name": "Livery Services", "verdict": "private_contractor", "confidence": 0.5, "reason": "Livery service, may transport"}
+{"idx": 5531, "name": "Pampered Auto LLC", "verdict": "private_contractor", "confidence": 0.45, "reason": "Auto LLC, unclear transport role"}
+{"idx": 5532, "name": "College Bus LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus LLC, school transport"}
+{"idx": 5533, "name": "Presidntial Lmousines Of Texas", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine company"}
+{"idx": 5534, "name": "Limocorp Of Anniston", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo corp"}
+{"idx": 5535, "name": "Carlos-Susana Sch Bus Svc Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus service corp"}
+{"idx": 5536, "name": "Medi Trans Of Idaho", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport company"}
+{"idx": 5537, "name": "Frankfort School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 5538, "name": "KNL Transit LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Transit LLC"}
+{"idx": 5539, "name": "Joplin Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house bus garage"}
+{"idx": 5540, "name": "Adams PA Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation LLC"}
+{"idx": 5541, "name": "Burnett Transit", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transit, possibly private operator"}
+{"idx": 5542, "name": "Buffalo Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 5543, "name": "A Legacy Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service"}
+{"idx": 5544, "name": "Bostic Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family-name limousine"}
+{"idx": 5545, "name": "Brouk & Samson Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family-name limousine"}
+{"idx": 5546, "name": "Creative Bus Solutions Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus solutions company"}
+{"idx": 5547, "name": "Empresso Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service"}
+{"idx": 5548, "name": "Get Vocal PBC Which Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Unclear PBC entity, name truncated"}
+{"idx": 5549, "name": "Golden Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service"}

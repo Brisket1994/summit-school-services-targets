@@ -1,0 +1,30 @@
+{"idx": 2430, "name": "Dayami's School Bus SVC LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive name, LLC school bus service"}
+{"idx": 2431, "name": "Melba School Bus TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "LLC school bus transportation"}
+{"idx": 2432, "name": "West Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc bus service"}
+{"idx": 2433, "name": "Pat Zanchelli Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name Inc, NY school bus"}
+{"idx": 2434, "name": "Fostoria City Sch-Oper", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City school district operations"}
+{"idx": 2435, "name": "Lincoln Coach Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Coach lines, established 1947"}
+{"idx": 2436, "name": "City Of Lakeport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City government"}
+{"idx": 2437, "name": "Tasomni E-COMMERCE-Bus Sltns", "verdict": "unsure", "confidence": 0.5, "reason": "E-commerce bus solutions, unclear operator"}
+{"idx": 2438, "name": "Umatilla Bus Lot", "verdict": "unsure", "confidence": 0.5, "reason": "Bus lot, ambiguous entity"}
+{"idx": 2439, "name": "Gorham Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation dept"}
+{"idx": 2440, "name": "Southstar Ambulance", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not school transport"}
+{"idx": 2441, "name": "Pinconning Area Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Area school district transportation"}
+{"idx": 2442, "name": "Pauline Transportation Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC transportation, family name"}
+{"idx": 2443, "name": "Western Placer Unified Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Unified district bus garage"}
+{"idx": 2444, "name": "A M & C/Bus Resource Group", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus resource group, likely private"}
+{"idx": 2445, "name": "Consolidated Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bronx private bus company"}
+{"idx": 2446, "name": "Farsha Capital Amer Bus Group", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus group, Bronx"}
+{"idx": 2447, "name": "Seabrook Village", "verdict": "not_transport", "confidence": 0.85, "reason": "Retirement village, not transport"}
+{"idx": 2448, "name": "Scholastic School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Brooklyn private school bus operator"}
+{"idx": 2449, "name": "F G Goldbach Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family name bus company"}
+{"idx": 2450, "name": "Professional Bus Assistance", "verdict": "unsure", "confidence": 0.5, "reason": "Bus assistance, ambiguous service"}
+{"idx": 2451, "name": "Alltown Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Illinois"}
+{"idx": 2452, "name": "Crest Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus barn"}
+{"idx": 2453, "name": "Loving Touch Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Special needs transport, private"}
+{"idx": 2454, "name": "Ravenna Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 2455, "name": "Excel 3", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear"}
+{"idx": 2456, "name": "R C Prime Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation NJ"}
+{"idx": 2457, "name": "Bedford County Edu Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County education transportation"}
+{"idx": 2458, "name": "Rover-City Bus Svc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "City government website indicates municipal"}
+{"idx": 2459, "name": "Bedford County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}

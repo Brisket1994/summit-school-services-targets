@@ -1,0 +1,30 @@
+{"idx": 5100, "name": "Comfort Ride Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo svc, special needs transport"}
+{"idx": 5101, "name": "Lavish Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo svc, special needs transport"}
+{"idx": 5102, "name": "Mira Vista Enterprise Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private Inc, special needs transport"}
+{"idx": 5103, "name": "MS Ocq Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus service for schools"}
+{"idx": 5104, "name": "North Texas Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5105, "name": "Per4max", "verdict": "unsure", "confidence": 0.4, "reason": "Name unclear, possible wheelchair brand"}
+{"idx": 5106, "name": "Ultra Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5107, "name": "Western Luxury LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, special needs transport"}
+{"idx": 5108, "name": "Wheelers Handicap Vans", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private handicap van operator"}
+{"idx": 5109, "name": "Kumar Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport, special needs"}
+{"idx": 5110, "name": "Roll Dice Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, possible transport operator"}
+{"idx": 5111, "name": "St Mary City School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 5112, "name": "A & G Activity Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Activity service, special needs transport"}
+{"idx": 5113, "name": "Aanonymous Limo Sedan Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5114, "name": "About Town Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5115, "name": "Ace Executive Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5116, "name": "All Pro Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport svc, special needs"}
+{"idx": 5117, "name": "Any Limo Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5118, "name": "Atlantic Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5119, "name": "Carey Limo Weislaw Machal", "verdict": "private_contractor", "confidence": 0.65, "reason": "Carey franchise/owner-operator limo"}
+{"idx": 5120, "name": "CLS Worldwide Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, special needs transport"}
+{"idx": 5121, "name": "Coachworld LTD Limousine Sales", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine sales, not operator"}
+{"idx": 5122, "name": "Coast Limousine Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5123, "name": "Conquest Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5124, "name": "Embassy Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5125, "name": "Gaju Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5126, "name": "Golden Arrow Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5127, "name": "Golden Limo Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5128, "name": "Golden Years Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Likely senior transport, not school focus"}
+{"idx": 5129, "name": "J L Wheelchair Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair transport, special needs"}

@@ -1,0 +1,30 @@
+{"idx": 6090, "name": "Speedy Van", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely private special-needs transport van service"}
+{"idx": 6091, "name": "Helping Hands Specialized", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private specialized transport operator"}
+{"idx": 6092, "name": "Quality Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company name"}
+{"idx": 6093, "name": "Reserve-A-Ride Trnsp Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private reservation-based transport service"}
+{"idx": 6094, "name": "Pheasant Hill Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly non-medical transport"}
+{"idx": 6095, "name": "Como-Pickton Isd Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district in-house transportation"}
+{"idx": 6096, "name": "Smiley Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport company"}
+{"idx": 6097, "name": "Cascade Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly special-needs transport"}
+{"idx": 6098, "name": "Albertville City Sch-Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district bus shop"}
+{"idx": 6099, "name": "Emerald's Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private wheelchair transport, possessive name"}
+{"idx": 6100, "name": "Encinitus Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly transport"}
+{"idx": 6101, "name": "Point Arena High Sch Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "High school's in-house bus facility"}
+{"idx": 6102, "name": "TBT", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous acronym, unclear business"}
+{"idx": 6103, "name": "Vital Transport LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC special-needs transport"}
+{"idx": 6104, "name": "A & G Transit LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transit operator"}
+{"idx": 6105, "name": "Door 2 Door Senior Trnsprtn", "verdict": "not_transport", "confidence": 0.6, "reason": "Senior transportation, not student-focused"}
+{"idx": 6106, "name": "Frang Zeal LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Ambiguous LLC name"}
+{"idx": 6107, "name": "Robert R Weymouth Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus contractor, Inc"}
+{"idx": 6108, "name": "A-1 Affordable Wheelchair Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair transport company"}
+{"idx": 6109, "name": "ATC Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private incorporated transport company"}
+{"idx": 6110, "name": "Secure Comfort Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, likely non-emergency medical"}
+{"idx": 6111, "name": "Hess Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private school bus contractor"}
+{"idx": 6112, "name": "Express Sports", "verdict": "unsure", "confidence": 0.3, "reason": "Name suggests sports, not transport"}
+{"idx": 6113, "name": "RCF LLC", "verdict": "unsure", "confidence": 0.3, "reason": "Generic LLC acronym, unclear"}
+{"idx": 6114, "name": "Spencer Family Investments LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Investment holding company name"}
+{"idx": 6115, "name": "Alaska Mobility Transit LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private mobility transit LLC"}
+{"idx": 6116, "name": "Troy's Steadfast Trans LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private possessive-named transport LLC"}
+{"idx": 6117, "name": "Afo", "verdict": "unsure", "confidence": 0.25, "reason": "Ambiguous short name"}
+{"idx": 6118, "name": "Desire Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possibly transport"}
+{"idx": 6119, "name": "Right Way School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company"}

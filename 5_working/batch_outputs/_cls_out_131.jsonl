@@ -1,0 +1,30 @@
+{"idx": 3930, "name": "Trans Ace Super Shuttle", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private shuttle, special-needs flag"}
+{"idx": 3931, "name": "Valerie Semaan", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, ambiguous operator"}
+{"idx": 3932, "name": "Wheelchair Express Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport name"}
+{"idx": 3933, "name": "Wcsmith Shipley Bus Ctr", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-style school bus center"}
+{"idx": 3934, "name": "Reid School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named school bus Inc"}
+{"idx": 3935, "name": "Empire Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, weak school nexus"}
+{"idx": 3936, "name": "Coconino High School", "verdict": "not_transport", "confidence": 0.97, "reason": "Actual high school"}
+{"idx": 3937, "name": "American Classic Limousines", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, weak school nexus"}
+{"idx": 3938, "name": "Bus Driver LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC, school flag"}
+{"idx": 3939, "name": "L M School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus Inc"}
+{"idx": 3940, "name": "Magic School Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school bus operator"}
+{"idx": 3941, "name": "Mobilitat", "verdict": "not_transport", "confidence": 0.7, "reason": "Mobility software/equipment company"}
+{"idx": 3942, "name": "International School-Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus operator"}
+{"idx": 3943, "name": "Man Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.65, "reason": "County bus garage, likely district"}
+{"idx": 3944, "name": "Chambers Bus Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-named bus service"}
+{"idx": 3945, "name": "Joyces School Bus Transport", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school bus operator"}
+{"idx": 3946, "name": "Med-Van Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical van, special-needs transport"}
+{"idx": 3947, "name": "Nelson's Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named bus service"}
+{"idx": 3948, "name": "CPR Medical Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, weak school nexus"}
+{"idx": 3949, "name": "To Limit Limo Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, weak school nexus"}
+{"idx": 3950, "name": "Central Oregon Cabulance", "verdict": "private_contractor", "confidence": 0.55, "reason": "Cabulance medical transport"}
+{"idx": 3951, "name": "Integrated Maintenance & Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private bus maintenance operator"}
+{"idx": 3952, "name": "Alpine Sedan", "verdict": "private_contractor", "confidence": 0.45, "reason": "Sedan service, weak school nexus"}
+{"idx": 3953, "name": "Dutch Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, weak school nexus"}
+{"idx": 3954, "name": "Tambolina Services Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic services Inc, unclear"}
+{"idx": 3955, "name": "Pellin Ambulance Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Ambulance service, not school transport"}
+{"idx": 3956, "name": "Blue Horizon Ent Inc Which", "verdict": "unsure", "confidence": 0.35, "reason": "Generic entertainment Inc, unclear"}
+{"idx": 3957, "name": "Central Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, weak school nexus"}
+{"idx": 3958, "name": "General International Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private bus operator, school flag"}
+{"idx": 3959, "name": "Toro", "verdict": "not_transport", "confidence": 0.7, "reason": "Toroschool.net suggests actual school"}

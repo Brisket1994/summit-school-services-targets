@@ -1,0 +1,30 @@
+{"idx": 5220, "name": "Belton Isd Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 5221, "name": "Galveston Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC; limo website, possibly charter operator"}
+{"idx": 5222, "name": "Shirley Public School Agri", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school entity"}
+{"idx": 5223, "name": "Bob! Board Our Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private bus service name"}
+{"idx": 5224, "name": "Mountain Valley USD Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD transportation department"}
+{"idx": 5225, "name": "British American Bus Consul", "verdict": "unsure", "confidence": 0.5, "reason": "Bus consultancy, unclear operator"}
+{"idx": 5226, "name": "Center Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools transportation"}
+{"idx": 5227, "name": "Ditter Brothers AG Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name bus operator"}
+{"idx": 5228, "name": "Peaches En Regalia-Bus Office", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name, residential address"}
+{"idx": 5229, "name": "St Lucie County Schools", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County school district"}
+{"idx": 5230, "name": "Walnut Hill Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "School district bus garage"}
+{"idx": 5231, "name": "Lorenzo Bus Shop", "verdict": "unsure", "confidence": 0.5, "reason": "Bus shop, repair or operator unclear"}
+{"idx": 5232, "name": "Davis County Cmnty Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 5233, "name": "Erie Community Unit Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district"}
+{"idx": 5234, "name": "Greater Clark County School", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County school district"}
+{"idx": 5235, "name": "Schools Special Svc Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School special services transportation"}
+{"idx": 5236, "name": "Lansing School Bus Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school bus service"}
+{"idx": 5237, "name": "VMS Office Of Sm Bus Affairs", "verdict": "not_transport", "confidence": 0.6, "reason": "Small business affairs office"}
+{"idx": 5238, "name": "Midwest Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 5239, "name": "Mexico Public Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools bus garage"}
+{"idx": 5240, "name": "Clinton Schools Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 5241, "name": "Perquimans School Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district garage"}
+{"idx": 5242, "name": "Union County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school bus garage"}
+{"idx": 5243, "name": "Washington County Sch Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school bus garage"}
+{"idx": 5244, "name": "Kidder County Pubc Sch Bus Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County public school bus dept"}
+{"idx": 5245, "name": "Specialty Claims Svc Inc Will", "verdict": "not_transport", "confidence": 0.7, "reason": "Claims service, not transport"}
+{"idx": 5246, "name": "VZW At Northern Hills Bus Ctr", "verdict": "not_transport", "confidence": 0.6, "reason": "Verizon at business center"}
+{"idx": 5247, "name": "Davis Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name LLC bus service"}
+{"idx": 5248, "name": "Indiana Coach Leasing LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Coach leasing LLC"}
+{"idx": 5249, "name": "Nocona Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}

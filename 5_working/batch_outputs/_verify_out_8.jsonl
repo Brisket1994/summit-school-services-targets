@@ -1,0 +1,25 @@
+{"idx": 200, "name": "Forest Lake Area Cmnty Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district transportation department"}
+{"idx": 201, "name": "Carrier Management Corp", "verdict": "private_contractor", "confidence": 0.75, "reason": "Corporate suffix suggests private contractor"}
+{"idx": 202, "name": "Mitco Limited", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private corporate entity in transportation list"}
+{"idx": 203, "name": "Weikel Busing LLC", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-named bus company LLC"}
+{"idx": 204, "name": "Forest Hills Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 205, "name": "Mcilwain School Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.98, "reason": "Family-named school bus line Inc"}
+{"idx": 206, "name": "Ferguson-Florissant Transport", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district transportation department"}
+{"idx": 207, "name": "Saratoga Springs Sch TRNSPTN", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 208, "name": "Trobec's School Bus Svc", "verdict": "private_contractor", "confidence": 0.98, "reason": "Family-named school bus service"}
+{"idx": 209, "name": "Cinnaminson Board-Edu Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Board of Education transportation department"}
+{"idx": 210, "name": "Tacoma Special Educ Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District special education transportation"}
+{"idx": 211, "name": "Safe Journey 2 School", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transportation service"}
+{"idx": 212, "name": "North Little Rock Pubc SCHLS", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district entity"}
+{"idx": 213, "name": "Franmar School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Privately-named school bus service"}
+{"idx": 214, "name": "Eshelman Transportation Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named transportation Inc"}
+{"idx": 215, "name": "Academy Business Co Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Likely Academy Bus private operator"}
+{"idx": 216, "name": "Washington Local Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local school district transportation"}
+{"idx": 217, "name": "Albert Lea Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus company Inc"}
+{"idx": 218, "name": "West Bloomfield Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 219, "name": "KWRL Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Cooperative of four school districts WA"}
+{"idx": 220, "name": "Mil Transit Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit Inc operator"}
+{"idx": 221, "name": "Hunterdon County Educational", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County educational services commission"}
+{"idx": 222, "name": "Franklin Pierce Sch Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 223, "name": "Homer CCSD 33c Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community Consolidated School District transportation"}
+{"idx": 224, "name": "Pcs-Clearwater Bus Compound", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Pinellas County Schools bus compound"}

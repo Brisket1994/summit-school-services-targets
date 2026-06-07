@@ -1,0 +1,30 @@
+{"idx": 6840, "name": "Ozark Wheelchair Cab Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair cab; likely medical/special-needs micro operator"}
+{"idx": 6841, "name": "A-1 Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Generic private transport service name"}
+{"idx": 6842, "name": "Ikm Community Schools-Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community Schools district bus department"}
+{"idx": 6843, "name": "Lyon County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district garage, kyschools.us"}
+{"idx": 6844, "name": "Waytogo Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair transport, likely medical not school"}
+{"idx": 6845, "name": "Purple Ribbon Mobility", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility/wheelchair vans, likely medical transport"}
+{"idx": 6846, "name": "Red River Parish-School Board", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Parish school board, public district"}
+{"idx": 6847, "name": "Canton School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School bus barn, district facility"}
+{"idx": 6848, "name": "Access Vans Of Montana", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility vans, likely medical not school"}
+{"idx": 6849, "name": "Two Rivers Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 6850, "name": "Huerfano Re-1 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Re-1 school district transportation"}
+{"idx": 6851, "name": "H & H Mobility Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility transport, likely medical"}
+{"idx": 6852, "name": "Adair's Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Possessive name, private bus service"}
+{"idx": 6853, "name": "Eagle Transport", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, special-needs flag, unclear"}
+{"idx": 6854, "name": "Hart County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district garage facility"}
+{"idx": 6855, "name": "Citicare Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Inc, possibly medical care transport"}
+{"idx": 6856, "name": "Hillsboro Public Schl Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus garage"}
+{"idx": 6857, "name": "Rides R US Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc corporate name, private transport"}
+{"idx": 6858, "name": "Msad41 School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Maine School Administrative District garage"}
+{"idx": 6859, "name": "North Tippah School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus shop"}
+{"idx": 6860, "name": "Seward Public School Bus Mntnc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus maintenance facility"}
+{"idx": 6861, "name": "Selby Transportation Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corp suffix, private NY transport"}
+{"idx": 6862, "name": "Mobile Medical Transport Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not school bus"}
+{"idx": 6863, "name": "Coastline Transportation LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "LLC, special-needs flag, possibly medical"}
+{"idx": 6864, "name": "BBT Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous initials, bbt.com domain unclear"}
+{"idx": 6865, "name": "Martin, Katherin", "verdict": "not_transport", "confidence": 0.6, "reason": "Individual person name, not company"}
+{"idx": 6866, "name": "L B S South LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC, school flag, ambiguous initials"}
+{"idx": 6867, "name": "Faith In Action", "verdict": "not_transport", "confidence": 0.8, "reason": "Faith-based volunteer/charity organization"}
+{"idx": 6868, "name": "Van-2-School", "verdict": "private_contractor", "confidence": 0.85, "reason": "School transport van service name"}
+{"idx": 6869, "name": "Ohio School Bus Mechanics", "verdict": "not_transport", "confidence": 0.85, "reason": "OSBMA trade association, not operator"}

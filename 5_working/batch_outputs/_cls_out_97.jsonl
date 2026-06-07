@@ -1,0 +1,30 @@
+{"idx": 2910, "name": "SC Elida Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, k12.oh.us domain"}
+{"idx": 2911, "name": "Schools Public Trnsprtn Drctr", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public schools transportation director"}
+{"idx": 2912, "name": "Scottie Swingle School Buses", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name school bus operator"}
+{"idx": 2913, "name": "Walla Walla Area Small Bus Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous 'small business center' name"}
+{"idx": 2914, "name": "Pitts Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named bus service Inc"}
+{"idx": 2915, "name": "Mason Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public schools transportation, k12.net"}
+{"idx": 2916, "name": "Williamston Community Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district"}
+{"idx": 2917, "name": "Goldstar Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company, special needs"}
+{"idx": 2918, "name": "Parker Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 2919, "name": "Local Greens Inc Which Will Do", "verdict": "not_transport", "confidence": 0.7, "reason": "Truncated name, likely not transport"}
+{"idx": 2920, "name": "Gold Cross EMS", "verdict": "not_transport", "confidence": 0.85, "reason": "EMS/ambulance service, not school transport"}
+{"idx": 2921, "name": "Ohio County Schools Mntnc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County schools maintenance dept"}
+{"idx": 2922, "name": "Real Time Transport Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport corp, special needs"}
+{"idx": 2923, "name": "Sheffield Schools Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Schools transportation department"}
+{"idx": 2924, "name": "Manasota Care Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Care service, not student transport"}
+{"idx": 2925, "name": "Lone Star School Bus SVC LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus service LLC"}
+{"idx": 2926, "name": "Luv & Lux Enterprises LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC, special needs flag only"}
+{"idx": 2927, "name": "Worcester Red Cab", "verdict": "not_transport", "confidence": 0.7, "reason": "Taxi cab company, not school bus"}
+{"idx": 2928, "name": "A A A Med Ex", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not school"}
+{"idx": 2929, "name": "All American Sedan & Limousi", "verdict": "not_transport", "confidence": 0.75, "reason": "Sedan/limousine service"}
+{"idx": 2930, "name": "Arizona Connection Limousine", "verdict": "not_transport", "confidence": 0.8, "reason": "Limousine company, not school bus"}
+{"idx": 2931, "name": "Tap Transportation Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport Inc, special needs"}
+{"idx": 2932, "name": "Msad 15 Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Maine school admin district transport"}
+{"idx": 2933, "name": "Canton Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 2934, "name": "M Evola", "verdict": "unsure", "confidence": 0.3, "reason": "Personal name only, ambiguous"}
+{"idx": 2935, "name": "Globality LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC, special needs flag only"}
+{"idx": 2936, "name": "3rd Planet LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC, unclear business"}
+{"idx": 2937, "name": "Tejeddine Direct Care Svc LLC", "verdict": "not_transport", "confidence": 0.75, "reason": "Direct care service, not transport"}
+{"idx": 2938, "name": "Comfort Medical Trans", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transport, not school"}
+{"idx": 2939, "name": "Menahga Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school transportation, k12.mn.us"}

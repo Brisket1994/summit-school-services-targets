@@ -1,0 +1,30 @@
+{"idx": 1740, "name": "Mississippi Association Pupil", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Association of pupil transportation; school district affiliated"}
+{"idx": 1741, "name": "Cape Cod Small Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus service Inc, private operator"}
+{"idx": 1742, "name": "Slater School Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "School bus lines Inc, private contractor"}
+{"idx": 1743, "name": "Charlotte County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1744, "name": "Administrative Resources Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear if transport operator"}
+{"idx": 1745, "name": "Potlatch Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Potlatch is timber company; truncated name"}
+{"idx": 1746, "name": "M R Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Co, private operator"}
+{"idx": 1747, "name": "Oats Transportation Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Transportation Inc, likely private"}
+{"idx": 1748, "name": "Urbina Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family name Inc doing bus business"}
+{"idx": 1749, "name": "North Clackamas Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 1750, "name": "Lane Cindy Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name bus service"}
+{"idx": 1751, "name": "OK City Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus Inc, private operator"}
+{"idx": 1752, "name": "Holt Schools Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 1753, "name": "Newtrend USA Co LTD Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corporate name, unclear"}
+{"idx": 1754, "name": "Essential Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Transportation LLC, special needs"}
+{"idx": 1755, "name": "Royal Silver Wheelchair", "verdict": "private_contractor", "confidence": 0.85, "reason": "Wheelchair transport, private special needs"}
+{"idx": 1756, "name": "North Scott Community Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus dept"}
+{"idx": 1757, "name": "Ccsd-Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 1758, "name": "Tla School Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "School bus Co Inc, private operator"}
+{"idx": 1759, "name": "Generations Un LTD", "verdict": "unsure", "confidence": 0.4, "reason": "Generations Unlimited, .org, possibly nonprofit"}
+{"idx": 1760, "name": "Herman Corp Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Corp doing bus business, private"}
+{"idx": 1761, "name": "Execucorp Inc Which Will Do", "verdict": "private_contractor", "confidence": 0.7, "reason": "Corp doing bus business, likely private"}
+{"idx": 1762, "name": "Children Are Our Future Will", "verdict": "unsure", "confidence": 0.4, "reason": "Could be nonprofit or daycare"}
+{"idx": 1763, "name": "Northstar Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus operator, Brooklyn private"}
+{"idx": 1764, "name": "Lake Highlands Bus Svc Inc", "verdict": "not_transport", "confidence": 0.6, "reason": "Website lhpres.org suggests Presbyterian church/school"}
+{"idx": 1765, "name": "Olmsted Falls School Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School bus garage, district affiliated ofcs.net"}
+{"idx": 1766, "name": "Lavigne Bus Co Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family name Bus Co Inc, private"}
+{"idx": 1767, "name": "Ams Vans Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "AMS Vans sells wheelchair vans, not transport"}
+{"idx": 1768, "name": "Greenwood Community Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 1769, "name": "Estes Park Sch Trnsprtn Mntnc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation maintenance"}

@@ -1,0 +1,30 @@
+{"idx": 5340, "name": "Limo To Go", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5341, "name": "Mc KEEL Academy Tech Bus Barn", "verdict": "not_transport", "confidence": 0.9, "reason": "School's own bus barn, not operator"}
+{"idx": 5342, "name": "Canyon Country Elite Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company"}
+{"idx": 5343, "name": "Holden Health Group Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Health group, not transport operator"}
+{"idx": 5344, "name": "Victory Transport Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport service"}
+{"idx": 5345, "name": "Dairyland Group", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 5346, "name": "Zonex School Shuttle SVC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school shuttle service"}
+{"idx": 5347, "name": "Aki USA Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc bus operator, small"}
+{"idx": 5348, "name": "Big Red Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company"}
+{"idx": 5349, "name": "Fast Forward Productions LTD", "verdict": "unsure", "confidence": 0.4, "reason": "Productions company, unclear transport"}
+{"idx": 5350, "name": "Financenet LTD Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Finance name, unclear actual business"}
+{"idx": 5351, "name": "Gaba German Amer Bus Assn-Ca", "verdict": "not_transport", "confidence": 0.85, "reason": "Business association, not operator"}
+{"idx": 5352, "name": "Ikem Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.55, "reason": "Inc will do business, unclear"}
+{"idx": 5353, "name": "Invest Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Investment name, unclear transport"}
+{"idx": 5354, "name": "Magical Moments Unltd Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, likely event/party"}
+{"idx": 5355, "name": "Moods Co Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 5356, "name": "Ride", "verdict": "unsure", "confidence": 0.4, "reason": "Generic ride app, unclear"}
+{"idx": 5357, "name": "Sea Life Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 5358, "name": "Uplifters' Prima PBC Which", "verdict": "unsure", "confidence": 0.4, "reason": "Generic PBC, unclear business"}
+{"idx": 5359, "name": "Jax Patient Care Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Patient care, medical not transport"}
+{"idx": 5360, "name": "Heavenly Transit LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transit company"}
+{"idx": 5361, "name": "Encore LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC name"}
+{"idx": 5362, "name": "Safe & Reliable Cab & Limo", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private cab and limo service"}
+{"idx": 5363, "name": "De Fea Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private transportation"}
+{"idx": 5364, "name": "Big Foot Recreation Bylaws", "verdict": "not_transport", "confidence": 0.7, "reason": "Recreation district, not operator"}
+{"idx": 5365, "name": "Parkview Rentals LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Rentals LLC, unclear transport"}
+{"idx": 5366, "name": "Red Rock Limousine Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limousine service"}
+{"idx": 5367, "name": "School Shuttle Squad LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school shuttle LLC"}
+{"idx": 5368, "name": "Jaqcc LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC, unclear business"}
+{"idx": 5369, "name": "Spartanburg County Sch Dis", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}

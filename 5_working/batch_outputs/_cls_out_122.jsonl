@@ -1,0 +1,30 @@
+{"idx": 3660, "name": "Life Trans Paramedics", "verdict": "not_transport", "confidence": 0.85, "reason": "Paramedic/medical service, not school transport"}
+{"idx": 3661, "name": "Mirkin Associates Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Comfort Keepers in-home care, not transport"}
+{"idx": 3662, "name": "Universal Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3663, "name": "K I K School Bus Svc Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus service corp"}
+{"idx": 3664, "name": "God Speed Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport company, special-needs flagged"}
+{"idx": 3665, "name": "MS Carmalita Darrnell Gipson", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name, unclear entity type"}
+{"idx": 3666, "name": "Sebeka School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "K12 district transport dept (k12.mn.us)"}
+{"idx": 3667, "name": "Independence School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transport dept (isdschools.org)"}
+{"idx": 3668, "name": "Medical City Transportation", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical transport, not school"}
+{"idx": 3669, "name": "H & W Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school transport, PA"}
+{"idx": 3670, "name": "A & T Transportation Svc LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Trucking website (matruck), unclear scope"}
+{"idx": 3671, "name": "Barbara's Care Med Transport", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transport, not school"}
+{"idx": 3672, "name": "5280 Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special-needs"}
+{"idx": 3673, "name": "Beckwith Buses", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus operator, PA"}
+{"idx": 3674, "name": "Med Transit LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transit, not school"}
+{"idx": 3675, "name": "Human Services Trnsprt Providr", "verdict": "not_transport", "confidence": 0.75, "reason": "Human services nonprofit, not school"}
+{"idx": 3676, "name": "Schools Norwalk Pubc Sch Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Norwalk public schools transport"}
+{"idx": 3677, "name": "Transpose LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear operations"}
+{"idx": 3678, "name": "Senior Access", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior services nonprofit, not school"}
+{"idx": 3679, "name": "Akron-Westfield Schl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transport dept (akron-westfield.com)"}
+{"idx": 3680, "name": "Gladstone Area School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage (gladstoneschools.com)"}
+{"idx": 3681, "name": "Castro School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school transport, NJ"}
+{"idx": 3682, "name": "Berry Scuba & Swim School LLC", "verdict": "not_transport", "confidence": 0.95, "reason": "Scuba/swim school, not transport"}
+{"idx": 3683, "name": "Monta Bella School", "verdict": "not_transport", "confidence": 0.85, "reason": "School entity, not transport company"}
+{"idx": 3684, "name": "B & P Transit Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc transit, school flagged"}
+{"idx": 3685, "name": "Ahmed Abdelmotaleb Corp", "verdict": "private_contractor", "confidence": 0.5, "reason": "Personal-name corp, special-needs transport"}
+{"idx": 3686, "name": "Elbouraq Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo Inc, possibly special-needs"}
+{"idx": 3687, "name": "R & C Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special-needs"}
+{"idx": 3688, "name": "Naugatuck Handicap Elderly Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Handicap/elderly bus, not school"}
+{"idx": 3689, "name": "Valley Trans LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private LLC transport, special-needs flagged"}

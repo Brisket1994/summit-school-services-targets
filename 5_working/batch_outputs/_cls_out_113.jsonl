@@ -1,0 +1,30 @@
+{"idx": 3390, "name": "O T Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC special-needs transport operator"}
+{"idx": 3391, "name": "Warroad Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 3392, "name": "Salem Central Elementary Sch", "verdict": "not_transport", "confidence": 0.98, "reason": "Elementary school, not transport"}
+{"idx": 3393, "name": "Niles City Schools-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City schools transportation department"}
+{"idx": 3394, "name": "Transportation & Ground Ctrl", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Tri-county schools district transportation"}
+{"idx": 3395, "name": "School Transportation Org", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, law firm address"}
+{"idx": 3396, "name": "Aeb Transport & Courier Svc Co", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private courier/transport, special-needs flag"}
+{"idx": 3397, "name": "Dunn County Transit", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County government transit service"}
+{"idx": 3398, "name": "Patient's Express", "verdict": "private_contractor", "confidence": 0.5, "reason": "Likely NEMT, not school transport"}
+{"idx": 3399, "name": "Boulden Buses Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus company Inc"}
+{"idx": 3400, "name": "Wittenberg-Birnamwood Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 3401, "name": "Harford County Sch Bus Contrs", "verdict": "private_contractor", "confidence": 0.7, "reason": "County school bus contractors group"}
+{"idx": 3402, "name": "Atlanta Metro Transport Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, likely NEMT"}
+{"idx": 3403, "name": "Legacy Transportation-Lgstcs", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport/logistics LLC"}
+{"idx": 3404, "name": "Ultimate Care Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC, likely NEMT special-needs"}
+{"idx": 3405, "name": "Everyday Wireless Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Wireless company, not transport"}
+{"idx": 3406, "name": "Ysleta Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 3407, "name": "Morenci Area Schools Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus garage"}
+{"idx": 3408, "name": "Behavior Management", "verdict": "not_transport", "confidence": 0.7, "reason": "Behavior services, not transport"}
+{"idx": 3409, "name": "A G Medical Transportation Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical NEMT, likely not school"}
+{"idx": 3410, "name": "City Wide Transportation", "verdict": "private_contractor", "confidence": 0.5, "reason": "Private transport, possibly NEMT"}
+{"idx": 3411, "name": "Med Link", "verdict": "private_contractor", "confidence": 0.4, "reason": "Medical transport, not school"}
+{"idx": 3412, "name": "Green School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "School transportation Inc, private"}
+{"idx": 3413, "name": "Long Beach USD Transportation", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Unified school district transportation"}
+{"idx": 3414, "name": "Brown & Mitchell Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name transport LLC"}
+{"idx": 3415, "name": "Ocean Transportation & Rental", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport/rental company"}
+{"idx": 3416, "name": "Palmer Bus Svc Of Lakeview Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Palmer Bus Service Inc, school operator"}
+{"idx": 3417, "name": "Turkeyfoot Transport Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport Inc, school flag"}
+{"idx": 3418, "name": "Bay Terrace Transit Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Transit Corp, private school operator"}
+{"idx": 3419, "name": "Long Island City Bus Devmnt Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus development company, private"}

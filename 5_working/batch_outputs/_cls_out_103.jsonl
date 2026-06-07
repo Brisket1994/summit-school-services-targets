@@ -1,0 +1,30 @@
+{"idx": 3090, "name": "Brea Olinda Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Unified school district"}
+{"idx": 3091, "name": "JFK Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport company name"}
+{"idx": 3092, "name": "Sparrow-A Transportation Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport company, special needs"}
+{"idx": 3093, "name": "Blessed 2016 Legacy Trust/Tex.", "verdict": "unsure", "confidence": 0.4, "reason": "Trust entity, unclear operations"}
+{"idx": 3094, "name": "Pro Nurse Registery", "verdict": "not_transport", "confidence": 0.7, "reason": "Nurse registry, not transport operator"}
+{"idx": 3095, "name": "Rockwood Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc transport company"}
+{"idx": 3096, "name": "Bus Shop A", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, could be repair"}
+{"idx": 3097, "name": "Focolare Movement Men's Br", "verdict": "not_transport", "confidence": 0.9, "reason": "Religious movement, not transport"}
+{"idx": 3098, "name": "Bay Area Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport, special needs"}
+{"idx": 3099, "name": "Mid-Placer Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation dept"}
+{"idx": 3100, "name": "Platte County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transport"}
+{"idx": 3101, "name": "District 20 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 3102, "name": "Nichols Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private family-name bus company"}
+{"idx": 3103, "name": "Pharr-San Juan-Alamo", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "PSJA ISD school district"}
+{"idx": 3104, "name": "Lake Crystal Sch Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc; Palmer Bus affiliate"}
+{"idx": 3105, "name": "Dobb Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear operations"}
+{"idx": 3106, "name": "N Alliance Transit LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transit company"}
+{"idx": 3107, "name": "Sunshine AAA Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport, special needs"}
+{"idx": 3108, "name": "Office Furnish & Sup Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Office furniture supply, not transport"}
+{"idx": 3109, "name": "Tass Trans LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transport company"}
+{"idx": 3110, "name": "Chickadee Bus Solutions LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Could be business solutions, not bus"}
+{"idx": 3111, "name": "Diamond Carriage Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special needs"}
+{"idx": 3112, "name": "Nouveau Entrepreneurs Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear operations"}
+{"idx": 3113, "name": "Pearl Transportation SVC LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC transport company"}
+{"idx": 3114, "name": "Bow Business Garage", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous, could be auto garage"}
+{"idx": 3115, "name": "Redi-Rides Of Alaska", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private rides service, special needs"}
+{"idx": 3116, "name": "Sylvia Maria Solutions LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear operations"}
+{"idx": 3117, "name": "Caring Heart Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transport, yoga website odd"}
+{"idx": 3118, "name": "Pace The Suburan Bus Div", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Pace Suburban Bus, public transit"}
+{"idx": 3119, "name": "CST USA Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear operations"}

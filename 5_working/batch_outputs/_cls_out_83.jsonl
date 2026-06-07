@@ -1,0 +1,30 @@
+{"idx": 2490, "name": "Dockendorf Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family name + Bus Svc Inc"}
+{"idx": 2491, "name": "State College Chmber Bus Ind", "verdict": "not_transport", "confidence": 0.9, "reason": "Chamber of Business Industry, not transport"}
+{"idx": 2492, "name": "Midview Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage (k12.org)"}
+{"idx": 2493, "name": "Sendmail Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.95, "reason": "Software company doing business as"}
+{"idx": 2494, "name": "Monroe County Bus Dev Corp", "verdict": "not_transport", "confidence": 0.9, "reason": "Business Development Corporation, not transport"}
+{"idx": 2495, "name": "Cheyenne Bus Co LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus Co LLC, private operator"}
+{"idx": 2496, "name": "Owasso Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2497, "name": "Ozzie Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.9, "reason": "Generic doing-business filing, not transport"}
+{"idx": 2498, "name": "Aroostook Regional Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Regional public transit authority"}
+{"idx": 2499, "name": "Wadsworth City Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation"}
+{"idx": 2500, "name": "Federal Way Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2501, "name": "Kevlar Express Transit LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Transit LLC, special needs transport"}
+{"idx": 2502, "name": "Thomas Jerry", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name only, unclear entity"}
+{"idx": 2503, "name": "His USA Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.9, "reason": "Hair clinic doing business as"}
+{"idx": 2504, "name": "North Penn Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation"}
+{"idx": 2505, "name": "Depot-Bus Station", "verdict": "not_transport", "confidence": 0.7, "reason": "Bus station depot, not operator"}
+{"idx": 2506, "name": "School Bus Drivers Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus operator Inc"}
+{"idx": 2507, "name": "Pennsylvania Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center"}
+{"idx": 2508, "name": "Ringgold School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation (ringgold.org)"}
+{"idx": 2509, "name": "Tip Trucking & Busing", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private trucking and busing operator"}
+{"idx": 2510, "name": "Schuck School Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family name school bus service LLC"}
+{"idx": 2511, "name": "Gananda Central Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district transportation"}
+{"idx": 2512, "name": "Rush Bus Ctr", "verdict": "not_transport", "confidence": 0.75, "reason": "Rush truck/bus dealership center"}
+{"idx": 2513, "name": "Laidback Transport Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport service Inc"}
+{"idx": 2514, "name": "Rsu 71 School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Maine RSU district garage"}
+{"idx": 2515, "name": "Development For Small Bus Div", "verdict": "not_transport", "confidence": 0.95, "reason": "NJ small business development division"}
+{"idx": 2516, "name": "WCBC Professional Bus Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Professional bus service, possibly George Bus"}
+{"idx": 2517, "name": "Macnova LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic LLC, no clear info"}
+{"idx": 2518, "name": "Highpoint Baptist Church", "verdict": "not_transport", "confidence": 0.98, "reason": "Church, not transport operator"}
+{"idx": 2519, "name": "Show Low Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}

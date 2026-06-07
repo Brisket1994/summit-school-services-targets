@@ -1,0 +1,30 @@
+{"idx": 6450, "name": "JJ Limousines Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo Inc; special-needs transport"}
+{"idx": 6451, "name": "Modern Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company; special-needs"}
+{"idx": 6452, "name": "Charles County Sch Bus Contrs", "verdict": "private_contractor", "confidence": 0.75, "reason": "School bus contractors group"}
+{"idx": 6453, "name": "Cousins Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-named limo; special-needs"}
+{"idx": 6454, "name": "Monroe Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport; special-needs"}
+{"idx": 6455, "name": "Franklin Security & Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo/security; special-needs flagged"}
+{"idx": 6456, "name": "Loving Lift Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Special-needs lift transport"}
+{"idx": 6457, "name": "Rinehimer Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family bus lines Inc; school"}
+{"idx": 6458, "name": "Dispatch Contract LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Contract LLC; special-needs transport"}
+{"idx": 6459, "name": "Pitstop Auto Ctr", "verdict": "not_transport", "confidence": 0.8, "reason": "Auto center, not transport operator"}
+{"idx": 6460, "name": "County School Board Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School board office"}
+{"idx": 6461, "name": "Lean On Me LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name; special-needs transport"}
+{"idx": 6462, "name": "Cesar Family Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Family services; could be social services"}
+{"idx": 6463, "name": "V & K Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service; special-needs"}
+{"idx": 6464, "name": "Driver Bus Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus lines; school transport"}
+{"idx": 6465, "name": "Livingston County Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County transportation dept; district domain"}
+{"idx": 6466, "name": "Kehns Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family limo; special-needs"}
+{"idx": 6467, "name": "Joes Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named transport; special-needs"}
+{"idx": 6468, "name": "KC Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo company; special-needs"}
+{"idx": 6469, "name": "Page Front Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport; special-needs"}
+{"idx": 6470, "name": "Buie Cares LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Care LLC; likely caregiver service"}
+{"idx": 6471, "name": "Metro Luxury Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Luxury transport Inc; special-needs"}
+{"idx": 6472, "name": "Beavercreek City Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City school transportation dept"}
+{"idx": 6473, "name": "Enchanted Wedding Chapel", "verdict": "not_transport", "confidence": 0.9, "reason": "Wedding chapel, not transport"}
+{"idx": 6474, "name": "White Night Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo; special-needs"}
+{"idx": 6475, "name": "A Quality Care Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Care transportation; special-needs"}
+{"idx": 6476, "name": "AAA A Dm Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport; special-needs"}
+{"idx": 6477, "name": "White Rose Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo; special-needs"}
+{"idx": 6478, "name": "Puckett Transport Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named transport; special-needs"}
+{"idx": 6479, "name": "R & J Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport; special-needs"}

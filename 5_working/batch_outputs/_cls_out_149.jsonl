@@ -1,0 +1,30 @@
+{"idx": 4470, "name": "North Wayne Cmnty Sch Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus barn"}
+{"idx": 4471, "name": "Missing Pieces Cmnty Devmnt", "verdict": "not_transport", "confidence": 0.85, "reason": "Community development nonprofit, not transport"}
+{"idx": 4472, "name": "Rensselaer Central Sch Corp", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school corporation district"}
+{"idx": 4473, "name": "Superior Central Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus garage"}
+{"idx": 4474, "name": "Bertie County Of Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}
+{"idx": 4475, "name": "Montgomery County Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}
+{"idx": 4476, "name": "Haines Busing", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name busing, likely private contractor"}
+{"idx": 4477, "name": "Ulysses Motors", "verdict": "unsure", "confidence": 0.45, "reason": "Motors name ambiguous, possibly dealer"}
+{"idx": 4478, "name": "Wahington School Bus Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus lines suggests private operator"}
+{"idx": 4479, "name": "Map Transport LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC special needs transport contractor"}
+{"idx": 4480, "name": "National Veterans Bus Dev Corp", "verdict": "not_transport", "confidence": 0.7, "reason": "Veterans business development nonprofit"}
+{"idx": 4481, "name": "Pleasant Vly Bus Solutions LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC school bus solutions contractor"}
+{"idx": 4482, "name": "Blue Bird Bus Sales", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus dealer/sales not operator"}
+{"idx": 4483, "name": "Heart & Soul Para Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Paratransit private operator"}
+{"idx": 4484, "name": "Wheelers Of Wyoming", "verdict": "private_contractor", "confidence": 0.6, "reason": "Van rentals, possibly special needs transport"}
+{"idx": 4485, "name": "K I K School Bus Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus transportation private operator"}
+{"idx": 4486, "name": "T J Menears Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name special needs transport"}
+{"idx": 4487, "name": "Charlotte Department Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "City department of transportation"}
+{"idx": 4488, "name": "TFMC Team Preferred Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus service operator"}
+{"idx": 4489, "name": "West Charlotte Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation, same complex as TFMC"}
+{"idx": 4490, "name": "Bonviva LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "LLC special needs transport"}
+{"idx": 4491, "name": "Alwood Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Alwood district bus garage"}
+{"idx": 4492, "name": "Aces Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special needs transport service"}
+{"idx": 4493, "name": "Cozie Cab LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Cab LLC special needs transport"}
+{"idx": 4494, "name": "K C Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, special needs transport"}
+{"idx": 4495, "name": "In School Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc school bus private contractor"}
+{"idx": 4496, "name": "Wings-Halos Non-Emergency", "verdict": "private_contractor", "confidence": 0.75, "reason": "Non-emergency medical/special needs transport"}
+{"idx": 4497, "name": "Guardian Paratransit Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc paratransit private operator"}
+{"idx": 4498, "name": "All PA Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business type"}
+{"idx": 4499, "name": "Jackson Barry Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limousine service, special needs transport"}

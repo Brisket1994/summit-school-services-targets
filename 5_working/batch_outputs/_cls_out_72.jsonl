@@ -1,0 +1,30 @@
+{"idx": 2160, "name": "Reading School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus operator name"}
+{"idx": 2161, "name": "Gila School Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "LLC school bus service"}
+{"idx": 2162, "name": "Martinez Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service Inc"}
+{"idx": 2163, "name": "Suazo Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service Inc"}
+{"idx": 2164, "name": "Pre-School Trnsprtn Alliance", "verdict": "unsure", "confidence": 0.4, "reason": "Alliance could be assoc or operator"}
+{"idx": 2165, "name": "Two Matthews Inc Which Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Unclear truncated name"}
+{"idx": 2166, "name": "Eaton City Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2167, "name": "Citizens For A Norman Pubc Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Citizens advocacy group, not operator"}
+{"idx": 2168, "name": "Avery School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school transportation Inc"}
+{"idx": 2169, "name": "Central Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service Inc"}
+{"idx": 2170, "name": "Eastern Pocono Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 2171, "name": "King Bus Transportation Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus transportation company"}
+{"idx": 2172, "name": "National Automated Bus Svc-De", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus service"}
+{"idx": 2173, "name": "Jirau Bus Line Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus line corporation"}
+{"idx": 2174, "name": "Lusito Omnibus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private omnibus operator PR"}
+{"idx": 2175, "name": "Bristol School Trnsprtn Co Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school transportation company"}
+{"idx": 2176, "name": "Dave Hall Certified Pubc Acct", "verdict": "not_transport", "confidence": 0.97, "reason": "Certified public accountant, not transport"}
+{"idx": 2177, "name": "East Lansing Bus Depot Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus depot Inc, likely operator"}
+{"idx": 2178, "name": "Ionia Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools transportation dept"}
+{"idx": 2179, "name": "Exeter School System", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school system"}
+{"idx": 2180, "name": "Atlantic Bus Sales", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales, not operator"}
+{"idx": 2181, "name": "LPN Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation LLC"}
+{"idx": 2182, "name": "K & H Busing", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private busing operator"}
+{"idx": 2183, "name": "Comstock Park Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2184, "name": "Riffey Buses", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-name bus operator"}
+{"idx": 2185, "name": "Colonial Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service"}
+{"idx": 2186, "name": "Key Port Auto Body Shop Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Auto body shop, not transport"}
+{"idx": 2187, "name": "Alexander County Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus garage"}
+{"idx": 2188, "name": "Royal Castle Corp", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, unclear business"}
+{"idx": 2189, "name": "Truck & Bus Ctr Inc", "verdict": "not_transport", "confidence": 0.75, "reason": "Truck/bus center, likely dealer/service"}

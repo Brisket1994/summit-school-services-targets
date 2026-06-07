@@ -1,0 +1,30 @@
+{"idx": 2760, "name": "El Campo Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation dept (Ecisd.org)"}
+{"idx": 2761, "name": "USA Guided Tours", "verdict": "not_transport", "confidence": 0.85, "reason": "Tour operator, not school bus contractor"}
+{"idx": 2762, "name": "K Neal Truck & Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Truck and bus dealer/sales center"}
+{"idx": 2763, "name": "School-Business Social Scncs", "verdict": "not_transport", "confidence": 0.7, "reason": "Appears to be school/social services entity"}
+{"idx": 2764, "name": "It'z A Breezzz Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport LLC"}
+{"idx": 2765, "name": "AM PM Cares Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport provider"}
+{"idx": 2766, "name": "Kalamazoo Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2767, "name": "Northern IL Bus Sales Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus sales dealer, not operator"}
+{"idx": 2768, "name": "Holstic Care Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport provider"}
+{"idx": 2769, "name": "Otsego Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department (Otsegops.org)"}
+{"idx": 2770, "name": "Kinnicutt Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus company"}
+{"idx": 2771, "name": "Arrow Transportation SVC LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport LLC"}
+{"idx": 2772, "name": "Door 2 Door School Shuttle LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school shuttle LLC"}
+{"idx": 2773, "name": "First Secretarial & Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Secretarial/business center, not transport"}
+{"idx": 2774, "name": "Mommy Drives Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school transport provider"}
+{"idx": 2775, "name": "Ennis Independent Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD transportation department"}
+{"idx": 2776, "name": "Critical Transport Svc Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport provider"}
+{"idx": 2777, "name": "D'Vine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private special-needs transport provider"}
+{"idx": 2778, "name": "Johns Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport provider"}
+{"idx": 2779, "name": "Providence Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport provider"}
+{"idx": 2780, "name": "Anf Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport LLC"}
+{"idx": 2781, "name": "Gold Country Telecare Inc", "verdict": "not_transport", "confidence": 0.75, "reason": "Telecare/healthcare nonprofit, not transport"}
+{"idx": 2782, "name": "Marshall Public Schls-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2783, "name": "Rootstown Local Sch-Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Local school district bus dept"}
+{"idx": 2784, "name": "American Limousine Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine company, possible special-needs transport"}
+{"idx": 2785, "name": "D & R Luxury Transport Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service provider"}
+{"idx": 2786, "name": "Med Link Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Medical/special-needs transport provider"}
+{"idx": 2787, "name": "Superior Ride LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport LLC"}
+{"idx": 2788, "name": "Cullen Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear entity"}
+{"idx": 2789, "name": "Nicolette Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear entity"}

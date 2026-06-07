@@ -1,0 +1,30 @@
+{"idx": 3240, "name": "Lets Go 2 Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport operator"}
+{"idx": 3241, "name": "Southwest Health Transport Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Health/medical transport, not student"}
+{"idx": 3242, "name": "G & K Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company"}
+{"idx": 3243, "name": "Esko Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 3244, "name": "Flagship Services LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name; possibly special-needs transport"}
+{"idx": 3245, "name": "Vertical Horizon Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear operator"}
+{"idx": 3246, "name": "Mits Of Virginia", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely medical/special-needs transport service"}
+{"idx": 3247, "name": "Fantasia Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not school bus"}
+{"idx": 3248, "name": "Plainwell Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 3249, "name": "HSD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Hamburg School District transportation dept"}
+{"idx": 3250, "name": "Prestige School Transport LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school transport LLC"}
+{"idx": 3251, "name": "Bert Bendickson School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private school bus operator"}
+{"idx": 3252, "name": "Senior Care Trnsprtn LL Co", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior care transport, not student"}
+{"idx": 3253, "name": "Missouri Entp Bus Assistance", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous enterprise/assistance name"}
+{"idx": 3254, "name": "Quality Education Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company"}
+{"idx": 3255, "name": "Smyth Buss Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 3256, "name": "Minford School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District garage at Minford Falcons school"}
+{"idx": 3257, "name": "Boyarsky Bus Co LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus company"}
+{"idx": 3258, "name": "P R Brown Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private bus company"}
+{"idx": 3259, "name": "Polonez Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service incorporated"}
+{"idx": 3260, "name": "Chambers School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private school bus"}
+{"idx": 3261, "name": "Silicon Valley Tech Group Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Tech group, not transportation"}
+{"idx": 3262, "name": "Parker USD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified School District transportation dept"}
+{"idx": 3263, "name": "AGR Multiservices Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic multiservices, special-needs flagged"}
+{"idx": 3264, "name": "Lech Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private transport operator"}
+{"idx": 3265, "name": "Twin Star Indl Svc LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Industrial services, not student transport"}
+{"idx": 3266, "name": "Jessica Brown", "verdict": "unsure", "confidence": 0.3, "reason": "Personal name, unclear entity"}
+{"idx": 3267, "name": "North St Paul Pubc Schl Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district garage"}
+{"idx": 3268, "name": "Agg School Transportation LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school transportation LLC"}
+{"idx": 3269, "name": "Royal Transpo LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport LLC, school flagged"}

@@ -1,0 +1,30 @@
+{"idx": 5040, "name": "Priority Care Wheelchair Trnst", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport, may serve special-needs students"}
+{"idx": 5041, "name": "Amazon Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal school-transport relevance"}
+{"idx": 5042, "name": "Carthage Limousine & Sedan", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo/sedan service, marginal relevance"}
+{"idx": 5043, "name": "Challenge Limosne & Sedan Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo/sedan service, marginal relevance"}
+{"idx": 5044, "name": "Destiny Trnsportaion Group LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation LLC, possible special-needs"}
+{"idx": 5045, "name": "Mendozas Sedans & Limos", "verdict": "private_contractor", "confidence": 0.5, "reason": "Sedan/limo service, marginal relevance"}
+{"idx": 5046, "name": "Paradise Limo Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal relevance"}
+{"idx": 5047, "name": "Carpinteria USD Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD district transportation department"}
+{"idx": 5048, "name": "E Commerce Intl Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear if transport"}
+{"idx": 5049, "name": "New Generations Which Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Garbled name, unclear entity"}
+{"idx": 5050, "name": "Surfaces Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Garbled name, unclear entity"}
+{"idx": 5051, "name": "Medtran Medical Transport", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not school-focused"}
+{"idx": 5052, "name": "A C Medical Tran", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical transport, not school"}
+{"idx": 5053, "name": "Angel Wheels Transportation", "verdict": "private_contractor", "confidence": 0.5, "reason": "Transport, likely medical/special-needs"}
+{"idx": 5054, "name": "Hudson Group LTD", "verdict": "private_contractor", "confidence": 0.5, "reason": "Trolley/charter operator"}
+{"idx": 5055, "name": "My Limousine Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, marginal relevance"}
+{"idx": 5056, "name": "Spirit Transportation Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transportation Inc"}
+{"idx": 5057, "name": "A-G Limousines Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company"}
+{"idx": 5058, "name": "Chaufeurs", "verdict": "private_contractor", "confidence": 0.4, "reason": "Chauffeur service, marginal"}
+{"idx": 5059, "name": "East Coast Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service"}
+{"idx": 5060, "name": "Jersey One Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service"}
+{"idx": 5061, "name": "Greenbrier Valley Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Airport limo service"}
+{"idx": 5062, "name": "A & A School Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus service company"}
+{"idx": 5063, "name": "A Plus School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "School bus operator with website"}
+{"idx": 5064, "name": "On The Way Transportation Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Transportation service, possibly special-needs"}
+{"idx": 5065, "name": "Mansion Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service"}
+{"idx": 5066, "name": "Precision Medical Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical service, not school transport"}
+{"idx": 5067, "name": "J & R Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus service company"}
+{"idx": 5068, "name": "White Knight Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service Inc"}
+{"idx": 5069, "name": "Centerline Charter Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Charter bus company, school routes possible"}

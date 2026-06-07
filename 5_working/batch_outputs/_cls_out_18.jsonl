@@ -1,0 +1,30 @@
+{"idx": 540, "name": "Medi-Ride", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical/special-needs transport"}
+{"idx": 541, "name": "Medical Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Generic name, likely small NEMT operator"}
+{"idx": 542, "name": "Arcediano Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo/bus operator per website"}
+{"idx": 543, "name": "L & E Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}
+{"idx": 544, "name": "Comfort Coach", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private coach/transport operator"}
+{"idx": 545, "name": "Advantage Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private medical transport, likely NEMT"}
+{"idx": 546, "name": "Pride Emergency Medical Svc", "verdict": "not_transport", "confidence": 0.75, "reason": "EMS/ambulance service, not student transport"}
+{"idx": 547, "name": "Coventry Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house transport, coventryschools.org"}
+{"idx": 548, "name": "Wheelchair Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair/special-needs transport"}
+{"idx": 549, "name": "Luxury Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possibly special-needs"}
+{"idx": 550, "name": "Kids Cab", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private child/student transport operator"}
+{"idx": 551, "name": "Life Of Leisure Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 552, "name": "Florida Express Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private bus operator, likely charter"}
+{"idx": 553, "name": "Marina Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 554, "name": "Agape Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport LLC"}
+{"idx": 555, "name": "New Frontier MD Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school bus operator"}
+{"idx": 556, "name": "A A A Medex", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport operator"}
+{"idx": 557, "name": "Extreme Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 558, "name": "Elite Charters Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private charter/limo operator"}
+{"idx": 559, "name": "Executive Car Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Executive car service, marginal fit"}
+{"idx": 560, "name": "Auto Mobility Sales", "verdict": "not_transport", "confidence": 0.8, "reason": "Vehicle sales/mobility equipment dealer"}
+{"idx": 561, "name": "School Dayz Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private student transport operator"}
+{"idx": 562, "name": "Lakes Region Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private student transport, lrstnh.com"}
+{"idx": 563, "name": "Chair-To-There", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair transport operator"}
+{"idx": 564, "name": "Elite Care Wheelchair Transit", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair/special-needs transport"}
+{"idx": 565, "name": "D C Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 566, "name": "Handi-Van Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private handicap/special-needs van transport"}
+{"idx": 567, "name": "Destiny Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}
+{"idx": 568, "name": "Trans Assist", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}
+{"idx": 569, "name": "Taylor Transportation Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}

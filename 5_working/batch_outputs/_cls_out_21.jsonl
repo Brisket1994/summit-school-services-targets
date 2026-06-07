@@ -1,0 +1,30 @@
+{"idx": 630, "name": "Brownsville Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD in-house transportation dept"}
+{"idx": 631, "name": "Ann Arbor Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 632, "name": "Anaheim Union High School Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 633, "name": "Northwest Transportation Ctr", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Dade schools transportation center"}
+{"idx": 634, "name": "PA Coach Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private coach line operator"}
+{"idx": 635, "name": "Hulmes Transportation Svc LTD", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private transport service"}
+{"idx": 636, "name": "United Disability Svc Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability services nonprofit, not transport"}
+{"idx": 637, "name": "Boston Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transportation"}
+{"idx": 638, "name": "Minneapolis Public Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 639, "name": "Northside Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Northside ISD San Antonio in-house"}
+{"idx": 640, "name": "Orange County Pubc Sch-Bus Dpt", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school bus department"}
+{"idx": 641, "name": "Schools-Public Orange County", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 642, "name": "HCS Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Home/community services nonprofit"}
+{"idx": 643, "name": "Durham", "verdict": "public_or_inhouse", "confidence": 0.6, "reason": "Blue Valley district website, unclear"}
+{"idx": 644, "name": "Logan Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NYC school bus contractor"}
+{"idx": 645, "name": "Byram Hills Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 646, "name": "Meridian Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Meridian schools in-house transport"}
+{"idx": 647, "name": "San Antonio School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "SAISD in-house transportation"}
+{"idx": 648, "name": "Lees Summit Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Lees Summit R-7 district transport"}
+{"idx": 649, "name": "DLM School Bus Line Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private Illinois school bus contractor"}
+{"idx": 650, "name": "Pace Suburban Bus Board", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public transit agency board"}
+{"idx": 651, "name": "Goose Creek Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD in-house transportation"}
+{"idx": 652, "name": "FCPS Department Of Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Frederick County public schools dept"}
+{"idx": 653, "name": "CSD Transportation Central", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Canyons School District transport"}
+{"idx": 654, "name": "Community Ambulance Svc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}
+{"idx": 655, "name": "Mesquite Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public independent school district"}
+{"idx": 656, "name": "Fort Bend Isd-Hodges Bend", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Fort Bend ISD facility"}
+{"idx": 657, "name": "Edward Schaffer & Son", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus operator"}
+{"idx": 658, "name": "Aisd Departmentent Of Pupil", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Austin ISD pupil transportation dept"}
+{"idx": 659, "name": "Ct Transit", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Connecticut state public transit"}

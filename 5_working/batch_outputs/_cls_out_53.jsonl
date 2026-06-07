@@ -1,0 +1,30 @@
+{"idx": 1590, "name": "Das USA Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc corporate entity DBA bus, NJ school transport"}
+{"idx": 1591, "name": "North Little Rock Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1592, "name": "Romano's School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus service Inc"}
+{"idx": 1593, "name": "El Paso Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 1594, "name": "Parkway Schools Trnsprtn Svc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 1595, "name": "Stier Bus Co", "verdict": "private_contractor", "confidence": 0.93, "reason": "Family-name bus company"}
+{"idx": 1596, "name": "H H Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus service Inc"}
+{"idx": 1597, "name": "Michigan School Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear private vs public"}
+{"idx": 1598, "name": "Cabarrus County Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}
+{"idx": 1599, "name": "BRI Mar Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transit company"}
+{"idx": 1600, "name": "Windham Town School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Town school bus garage, municipal"}
+{"idx": 1601, "name": "Mckinley & City Line Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company in Philadelphia"}
+{"idx": 1602, "name": "Clear Sky Ent Inc Which Will", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc corporate entity, CA school transport"}
+{"idx": 1603, "name": "Ecmc Diversified Inc Which", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc corporate entity DBA bus"}
+{"idx": 1604, "name": "Foreman Bus Sales & Svc", "verdict": "not_transport", "confidence": 0.75, "reason": "Bus sales and service dealer, not operator"}
+{"idx": 1605, "name": "Transportation-Jefferson Cnty", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation department"}
+{"idx": 1606, "name": "Marble Falls Isd Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD transportation department"}
+{"idx": 1607, "name": "Point To Point School Bus Svc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Private school bus service Texas"}
+{"idx": 1608, "name": "IPG-USA Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc corporate entity DBA bus"}
+{"idx": 1609, "name": "Northern Cal Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.98, "reason": "Small Business Development Center, not transport"}
+{"idx": 1610, "name": "Kauffman Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.94, "reason": "Family-name bus service Inc"}
+{"idx": 1611, "name": "A Story Time Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, likely not transport"}
+{"idx": 1612, "name": "Anthropic PBC Which Will Do", "verdict": "not_transport", "confidence": 0.98, "reason": "AI company, not transportation"}
+{"idx": 1613, "name": "Artifact Co Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, unclear business"}
+{"idx": 1614, "name": "Baraja Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, unclear"}
+{"idx": 1615, "name": "Choice Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, unclear"}
+{"idx": 1616, "name": "Luka Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, unclear"}
+{"idx": 1617, "name": "Reed Communications Inc Which", "verdict": "not_transport", "confidence": 0.85, "reason": "Communications company, not transport"}
+{"idx": 1618, "name": "School Bus Logistics LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus logistics LLC"}
+{"idx": 1619, "name": "St Lucie County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County school district transportation"}

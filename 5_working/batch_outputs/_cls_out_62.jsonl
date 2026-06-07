@@ -1,0 +1,30 @@
+{"idx": 1860, "name": "Byberry North Bus Ctr", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus center, likely private contractor"}
+{"idx": 1861, "name": "Community Special Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Special needs transport service, likely private"}
+{"idx": 1862, "name": "International Bus Ctr", "verdict": "private_contractor", "confidence": 0.65, "reason": "Bus center, likely private operator"}
+{"idx": 1863, "name": "School Bus Safety Awareness", "verdict": "unsure", "confidence": 0.4, "reason": "Name suggests training/nonprofit not operator"}
+{"idx": 1864, "name": "SCSD Transportation Dept Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department"}
+{"idx": 1865, "name": "Georgia Medical Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Medical/special needs transport Inc"}
+{"idx": 1866, "name": "Louisville Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District schools transportation"}
+{"idx": 1867, "name": "Capeway Transportation Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Special needs transport Inc"}
+{"idx": 1868, "name": "A T & Sons Transportation Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named corp, private operator"}
+{"idx": 1869, "name": "Terra Group Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic group name, unclear operations"}
+{"idx": 1870, "name": "Holland Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus service LLC, private contractor"}
+{"idx": 1871, "name": "Lift-Aids", "verdict": "not_transport", "confidence": 0.7, "reason": "Wheelchair lift equipment manufacturer"}
+{"idx": 1872, "name": "Danville Community School", "verdict": "not_transport", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 1873, "name": "Valley Oasis Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation company, likely private"}
+{"idx": 1874, "name": "Solvay Union Free Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Union free school district"}
+{"idx": 1875, "name": "Charter School Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "Could be school dept or contractor"}
+{"idx": 1876, "name": "Lincoln Park Bus Ctr Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus center Inc, private operator"}
+{"idx": 1877, "name": "Tri-County Truck & Bus Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Truck and bus Inc, likely dealer/operator"}
+{"idx": 1878, "name": "It Takes A Vlg Sch Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Independent school transport company"}
+{"idx": 1879, "name": "Mariemont City Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City school district transportation"}
+{"idx": 1880, "name": "Observable Inc Which Will Do", "verdict": "not_transport", "confidence": 0.85, "reason": "Tech/software company, not transport"}
+{"idx": 1881, "name": "Unicorns Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear business"}
+{"idx": 1882, "name": "Joshua-Caleb Ministries Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Religious ministry organization"}
+{"idx": 1883, "name": "Sol Enterprises Inc Which Will", "verdict": "unsure", "confidence": 0.3, "reason": "Generic enterprises, unclear business"}
+{"idx": 1884, "name": "Challis School Dist 181", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1885, "name": "Gladwin Community Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 1886, "name": "Republic Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 1887, "name": "Hartsville High School Bus Ofc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "High school bus office"}
+{"idx": 1888, "name": "Falls Church City School Board", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school board"}
+{"idx": 1889, "name": "Julann Productions Inc Which", "verdict": "not_transport", "confidence": 0.8, "reason": "Productions company, not transport"}

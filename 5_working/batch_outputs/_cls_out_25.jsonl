@@ -1,0 +1,30 @@
+{"idx": 750, "name": "MBG Enterprises Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc suffix, MD school bus operator"}
+{"idx": 751, "name": "Franklin Township Cmnty Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district"}
+{"idx": 752, "name": "Waller Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD transportation department"}
+{"idx": 753, "name": "Avon Community Public Schools", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 754, "name": "Guilderland Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Central school district"}
+{"idx": 755, "name": "Putnam City Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District transportation department"}
+{"idx": 756, "name": "Columbus City Sch Fort Hayes", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Columbus city school"}
+{"idx": 757, "name": "Fairfax County Public Sch-Bus", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County public school bus dept"}
+{"idx": 758, "name": "Cusd 308 Transportation Ctr", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Community Unit School District 308"}
+{"idx": 759, "name": "Vidalia Band Boosters", "verdict": "not_transport", "confidence": 0.9, "reason": "School band booster organization"}
+{"idx": 760, "name": "Washington County Pubc Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County public school bus dept"}
+{"idx": 761, "name": "Louisa County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County public schools"}
+{"idx": 762, "name": "LA Grange School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus garage, ACSD domain"}
+{"idx": 763, "name": "Citilift", "verdict": "unsure", "confidence": 0.5, "reason": "Paratransit, likely public transit affiliated"}
+{"idx": 764, "name": "Northwest Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport RI"}
+{"idx": 765, "name": "Firststudent", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "First Student strategic, non-independent"}
+{"idx": 766, "name": "Sunrise Busses Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private NY school bus company"}
+{"idx": 767, "name": "Forsyth Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus barn"}
+{"idx": 768, "name": "Zima Real Bus Line LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC private bus line TX"}
+{"idx": 769, "name": "Mesa Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transport"}
+{"idx": 770, "name": "Monongalia Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus garage WV"}
+{"idx": 771, "name": "Pharmerica Kent Valley Bus Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Pharmerica is pharmacy, ambiguous bus center"}
+{"idx": 772, "name": "Akron School Trnsprtn Svc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Akron public schools transport"}
+{"idx": 773, "name": "Osd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Olympia School District transport"}
+{"idx": 774, "name": "Minooka School Transport Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district transport dept"}
+{"idx": 775, "name": "Berryville School District", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district"}
+{"idx": 776, "name": "V Rolling Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Rolling V Bus Corp, NY private"}
+{"idx": 777, "name": "Go-Ahead North America", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Go-Ahead Group strategic, non-independent"}
+{"idx": 778, "name": "Transmed Ambulance Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not student transport"}
+{"idx": 779, "name": "Wayne Board Of Edu Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Board of Education transportation"}

@@ -1,0 +1,30 @@
+{"idx": 3990, "name": "Wilbraham School Trans Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc suffix, private school transport contractor"}
+{"idx": 3991, "name": "Medi-Van", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely medical/special needs van service"}
+{"idx": 3992, "name": "Perrysburg Exempted Vlg Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 3993, "name": "DS Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Lines Inc, private school contractor"}
+{"idx": 3994, "name": "SJC Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC special needs transport"}
+{"idx": 3995, "name": "Sierra Vista Volunteer", "verdict": "not_transport", "confidence": 0.9, "reason": "Volunteer interfaith caregiver, not transport company"}
+{"idx": 3996, "name": "All American Wheelchairs", "verdict": "not_transport", "confidence": 0.8, "reason": "Wheelchair sales/equipment, not transport operator"}
+{"idx": 3997, "name": "Dynasty Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly special needs"}
+{"idx": 3998, "name": "Jerusalem Luxury Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Luxury limo, marginal student transport"}
+{"idx": 3999, "name": "Lonnies Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine Inc, possible special needs transport"}
+{"idx": 4000, "name": "Mag", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name, insufficient info"}
+{"idx": 4001, "name": "Paradise Limousines Tampa Bay", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal student transport"}
+{"idx": 4002, "name": "Payless Luxury Limousines Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Luxury limo Inc, marginal fit"}
+{"idx": 4003, "name": "Farwell Area Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 4004, "name": "Sherburn Public Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools bus department"}
+{"idx": 4005, "name": "Getto Transportation Ctr", "verdict": "private_contractor", "confidence": 0.55, "reason": "Transportation center, possibly private operator"}
+{"idx": 4006, "name": "DTS Personal Car Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Personal car service, marginal special needs"}
+{"idx": 4007, "name": "Polish Connection", "verdict": "unsure", "confidence": 0.35, "reason": "Ambiguous name despite school flag"}
+{"idx": 4008, "name": "N K Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus Inc, private school transport"}
+{"idx": 4009, "name": "Manatee Mobility Vans", "verdict": "private_contractor", "confidence": 0.65, "reason": "Mobility vans, special needs transport"}
+{"idx": 4010, "name": "El Paso-Gridley Community Dist", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community district, public school"}
+{"idx": 4011, "name": "Debaere Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name Bus Co, private contractor"}
+{"idx": 4012, "name": "Halifax County Bus Repair Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus repair, public"}
+{"idx": 4013, "name": "Schools-Gravette-Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus garage"}
+{"idx": 4014, "name": "Engle Light Beauty Salon", "verdict": "not_transport", "confidence": 0.95, "reason": "Beauty salon, not transport"}
+{"idx": 4015, "name": "Fall River Joint Usd-Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD school district transport"}
+{"idx": 4016, "name": "Herrin Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 4017, "name": "Eagle Special Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Special transportation, private operator"}
+{"idx": 4018, "name": "Cherokee Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus barn"}
+{"idx": 4019, "name": "Maysville Local Sch Dist Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local school district transportation"}

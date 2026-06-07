@@ -1,0 +1,30 @@
+{"idx": 6300, "name": "Rapid Medical Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport; may include special-needs"}
+{"idx": 6301, "name": "School Bell Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport service"}
+{"idx": 6302, "name": "Shores Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, special needs flagged"}
+{"idx": 6303, "name": "Somir Healthcare Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Healthcare transport, possibly NEMT not student"}
+{"idx": 6304, "name": "Valdosta City School Vehicle", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City school district vehicle dept"}
+{"idx": 6305, "name": "W & M School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC"}
+{"idx": 6306, "name": "Minneapolis & Suburban Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, Monarch Bus Service"}
+{"idx": 6307, "name": "Northwood Academy Bus Off", "verdict": "not_transport", "confidence": 0.8, "reason": "Academy school's bus office"}
+{"idx": 6308, "name": "Endicott School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district garage, uek12.org"}
+{"idx": 6309, "name": "Dynasty Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, special-needs flagged"}
+{"idx": 6310, "name": "Washoe County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6311, "name": "Global School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus contractor"}
+{"idx": 6312, "name": "Midwest Scholars TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private student transport LLC"}
+{"idx": 6313, "name": "Best Friend Mobility", "verdict": "not_transport", "confidence": 0.85, "reason": "Pet mobility products, not transport"}
+{"idx": 6314, "name": "Milsaps Bus Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name bus line, likely private"}
+{"idx": 6315, "name": "Whitted Transportation Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private transport Inc"}
+{"idx": 6316, "name": "Lincoln County Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district bus garage"}
+{"idx": 6317, "name": "United Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, special-needs flagged"}
+{"idx": 6318, "name": "Broadway Limousine & Transport", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/transport, special-needs flagged"}
+{"idx": 6319, "name": "Evulum LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name, special-needs flagged"}
+{"idx": 6320, "name": "LLSS Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, special needs"}
+{"idx": 6321, "name": "Lyman Transport Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family-name private transport"}
+{"idx": 6322, "name": "S L RV Rentals Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "RV rentals, not student transport"}
+{"idx": 6323, "name": "Bel Air Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo, possibly special-needs transport"}
+{"idx": 6324, "name": "Eva Limousine Bus Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo bus, special-needs flagged"}
+{"idx": 6325, "name": "Nostalgia Limousine", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, likely event not student"}
+{"idx": 6326, "name": "S & M Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, special-needs flagged"}
+{"idx": 6327, "name": "Assisted Transportation Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Assisted transport, likely medical NEMT"}
+{"idx": 6328, "name": "Foster's School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school transport"}
+{"idx": 6329, "name": "Dayrides Community Bldg", "verdict": "not_transport", "confidence": 0.55, "reason": "Community building, unclear transport"}

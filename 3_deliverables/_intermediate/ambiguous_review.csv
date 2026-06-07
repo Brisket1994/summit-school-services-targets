@@ -1,0 +1,349 @@
+score,canonical_name,primary_state,locations,employees,revenue_est,year_established,school,special_needs,website,rationale
+98.5,Centerville School Trnsprtn,OH,1,175,23216000,1888,1,0,Centerville.K12.Oh.Us,175 emp; $23.2M rev; est 1888 (138y); single; web+phone; school
+98.5,San Antonio School Trnsprtn,TX,1,250,11464000,1932,1,0,Saisd.Net,250 emp; $11.5M rev; est 1932 (94y); single; web+phone; school
+98.5,Chesterfield Pupil Trnsprtn,VA,1,100,4195000,1870,1,0,Oneccps.Org,100 emp; $4.2M rev; est 1870 (156y); single; web+phone; school
+98.5,Canajoharie Schools Trnsprtn,NY,1,60,2357000,1982,1,0,Canajoharieschools.Org,60 emp; $2.4M rev; est 1982 (44y); single; web+phone; school
+98.5,Yukon School Transportation,OK,1,60,2177000,1967,1,0,Yukonps.Com,60 emp; $2.2M rev; est 1967 (59y); single; web+phone; school
+95.5,Fullington School Bus,PA,4,152,7579000,1908,1,0,Fullingtontours.Com,152 emp; $7.6M rev; est 1908 (118y); small(2-5); web+phone; school
+95.5,Leon George II School Buses,PA,1,35,1035000,1989,1,0,Lgschoolbuses.Com,35 emp; $1.0M rev; est 1989 (37y); single; web+phone; school
+92.5,School Transportation Sltns,AL,3,269,21647000,1995,1,0,Sts-Transportation.Com,269 emp; $21.6M rev; est 1995 (31y); small(2-5); web+phone; school
+92.5,Plainwell Schools Trnsprtn,MI,1,20,674000,1843,1,0,Plainwellschools.Org,20 emp; $0.7M rev; est 1843 (183y); single; web+phone; school
+92.5,Scio School Bus Station,OR,1,10,357000,1966,1,0,Scio.K12.Or.Us,10 emp; $0.4M rev; est 1966 (60y); single; web+phone; school
+90.5,University Bus Co,NJ,1,80,4362000,1964,1,0,,80 emp; $4.4M rev; est 1964 (62y); single; phone; school
+90.5,Troy School Transportation,IL,1,67,3089000,1949,1,0,,67 emp; $3.1M rev; est 1949 (77y); single; phone; school
+90.5,School Bus Trnsprtn Dist 7,SC,1,70,2795000,1884,1,0,,70 emp; $2.8M rev; est 1884 (142y); single; phone; school
+90.5,MCCSC Schools Transportation,IN,1,53,2146000,2008,1,0,Mccsc.Edu,53 emp; $2.1M rev; est 2008 (18y); single; web+phone; school
+88.5,Blue Springs Schools Trnsprtn,MO,1,200,26758000,,1,0,Bssd.Net,200 emp; $26.8M rev; year n/a; single; web+phone; school
+88.5,Lakeside School Buses,WI,1,300,20665000,,1,0,Lakesidebuses.Com,300 emp; $20.7M rev; year n/a; single; web+phone; school
+88.5,School Tyme Transportation,NJ,1,250,20359000,,1,0,United-Limo.Com,250 emp; $20.4M rev; year n/a; single; web+phone; school
+88.5,Ycn School Transportation,MA,1,150,15015000,,1,0,Ycntransportation.Com,150 emp; $15.0M rev; year n/a; single; web+phone; school
+88.5,Byram Hills Schools Trnsprtn,NY,1,77,11829000,,1,0,Byramhills.Org,77 emp; $11.8M rev; year n/a; single; web+phone; school
+88.5,Yuma Schools TRNSP Ctr,AZ,1,215,9019000,,1,0,Yuma.Org,215 emp; $9.0M rev; year n/a; single; web+phone; school
+88.5,Lakota Local Schools Trnsprtn,OH,1,200,8266000,,1,0,Lakotaonline.Com,200 emp; $8.3M rev; year n/a; single; web+phone; school
+88.5,Baumann & Sons Buses School,NY,1,100,7141000,,1,0,Abatransportation.Com,100 emp; $7.1M rev; year n/a; single; web+phone; school
+88.5,Akron School Trnsprtn Svc,OH,1,150,6070000,,1,0,Akronschools.Com,150 emp; $6.1M rev; year n/a; single; web+phone; school
+88.5,Minooka School Transport Dept,IL,1,130,6027000,,1,0,Min201.Org,130 emp; $6.0M rev; year n/a; single; web+phone; school
+88.5,Worthington Schools Trnsprtn,OH,1,90,4135000,,1,0,Worthington.K12.Oh.Us,90 emp; $4.1M rev; year n/a; single; web+phone; school
+88.5,Averill Park School Trnsprtn,NY,1,100,3902000,,1,0,Averillpark.K12.Ny.Us,100 emp; $3.9M rev; year n/a; single; web+phone; school
+88.5,Ashland School Transportation,OR,1,30,3472000,,1,0,Ashland.K12.Or.Us,30 emp; $3.5M rev; year n/a; single; web+phone; school
+88.5,Enumclaw School Transportation,WA,1,65,3437000,,1,0,Enumclaw.Wednet.Edu,65 emp; $3.4M rev; year n/a; single; web+phone; school
+88.5,Springfield School Trnsprtn,OR,1,80,3227000,,1,0,Sps.Lane.Edu,80 emp; $3.2M rev; year n/a; single; web+phone; school
+88.5,Warsaw Schools Trnsprtn Grge,IN,1,90,3225000,,1,0,Gec.Warsawschools.Org,90 emp; $3.2M rev; year n/a; single; web+phone; school
+88.5,Mentor School Svc TRNSP,OH,1,75,3146000,,1,0,Memorial.Mentorschools.Net,75 emp; $3.1M rev; year n/a; single; web+phone; school
+88.5,Tic School Trnsprtn,MA,1,31,3104000,,1,0,Ccsdistrict.Org,31 emp; $3.1M rev; year n/a; single; web+phone; school
+88.5,Elyria Schools Transportation,OH,1,80,3037000,,1,0,Firstbus.Co.Uk,80 emp; $3.0M rev; year n/a; single; web+phone; school
+88.5,Booth School-Bus Career,IL,1,58,2988000,,1,0,Chicagobooth.Edu,58 emp; $3.0M rev; year n/a; single; web+phone; school
+88.5,Saints Albans School Bus Grge,WV,1,70,2775000,,1,0,Kcs.Kana.K12.Wv.Us,70 emp; $2.8M rev; year n/a; single; web+phone; school
+88.5,School Administrative Dist Bus,ME,1,70,2759000,,1,0,Bonnyeagle.Org,70 emp; $2.8M rev; year n/a; single; web+phone; school
+88.5,Reynoldsburg Schools-Bus Grge,OH,1,60,2757000,,1,0,Reyn.Org,60 emp; $2.8M rev; year n/a; single; web+phone; school
+88.5,Phoenix Schools Dept-Transport,NY,1,75,2703000,,1,0,Phoenixcsd.Org,75 emp; $2.7M rev; year n/a; single; web+phone; school
+88.5,Yelm School Transportation,WA,1,66,2653000,,1,0,Ycs.Wednet.Edu,66 emp; $2.7M rev; year n/a; single; web+phone; school
+88.5,Fayette County School Corp,IN,1,55,2308000,,1,0,Fayette.K12.In.Us,55 emp; $2.3M rev; year n/a; single; web+phone; school
+88.5,New Albany Plains School TRNSP,OH,1,50,2297000,,1,0,Napls.Us,50 emp; $2.3M rev; year n/a; single; web+phone; school
+88.5,Johnson School Bus Kewaskum,WI,1,30,2270000,,1,0,Johnsonschoolbus.Com,30 emp; $2.3M rev; year n/a; single; web+phone; school
+88.5,School Board North Central Bus,FL,1,50,2013000,,1,0,Polkschoolsfl.Com,50 emp; $2.0M rev; year n/a; single; web+phone; school
+88.5,Professional School Of Bus,CA,1,36,2010000,,1,0,Proschool.Com,36 emp; $2.0M rev; year n/a; single; web+phone; school
+88.5,R E Wilson & Sons School Bus,MD,1,45,2007000,,1,0,R-Bus.Edan.Io,45 emp; $2.0M rev; year n/a; single; web+phone; school
+88.5,Chippewa Hills School Bus Gar,MI,1,55,1913000,,1,0,Chsd.Us,55 emp; $1.9M rev; year n/a; single; web+phone; school
+88.5,Schools-Lebanon-Transportation,IN,1,45,1888000,,1,0,Leb.K12.In.Us,45 emp; $1.9M rev; year n/a; single; web+phone; school
+88.5,Huron Valley Schools Trnsprtn,MI,1,38,1820000,,1,0,Hvs.Org,38 emp; $1.8M rev; year n/a; single; web+phone; school
+88.5,Parkway Schools Trnsprtn Svc,MO,1,39,1733000,,1,0,Edline.Net,39 emp; $1.7M rev; year n/a; single; web+phone; school
+88.5,Rock Hill School Bus Trnsprtn,SC,1,41,1720000,,1,0,Rock-Hill.K12.Sc.Us,41 emp; $1.7M rev; year n/a; single; web+phone; school
+88.5,Lancaster School Trnsprtn,OH,1,49,1714000,,1,0,Lancaster.K12.Oh.Us,49 emp; $1.7M rev; year n/a; single; web+phone; school
+88.5,Erie's Public Schools Trnsprtn,PA,1,50,1702000,,1,0,Eriesd.Org,50 emp; $1.7M rev; year n/a; single; web+phone; school
+88.5,Bureau Valley School Transport,IL,1,40,1678000,,1,0,Bv340.Org,40 emp; $1.7M rev; year n/a; single; web+phone; school
+88.5,Lebanon School Corp Trnsprtn,IN,1,35,1664000,,1,0,Leb.K12.In.Us,35 emp; $1.7M rev; year n/a; single; web+phone; school
+88.5,Elgin Schools Transportation,OR,1,39,1636000,,1,0,Trilliumvalleyfp.Com,39 emp; $1.6M rev; year n/a; single; web+phone; school
+88.5,Joplin Schools Transportation,MO,1,45,1602000,,1,0,Jhs.Joplinschools.Org,45 emp; $1.6M rev; year n/a; single; web+phone; school
+88.5,Janet Cioffi School Bus,FL,1,36,1600000,,1,0,Familyfoodrewards.Com,36 emp; $1.6M rev; year n/a; single; web+phone; school
+88.5,Tania School Bus,FL,1,36,1600000,,1,0,Taniaschoolbus.Com,36 emp; $1.6M rev; year n/a; single; web+phone; school
+88.5,Olmsted Falls School Bus GRG,OH,1,35,1562000,,1,0,Ofcs.Net,35 emp; $1.6M rev; year n/a; single; web+phone; school
+88.5,Colorado Transportation School,CO,1,33,1489000,,1,0,Coloradotransportationschool.Com,33 emp; $1.5M rev; year n/a; single; web+phone; school
+88.5,Western School-Health & Bus,PA,1,32,1419000,,1,0,Western-School.Com,32 emp; $1.4M rev; year n/a; single; web+phone; school
+88.5,Fort Bend School Trnsprtn,TX,1,33,1415000,,1,0,Fortbendisd.Com,33 emp; $1.4M rev; year n/a; single; web+phone; school
+88.5,Krapf School Bus,PA,1,38,1405000,,1,0,Redlionbus.Com,38 emp; $1.4M rev; year n/a; single; web+phone; school
+88.5,Fairfield Schools Trnsprtn Ofc,IA,1,40,1375000,,1,0,Fairfieldsfuture.Org,40 emp; $1.4M rev; year n/a; single; web+phone; school
+88.5,Gorham School Bus Transportn,ME,1,20,1340000,,1,0,Gorhamschools.Org,20 emp; $1.3M rev; year n/a; single; web+phone; school
+88.5,Schools-Public Transportation,WY,1,30,1259000,,1,0,Crb1.Net,30 emp; $1.3M rev; year n/a; single; web+phone; school
+88.5,Grisim School Bus,MN,1,30,1256000,,1,0,Ssd.K12.Mn.Us,30 emp; $1.3M rev; year n/a; single; web+phone; school
+88.5,Marilys School Bus,FL,1,28,1245000,,1,0,Marilyschoolbus.Com,28 emp; $1.2M rev; year n/a; single; web+phone; school
+88.5,Revere Local Schools Bus Grge,OH,1,30,1214000,,1,0,Revereschools.Org,30 emp; $1.2M rev; year n/a; single; web+phone; school
+88.5,Schools Public Bus Mntnc Dept,OK,1,27,1193000,,1,0,Whitebuffalo.Com,27 emp; $1.2M rev; year n/a; single; web+phone; school
+88.5,Woodbridge Schools Trnsprtn,NJ,1,23,1185000,,1,0,Woodbridge.K12.Nj.Us,23 emp; $1.2M rev; year n/a; single; web+phone; school
+88.5,South Dakota School Bus,SD,1,10,1089000,,1,0,Goyotes.Com,10 emp; $1.1M rev; year n/a; single; web+phone; school
+88.5,Ringgold School Transportation,PA,1,26,1056000,,1,0,Ringgold.Org,26 emp; $1.1M rev; year n/a; single; web+phone; school
+88.5,Show Low Schools Trnsprtn,AZ,1,25,1049000,,1,0,Show-Low.K12.Az.Us,25 emp; $1.0M rev; year n/a; single; web+phone; school
+88.5,South Spencer Co Sch Corp,IN,1,25,1049000,,1,0,Southspencerathletics.Com,25 emp; $1.0M rev; year n/a; single; web+phone; school
+88.5,Esm School Bus Driver,NY,1,25,1049000,,1,0,Hartekampgroep.Nl,25 emp; $1.0M rev; year n/a; single; web+phone; school
+88.5,NYC School Bus Umbrella Svc,NY,1,25,1049000,,1,0,Nycsbus.Com,25 emp; $1.0M rev; year n/a; single; web+phone; school
+88.5,Schools Transportation-Mntnc,UT,1,30,1025000,,1,0,Grandschools.Org,30 emp; $1.0M rev; year n/a; single; web+phone; school
+88.0,Monroe School Transportation,NC,9,413,17423000,1985,1,0,Speedhost.Com,413 emp; $17.4M rev; est 1985 (41y); mid(6-14); web+phone; school
+86.5,Decatur School Mntnc & Trnsp,AR,1,30,0,,1,0,Decatursd.Com,30 emp; rev n/a; year n/a; single; web+phone; school
+86.5,City Charter School,CA,1,69,0,,1,0,Citycharterschool.Org,69 emp; rev n/a; year n/a; single; web+phone; school
+86.5,Cape Coral Charter School,FL,1,40,0,,1,0,Capecoralcharter.Org,40 emp; rev n/a; year n/a; single; web+phone; school
+86.5,Marshall Schools Business Grge,IL,1,20,0,,1,0,Marshallk12.Net,20 emp; rev n/a; year n/a; single; web+phone; school
+86.5,Fall River School Trnsprtn,MA,1,11,0,,1,0,Fallriverschools.Org,11 emp; rev n/a; year n/a; single; web+phone; school
+86.5,Upper Sandusky School Bus Grge,OH,1,20,0,,1,0,Usevs.Org,20 emp; rev n/a; year n/a; single; web+phone; school
+86.0,Mission School Trnsprtn Sta,CA,1,300,32235000,1968,1,0,,300 emp; $32.2M rev; est 1968 (58y); single; phone; school
+86.0,Miami School Transportation,FL,1,350,26440000,2004,1,0,Dadeschools.Net,350 emp; $26.4M rev; est 2004 (22y); single; web+phone; school
+85.5,Kiessling School Trnsprtn,MA,2,166,13491000,,1,0,Kiesslingtransit.Com,166 emp; $13.5M rev; year n/a; small(2-5); web+phone; school
+85.5,Ashtown School Bus Station,AR,2,91,7067000,,1,0,Ashdownschools.Org,91 emp; $7.1M rev; year n/a; small(2-5); web+phone; school
+85.5,School Bus Transportation,NC,3,123,4891000,,1,0,Ncbussafety.Org,123 emp; $4.9M rev; year n/a; small(2-5); web+phone; school
+85.5,Westfield WA Schools Trnsprtn,IN,2,113,4641000,,1,0,Wws.K12.In.Us,113 emp; $4.6M rev; year n/a; small(2-5); web+phone; school
+85.5,Old Mission School Bus Off,CA,2,84,4261000,,1,0,Oldmissionschool.Com,84 emp; $4.3M rev; year n/a; small(2-5); web+phone; school
+85.5,Johnson School Bus,WI,2,52,3597000,,1,0,Johnsonschoolbus.Com,52 emp; $3.6M rev; year n/a; small(2-5); web+phone; school
+85.5,Grand Blanc Schools Trnsprtn,MI,2,73,3099000,,1,0,Gbcs.Org,73 emp; $3.1M rev; year n/a; small(2-5); web+phone; school
+85.5,Wisconsin School Bus Associati,IL,2,54,2722000,,1,0,Dirwsba.Com,54 emp; $2.7M rev; year n/a; small(2-5); web+phone; school
+85.5,David Eccles School Of Bus,AZ,2,54,2132000,,1,0,Unitedacceptance.Com,54 emp; $2.1M rev; year n/a; small(2-5); web+phone; school
+85.5,Unity School Bus Parts,MI,2,47,2077000,,1,0,Unityparts.Com,47 emp; $2.1M rev; year n/a; small(2-5); web+phone; school
+85.5,VIP School Bus,LA,2,38,1685000,,1,0,Vipschoolbus.Com,38 emp; $1.7M rev; year n/a; small(2-5); web+phone; school
+85.5,Charlies School Bus,FL,2,29,1315000,,1,0,Charliesschoolbus.Com,29 emp; $1.3M rev; year n/a; small(2-5); web+phone; school
+84.0,Newport News School Trnsprtn,VA,1,400,14721000,,1,0,Sbo.Nn.K12.Va.Us,400 emp; $14.7M rev; year n/a; single; web+phone; school
+83.5,Efficient School TRNSPRTN,MN,1,34,1356000,2023,1,0,E-Fficient.Org,34 emp; $1.4M rev; est 2023 (3y); single; web+phone; school
+82.5,School Transportation,CA,7,284,12206000,,1,0,Mjusd.Com,284 emp; $12.2M rev; year n/a; mid(6-14); web+phone; school
+82.5,Cleveland School Trnsprtn,MS,1,35,996000,,1,0,Cleveland.K12.Ms.Us,35 emp; $1.0M rev; year n/a; single; web+phone; school
+82.5,Marysville School Bus,MI,1,23,965000,,1,0,Marysvilleschoolbus.Com,23 emp; $1.0M rev; year n/a; single; web+phone; school
+82.5,Grandview Schools Trnsprtn DPT,WA,1,25,926000,,1,0,Gsd200.Org,25 emp; $0.9M rev; year n/a; single; web+phone; school
+82.5,Marion Cmnty Schools Bus Gar,IN,1,29,902000,,1,0,Marion.K12.In.Us,29 emp; $0.9M rev; year n/a; single; web+phone; school
+82.5,Johnsons School Bus,TX,1,23,901000,,1,0,Woodhousespas.Com,23 emp; $0.9M rev; year n/a; single; web+phone; school
+82.5,Schools Public Trnsprtn Drctr,OR,1,20,839000,,1,0,Tillamooksouthprairieschool.Org,20 emp; $0.8M rev; year n/a; single; web+phone; school
+82.5,Southern Local School Bus Grge,OH,1,14,814000,,1,0,Southern.K12.Oh.Us,14 emp; $0.8M rev; year n/a; single; web+phone; school
+82.5,Tita School Bus,FL,1,12,800000,,1,0,Titabus.Com,12 emp; $0.8M rev; year n/a; single; web+phone; school
+82.5,Rossford Schools Trnsprtn,OH,1,20,712000,,1,0,Rossfordschools.Org,20 emp; $0.7M rev; year n/a; single; web+phone; school
+82.5,Shelbyville School Trnsprtn,IL,1,22,688000,,1,0,Shelbyville.K12.Il.Us,22 emp; $0.7M rev; year n/a; single; web+phone; school
+82.5,Charleston School Trnsprtn,MO,1,20,663000,,1,0,Charlestonbluejays.Org,20 emp; $0.7M rev; year n/a; single; web+phone; school
+82.5,South Lake Schools Trnsprtn,MI,1,15,621000,,1,0,Solake.Org,15 emp; $0.6M rev; year n/a; single; web+phone; school
+82.5,Schools Public Business Garage,CO,1,13,546000,,1,0,Lakecountyschools.Net,13 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Perry Schools Trnsprtn Ctr,IA,1,11,513000,,1,0,Perry.K12.Ia.Us,11 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Sebeka School Transportation,MN,1,17,500000,,1,0,Sebeka.K12.Mn.Us,17 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Independence School Trnsprtn,MO,1,11,499000,,1,0,Isdschools.Org,11 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Mayer Schools Transportation,AZ,1,14,486000,,1,0,Mayerschools.Org,14 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Livingston Schools Bus GRG,MT,1,12,481000,,1,0,Livingston.K12.Mt.Us,12 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Wilkes Co Schools Bus Office,NC,1,15,479000,,1,0,Wilkescountyschools.Org,15 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,Latta Schools Transportation,SC,1,15,475000,,1,0,Dillon3.K12.Sc.Us,15 emp; $0.5M rev; year n/a; single; web+phone; school
+82.5,BLHS Schools Bus Supervisor,MN,1,14,421000,,1,0,Applitrack.Com,14 emp; $0.4M rev; year n/a; single; web+phone; school
+82.5,Belfast School-Transportation,NY,1,14,382000,,1,0,Belfastcsd.Org,14 emp; $0.4M rev; year n/a; single; web+phone; school
+82.5,Schools Public Bus Grge,WA,1,13,378000,,1,0,Oksd.Wednet.Edu,13 emp; $0.4M rev; year n/a; single; web+phone; school
+82.5,Phillips Schools Trnsprtn,WI,1,12,332000,,1,0,Phillips.K12.Wi.Us,12 emp; $0.3M rev; year n/a; single; web+phone; school
+82.5,Logan-Hocking School Trnsprtn,OH,1,10,271000,,1,0,Loganhocking.School,10 emp; $0.3M rev; year n/a; single; web+phone; school
+82.0,Suburban School Transportation,OH,3,105,9566000,2026,1,1,Sstn.Com,105 emp; $9.6M rev; est 2026 (0y); small(2-5); web+phone; school+special
+81.5,Jump On The School Bus,CA,3,23,404000,2010,1,0,Jumpontheschoolbus.Com,23 emp; $0.4M rev; est 2010 (16y); small(2-5); web+phone; school
+80.5,Mission School Transportation,CA,3,155,10549000,2023,1,0,Atlanticexpress.Com,155 emp; $10.5M rev; est 2023 (3y); small(2-5); web+phone; school
+80.5,Rinaldi School Bus Trnsprtn,NJ,1,100,9266000,,1,0,,100 emp; $9.3M rev; year n/a; single; phone; school
+80.5,Lapeer Schools Transportation,MI,1,75,8023000,,1,0,,75 emp; $8.0M rev; year n/a; single; phone; school
+80.5,School Student Transportation,PA,1,200,6753000,,1,0,,200 emp; $6.8M rev; year n/a; single; phone; school
+80.5,East Chicago School Bus TRNSPR,IN,1,90,3858000,,1,0,,90 emp; $3.9M rev; year n/a; single; phone; school
+80.5,Park Bethel School Trnsprtn,PA,1,75,3324000,,1,0,,75 emp; $3.3M rev; year n/a; single; phone; school
+80.5,Garfield School Bus Trnsprtn,CO,1,45,3232000,,1,0,,45 emp; $3.2M rev; year n/a; single; phone; school
+80.5,Xna Ruberi School Bus,FL,1,72,3200000,,1,0,,72 emp; $3.2M rev; year n/a; single; phone; school
+80.5,Trombly School Bus,MA,1,23,2395000,,1,0,,23 emp; $2.4M rev; year n/a; single; phone; school
+80.5,Upper Dublin School Trnsprtn,PA,1,50,2318000,,1,0,,50 emp; $2.3M rev; year n/a; single; phone; school
+80.5,Hoyles School Transportation,IL,1,55,2308000,,1,0,,55 emp; $2.3M rev; year n/a; single; phone; school
+80.5,M & G School Bus,NJ,1,41,2112000,,1,0,,41 emp; $2.1M rev; year n/a; single; phone; school
+80.5,School Transportation Leasing,IL,1,44,2040000,,1,0,,44 emp; $2.0M rev; year n/a; single; phone; school
+80.5,Michigan Central Sch Bus LLC,MI,1,41,1945000,,1,0,,41 emp; $1.9M rev; year n/a; single; phone; school
+80.5,Get On The School Bus,CA,1,18,1901000,,1,0,,18 emp; $1.9M rev; year n/a; single; phone; school
+80.5,Bluebonnett School Trnsprtn,TX,1,32,1772000,,1,0,,32 emp; $1.8M rev; year n/a; single; phone; school
+80.5,Michigan School Bus,MI,1,40,1729000,,1,0,,40 emp; $1.7M rev; year n/a; single; phone; school
+80.5,Bertila School Bus,TX,1,31,1717000,,1,0,,31 emp; $1.7M rev; year n/a; single; phone; school
+80.5,Tona School Bus,TX,1,31,1717000,,1,0,,31 emp; $1.7M rev; year n/a; single; phone; school
+80.5,DLM School Bus,IL,1,15,1657000,,1,0,,15 emp; $1.7M rev; year n/a; single; phone; school
+80.5,Highland Schools Bus Trnsprtn,IN,1,38,1629000,,1,0,,38 emp; $1.6M rev; year n/a; single; phone; school
+80.5,Licia School Bus,FL,1,16,1600000,,1,0,,16 emp; $1.6M rev; year n/a; single; phone; school
+80.5,Dryden Cent School Trnsprtn,NY,1,40,1551000,,1,0,,40 emp; $1.6M rev; year n/a; single; phone; school
+80.5,Sab School Transportation,NJ,1,30,1545000,,1,0,,30 emp; $1.5M rev; year n/a; single; phone; school
+80.5,School Bus Safety Awareness,MI,1,31,1485000,,1,0,,31 emp; $1.5M rev; year n/a; single; phone; school
+80.5,Louisville Schools Trnsprtn,OH,1,39,1482000,,1,0,,39 emp; $1.5M rev; year n/a; single; phone; school
+80.5,Charter School Trnsprtn,MI,1,31,1471000,,1,0,,31 emp; $1.5M rev; year n/a; single; phone; school
+80.5,My Yellow School Bus,LA,1,28,1468000,,1,0,,28 emp; $1.5M rev; year n/a; single; phone; school
+80.5,Idalmys School Bus Trnsprtn,FL,1,33,1467000,,1,0,,33 emp; $1.5M rev; year n/a; single; phone; school
+80.5,Ileana School Bus,FL,1,31,1378000,,1,0,,31 emp; $1.4M rev; year n/a; single; phone; school
+80.5,Damas Service School Bus,FL,1,18,1360000,,1,0,,18 emp; $1.4M rev; year n/a; single; phone; school
+80.5,School Bus Drivers For,TX,1,32,1343000,,1,0,,32 emp; $1.3M rev; year n/a; single; phone; school
+80.5,Mindful Magical School Bus,CO,1,31,1301000,,1,0,,31 emp; $1.3M rev; year n/a; single; phone; school
+80.5,TNS School Bus Operator Trnng,FL,1,31,1301000,,1,0,,31 emp; $1.3M rev; year n/a; single; phone; school
+80.5,Caroline County Sch Bus Contrs,MD,1,31,1301000,,1,0,,31 emp; $1.3M rev; year n/a; single; phone; school
+80.5,St Mary's County Sch Bus,MD,1,31,1301000,,1,0,,31 emp; $1.3M rev; year n/a; single; phone; school
+80.5,Reading School Bus,NC,1,31,1301000,,1,0,,31 emp; $1.3M rev; year n/a; single; phone; school
+80.5,Pre-School Trnsprtn Alliance,NY,1,31,1301000,,1,0,,31 emp; $1.3M rev; year n/a; single; phone; school
+80.5,Carthage School Transportation,IL,1,30,1259000,,1,0,,30 emp; $1.3M rev; year n/a; single; phone; school
+80.5,Union School Trnsprtn & Nemt,MN,1,31,1236000,,1,0,,31 emp; $1.2M rev; year n/a; single; phone; school
+80.5,Chattooga Co Sch Dist Trnsprtn,GA,1,40,1235000,,1,0,,40 emp; $1.2M rev; year n/a; single; phone; school
+80.5,SJP School Trnsprtn Speclsts,NY,1,25,1201000,,1,0,,25 emp; $1.2M rev; year n/a; single; phone; school
+80.5,A1 School Bus,PA,1,25,1200000,,1,0,,25 emp; $1.2M rev; year n/a; single; phone; school
+80.5,Rayco School Trnsprtn Inc,PA,1,31,1159000,,1,0,,31 emp; $1.2M rev; year n/a; single; phone; school
+80.5,Scholastic School Bus,NY,1,28,1094000,,1,0,,28 emp; $1.1M rev; year n/a; single; phone; school
+80.5,School Bus W/Flames Projecting,MN,1,25,1049000,,1,0,,25 emp; $1.0M rev; year n/a; single; phone; school
+80.5,A Plus School Bus Trnsprtn,FL,1,22,1001000,,1,0,,22 emp; $1.0M rev; year n/a; single; phone; school
+80.5,Red Bus Pickup School Trnsprtn,FL,1,18,756000,2018,1,0,Redbuspickup.Com,18 emp; $0.8M rev; est 2018 (8y); single; web+phone; school
+79.0,Krapf School Bus,PA,12,1188,53329000,1939,1,0,Krapfbus.Com,1188 emp; $53.3M rev; est 1939 (87y); mid(6-14); web+phone; school
+78.5,South FL School Transportation,FL,1,60,2728000,2016,1,0,,60 emp; $2.7M rev; est 2016 (10y); single; phone; school
+78.5,Lopez School Bus Seat Svc,TX,1,32,1772000,2015,1,0,,32 emp; $1.8M rev; est 2015 (11y); single; phone; school
+78.5,Magic Little People School Bus,TX,1,32,1772000,2017,1,0,,32 emp; $1.8M rev; est 2017 (9y); single; phone; school
+78.5,Nancy Perez School Bus,TX,1,32,1772000,2017,1,0,,32 emp; $1.8M rev; est 2017 (9y); single; phone; school
+78.5,R & M School Bus,TX,1,32,1772000,2016,1,0,,32 emp; $1.8M rev; est 2016 (10y); single; phone; school
+78.5,Swart School Buses,PA,1,28,0,,1,0,,28 emp; rev n/a; year n/a; single; phone; school
+78.0,Jay School Transportation,IN,1,10,249000,,1,0,Jayschoolcorp.Org,10 emp; $0.2M rev; year n/a; single; web+phone; school
+77.5,Sundae School Bus,OH,2,37,1557000,,1,0,,37 emp; $1.6M rev; year n/a; small(2-5); phone; school
+77.5,School Transportation Conslnts,ID,2,40,1382000,,1,0,,40 emp; $1.4M rev; year n/a; small(2-5); phone; school
+77.5,School Transportation Solution,AL,1,12,519000,2019,1,0,Sts-Transportation.Com,12 emp; $0.5M rev; est 2019 (7y); single; web+phone; school
+76.0,St Bernard School Trnsprtn,LA,1,5,1677000,,1,0,Yankeecandle.Com,5 emp; $1.7M rev; year n/a; single; web+phone; school
+76.0,East Washington School Corp,IN,1,5,1390000,,1,0,Ewsc.K12.In.Us,5 emp; $1.4M rev; year n/a; single; web+phone; school
+76.0,Gorham Schools Transportation,ME,1,5,1104000,,1,0,Gorhamschools.Org,5 emp; $1.1M rev; year n/a; single; web+phone; school
+76.0,Schoolman Transportation Syst,NY,1,7,1004000,,1,0,Classictrans.Com,7 emp; $1.0M rev; year n/a; single; web+phone; school
+75.5,Noblesville Schools TRNSPRTN,IN,1,59,2804000,2022,1,0,,59 emp; $2.8M rev; est 2022 (4y); single; phone; school
+75.5,Mani Private School Trnsprtn,FL,1,32,1423000,2024,1,0,,32 emp; $1.4M rev; est 2024 (2y); single; phone; school
+75.5,Bright Futures School TRNSPRTN,FL,1,33,1385000,2025,1,0,,33 emp; $1.4M rev; est 2025 (1y); single; phone; school
+75.5,Teenagers School Trnsprtn-More,FL,1,32,1343000,2025,1,0,,32 emp; $1.3M rev; est 2025 (1y); single; phone; school
+75.5,Ashtar School Transportation,OH,1,29,1333000,2024,1,0,,29 emp; $1.3M rev; est 2024 (2y); single; phone; school
+75.5,School Transportation Assoc,FL,1,15,1301000,2023,1,0,,15 emp; $1.3M rev; est 2023 (3y); single; phone; school
+75.5,Harlows School Bus,WA,1,32,1264000,2024,1,0,,32 emp; $1.3M rev; est 2024 (2y); single; phone; school
+75.5,Aseneth School Bus,FL,1,25,1112000,2022,1,0,,25 emp; $1.1M rev; est 2022 (4y); single; phone; school
+75.5,Jamestown Public Sch Bus Svc,ND,1,25,1049000,2024,1,0,,25 emp; $1.0M rev; est 2024 (2y); single; phone; school
+75.5,Another Magical School Bus,NY,1,26,1017000,2024,1,0,,26 emp; $1.0M rev; est 2024 (2y); single; phone; school
+74.5,Joseph L Gonzales School Bus,NM,1,11,939000,,1,0,,11 emp; $0.9M rev; year n/a; single; phone; school
+74.5,Elsa School Bus-Miami,FL,1,21,934000,,1,0,,21 emp; $0.9M rev; year n/a; single; phone; school
+74.5,Allegany County Sch Bus Contrs,MD,1,27,928000,,1,0,,27 emp; $0.9M rev; year n/a; single; phone; school
+74.5,School-Business Social Scncs,MA,1,22,913000,,1,0,,22 emp; $0.9M rev; year n/a; single; phone; school
+74.5,Union Scioto Schools Trnsprtn,OH,1,23,842000,,1,0,,23 emp; $0.8M rev; year n/a; single; phone; school
+74.5,Idaho School Bus Contrs Assn,ID,1,20,839000,,1,0,,20 emp; $0.8M rev; year n/a; single; phone; school
+74.5,Scottie Swingle School Buses,PA,1,20,839000,,1,0,,20 emp; $0.8M rev; year n/a; single; phone; school
+74.5,Cars For College Inc,MA,1,19,789000,,1,0,,19 emp; $0.8M rev; year n/a; single; phone; school
+74.5,Impiccini Brothers School Bus,PA,1,19,772000,,1,0,,19 emp; $0.8M rev; year n/a; single; phone; school
+74.5,School Bus Fleet & Auto Repair,MI,1,18,754000,,1,0,,18 emp; $0.8M rev; year n/a; single; phone; school
+74.5,Cleveland Co Schools Trnsprtn,NC,1,17,714000,,1,0,,17 emp; $0.7M rev; year n/a; single; phone; school
+74.5,Rossford School Transportation,OH,1,20,712000,,1,0,,20 emp; $0.7M rev; year n/a; single; phone; school
+74.5,Chambers School Bus,PA,1,20,671000,,1,0,,20 emp; $0.7M rev; year n/a; single; phone; school
+74.5,North Conejos School Trnsprtn,CO,1,15,630000,,1,0,,15 emp; $0.6M rev; year n/a; single; phone; school
+74.5,School Transportation Org,NY,1,12,612000,,1,0,,12 emp; $0.6M rev; year n/a; single; phone; school
+74.5,Harford County Sch Bus Contrs,MD,1,15,609000,,1,0,,15 emp; $0.6M rev; year n/a; single; phone; school
+74.5,Biloxi School Transportation,MS,1,14,588000,,1,0,,14 emp; $0.6M rev; year n/a; single; phone; school
+74.5,Jackson R-2 School Trnsprtn,MO,1,13,546000,,1,0,,13 emp; $0.5M rev; year n/a; single; phone; school
+74.5,Missouri School Bus Contr Assn,MO,1,18,534000,,1,0,,18 emp; $0.5M rev; year n/a; single; phone; school
+74.5,Central Valley School Bus Grge,NY,1,16,522000,,1,0,,16 emp; $0.5M rev; year n/a; single; phone; school
+74.5,St Marys Cy Schools-Bus Gar,OH,1,15,473000,,1,0,,15 emp; $0.5M rev; year n/a; single; phone; school
+74.5,Otte School Buses,WI,1,13,472000,,1,0,,13 emp; $0.5M rev; year n/a; single; phone; school
+72.5,Bryan Kamae School Trnsprtn,OR,1,21,985000,2015,1,0,,21 emp; $1.0M rev; est 2015 (11y); single; phone; school
+72.5,Bert Bendickson School Bus,MN,1,16,672000,2016,1,0,,16 emp; $0.7M rev; est 2016 (10y); single; phone; school
+72.5,Eben-Ezer School Trnsprtn,FL,1,10,420000,2015,1,0,,10 emp; $0.4M rev; est 2015 (11y); single; phone; school
+72.0,Quitman School Transportation,MS,1,8,336000,1970,1,0,,8 emp; $0.3M rev; est 1970 (56y); single; phone; school
+71.5,Impiccini School Buses,PA,2,49,772000,,1,0,,49 emp; $0.8M rev; year n/a; small(2-5); phone; school
+71.0,Sparta School Transportation,MI,1,2,87000,1970,1,0,Spartaschools.Org,2 emp; $0.1M rev; est 1970 (56y); single; web+phone; school
+71.0,Louisiana School Bus Operators,LA,1,1,42000,1938,1,0,Lsboa.Com,1 emp; $0.0M rev; est 1938 (88y); single; web+phone; school
+70.0,Storer School Buses,CA,1,5,366000,,1,0,Storerbus.Com,5 emp; $0.4M rev; year n/a; single; web+phone; school
+70.0,Rensselaer Central Sch Corp,IN,1,7,294000,,1,0,Rensselaerschools.Org,7 emp; $0.3M rev; year n/a; single; web+phone; school
+70.0,Cherokee School Bus Maint Shop,SC,1,8,291000,,1,0,Cherokeek12.Net,8 emp; $0.3M rev; year n/a; single; web+phone; school
+70.0,Southampton Schools Bus,NY,1,6,289000,,1,0,Southamptonschools.Org,6 emp; $0.3M rev; year n/a; single; web+phone; school
+70.0,Stafford County Pupil Trnsprtn,VA,1,8,278000,,1,0,Staffordcountyschools.Net,8 emp; $0.3M rev; year n/a; single; web+phone; school
+70.0,School Time Trnsprtn-Child Cr,TX,1,5,277000,,1,0,Schooltransportchildcare.Com,5 emp; $0.3M rev; year n/a; single; web+phone; school
+70.0,Rangely School Transportation,CO,1,8,253000,,1,0,Rangelyk12.Org,8 emp; $0.3M rev; year n/a; single; web+phone; school
+70.0,Dolores Schools Transportation,CO,1,6,252000,,1,0,Doloresschools.Org,6 emp; $0.3M rev; year n/a; single; web+phone; school
+69.5,Magical School Bus,NY,2,22,846000,2012,1,0,,22 emp; $0.8M rev; est 2012 (14y); small(2-5); phone; school
+69.5,Happy Angels School Trnsprtn,FL,1,20,763000,2019,1,0,,20 emp; $0.8M rev; est 2019 (7y); single; phone; school
+69.5,P S-21 School Trnsprtn Svc,MN,1,17,714000,2019,1,0,,17 emp; $0.7M rev; est 2019 (7y); single; phone; school
+69.5,Taty School Bus,FL,2,6,223000,1999,1,0,Tatyschoolbus.Com,6 emp; $0.2M rev; est 1999 (27y); small(2-5); web+phone; school
+69.2,School Bus,SD,15,465,64407000,2015,1,0,Schoolbus.Com,465 emp; $64.4M rev; est 2015 (11y); large(15-49); web+phone; school
+68.0,Dependability Co School,PA,1,5,1200000,,1,0,,5 emp; $1.2M rev; year n/a; single; phone; school
+67.5,A Plus School Bus,FL,1,5,223000,2011,1,0,Aplusbus.Com,5 emp; $0.2M rev; est 2011 (15y); single; web+phone; school
+67.0,Coventry Schools Trnsprtn,OH,2,6,396000,,1,0,Coventryschools.Org,6 emp; $0.4M rev; year n/a; small(2-5); web+phone; school
+66.5,A Plus School Transportation,FL,2,17,767000,2019,1,0,,17 emp; $0.8M rev; est 2019 (7y); small(2-5); phone; school
+65.5,Pellston Schools Bus Trnsprtn,MI,1,2,726000,,1,0,Pellstonschools.Org,2 emp; $0.7M rev; year n/a; single; web+phone; school
+65.5,Loudonville Schools Trnsprtn,OH,1,5,249000,,1,0,Lpschools.K12.Oh.Us,5 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Singing School Bus Driver,NY,1,5,241000,,1,0,Singingschoolbusdriver.Com,5 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Reliable School-Med Transport,MA,1,3,209000,,1,0,Reliablemt.Com,3 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Manalapan School Trnsprtn,NJ,1,4,205000,,1,0,Mersnj.Us,4 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Amphitheater Schools Trnsprtn,AZ,1,5,193000,,1,0,Amphi.Com,5 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Lakeland School Corp,IN,1,3,183000,,1,0,Lakelandlakers.Org,3 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Ontario Local Schools Bus Grge,OH,1,5,171000,,1,0,Ontarioschools.Org,5 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Maxwell Schools Business Grge,IN,1,4,168000,,1,0,Gcsc.K12.In.Us,4 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,School Bus Driver,IN,1,4,168000,,1,0,Smithmonuments.Com,4 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Tyrrell Cnty School Bus,NC,1,4,168000,,1,0,Tycomail.Com,4 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Los Lunas Schools Trnsprtn,NM,1,4,168000,,1,0,Llschools.Net,4 emp; $0.2M rev; year n/a; single; web+phone; school
+65.5,Coquille School Transportation,OR,1,4,137000,,1,0,Coquille.K12.Or.Us,4 emp; $0.1M rev; year n/a; single; web+phone; school
+65.5,Perry Local Schools-Trnsprtn,OH,1,3,109000,,1,0,Danlin.Us,3 emp; $0.1M rev; year n/a; single; web+phone; school
+65.5,West Grand School Trnsprtn,CO,1,3,105000,,1,0,Wgsd.Us,3 emp; $0.1M rev; year n/a; single; web+phone; school
+65.5,Rolling Hills School Transport,OH,1,3,100000,,1,0,Rollinghills.K12.Oh.Us,3 emp; $0.1M rev; year n/a; single; web+phone; school
+65.0,Basis Texas Charter School Inc,TX,1,3,347000,2024,1,0,Enrollbasistx.Com,3 emp; $0.3M rev; est 2024 (2y); single; web+phone; school
+63.0,Clarke Schools Transportation,IA,1,2,64000,1945,1,0,,2 emp; $0.1M rev; est 1945 (81y); single; phone; school
+62.0,School Bus System,CA,1,8,682000,,1,0,,8 emp; $0.7M rev; year n/a; single; phone; school
+62.0,Jenkins School Buses,PA,1,3,648000,,1,0,,3 emp; $0.6M rev; year n/a; single; phone; school
+62.0,Old School Transportation Svc,IL,1,8,452000,,1,0,,8 emp; $0.5M rev; year n/a; single; phone; school
+62.0,Ky High School Soccer Coaches,KY,1,5,452000,,1,0,,5 emp; $0.5M rev; year n/a; single; phone; school
+62.0,Magic School Bus,FL,1,9,410000,,1,0,,9 emp; $0.4M rev; year n/a; single; phone; school
+62.0,International School-Bus,TX,1,9,409000,,1,0,,9 emp; $0.4M rev; year n/a; single; phone; school
+62.0,Joyces School Bus Transport,MD,1,5,407000,,1,0,,5 emp; $0.4M rev; year n/a; single; phone; school
+62.0,School Transportation Of Kids,FL,1,9,400000,,1,0,,9 emp; $0.4M rev; year n/a; single; phone; school
+62.0,Mid States School Bus,NE,1,7,397000,,1,0,,7 emp; $0.4M rev; year n/a; single; phone; school
+62.0,E & M School Transportation,FL,1,8,336000,,1,0,,8 emp; $0.3M rev; year n/a; single; phone; school
+62.0,Stay In Your Lane Schoolie Bus,MO,1,3,317000,,1,0,,3 emp; $0.3M rev; year n/a; single; phone; school
+62.0,Stockton School Transportation,CA,1,7,300000,,1,0,,7 emp; $0.3M rev; year n/a; single; phone; school
+62.0,K I K School Bus Trnsprtn,FL,1,3,293000,,1,0,,3 emp; $0.3M rev; year n/a; single; phone; school
+62.0,Louisiana School Bus Driver,LA,1,6,278000,,1,0,,6 emp; $0.3M rev; year n/a; single; phone; school
+62.0,Kosti School Transportation,NJ,1,3,263000,,1,0,,3 emp; $0.3M rev; year n/a; single; phone; school
+62.0,Riverside Community School Inc,OH,1,3,261000,,1,0,,3 emp; $0.3M rev; year n/a; single; phone; school
+61.0,North Newton Schools Bus Grge,IN,1,2,146000,,1,0,Nn.K12.In.Us,2 emp; $0.1M rev; year n/a; single; web+phone; school
+61.0,Mayra School Transportation,FL,1,2,89000,,1,0,Dadeschools.Net,2 emp; $0.1M rev; year n/a; single; web+phone; school
+61.0,Buckeye Valley School Bus Grge,OH,1,2,86000,,1,0,Mybvls.Org,2 emp; $0.1M rev; year n/a; single; web+phone; school
+61.0,Solas School Bus Instruction,CA,1,2,78000,,1,0,Army.Mil,2 emp; $0.1M rev; year n/a; single; web+phone; school
+61.0,Pounding Mill School/Bus Grge,VA,1,2,70000,,1,0,Tazewellcountypublicschools.Com,2 emp; $0.1M rev; year n/a; single; web+phone; school
+61.0,Ohio School Bus Mechanics,OH,1,1,46000,,1,0,Osbma.Org,1 emp; $0.0M rev; year n/a; single; web+phone; school
+60.5,School Bus 1,NJ,1,4,207000,2020,1,0,Howardmgmt.Com,4 emp; $0.2M rev; est 2020 (6y); single; web+phone; school
+60.0,Accountax School-Bus Asb,CA,122,3315,141286000,,1,0,Peopelpc.Com,3315 emp; $141.3M rev; year n/a; very-large(50+); web+phone; school
+60.0,M & E School Transportation,FL,1,9,378000,2018,1,0,,9 emp; $0.4M rev; est 2018 (8y); single; phone; school
+60.0,Midstate School Bus,NE,1,9,378000,2016,1,0,,9 emp; $0.4M rev; est 2016 (10y); single; phone; school
+59.0,School Dayz Transportation,NJ,2,6,335000,,1,0,,6 emp; $0.3M rev; year n/a; small(2-5); phone; school
+58.5,Carlos & Susana School Bus,FL,1,8,0,,1,0,,8 emp; rev n/a; year n/a; single; phone; school
+58.5,Shaw School Bus,PA,1,3,0,,1,0,,3 emp; rev n/a; year n/a; single; phone; school
+58.5,School Transportation Mgmt,VA,1,8,0,,1,0,,8 emp; rev n/a; year n/a; single; phone; school
+57.5,Henderson School Bus,MD,1,3,220000,,1,0,,3 emp; $0.2M rev; year n/a; single; phone; school
+57.5,Schools Special Svc Trnsprtn,IN,1,5,210000,,1,0,,5 emp; $0.2M rev; year n/a; single; phone; school
+57.5,College Bus LLC,OH,1,4,179000,,1,0,,4 emp; $0.2M rev; year n/a; single; phone; school
+57.5,H & K School Transportation,NJ,1,3,169000,,1,0,,3 emp; $0.2M rev; year n/a; single; phone; school
+57.5,Schools Transportation Easley,SC,1,4,168000,,1,0,,4 emp; $0.2M rev; year n/a; single; phone; school
+57.5,School Bus Bin Svc,CA,1,3,143000,,1,0,,3 emp; $0.1M rev; year n/a; single; phone; school
+57.5,Lucy School Bus,FL,1,3,134000,,1,0,,3 emp; $0.1M rev; year n/a; single; phone; school
+57.5,Isd Transportation LLC,MN,1,3,134000,,1,0,,3 emp; $0.1M rev; year n/a; single; phone; school
+57.5,Burlington School Trnsprtn,CO,1,4,132000,,1,0,,4 emp; $0.1M rev; year n/a; single; phone; school
+57.5,Charles County Sch Bus Contrs,MD,1,3,116000,,1,0,,3 emp; $0.1M rev; year n/a; single; phone; school
+57.5,School Bus Stop,PA,1,3,113000,,1,0,,3 emp; $0.1M rev; year n/a; single; phone; school
+57.5,Waldron Schools Transportation,AR,1,3,70000,,1,0,,3 emp; $0.1M rev; year n/a; single; phone; school
+55.5,Dinar School Transportation,NJ,1,3,164000,2017,1,0,,3 emp; $0.2M rev; est 2017 (9y); single; phone; school
+55.2,National Limosne Drivers Assn,CA,1,3,220000,,0,1,,3 emp; $0.2M rev; year n/a; single; phone; special-needs
+53.0,H & H School Bus,TX,1,2,189000,,1,0,,2 emp; $0.2M rev; year n/a; single; phone; school
+53.0,Glenn Mc Guire School Bus,MD,1,2,147000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Mystic School Transportation,FL,1,2,143000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,School Bell Transportation Svc,FL,1,2,131000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Milvia School Transportation,FL,1,2,120000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Ecco School Transportation LLC,MN,1,2,102000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Gume School Bus,TX,1,1,95000,,1,0,,1 emp; $0.1M rev; year n/a; single; phone; school
+53.0,A B C School Transportation,FL,1,2,89000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Damaris Oristela School Bus,FL,1,2,89000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Gonzalez Trnsprtn School Bus,FL,1,2,89000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Manny School Bus,FL,1,2,89000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Mercy & Norman School Bus,FL,1,2,89000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Middleton School Bus Office,ID,1,2,84000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Southeast Local Schools Bus,OH,1,2,69000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Jennings School Transport Bldg,IN,1,2,65000,,1,0,,2 emp; $0.1M rev; year n/a; single; phone; school
+53.0,Smart Kids School Bus Broward,FL,1,1,45000,,1,0,,1 emp; $0.0M rev; year n/a; single; phone; school
+53.0,Metropolitan School-Transportn,IN,1,2,44000,,1,0,,2 emp; $0.0M rev; year n/a; single; phone; school
+53.0,Hartley School Bus,ND,1,1,42000,,1,0,,1 emp; $0.0M rev; year n/a; single; phone; school
+52.5,Dalia Y Eduardo School Bus,FL,2,5,223000,2015,1,0,,5 emp; $0.2M rev; est 2015 (11y); small(2-5); phone; school
+52.5,Yoly School Bus,FL,2,4,173000,2018,1,0,,4 emp; $0.2M rev; est 2018 (8y); small(2-5); phone; school
+52.5,Lottery School Transportation,NC,1,4,149000,2025,1,0,,4 emp; $0.1M rev; est 2025 (1y); single; phone; school
+52.5,Maritza & Miguel School Bus,FL,1,3,134000,2019,1,0,,3 emp; $0.1M rev; est 2019 (7y); single; phone; school
+51.0,Darine Suarez School Bus,FL,1,2,89000,2017,1,0,,2 emp; $0.1M rev; est 2017 (9y); single; phone; school
+51.0,Duque School Bus-After Sch Cr,FL,1,2,89000,2015,1,0,,2 emp; $0.1M rev; est 2015 (11y); single; phone; school
+51.0,Franco School Trnsprtn LLC,FL,1,2,89000,2016,1,0,,2 emp; $0.1M rev; est 2016 (10y); single; phone; school
+51.0,Isachi School Bus,FL,1,2,89000,2016,1,0,,2 emp; $0.1M rev; est 2016 (10y); single; phone; school
+51.0,K & K School Transportation,FL,1,2,89000,2016,1,0,,2 emp; $0.1M rev; est 2016 (10y); single; phone; school
+51.0,Lisset Valladares School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Lourdes Castaneda School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Mireya School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Riki School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Teresa School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Tito Y Tita School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Yanet School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,Yordy School Bus,FL,1,2,89000,2018,1,0,,2 emp; $0.1M rev; est 2018 (8y); single; phone; school
+51.0,E & M School Trnsprtn Svc,FL,1,1,69000,2017,1,0,,1 emp; $0.1M rev; est 2017 (9y); single; phone; school
+49.5,Romy School Bus Transportation,FL,2,4,178000,2019,1,0,,4 emp; $0.2M rev; est 2019 (7y); small(2-5); phone; school
+48.0,Sunshine City Sch Trnsprtn LLC,FL,1,2,84000,2023,1,0,,2 emp; $0.1M rev; est 2023 (3y); single; phone; school

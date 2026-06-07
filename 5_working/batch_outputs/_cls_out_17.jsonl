@@ -1,0 +1,30 @@
+{"idx": 510, "name": "Inter American Limousine Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo, special-needs transport"}
+{"idx": 511, "name": "B & B Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc, school transport"}
+{"idx": 512, "name": "Majestic Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service, school"}
+{"idx": 513, "name": "Red Carpet Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs flag"}
+{"idx": 514, "name": "Elite Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs flag"}
+{"idx": 515, "name": "A & C Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport, special-needs"}
+{"idx": 516, "name": "ATS", "verdict": "private_contractor", "confidence": 0.75, "reason": "Ride-ATS, school/special-needs transport"}
+{"idx": 517, "name": "Elite Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs flag"}
+{"idx": 518, "name": "Elite Transport Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Website elitethai suggests non-transport"}
+{"idx": 519, "name": "Valley Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC, school bus"}
+{"idx": 520, "name": "Sccoe", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Santa Clara County Office of Education"}
+{"idx": 521, "name": "Corporate Shuttle Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private shuttle, school flag"}
+{"idx": 522, "name": "Esquire Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs"}
+{"idx": 523, "name": "Legacy Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs"}
+{"idx": 524, "name": "Old School Limousine LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC limo"}
+{"idx": 525, "name": "Vital Care Connection Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely NEMT/medical transport, special-needs"}
+{"idx": 526, "name": "JC Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs"}
+{"idx": 527, "name": "Quality Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport, special-needs"}
+{"idx": 528, "name": "Auto Bus Amerlines Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Corp bus, school"}
+{"idx": 529, "name": "Premier Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs"}
+{"idx": 530, "name": "Brevard Wheelchair & Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private wheelchair transport, special-needs"}
+{"idx": 531, "name": "Transportation Center", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "San Diego Unified district transport"}
+{"idx": 532, "name": "Manny School Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC, school transport"}
+{"idx": 533, "name": "Brownstone Management", "verdict": "unsure", "confidence": 0.35, "reason": "Management firm name, unclear transport"}
+{"idx": 534, "name": "Khemit Medicar Corp", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private medicar Corp, special-needs"}
+{"idx": 535, "name": "Triple E Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport, special-needs"}
+{"idx": 536, "name": "Starship Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport, special-needs"}
+{"idx": 537, "name": "Navarre Corp", "verdict": "unsure", "confidence": 0.3, "reason": "Generic corp name, beach address"}
+{"idx": 538, "name": "E D Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, special-needs"}
+{"idx": 539, "name": "Florida Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service, school"}

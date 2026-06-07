@@ -1,0 +1,30 @@
+{"idx": 6420, "name": "Mullikin Bus Lot", "verdict": "unsure", "confidence": 0.5, "reason": "Website is Pgcps.org (public schools); may be district lot"}
+{"idx": 6421, "name": "Royster Group", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name; unclear if transport operator"}
+{"idx": 6422, "name": "Northern Access Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc transportation company, NEMT/special needs"}
+{"idx": 6423, "name": "Cameron Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named bus service, school flag"}
+{"idx": 6424, "name": "Aloha Princess Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, special needs transport"}
+{"idx": 6425, "name": "Elite Limousine Of Anniston", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, likely NEMT"}
+{"idx": 6426, "name": "A Trinity Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Wheelchair NEMT operator, private"}
+{"idx": 6427, "name": "All American Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, possible NEMT"}
+{"idx": 6428, "name": "Care A Van Exp Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC NEMT/van transport company"}
+{"idx": 6429, "name": "Unity Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC transportation, NEMT"}
+{"idx": 6430, "name": "Alert Ambulance Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Ambulance service, not student transport"}
+{"idx": 6431, "name": "Rhode Isand Coach", "verdict": "private_contractor", "confidence": 0.7, "reason": "Coach operator, likely private"}
+{"idx": 6432, "name": "Mullinix Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named bus service, school flag"}
+{"idx": 6433, "name": "Toms Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo operator, possible NEMT"}
+{"idx": 6434, "name": "Your Chauffeur", "verdict": "private_contractor", "confidence": 0.55, "reason": "Chauffeur service, likely NEMT/limo"}
+{"idx": 6435, "name": "Hoosick Falls Central Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Central School District bus shop"}
+{"idx": 6436, "name": "PS 258k Academy Bus & Comm Pre", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "PS 258 NYC public school"}
+{"idx": 6437, "name": "Old School Yard Maintenance", "verdict": "not_transport", "confidence": 0.9, "reason": "Yard maintenance company, not transport"}
+{"idx": 6438, "name": "Antique Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly NEMT"}
+{"idx": 6439, "name": "Gold Touch Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly NEMT"}
+{"idx": 6440, "name": "Indian River Volunteer Ambulan", "verdict": "not_transport", "confidence": 0.9, "reason": "Volunteer ambulance, not student transport"}
+{"idx": 6441, "name": "Robert F Gums Comm Truck", "verdict": "not_transport", "confidence": 0.85, "reason": "Commercial truck school (Roadmaster), not transport op"}
+{"idx": 6442, "name": "Noir Coach Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc coach operator"}
+{"idx": 6443, "name": "Eagle Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible NEMT"}
+{"idx": 6444, "name": "Milestone Nemt LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "NEMT LLC, private operator"}
+{"idx": 6445, "name": "A & B Van Svc Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc van service, likely NEMT"}
+{"idx": 6446, "name": "Pearsall Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD transportation department"}
+{"idx": 6447, "name": "Livestar Alternative Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Alternative transport, likely NEMT"}
+{"idx": 6448, "name": "Star City Schl Dist Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus shop"}
+{"idx": 6449, "name": "Jerzy Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic enterprise name, unclear operations"}

@@ -1,0 +1,30 @@
+{"idx": 3750, "name": "Vassar Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation department"}
+{"idx": 3751, "name": "Dallas Wheels Chair Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair transport, special needs"}
+{"idx": 3752, "name": "Geneva High School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public high school bus shop"}
+{"idx": 3753, "name": "Saraland City Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3754, "name": "Douglas County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3755, "name": "Specialty Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, no address, unclear"}
+{"idx": 3756, "name": "Alachua County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3757, "name": "Trampolin School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC private school transport"}
+{"idx": 3758, "name": "Casey-Westfield Community Unit", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community Unit School District"}
+{"idx": 3759, "name": "Allure Limousines Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine company, special needs transport"}
+{"idx": 3760, "name": "Citizens Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC private transport, special needs"}
+{"idx": 3761, "name": "E-Z Ride", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, no address details"}
+{"idx": 3762, "name": "Concord Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public community school transport"}
+{"idx": 3763, "name": "Kalkaska Public Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school bus garage"}
+{"idx": 3764, "name": "Lincoln County Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public county school district"}
+{"idx": 3765, "name": "Lalanne Joseph", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name, unclear entity"}
+{"idx": 3766, "name": "Hartford Central Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transportation"}
+{"idx": 3767, "name": "Best Choice Bus Trading Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc bus trading, possibly dealer"}
+{"idx": 3768, "name": "Hopkins Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name private transport company"}
+{"idx": 3769, "name": "North East Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "ISD transportation department"}
+{"idx": 3770, "name": "Dawson-Bryant Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school transportation department"}
+{"idx": 3771, "name": "American Green Cross Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Unclear name, possibly medical transport"}
+{"idx": 3772, "name": "Forged Spirit", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear entity"}
+{"idx": 3773, "name": "North Branch Bus Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus Co, but uses school website"}
+{"idx": 3774, "name": "All In One Complete Bus Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus service company"}
+{"idx": 3775, "name": "Greensville County Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public county school district"}
+{"idx": 3776, "name": "Ivan Mobility Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC private mobility transport"}
+{"idx": 3777, "name": "Luxury Limousines Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc limousine company, special needs"}
+{"idx": 3778, "name": "Amegrow Group Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 3779, "name": "Charlevoix Public Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school bus garage"}

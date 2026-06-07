@@ -1,0 +1,30 @@
+{"idx": 1050, "name": "School Bus Trnsprtn Dist 7", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District 7 SC public school transportation"}
+{"idx": 1051, "name": "Vision Of Buffalo", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Buffalo-Hanover-Montrose schools district website"}
+{"idx": 1052, "name": "D & C School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc corporate suffix, school transportation"}
+{"idx": 1053, "name": "D-N Ca Inc Which Will Do BUS", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc DBA bus operator in Chicago"}
+{"idx": 1054, "name": "Detroit Country Day School", "verdict": "not_transport", "confidence": 0.98, "reason": "Private school, not transportation operator"}
+{"idx": 1055, "name": "Saints Albans School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Kanawha County Schools garage, public district"}
+{"idx": 1056, "name": "Hayden Anderson Transit System", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transit System name, special needs operator"}
+{"idx": 1057, "name": "Columbia Bus Resources LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "LLC private school bus contractor Oregon"}
+{"idx": 1058, "name": "School Administrative Dist Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Maine SAD district transportation, public"}
+{"idx": 1059, "name": "Reynoldsburg Schools-Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Reynoldsburg city schools bus garage"}
+{"idx": 1060, "name": "Papillion-LA Vista Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Papillion-LaVista public school district transport"}
+{"idx": 1061, "name": "Howellcorp Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corp DBA bus operator Seattle"}
+{"idx": 1062, "name": "Rjuhsd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Roseville Joint Union HS District dept"}
+{"idx": 1063, "name": "South FL School Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, could be private or district"}
+{"idx": 1064, "name": "Bay Area Bus Repair Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus repair shop, not transportation operator"}
+{"idx": 1065, "name": "Coeur D Alene Sch Dist 271", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Idaho public school district 271"}
+{"idx": 1066, "name": "Clinton Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Clinton Public Schools district transportation"}
+{"idx": 1067, "name": "Phoenix Schools Dept-Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Phoenix CSD NY public district transport"}
+{"idx": 1068, "name": "Care A Van Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport service Michigan"}
+{"idx": 1069, "name": "Shaker Heights Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Shaker Heights school district transportation"}
+{"idx": 1070, "name": "Travelers Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transit company name, RI"}
+{"idx": 1071, "name": "Lake Elsinore Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "California unified school district"}
+{"idx": 1072, "name": "Van's Med-Tec Transport & Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private medical/special-needs transport Virginia"}
+{"idx": 1073, "name": "Anthony Wayne Local Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Anthony Wayne Local Schools Ohio district"}
+{"idx": 1074, "name": "Yelm School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Yelm Community Schools district transportation"}
+{"idx": 1075, "name": "Fairborn City School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Fairborn City Schools district transportation"}
+{"idx": 1076, "name": "Carrot Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc DBA bus operator California"}
+{"idx": 1077, "name": "Oxford Area Cmnty Sch Trnsprt", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Oxford Community Schools district transport"}
+{"idx": 1078, "name": "Moses Lake Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Moses Lake School District transportation"}
+{"idx": 1079, "name": "Hadco Corp Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corp DBA bus operator San Jose"}

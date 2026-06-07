@@ -1,0 +1,30 @@
+{"idx": 600, "name": "Pollard Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private family-name bus company in NM"}
+{"idx": 601, "name": "Mission School Trnsprtn Sta", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "LAUSD transportation station, district-run"}
+{"idx": 602, "name": "Blue Springs Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Bssd.net district transportation department"}
+{"idx": 603, "name": "Miami School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Dadeschools.net Miami-Dade district transport"}
+{"idx": 604, "name": "Centerville School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "K12.oh.us district transportation"}
+{"idx": 605, "name": "Northeast School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district, NEISD San Antonio"}
+{"idx": 606, "name": "South Area Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Browardschools.com district transportation"}
+{"idx": 607, "name": "Northeast Transportation Ctr", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Miami-Dade district transport center"}
+{"idx": 608, "name": "Leslie Knott Letcher-Perry", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "LKLP educational cooperative in Kentucky"}
+{"idx": 609, "name": "Hisd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Houston ISD transportation department"}
+{"idx": 610, "name": "Newport News Public Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 611, "name": "Elm City Livery Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private livery Inc, special needs transport"}
+{"idx": 612, "name": "Lakeside School Buses", "verdict": "private_contractor", "confidence": 0.9, "reason": "Lakesidebuses.com private school bus contractor"}
+{"idx": 613, "name": "School Tyme Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ contractor, united-limo affiliate"}
+{"idx": 614, "name": "Mobility Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special needs transport, MI"}
+{"idx": 615, "name": "Baumann Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name NY bus contractor Inc"}
+{"idx": 616, "name": "FT Worth Indpndnt Sch Transptn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Fort Worth ISD transportation, fwisd.org"}
+{"idx": 617, "name": "Spring Independent Sch Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Spring ISD transportation, springisd.org"}
+{"idx": 618, "name": "Chicago School Transit", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Cps.k12.il.us CPS district transit"}
+{"idx": 619, "name": "Surburban Bus Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Suburbanbus.net private NY bus contractor"}
+{"idx": 620, "name": "Paratransit Inc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Public transit affiliated, RTA parent"}
+{"idx": 621, "name": "Sunray Isd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Sunray ISD bus barn, district-run"}
+{"idx": 622, "name": "Health Connector", "verdict": "not_transport", "confidence": 0.7, "reason": "Health services connector, not transport operator"}
+{"idx": 623, "name": "SBCSC Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "South Bend Community Schools transport dept"}
+{"idx": 624, "name": "Aging Disability & Transit Svc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Public/nonprofit aging-disability transit service"}
+{"idx": 625, "name": "Ycn School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Ycntransportation.com private MA contractor"}
+{"idx": 626, "name": "Newport News School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Newport News district transportation"}
+{"idx": 627, "name": "Liberty Road Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Fayette County Public Schools bus garage"}
+{"idx": 628, "name": "Beaumont Independent Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Beaumont ISD transportation, bmtisd.com"}
+{"idx": 629, "name": "Fort Bend Isd-Lake Olympia", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Fort Bend ISD facility, fortbendisd.com"}

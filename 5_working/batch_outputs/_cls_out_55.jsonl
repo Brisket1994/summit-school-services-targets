@@ -1,0 +1,30 @@
+{"idx": 1650, "name": "JS Investments-Il Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Investment holding name, unclear if transport operator"}
+{"idx": 1651, "name": "Collierville Schools Bus Lot", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus lot facility"}
+{"idx": 1652, "name": "River Falls Sch Dist Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus garage"}
+{"idx": 1653, "name": "Vital Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear transport operator"}
+{"idx": 1654, "name": "Menomonie Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation Inc, likely school contractor"}
+{"idx": 1655, "name": "North Babylon Union Free Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Union Free School District"}
+{"idx": 1656, "name": "Fort Wayne Cmnty Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 1657, "name": "Sierra Vista Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 1658, "name": "Gale Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.45, "reason": "Generic Inc name, unclear operator"}
+{"idx": 1659, "name": "Rebel Girls Inc Which Will Do", "verdict": "not_transport", "confidence": 0.85, "reason": "Rebel Girls is media/publishing company"}
+{"idx": 1660, "name": "Griswold School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 1661, "name": "Chipley Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Washington County district bus garage"}
+{"idx": 1662, "name": "Escambia County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 1663, "name": "Carrollton City Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district"}
+{"idx": 1664, "name": "Mt Pleasant Cmnty Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 1665, "name": "Bureau Valley School Transport", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District 340 transportation"}
+{"idx": 1666, "name": "Chanute Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 1667, "name": "Owen County Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools transportation department"}
+{"idx": 1668, "name": "Wolfe Co Bus Terminal", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus terminal"}
+{"idx": 1669, "name": "Benzie County Central Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district bus dept"}
+{"idx": 1670, "name": "Fallert School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus service Inc"}
+{"idx": 1671, "name": "South Pike County Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation department"}
+{"idx": 1672, "name": "Cobleskill-Richmondville", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Cobleskill-Richmondville school district"}
+{"idx": 1673, "name": "Lincoln Square Bus Imprvmt DST", "verdict": "not_transport", "confidence": 0.9, "reason": "Business Improvement District, not transport"}
+{"idx": 1674, "name": "Huron School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1675, "name": "M Parish Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name transportation, likely private operator"}
+{"idx": 1676, "name": "St Bernard School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Parish school transportation department"}
+{"idx": 1677, "name": "Lewiston Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district transportation"}
+{"idx": 1678, "name": "Mcnairy County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation department"}
+{"idx": 1679, "name": "Quetzal Corp Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic corp name, possibly bus operator"}

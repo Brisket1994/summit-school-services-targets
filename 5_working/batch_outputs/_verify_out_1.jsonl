@@ -1,0 +1,25 @@
+{"idx": 25, "name": "Music School Of Westchester", "verdict": "not_transport", "confidence": 0.98, "reason": "Music school, not a transport operator"}
+{"idx": 26, "name": "New York School For The Deaf", "verdict": "not_transport", "confidence": 0.98, "reason": "School for the deaf, not transport"}
+{"idx": 27, "name": "Paratransit Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Paratransit operator, likely nonprofit but contractor-like"}
+{"idx": 28, "name": "Hulmes Transportation Svc LTD", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private special-needs transportation service company"}
+{"idx": 29, "name": "Access Springfield", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "SMTD public transit district paratransit"}
+{"idx": 30, "name": "Literacy Instruction For Texas", "verdict": "not_transport", "confidence": 0.95, "reason": "Literacy nonprofit, not a transport operator"}
+{"idx": 31, "name": "Transportation Resources Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport company in Ohio"}
+{"idx": 32, "name": "Woodburn Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance/EMS provider, not student transport"}
+{"idx": 33, "name": "Swartz Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}
+{"idx": 34, "name": "Nor Recreation & Park District", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public park district, not acquirable"}
+{"idx": 35, "name": "Northampton Regional Emergency", "verdict": "not_transport", "confidence": 0.9, "reason": "Emergency/EMS services, not student transport"}
+{"idx": 36, "name": "Resources For Seniors", "verdict": "not_transport", "confidence": 0.9, "reason": "Senior services nonprofit, not student transport"}
+{"idx": 37, "name": "Fairfield Center For Indpndnc", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability services center, not transport company"}
+{"idx": 38, "name": "Central Huron Ambulance Svc", "verdict": "not_transport", "confidence": 0.95, "reason": "Ambulance service, not student transport"}
+{"idx": 39, "name": "Lift-Aids", "verdict": "private_contractor", "confidence": 0.65, "reason": "Mobility/lift transport provider, possibly acquirable"}
+{"idx": 40, "name": "Transit Plus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "MCTS Milwaukee public transit paratransit"}
+{"idx": 41, "name": "Rock Island County Senior Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Senior center nonprofit, not transport operator"}
+{"idx": 42, "name": "Condo Pharmacy Ltc", "verdict": "not_transport", "confidence": 0.95, "reason": "Pharmacy, not a transport operator"}
+{"idx": 43, "name": "Bowers Ambulance", "verdict": "not_transport", "confidence": 0.95, "reason": "Ambulance EMS, not student transport"}
+{"idx": 44, "name": "Handi-Wheels Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Disability transit, likely nonprofit but contractor"}
+{"idx": 45, "name": "Aroostook Regional Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Regional public transit agency in Maine"}
+{"idx": 46, "name": "Wesley Wheels Transportation", "verdict": "not_transport", "confidence": 0.8, "reason": "WesleyLife senior services nonprofit transport"}
+{"idx": 47, "name": "H & L Bloom", "verdict": "private_contractor", "confidence": 0.95, "reason": "Bloom Bus private school bus contractor MA"}
+{"idx": 48, "name": "I C Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Island Charter private bus operator Arkansas"}
+{"idx": 49, "name": "George Dapper Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Dapper Bus private NJ school bus contractor"}

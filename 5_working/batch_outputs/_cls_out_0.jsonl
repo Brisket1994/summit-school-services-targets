@@ -1,0 +1,30 @@
+{"idx": 0, "name": "Maranata School Bus Svc Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private corp, school bus service name"}
+{"idx": 1, "name": "Accountax School-Bus Asb", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possible tax/accounting confusion"}
+{"idx": 2, "name": "Academy Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, mainly charter but does school work"}
+{"idx": 3, "name": "Martz Trailways", "verdict": "private_contractor", "confidence": 0.7, "reason": "Trailways affiliate, motorcoach with school routes"}
+{"idx": 4, "name": "Illinois Central School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Established IL private school bus contractor"}
+{"idx": 5, "name": "Coast Mountain Bus Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus company name, CA operator"}
+{"idx": 6, "name": "Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Dermott K12 AR district garage, in-house"}
+{"idx": 7, "name": "School Bus Maintenance Shop", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "SC Dept of Education shop, public"}
+{"idx": 8, "name": "Lakeside Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Cook-Illinois subsidiary, private contractor"}
+{"idx": 9, "name": "Atlantic Express", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus contractor, post-bankruptcy"}
+{"idx": 10, "name": "Transportation Department", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department, in-house"}
+{"idx": 11, "name": "Kobussen Buses School Trnsprtn", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-owned WI private school bus contractor"}
+{"idx": 12, "name": "School Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, insufficient info"}
+{"idx": 13, "name": "Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "USD340 KS school district barn, in-house"}
+{"idx": 14, "name": "United Access", "verdict": "not_transport", "confidence": 0.9, "reason": "BraunAbility mobility dealer, not transport operator"}
+{"idx": 15, "name": "Educational Bus Transportation", "verdict": "private_contractor", "confidence": 0.95, "reason": "Trans Group LLC, private NY school contractor"}
+{"idx": 16, "name": "Alamance-Burlington Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "NC public school system, not acquirable"}
+{"idx": 17, "name": "WMK LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "MobilityWorks dealer, mobility van retailer"}
+{"idx": 18, "name": "Krapf School Bus", "verdict": "private_contractor", "confidence": 0.98, "reason": "Krapf Group, large PA family-owned contractor"}
+{"idx": 19, "name": "Mid Columbia Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private OR school bus company"}
+{"idx": 20, "name": "Dousman Transport Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned WI private school bus contractor"}
+{"idx": 21, "name": "Levy School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned PA private school bus contractor"}
+{"idx": 22, "name": "School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Dodge County GA K12 garage, in-house"}
+{"idx": 23, "name": "We Transport", "verdict": "private_contractor", "confidence": 0.9, "reason": "We Transport LLC, NY private school contractor"}
+{"idx": 24, "name": "Easton Coach Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private PA coach/paratransit operator"}
+{"idx": 25, "name": "Student Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Ridesta.com suggests STA, strategic-owned non-independent"}
+{"idx": 26, "name": "W L Roenigk Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned PA private school bus contractor"}
+{"idx": 27, "name": "Monroe School Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private NC school transportation contractor"}
+{"idx": 28, "name": "Landmark Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private CT student transportation contractor"}
+{"idx": 29, "name": "Harlow's School Bus Svc", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-owned private school bus service"}

@@ -1,0 +1,30 @@
+{"idx": 4170, "name": "VIP Express Transport Inc", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private transport Inc, special-needs"}
+{"idx": 4171, "name": "Clayton Center", "verdict": "not_transport", "confidence": 0.8, "reason": "Behavioral health center, not transport"}
+{"idx": 4172, "name": "Cimarron Ensign USD Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "USD district transportation department"}
+{"idx": 4173, "name": "Mid GA Shuttle & Taxi Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private shuttle/taxi service"}
+{"idx": 4174, "name": "Special Care Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport"}
+{"idx": 4175, "name": "Bus Garage Sch Sioux Ctr Cmnty", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district bus garage"}
+{"idx": 4176, "name": "Eagle Grove Cmnty Sch Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district bus garage"}
+{"idx": 4177, "name": "Airways Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine service"}
+{"idx": 4178, "name": "Guevara Rolando", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear operator"}
+{"idx": 4179, "name": "Hoboken Livery", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private livery service"}
+{"idx": 4180, "name": "Job Transportation & Car Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation/car service"}
+{"idx": 4181, "name": "Connecticut Handivan Inc", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private special-needs van Inc"}
+{"idx": 4182, "name": "Old School Transport LLC", "verdict": "private_contractor", "confidence": 0.82, "reason": "Private LLC school transport"}
+{"idx": 4183, "name": "Be Driven LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transport service"}
+{"idx": 4184, "name": "Dungarvin Nevada", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability services provider, not transport"}
+{"idx": 4185, "name": "Cullman County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}
+{"idx": 4186, "name": "AAA Executive Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine service"}
+{"idx": 4187, "name": "Golden West Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine service"}
+{"idx": 4188, "name": "Safe Ride LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transport service"}
+{"idx": 4189, "name": "Basis Texas Charter School Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Charter school, not transport operator"}
+{"idx": 4190, "name": "African American Bus Colation", "verdict": "unsure", "confidence": 0.3, "reason": "Coalition/nonprofit unclear, possibly business assoc"}
+{"idx": 4191, "name": "Sedona Town & Country", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely private limo/shuttle service"}
+{"idx": 4192, "name": "Shelton Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company"}
+{"idx": 4193, "name": "Cottonwood School Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 4194, "name": "C 3 Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, special-needs"}
+{"idx": 4195, "name": "Auxilio", "verdict": "unsure", "confidence": 0.35, "reason": "Name ambiguous, no clear transport indicator"}
+{"idx": 4196, "name": "P & G Med Transport LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport LLC, possibly NEMT"}
+{"idx": 4197, "name": "Freedom Wheels", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service"}
+{"idx": 4198, "name": "Dalton Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, daltonlocal.org"}
+{"idx": 4199, "name": "Gold Cross Svc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}

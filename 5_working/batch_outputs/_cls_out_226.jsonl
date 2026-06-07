@@ -1,0 +1,30 @@
+{"idx": 6780, "name": "Kevin Bennett Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Personal name + Bus; small private operator"}
+{"idx": 6781, "name": "Lopez, Jermie", "verdict": "unsure", "confidence": 0.5, "reason": "Individual name; possibly sole-prop driver"}
+{"idx": 6782, "name": "Limos, Lovely", "verdict": "unsure", "confidence": 0.5, "reason": "Individual name; possibly sole-prop driver"}
+{"idx": 6783, "name": "Dept Distance Educatn Bus Fin", "verdict": "not_transport", "confidence": 0.9, "reason": "Penn State distance education business finance dept"}
+{"idx": 6784, "name": "Perry, Sandra", "verdict": "unsure", "confidence": 0.5, "reason": "Individual name; sole-prop driver"}
+{"idx": 6785, "name": "Waldron Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house transportation department"}
+{"idx": 6786, "name": "Wheelchair Accessible Van", "verdict": "unsure", "confidence": 0.4, "reason": "Generic descriptor, not a clear company"}
+{"idx": 6787, "name": "Merit Care Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport service"}
+{"idx": 6788, "name": "Transportation Extraordinaire", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, special needs flag"}
+{"idx": 6789, "name": "Redivan Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Incorporated private van transport firm"}
+{"idx": 6790, "name": "Pounding Mill School/Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Tazewell County Public Schools bus garage"}
+{"idx": 6791, "name": "E & M School Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school transport service"}
+{"idx": 6792, "name": "Styles Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport company"}
+{"idx": 6793, "name": "School Bus Maintenance Svc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Likely district bus maintenance facility"}
+{"idx": 6794, "name": "Southeast Local Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Southeast Local Schools district bus garage"}
+{"idx": 6795, "name": "Blessed & Qualified Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport operator"}
+{"idx": 6796, "name": "Oxford Care Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs care transport"}
+{"idx": 6797, "name": "Phase II Care Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs care transport"}
+{"idx": 6798, "name": "Trumed Transport Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private medical/transport service"}
+{"idx": 6799, "name": "Major Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company; school flag"}
+{"idx": 6800, "name": "Buckeye Local Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6801, "name": "Northwest Local Schl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house transportation"}
+{"idx": 6802, "name": "Annietrans Non Emergency", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private NEMT/special-needs transport"}
+{"idx": 6803, "name": "Fortna Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Incorporated private transport, school flag"}
+{"idx": 6804, "name": "Prescott Public Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus garage"}
+{"idx": 6805, "name": "Dorsey's Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Possessive family name bus service"}
+{"idx": 6806, "name": "Tender Loving Care & The Joy", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name; possibly care service"}
+{"idx": 6807, "name": "Wheelchairsforsmalldogs.Com LL", "verdict": "not_transport", "confidence": 0.95, "reason": "Pet wheelchair retailer, not transport"}
+{"idx": 6808, "name": "Gent Trans", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport; special needs flag"}
+{"idx": 6809, "name": "Ruffenach, William", "verdict": "unsure", "confidence": 0.5, "reason": "Individual name; sole-prop driver"}

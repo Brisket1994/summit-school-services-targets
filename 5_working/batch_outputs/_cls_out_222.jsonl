@@ -1,0 +1,30 @@
+{"idx": 6660, "name": "Alutiiq Pacific LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Alaska Native corp subsidiary, not typical school bus"}
+{"idx": 6661, "name": "Desert Health Transport", "verdict": "not_transport", "confidence": 0.7, "reason": "Health/medical transport, not school transport"}
+{"idx": 6662, "name": "1st Student", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "First Student subsidiary, strategic owned non-independent"}
+{"idx": 6663, "name": "Horatio Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated unusual name, unclear entity"}
+{"idx": 6664, "name": "Price Technologies Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Tech company, not transport operator"}
+{"idx": 6665, "name": "M & J Business Co Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic business name, unclear operations"}
+{"idx": 6666, "name": "D & N Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family initials bus service Inc, acquirable"}
+{"idx": 6667, "name": "Walton Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family name bus service Inc, acquirable"}
+{"idx": 6668, "name": "Aba School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6669, "name": "Jlo School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6670, "name": "Magic School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6671, "name": "Nikki School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6672, "name": "Nina School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC, acquirable"}
+{"idx": 6673, "name": "Pronto School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6674, "name": "Sara's School Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive name school transportation, acquirable"}
+{"idx": 6675, "name": "Sunshine City Sch Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6676, "name": "Yany School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC, acquirable"}
+{"idx": 6677, "name": "Ccbo E/Bus Shop 2", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Cherokee County Board of Ed bus shop"}
+{"idx": 6678, "name": "Jenkins County Trnsprtn Svc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transportation, enschool.org domain"}
+{"idx": 6679, "name": "Pierce County Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County schools bus garage, k12 domain"}
+{"idx": 6680, "name": "Benton Community Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community School District, public"}
+{"idx": 6681, "name": "Bus Office", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "University of Iowa bus office, in-house"}
+{"idx": 6682, "name": "Middleton School Bus Office", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District school bus office, in-house"}
+{"idx": 6683, "name": "Duo Bus Ofc", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "Bus office, likely district in-house"}
+{"idx": 6684, "name": "Lucini Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family name bus company, acquirable"}
+{"idx": 6685, "name": "Adams Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family name bus service LLC, acquirable"}
+{"idx": 6686, "name": "Frye Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name transportation service, likely acquirable"}
+{"idx": 6687, "name": "Northeast Charter Sch Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Charter school bus service, likely private"}
+{"idx": 6688, "name": "Whitehall District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation, public schools domain"}
+{"idx": 6689, "name": "Aksamit Trans Of CGB", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family name transport, likely private"}

@@ -1,0 +1,30 @@
+{"idx": 3330, "name": "California Sightseeing Tours", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private tour/charter operator, possibly does school trips"}
+{"idx": 3331, "name": "Havoc Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc with bus DBA designation"}
+{"idx": 3332, "name": "North Conejos School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house transportation department"}
+{"idx": 3333, "name": "Cheshire Bus Depot", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "K12.ct.us website indicates district garage"}
+{"idx": 3334, "name": "Paulding County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3335, "name": "Alta-Aurelia Cmnty Sch Bus Grg", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district bus garage"}
+{"idx": 3336, "name": "Atlantic Community Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public community school district"}
+{"idx": 3337, "name": "Hampton-Dumont Cmnty Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public community school district"}
+{"idx": 3338, "name": "Interstate 35 Cmnty Sch Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district garage"}
+{"idx": 3339, "name": "Sullivan Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District bus garage, k12.il.us"}
+{"idx": 3340, "name": "Augusta Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 3341, "name": "Morris Public School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district bus garage"}
+{"idx": 3342, "name": "Wilson County Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transportation"}
+{"idx": 3343, "name": "Dietrich & Sons Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name Inc with bus website"}
+{"idx": 3344, "name": "Pine Valley Central Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district"}
+{"idx": 3345, "name": "Seminole Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 3346, "name": "Oreus Transport LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC special-needs transport"}
+{"idx": 3347, "name": "Crane Isd Maintenance/Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "ISD in-house maintenance/transportation"}
+{"idx": 3348, "name": "West Salem Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Website k12.wi.us indicates district department"}
+{"idx": 3349, "name": "D Verrett Bus Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name LLC bus transportation"}
+{"idx": 3350, "name": "Universal Medic Ent Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Medical name, insurance website, unclear"}
+{"idx": 3351, "name": "Royal World", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, no clear context"}
+{"idx": 3352, "name": "Silverline Private Car & Limou", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, may do special-needs transport"}
+{"idx": 3353, "name": "Bryan School Bus Line Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus line Inc"}
+{"idx": 3354, "name": "Wellness Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private NEMT/special-needs transport service"}
+{"idx": 3355, "name": "Rideback Trucking LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Trucking LLC, not student transport"}
+{"idx": 3356, "name": "Custom Convention Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Convention services, not student transport"}
+{"idx": 3357, "name": "Fern Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc transportation special-needs"}
+{"idx": 3358, "name": "Autocita", "verdict": "unsure", "confidence": 0.4, "reason": "PR-based, likely medical appointment transport"}
+{"idx": 3359, "name": "Cita Salud Inc", "verdict": "unsure", "confidence": 0.5, "reason": "PR medical appointment transport, not student"}

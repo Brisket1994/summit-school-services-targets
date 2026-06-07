@@ -1,0 +1,30 @@
+{"idx": 360, "name": "North Ridgeville City Sch", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "City school district name"}
+{"idx": 361, "name": "Portland Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 362, "name": "Traveling School Bus Intl Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc school bus operator"}
+{"idx": 363, "name": "R&L Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service company"}
+{"idx": 364, "name": "Spring Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "Independent school district"}
+{"idx": 365, "name": "Tucker Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company"}
+{"idx": 366, "name": "North Thurston Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 367, "name": "Johnson Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service"}
+{"idx": 368, "name": "Union Street Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus operator"}
+{"idx": 369, "name": "Gomez Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service"}
+{"idx": 370, "name": "East Allen County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation department"}
+{"idx": 371, "name": "M & M Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Inc"}
+{"idx": 372, "name": "Mark's Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private special-needs transport"}
+{"idx": 373, "name": "Butlers Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service"}
+{"idx": 374, "name": "Metro Bus 15 18", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear operator"}
+{"idx": 375, "name": "Philly Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport with website"}
+{"idx": 376, "name": "Paducah Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 377, "name": "Dimino Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service"}
+{"idx": 378, "name": "Fathom Computing PBC Which", "verdict": "not_transport", "confidence": 0.95, "reason": "Computing company, not transport"}
+{"idx": 379, "name": "Eagle Valley Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company"}
+{"idx": 380, "name": "Absolute Limousine LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Limo LLC doing special-needs transport"}
+{"idx": 381, "name": "Ashland & Shamokin Auto Bus Co", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus company"}
+{"idx": 382, "name": "Pickens Bus Office", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "District bus office, K12 website"}
+{"idx": 383, "name": "Don Brown Bus Sales", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus sales dealership, not operator"}
+{"idx": 384, "name": "Harlows School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus service Inc"}
+{"idx": 385, "name": "Q S Bus Inc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private bus company Inc"}
+{"idx": 386, "name": "VIP School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus operator"}
+{"idx": 387, "name": "Yucaipa Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service since 1944"}
+{"idx": 388, "name": "Springfield Public Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 389, "name": "J & M Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport company"}

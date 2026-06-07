@@ -1,0 +1,30 @@
+{"idx": 1260, "name": "Expert Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated CA filing, unclear actual operations"}
+{"idx": 1261, "name": "Georgie Corp Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated CA filing, residential address, unclear"}
+{"idx": 1262, "name": "Intrepid Productions Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Productions company, not transport operator"}
+{"idx": 1263, "name": "JGB Investments Inc Which Will", "verdict": "not_transport", "confidence": 0.65, "reason": "Investment entity, not transport operator"}
+{"idx": 1264, "name": "Jupiter Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Residential address, vague shell-like name"}
+{"idx": 1265, "name": "Kuriosity Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, Irvine spectrum address, unclear"}
+{"idx": 1266, "name": "LDH USA Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Hollywood Blvd address, unclear operations"}
+{"idx": 1267, "name": "Localmarket Inc Which Will Do", "verdict": "not_transport", "confidence": 0.6, "reason": "Marketing-sounding name, residential address"}
+{"idx": 1268, "name": "Mac Global Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic global name, unclear operations"}
+{"idx": 1269, "name": "MCX2 Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Cryptic name, unclear actual business"}
+{"idx": 1270, "name": "Michael-Kate Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Residential address, unclear operations"}
+{"idx": 1271, "name": "My School Bus Driver's", "verdict": "private_contractor", "confidence": 0.7, "reason": "School bus service name suggests contractor"}
+{"idx": 1272, "name": "Ryan Productions Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Productions company, not transport"}
+{"idx": 1273, "name": "Secura Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.75, "reason": "Securakey.com, security access products company"}
+{"idx": 1274, "name": "Silva Management Corp Which", "verdict": "unsure", "confidence": 0.4, "reason": "Management corp, residential address, unclear"}
+{"idx": 1275, "name": "Spacemaker Corp Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear actual operations"}
+{"idx": 1276, "name": "Two Sparx Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Residential address, unclear operations"}
+{"idx": 1277, "name": "Vargo Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, Crenshaw address, unclear"}
+{"idx": 1278, "name": "Watt Ventures Inc Which Will", "verdict": "not_transport", "confidence": 0.6, "reason": "Ventures/investment entity, residential address"}
+{"idx": 1279, "name": "Ymedia Corp Which Will Do Bus", "verdict": "not_transport", "confidence": 0.65, "reason": "Media corp, not transport operator"}
+{"idx": 1280, "name": "Zeros Technologies Inc Which", "verdict": "not_transport", "confidence": 0.65, "reason": "Technologies company, not transport"}
+{"idx": 1281, "name": "Thomas Bus Gulf Coast", "verdict": "not_transport", "confidence": 0.85, "reason": "Thomas Built Buses dealer, sells buses not operator"}
+{"idx": 1282, "name": "Manufacturers Equipment Co", "verdict": "not_transport", "confidence": 0.7, "reason": "Equipment manufacturer, not transport operator"}
+{"idx": 1283, "name": "Total Control Systs Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Control systems company, not transport"}
+{"idx": 1284, "name": "Auburn City School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City school district transportation department"}
+{"idx": 1285, "name": "M & J School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company, CT contractor"}
+{"idx": 1286, "name": "Brantley County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transportation, K12 domain"}
+{"idx": 1287, "name": "Effingham Community Unit 40", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Illinois Community Unit School District"}
+{"idx": 1288, "name": "Dodge City USD 443 Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified School District transportation department"}
+{"idx": 1289, "name": "St Cloud Area School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD 742 school district transportation"}

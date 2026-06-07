@@ -1,0 +1,30 @@
+{"idx": 2100, "name": "Angie's School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named LLC school transport"}
+{"idx": 2101, "name": "Bell School Transportation Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private Inc school transport company"}
+{"idx": 2102, "name": "Forteza School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private Inc school bus operator"}
+{"idx": 2103, "name": "International General Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company name"}
+{"idx": 2104, "name": "Neira School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named LLC school transport"}
+{"idx": 2105, "name": "Yeni School Transportation LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private LLC school transport"}
+{"idx": 2106, "name": "Ashtar School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private-named school transport operator"}
+{"idx": 2107, "name": "Germain School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named LLC school transport"}
+{"idx": 2108, "name": "Emerald International Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company name"}
+{"idx": 2109, "name": "Simon Schools Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transport"}
+{"idx": 2110, "name": "SC Madison Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage, Discovery-School.net"}
+{"idx": 2111, "name": "Amherst School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District garage, amherstk12.org domain"}
+{"idx": 2112, "name": "Restroom Facilities LTD Which", "verdict": "not_transport", "confidence": 0.85, "reason": "Restroom facilities, not transport"}
+{"idx": 2113, "name": "Spencer Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Likely district bus garage WV"}
+{"idx": 2114, "name": "Building Youth Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous youth org name"}
+{"idx": 2115, "name": "Attica Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Private Inc bus service NY"}
+{"idx": 2116, "name": "Black River Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District garage, blackriverschools.org"}
+{"idx": 2117, "name": "Coky Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc transport NYC"}
+{"idx": 2118, "name": "Trans County Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private Inc bus lines PA"}
+{"idx": 2119, "name": "Rowva Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District garage, rowva.k12.il.us"}
+{"idx": 2120, "name": "MCPS Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District transportation department"}
+{"idx": 2121, "name": "Healthy School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school bus operator"}
+{"idx": 2122, "name": "RATS", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Rockbridge Area Transit, public agency"}
+{"idx": 2123, "name": "Jay's Transport 24/7", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private transport"}
+{"idx": 2124, "name": "Willis Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 2125, "name": "Burlington Cnty Bus Mchs & Eq", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "County bus machines, government"}
+{"idx": 2126, "name": "Xpress Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport company"}
+{"idx": 2127, "name": "City Bus & Truck Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc bus/truck dealer-operator"}
+{"idx": 2128, "name": "Lottery School Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transport"}
+{"idx": 2129, "name": "East Holmes Local Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local school district Ohio"}

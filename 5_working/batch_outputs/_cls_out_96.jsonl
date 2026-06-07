@@ -1,0 +1,30 @@
+{"idx": 2880, "name": "Cleveland Metropolitan Trnsprt", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous; could be district or private operator"}
+{"idx": 2881, "name": "KUNA School District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 2882, "name": "Care Avan", "verdict": "private_contractor", "confidence": 0.6, "reason": "Special needs transport, likely private"}
+{"idx": 2883, "name": "BMX Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school bus operator name"}
+{"idx": 2884, "name": "Whitesville Central Sch Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district bus garage"}
+{"idx": 2885, "name": "D & S Community Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Sevita health community services, not transport"}
+{"idx": 2886, "name": "Pecos-Barstow-Toyah Isd", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD school district"}
+{"idx": 2887, "name": "Mainstream Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special needs transport company"}
+{"idx": 2888, "name": "Fennville Public Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus garage"}
+{"idx": 2889, "name": "Hopkins Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2890, "name": "Seacoast Chair Car Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, special needs transport"}
+{"idx": 2891, "name": "Union Scioto Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 2892, "name": "International Bus Mgmt Assoc", "verdict": "not_transport", "confidence": 0.7, "reason": "Association, not an operator"}
+{"idx": 2893, "name": "Amanda Clearcreek Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 2894, "name": "Tulsa Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transportation"}
+{"idx": 2895, "name": "Northern Humboldt Union High", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Union high school district"}
+{"idx": 2896, "name": "Preston Town-Edu Dept Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Town education department buses"}
+{"idx": 2897, "name": "J JS Express Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 2898, "name": "School Bus Svc Of Ma", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus service"}
+{"idx": 2899, "name": "School Bus Svc-Manatee County", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus service, Manatee FL"}
+{"idx": 2900, "name": "Monticello Community Schl Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus"}
+{"idx": 2901, "name": "American Falls School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District school bus shop"}
+{"idx": 2902, "name": "Harlows School Bus Svc & Sales", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus contractor"}
+{"idx": 2903, "name": "Idaho School Bus Contrs Assn", "verdict": "not_transport", "confidence": 0.95, "reason": "Trade association, not operator"}
+{"idx": 2904, "name": "Douglass Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2905, "name": "Checker Bus Of Marquette", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company"}
+{"idx": 2906, "name": "Cities Best Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special needs transport"}
+{"idx": 2907, "name": "Crookston Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2908, "name": "RW Flkrson Bus Bus Parts LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name LLC, private bus operator"}
+{"idx": 2909, "name": "Humphreys County School Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County school district"}

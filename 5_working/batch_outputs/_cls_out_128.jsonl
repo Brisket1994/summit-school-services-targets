@@ -1,0 +1,30 @@
+{"idx": 3840, "name": "Lodi Unified Sch Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district in-house transportation department"}
+{"idx": 3841, "name": "AM Limousine Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3842, "name": "Freedom Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3843, "name": "T & M Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3844, "name": "Bens Executive Cars Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Executive car service, possibly special-needs"}
+{"idx": 3845, "name": "Bright Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3846, "name": "California Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3847, "name": "Special Tuch Limosne Sedan Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo/sedan service, special-needs transport"}
+{"idx": 3848, "name": "Wheelers LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely wheelchair/mobility transport"}
+{"idx": 3849, "name": "Bussani Mobility Team East LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Mobility equipment dealer, not transport operator"}
+{"idx": 3850, "name": "TLCM LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "TLC Transport, special-needs transport"}
+{"idx": 3851, "name": "Fiesta Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs"}
+{"idx": 3852, "name": "MVP Medical Transit LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transit, not school transport"}
+{"idx": 3853, "name": "Holt Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transport company, possibly special-needs"}
+{"idx": 3854, "name": "Accessible Vans & Mobility LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "MobilityWorks - van sales/equipment, not operator"}
+{"idx": 3855, "name": "Carey Oregon & Island Coach", "verdict": "private_contractor", "confidence": 0.55, "reason": "Carey limo franchise/coach service"}
+{"idx": 3856, "name": "Jay Roy Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic enterprise name, unclear focus"}
+{"idx": 3857, "name": "Spring Dell Ctr Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability services center, not transport operator"}
+{"idx": 3858, "name": "Tennessee Stages", "verdict": "private_contractor", "confidence": 0.55, "reason": "Stage/coach line, possibly charter operator"}
+{"idx": 3859, "name": "Champine Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name transportation service"}
+{"idx": 3860, "name": "Bensalem Christian Day School", "verdict": "not_transport", "confidence": 0.99, "reason": "Christian day school, not transport"}
+{"idx": 3861, "name": "Northeast Pennsylvania Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Regional school bus operator"}
+{"idx": 3862, "name": "Johannes Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus company, school transport"}
+{"idx": 3863, "name": "Sta Sta", "verdict": "unsure", "confidence": 0.3, "reason": "Possibly STA (Student Transportation of America)"}
+{"idx": 3864, "name": "Blue Hills Senior & Disabled", "verdict": "not_transport", "confidence": 0.8, "reason": "Rest home/senior care, not school transport"}
+{"idx": 3865, "name": "Bod Ventures Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Generic ventures name, unclear"}
+{"idx": 3866, "name": "Mid-America Wheelchair Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair transport, possibly special-needs"}
+{"idx": 3867, "name": "Cruisin' 2 Driving School", "verdict": "not_transport", "confidence": 0.95, "reason": "Driving school, not transport operator"}
+{"idx": 3868, "name": "Poland School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Poland Local Schools district bus garage"}
+{"idx": 3869, "name": "Krise Transportation Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus contractor, PA"}

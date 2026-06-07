@@ -1,0 +1,30 @@
+{"idx": 810, "name": "Portage Township Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Township school district transportation dept"}
+{"idx": 811, "name": "Mitco Limited", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear transport role"}
+{"idx": 812, "name": "Kettering City Sch Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transport dept"}
+{"idx": 813, "name": "Weikel Busing LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named bus LLC contractor"}
+{"idx": 814, "name": "CTC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Reliant Transportation, special-needs contractor"}
+{"idx": 815, "name": "Forest Hills Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transport dept"}
+{"idx": 816, "name": "DDSD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "David Douglas SD transportation dept"}
+{"idx": 817, "name": "Mecklenburg County School Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school system transport"}
+{"idx": 818, "name": "Fort Mill School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 819, "name": "Chamblee Bus Ctr Asscaites LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus center associates LLC"}
+{"idx": 820, "name": "Alternative Homemaking With A", "verdict": "not_transport", "confidence": 0.9, "reason": "Homemaking/home-care service, not transport"}
+{"idx": 821, "name": "Transportation Resources Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transportation company"}
+{"idx": 822, "name": "Ware County Sch Systs Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school system transport"}
+{"idx": 823, "name": "Ambulance Service Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not student transport"}
+{"idx": 824, "name": "University Of California", "verdict": "not_transport", "confidence": 0.98, "reason": "University, not a transport contractor"}
+{"idx": 825, "name": "Vantour", "verdict": "private_contractor", "confidence": 0.8, "reason": "Spring Valley van/tour operator"}
+{"idx": 826, "name": "Vantour 1 Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Spring Valley van transport Inc"}
+{"idx": 827, "name": "District 200 Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation dept"}
+{"idx": 828, "name": "Mcilwain School Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-named school bus lines Inc"}
+{"idx": 829, "name": "Sweet Water County Sch Transp", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school transport dept"}
+{"idx": 830, "name": "Clarence Central Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district bus garage"}
+{"idx": 831, "name": "Lancaster Central Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transport"}
+{"idx": 832, "name": "Ferguson-Florissant Transport", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "School district transportation dept"}
+{"idx": 833, "name": "Ithaca City Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation"}
+{"idx": 834, "name": "Kent Limousines LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo LLC, special-needs transport"}
+{"idx": 835, "name": "Mason City Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transport dept"}
+{"idx": 836, "name": "Tennessee Carrier Corporate", "verdict": "unsure", "confidence": 0.5, "reason": "Generic carrier name, unclear scope"}
+{"idx": 837, "name": "Yellow Bird Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Yellow Bird Bus, private school operator"}
+{"idx": 838, "name": "Corinth Central Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district bus garage"}
+{"idx": 839, "name": "City Ambulance Of Eureka Ofc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}

@@ -1,0 +1,30 @@
+{"idx": 3450, "name": "Beaufort County School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3451, "name": "Lewiston Consolidated Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "District bus barn, school domain"}
+{"idx": 3452, "name": "Alleghany County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3453, "name": "Sonny Merryman Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/distributor, not operator"}
+{"idx": 3454, "name": "Virginia Beach City Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3455, "name": "Nothing But Love Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC, special needs transport"}
+{"idx": 3456, "name": "All Town Transport Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc, special needs transport"}
+{"idx": 3457, "name": "Mario's Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named Inc, school transport"}
+{"idx": 3458, "name": "APM Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, special needs flagged"}
+{"idx": 3459, "name": "Around Clock Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, special needs flagged"}
+{"idx": 3460, "name": "Dion Tipo Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, special needs flagged"}
+{"idx": 3461, "name": "Workingmans Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc, school"}
+{"idx": 3462, "name": "Lele Services LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, special needs transport"}
+{"idx": 3463, "name": "M & C School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus LLC"}
+{"idx": 3464, "name": "Land Miles Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, special needs transport"}
+{"idx": 3465, "name": "National School Bus Garage", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous garage name, could be district"}
+{"idx": 3466, "name": "Gary Aisquith Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named bus lines Inc"}
+{"idx": 3467, "name": "Kidsmobile Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc, school transport"}
+{"idx": 3468, "name": "Air B School Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus Inc"}
+{"idx": 3469, "name": "Flores School TRNSPRTN Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named school transport Inc"}
+{"idx": 3470, "name": "Braymer School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus barn likely"}
+{"idx": 3471, "name": "Priority Wheelchair TRNSPRTN", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport, special needs flagged"}
+{"idx": 3472, "name": "TMS Senior Transport", "verdict": "not_transport", "confidence": 0.75, "reason": "Senior transport, not student"}
+{"idx": 3473, "name": "Romed Ambulance & Dispatch", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not student transport"}
+{"idx": 3474, "name": "Drive Em Cheep Limo Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, special needs flagged"}
+{"idx": 3475, "name": "Olivet Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Could be college or private operator"}
+{"idx": 3476, "name": "Angel Wings Trnsprtn Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, special needs transport"}
+{"idx": 3477, "name": "LA Medical Transportation", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not student"}
+{"idx": 3478, "name": "Miksha Express Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport, special needs flagged"}
+{"idx": 3479, "name": "Shawnee Heights USD 450", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}

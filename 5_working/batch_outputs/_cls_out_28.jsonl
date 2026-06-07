@@ -1,0 +1,30 @@
+{"idx": 840, "name": "Smusd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "San Marcos USD in-house transport dept"}
+{"idx": 841, "name": "Houston Dixie Farm Road Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous name, could be private or yard"}
+{"idx": 842, "name": "Blakes Limosne & Sedan Svc LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC limo/sedan, special-needs flagged"}
+{"idx": 843, "name": "Chula Vista Elmntry Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public elementary school district"}
+{"idx": 844, "name": "Birmingham Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 845, "name": "Mt Olive Township Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Township public school district"}
+{"idx": 846, "name": "Wheelchair Taxi By Yellow Cab", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private taxi, special-needs transport"}
+{"idx": 847, "name": "East Greenbush Central Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district"}
+{"idx": 848, "name": "Laurel Automotive", "verdict": "unsure", "confidence": 0.4, "reason": "Auto shop name but school flag set"}
+{"idx": 849, "name": "Life Emergency Medical Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "EMS ambulance service, not student transport"}
+{"idx": 850, "name": "Mobility Plus Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private mobility/special-needs transport"}
+{"idx": 851, "name": "Southwest Transportation Agcy", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "JPA joint powers authority, public entity"}
+{"idx": 852, "name": "Campbell County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation"}
+{"idx": 853, "name": "Smart Pick Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Brooklyn school bus Inc"}
+{"idx": 854, "name": "Dublin Limo & Airport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special-needs flagged"}
+{"idx": 855, "name": "South Colonie Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "South Colonie CSD in-house transport"}
+{"idx": 856, "name": "Northside Isd", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district Texas"}
+{"idx": 857, "name": "Northwest Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Northwest Local Schools bus garage Ohio"}
+{"idx": 858, "name": "Saratoga Springs Sch TRNSPTN", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 859, "name": "Berea City Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation"}
+{"idx": 860, "name": "Jubb's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus service since 1919"}
+{"idx": 861, "name": "Fayetteville Manlius Central", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district NY"}
+{"idx": 862, "name": "Saginaw Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Intermediate school district transport"}
+{"idx": 863, "name": "University Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ bus company since 1964"}
+{"idx": 864, "name": "CSSD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central Square School District dept"}
+{"idx": 865, "name": "Traverse City Area Public Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 866, "name": "Merrillville Community Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district"}
+{"idx": 867, "name": "Chenango Valley Csd Trnprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transportation"}
+{"idx": 868, "name": "Harlem Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Harlem CUSD 122 IL in-house transport"}
+{"idx": 869, "name": "Buffalo School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation dept"}

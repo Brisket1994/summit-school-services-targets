@@ -1,0 +1,30 @@
+{"idx": 5310, "name": "Angelet's Non-Emergency", "verdict": "private_contractor", "confidence": 0.75, "reason": "NEMT operator, possessive name, small special-needs"}
+{"idx": 5311, "name": "Constance Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private wheelchair/NEMT transport operator"}
+{"idx": 5312, "name": "High Society Chauffeuring", "verdict": "private_contractor", "confidence": 0.55, "reason": "Chauffeur/limo, marginal student-transport fit"}
+{"idx": 5313, "name": "Laboss Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport operator, small"}
+{"idx": 5314, "name": "Professional Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "NEMT operator, private"}
+{"idx": 5315, "name": "Sky Limo Corp", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo corp, marginal fit"}
+{"idx": 5316, "name": "Manalapan School Trnsprtn", "verdict": "public_or_inhouse", "verdict_note": "", "confidence": 0.85, "reason": "District in-house transport, mersnj.us domain"}
+{"idx": 5317, "name": "Lucas Limousines", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal fit"}
+{"idx": 5318, "name": "Oxford Executive Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Executive car service, marginal"}
+{"idx": 5319, "name": "Lion's School Shuttle Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school shuttle service"}
+{"idx": 5320, "name": "Florida Transportation Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Generic private transport service"}
+{"idx": 5321, "name": "V I P Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 5322, "name": "Wheelchar Getaway Van Rentals", "verdict": "not_transport", "confidence": 0.6, "reason": "Van rentals, not operator"}
+{"idx": 5323, "name": "James Tours", "verdict": "private_contractor", "confidence": 0.55, "reason": "Tour/charter operator, marginal"}
+{"idx": 5324, "name": "Mark Yarton Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic service Inc, possible operator"}
+{"idx": 5325, "name": "Pearl Golden Co Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear business"}
+{"idx": 5326, "name": "Clay Art Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Art center/school, not transport"}
+{"idx": 5327, "name": "Dan Maguire's Timberline Tree", "verdict": "not_transport", "confidence": 0.9, "reason": "Tree service, not transport"}
+{"idx": 5328, "name": "Elmsford Union Free Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 5329, "name": "ABC Transport Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport service, small"}
+{"idx": 5330, "name": "Wilmoth Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine, marginal fit"}
+{"idx": 5331, "name": "American Small Bus Council", "verdict": "not_transport", "confidence": 0.9, "reason": "Trade association, not transport"}
+{"idx": 5332, "name": "Fcps-Stonecroft Support Ctr", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Fairfax County Public Schools facility"}
+{"idx": 5333, "name": "Hanover County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transportation"}
+{"idx": 5334, "name": "Randy's Mobility", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility/NEMT operator, possessive"}
+{"idx": 5335, "name": "Newaygo Public Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation dept"}
+{"idx": 5336, "name": "H & M Enterprise LTD", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic enterprise LTD, NEMT-flagged"}
+{"idx": 5337, "name": "Jackson County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus garage, in-house"}
+{"idx": 5338, "name": "Morris Transportation SVC LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private NEMT LLC, morrisnemt.com"}
+{"idx": 5339, "name": "Safe Ride Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport operator"}

@@ -1,0 +1,30 @@
+{"idx": 2610, "name": "School District-Colfax Bus Grg", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 2611, "name": "East Central Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2612, "name": "Mat Bus Corp School", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus Corp suggests private operator"}
+{"idx": 2613, "name": "Douglas County Sch Dist-Info", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 2614, "name": "Nichols Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named Bus Service Inc"}
+{"idx": 2615, "name": "Pensacola City-Bus Ofc Numbers", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "City bus office, public entity"}
+{"idx": 2616, "name": "Cadillac Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District garage, cadillacschools.org"}
+{"idx": 2617, "name": "Marysville Public Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation dept"}
+{"idx": 2618, "name": "American International Bus CRP", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus Corp, likely private operator"}
+{"idx": 2619, "name": "Atlantic Express Comms", "verdict": "private_contractor", "confidence": 0.6, "reason": "Atlantic Express was large school-bus operator"}
+{"idx": 2620, "name": "Margaretta Local Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local school transportation dept"}
+{"idx": 2621, "name": "Rico's Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named Bus Co Inc"}
+{"idx": 2622, "name": "Harlow's School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named school bus operator"}
+{"idx": 2623, "name": "Belton Union Bus Ctr Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus Center Inc, likely private"}
+{"idx": 2624, "name": "San Angelo Community Bus Ofc", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous community bus office"}
+{"idx": 2625, "name": "Chamber's Bus Garage", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named bus garage"}
+{"idx": 2626, "name": "Moore's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named bus service"}
+{"idx": 2627, "name": "Lummi Indian Bus Council", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Tribal government council"}
+{"idx": 2628, "name": "Nooksack Valley Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2629, "name": "A-1 Transporters", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transporter"}
+{"idx": 2630, "name": "Schoolman Transportation Syst", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation operator"}
+{"idx": 2631, "name": "Transport Care Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport LLC"}
+{"idx": 2632, "name": "Premier Care Transports LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport LLC"}
+{"idx": 2633, "name": "Five Star School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school transportation Inc"}
+{"idx": 2634, "name": "Promise Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport"}
+{"idx": 2635, "name": "A Plus School Bus Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus transportation"}
+{"idx": 2636, "name": "H2O School Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus transportation Inc"}
+{"idx": 2637, "name": "Eudora School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School transportation department"}
+{"idx": 2638, "name": "N J A W B O S Womens Bus Ctr", "verdict": "not_transport", "confidence": 0.9, "reason": "NJ women's business center association"}
+{"idx": 2639, "name": "S S T Detroit", "verdict": "unsure", "confidence": 0.5, "reason": "Acronym unclear, possibly transport"}

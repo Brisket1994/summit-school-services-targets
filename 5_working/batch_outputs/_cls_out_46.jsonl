@@ -1,0 +1,30 @@
+{"idx": 1380, "name": "Empire State Bus Corp", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus corp, NYC area school transport"}
+{"idx": 1381, "name": "First Step Trans/Thomas Buses", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private Brooklyn bus operator"}
+{"idx": 1382, "name": "Geri Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation Inc, Brooklyn"}
+{"idx": 1383, "name": "E-Commerce Bus LIAISON LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possible non-operator"}
+{"idx": 1384, "name": "Marshall Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company, MD"}
+{"idx": 1385, "name": "Xenotech Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "At Amgen HQ; placeholder filing, not operator"}
+{"idx": 1386, "name": "Brighton Area Sch Trnsprtn Dpt", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District transportation dept, MI"}
+{"idx": 1387, "name": "Wissahickon School Distric Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district in-house transport"}
+{"idx": 1388, "name": "H & H Truck & Bus Co", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private truck/bus company Detroit"}
+{"idx": 1389, "name": "Michigan Central Sch Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school bus operator"}
+{"idx": 1390, "name": "Boger City Bus Repair", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus repair shop, not operator"}
+{"idx": 1391, "name": "Comanco LTD Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Placeholder name, residential address"}
+{"idx": 1392, "name": "Companion Group Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous shell-style name"}
+{"idx": 1393, "name": "Creatus Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Tech/creative firm, not transport"}
+{"idx": 1394, "name": "Helios America Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic placeholder name"}
+{"idx": 1395, "name": "Maana Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Generic enterprises, unclear business"}
+{"idx": 1396, "name": "Maktub 8 Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Residential address, placeholder name"}
+{"idx": 1397, "name": "Reitech Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Residential address, placeholder name"}
+{"idx": 1398, "name": "Savvyshares PBC Which Will Do", "verdict": "not_transport", "confidence": 0.7, "reason": "PBC, likely fintech not transport"}
+{"idx": 1399, "name": "New England Transit Sales Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales, not operator"}
+{"idx": 1400, "name": "T2's Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Small private bus service, LA"}
+{"idx": 1401, "name": "B H Goodman Bus SE", "verdict": "private_contractor", "confidence": 0.9, "reason": "Goodman Bus, private Houston operator"}
+{"idx": 1402, "name": "Iguala Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, Houston"}
+{"idx": 1403, "name": "Delaware City Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus Inc, NJ"}
+{"idx": 1404, "name": "Scotland Co R-1 Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "R-1 school district transport, MO"}
+{"idx": 1405, "name": "Perry Lecompton USD Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "USD school district transport"}
+{"idx": 1406, "name": "School Bus Stops Of AL Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private Inc, school bus related AL"}
+{"idx": 1407, "name": "West County Bus Facility", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Charlotte County Schools facility, FL"}
+{"idx": 1408, "name": "Marks Bus Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Marks Passenger Services, private NJ"}
+{"idx": 1409, "name": "Pace Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation Inc, PA"}

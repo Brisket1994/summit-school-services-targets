@@ -1,0 +1,30 @@
+{"idx": 3150, "name": "Elite Car Care II", "verdict": "not_transport", "confidence": 0.7, "reason": "Car care/auto service, not transport operator"}
+{"idx": 3151, "name": "Street Scene Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo company, possible special-needs transport"}
+{"idx": 3152, "name": "America Track Roadsters", "verdict": "not_transport", "confidence": 0.7, "reason": "Longbikes.com - recumbent bicycle maker"}
+{"idx": 3153, "name": "Qure Way LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC name, unclear business"}
+{"idx": 3154, "name": "Mcneil Crossing @ 172 Bus Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Bus center, ambiguous"}
+{"idx": 3155, "name": "Skusd Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Southern Kern USD district transportation"}
+{"idx": 3156, "name": "Act Wheelchair Taxi LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair taxi, special-needs transport"}
+{"idx": 3157, "name": "Hastings Area Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Hastings school district bus garage"}
+{"idx": 3158, "name": "Taylor K12 FL", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Taylor County K12 school district"}
+{"idx": 3159, "name": "Colby Public Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus garage"}
+{"idx": 3160, "name": "Ithaca Public Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus garage"}
+{"idx": 3161, "name": "P S-21 School Trnsprtn Svc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Public school district transportation"}
+{"idx": 3162, "name": "Palmer Bus Svc Of JWP", "verdict": "private_contractor", "confidence": 0.9, "reason": "Palmer Bus Service, private MN contractor"}
+{"idx": 3163, "name": "Cleveland Co Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Cleveland County Schools transportation"}
+{"idx": 3164, "name": "Porter Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name transport company"}
+{"idx": 3165, "name": "Mauthe Busing Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name Inc busing company"}
+{"idx": 3166, "name": "S V L Bussing Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bussing Inc"}
+{"idx": 3167, "name": "Tri-County Bus Line", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus line operator"}
+{"idx": 3168, "name": "Farwell Public SCH-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 3169, "name": "Williamsburg James City County", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "WJCC public school district transport"}
+{"idx": 3170, "name": "Frontiers Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport service, MN"}
+{"idx": 3171, "name": "Karell School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC"}
+{"idx": 3172, "name": "Riverview Community Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 3173, "name": "Rossford School Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district transportation"}
+{"idx": 3174, "name": "Rossford Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Rossford Schools district transport"}
+{"idx": 3175, "name": "Wren Mobility Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private mobility transport LLC"}
+{"idx": 3176, "name": "Fairfax County Dept Of Vehicle", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County government vehicle department"}
+{"idx": 3177, "name": "Integrity Wheelchair", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair transport company"}
+{"idx": 3178, "name": "Branstiter Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus service"}
+{"idx": 3179, "name": "Island Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo company, possible special-needs transport"}

@@ -1,0 +1,30 @@
+{"idx": 6630, "name": "Students Transport Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc suffix, small FL student transport operator"}
+{"idx": 6631, "name": "Teresa School Bus", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-name FL school bus operator"}
+{"idx": 6632, "name": "Tito Y Tita School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name Miami school bus contractor"}
+{"idx": 6633, "name": "Tony's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive family-name FL school bus operator"}
+{"idx": 6634, "name": "Victor & Elvia School Bus Corp", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name Corp, FL school bus operator"}
+{"idx": 6635, "name": "Y School Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc suffix, small FL school bus operator"}
+{"idx": 6636, "name": "Yanet School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name FL school bus contractor"}
+{"idx": 6637, "name": "Yenny School Van", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-name FL school van operator"}
+{"idx": 6638, "name": "Yordy School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name FL school bus operator"}
+{"idx": 6639, "name": "Yordy's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive family-name FL school bus operator"}
+{"idx": 6640, "name": "Yusi School Bus Corp", "verdict": "private_contractor", "confidence": 0.92, "reason": "Corp suffix, FL school bus contractor"}
+{"idx": 6641, "name": "Yusimi's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive family-name FL school bus operator"}
+{"idx": 6642, "name": "Zuniga's School Bus Svc Corp", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive family-name Corp, FL school bus"}
+{"idx": 6643, "name": "Missouri Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc suffix, MO bus operator with website"}
+{"idx": 6644, "name": "Excel Corp", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, no clear transport indicator"}
+{"idx": 6645, "name": "Pamlico County Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County Schools transportation department"}
+{"idx": 6646, "name": "Berkshire Transportation Corp", "verdict": "private_contractor", "confidence": 0.88, "reason": "NJ Corp transport company with website"}
+{"idx": 6647, "name": "John Champagne Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name TN bus service operator"}
+{"idx": 6648, "name": "Sparta School Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Spartaschools.org district transportation department"}
+{"idx": 6649, "name": "Flanagan Richard H", "verdict": "private_contractor", "confidence": 0.75, "reason": "Individual NY school bus operator"}
+{"idx": 6650, "name": "Foreman Charters & Tours", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name SD charter bus operator"}
+{"idx": 6651, "name": "Central Auto Buses Stockton", "verdict": "private_contractor", "confidence": 0.7, "reason": "CA small bus operator, unclear name"}
+{"idx": 6652, "name": "Whitko Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Whitko.org district bus garage facility"}
+{"idx": 6653, "name": "Angel Hector Sch Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "LLC suffix, MA school transport contractor"}
+{"idx": 6654, "name": "M & A School Bus Trnsprtn LTD", "verdict": "private_contractor", "confidence": 0.92, "reason": "LTD suffix, MA school bus contractor"}
+{"idx": 6655, "name": "Pacific Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "NC special-needs wheelchair transport operator"}
+{"idx": 6656, "name": "Buckeye Valley School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Mybvls.org school district bus garage"}
+{"idx": 6657, "name": "New Mexico Small Bus Devmnt", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 6658, "name": "Academy Student Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Inc suffix, PA student transport contractor"}
+{"idx": 6659, "name": "Alpine Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD Transportation Department, public district"}

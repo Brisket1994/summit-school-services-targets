@@ -1,0 +1,30 @@
+{"idx": 5880, "name": "Astro Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Tiny IL limo, likely NEMT not school"}
+{"idx": 5881, "name": "Atlantic Medicar", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medicar NEMT operator, special-needs only"}
+{"idx": 5882, "name": "Baily Teodora & Nasko Mintchev", "verdict": "unsure", "confidence": 0.4, "reason": "Individual names, unclear entity"}
+{"idx": 5883, "name": "Because Wee Care", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small special-needs transport operator"}
+{"idx": 5884, "name": "Bourbonnais", "verdict": "unsure", "confidence": 0.3, "reason": "Just a town name, ambiguous"}
+{"idx": 5885, "name": "Chicago Express Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC transport operator"}
+{"idx": 5886, "name": "Chicago Motor Bus Co", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private bus company"}
+{"idx": 5887, "name": "Delco Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport operator"}
+{"idx": 5888, "name": "Destiny", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear entity"}
+{"idx": 5889, "name": "E H Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transport operator"}
+{"idx": 5890, "name": "E J W Enterprizes", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small private enterprise, transport"}
+{"idx": 5891, "name": "Eps Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, likely NEMT"}
+{"idx": 5892, "name": "Ezra Medical Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT operator, special-needs"}
+{"idx": 5893, "name": "Fair Medicar & Transport Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medicar NEMT private operator"}
+{"idx": 5894, "name": "Family First Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small private transport operator"}
+{"idx": 5895, "name": "Fast & Furious Trans", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small private transport operator"}
+{"idx": 5896, "name": "GGTT Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Acronym name, unclear business"}
+{"idx": 5897, "name": "Grayhawk Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, likely NEMT"}
+{"idx": 5898, "name": "H & L Passenger Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private passenger service operator"}
+{"idx": 5899, "name": "Hispa Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small private transport operator"}
+{"idx": 5900, "name": "Home Delivery Transportation", "verdict": "unsure", "confidence": 0.35, "reason": "Name suggests delivery not passenger"}
+{"idx": 5901, "name": "Hope Medivan Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medivan NEMT private operator"}
+{"idx": 5902, "name": "J & J & Spears Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-named private transport operator"}
+{"idx": 5903, "name": "JTS", "verdict": "unsure", "confidence": 0.3, "reason": "Acronym only, unclear entity"}
+{"idx": 5904, "name": "K-La's Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small private transport operator"}
+{"idx": 5905, "name": "Kids Door 2 Door", "verdict": "private_contractor", "confidence": 0.65, "reason": "Kid-focused private transport operator"}
+{"idx": 5906, "name": "Lady Bern Medicar Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medicar NEMT private operator"}
+{"idx": 5907, "name": "Lewis Logistics Inc", "verdict": "unsure", "confidence": 0.35, "reason": "Logistics suggests freight not students"}
+{"idx": 5908, "name": "Life Line Transportation Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport operator, likely NEMT"}
+{"idx": 5909, "name": "Lovecare Medicar", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medicar NEMT private operator"}

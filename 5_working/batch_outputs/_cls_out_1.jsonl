@@ -1,0 +1,30 @@
+{"idx": 30, "name": "North Reading Transportation", "verdict": "private_contractor", "confidence": 0.95, "reason": "NRT Bus Inc, private MA school bus operator"}
+{"idx": 31, "name": "Johnson School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private school bus service"}
+{"idx": 32, "name": "Eastern Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MA bus company, corporate suffix"}
+{"idx": 33, "name": "A J Myers & Sons Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned PA school bus contractor since 1950"}
+{"idx": 34, "name": "Riteway Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Go Riteway Transportation, independent WI operator"}
+{"idx": 35, "name": "Birnie Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NY school bus service, Inc"}
+{"idx": 36, "name": "Transportation Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "KCK Schools district transportation department"}
+{"idx": 37, "name": "Monark Student Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private PA student transportation corporation"}
+{"idx": 38, "name": "Consolidated School Dist 158", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public IL school district"}
+{"idx": 39, "name": "School Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "MJUSD district transportation, in-house"}
+{"idx": 40, "name": "Old School Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC, likely small operator"}
+{"idx": 41, "name": "Palmer Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Independent MN school bus contractor"}
+{"idx": 42, "name": "Dean Transportation", "verdict": "private_contractor", "confidence": 0.95, "reason": "Independent MI special-needs and school operator"}
+{"idx": 43, "name": "Minnesota Coaches Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private MN coach/school bus operator, Inc"}
+{"idx": 44, "name": "Dee Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MA school bus service, Inc"}
+{"idx": 45, "name": "Community Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private OH school bus service, Inc"}
+{"idx": 46, "name": "Arizona Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales center, not operator"}
+{"idx": 47, "name": "Fullington Auto Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned PA bus company since 1908"}
+{"idx": 48, "name": "Butler's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned NH school bus service"}
+{"idx": 49, "name": "Trans Tech Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Bus manufacturer/upfitter, not operator"}
+{"idx": 50, "name": "Bus Shop", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous name, possibly repair shop"}
+{"idx": 51, "name": "Ride-Away Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "MobilityWorks wheelchair vehicle dealer"}
+{"idx": 52, "name": "Wheelchair Getaways", "verdict": "not_transport", "confidence": 0.9, "reason": "Wheelchair van rental, not school transport"}
+{"idx": 53, "name": "Roberts Hawaii", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private HI tour and school bus operator"}
+{"idx": 54, "name": "Ryder Student Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Possibly Ryder Inc subsidiary, non-independent strategic"}
+{"idx": 55, "name": "Rohrer Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Independent PA school bus operator"}
+{"idx": 56, "name": "Petermann", "verdict": "private_contractor", "confidence": 0.7, "reason": "Petermann brand; historically National Express owned"}
+{"idx": 57, "name": "Safeway Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MI special-needs transport operator"}
+{"idx": 58, "name": "Taylor Motors Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Taylor Bus, private school bus operator"}
+{"idx": 59, "name": "School Services & Leasing", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private MA school transport/leasing operator"}

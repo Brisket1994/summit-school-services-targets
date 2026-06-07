@@ -1,0 +1,30 @@
+{"idx": 6510, "name": "Confer's Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name transportation company"}
+{"idx": 6511, "name": "Carrier Transport Svc Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc transport service, special needs"}
+{"idx": 6512, "name": "Wilkerson Auto & Mobility Sls", "verdict": "not_transport", "confidence": 0.8, "reason": "Auto/mobility sales business"}
+{"idx": 6513, "name": "West Grand School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation dept, wgsd.us"}
+{"idx": 6514, "name": "Herman-Norcross Cmnty Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus dept"}
+{"idx": 6515, "name": "Lovato School Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus company"}
+{"idx": 6516, "name": "Dickenson County BD Of Ed", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County Board of Education"}
+{"idx": 6517, "name": "Laroyal Limousine Co", "verdict": "not_transport", "confidence": 0.65, "reason": "Limousine company, likely not school"}
+{"idx": 6518, "name": "My Concierge", "verdict": "not_transport", "confidence": 0.75, "reason": "Concierge service, not transport"}
+{"idx": 6519, "name": "Dean Janitorial Svc", "verdict": "not_transport", "confidence": 0.95, "reason": "Janitorial service"}
+{"idx": 6520, "name": "Sadies Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name transportation service"}
+{"idx": 6521, "name": "H2go", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, special needs flag"}
+{"idx": 6522, "name": "R Budd Charles Sr", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear business"}
+{"idx": 6523, "name": "Royal Medical Transportation", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not school"}
+{"idx": 6524, "name": "Rapha Care Non Emergency", "verdict": "not_transport", "confidence": 0.8, "reason": "Non-emergency medical transport"}
+{"idx": 6525, "name": "Clinic Cab Inc", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical cab service"}
+{"idx": 6526, "name": "Jacoby", "verdict": "private_contractor", "confidence": 0.8, "reason": "Jacoby Transportation, school flag"}
+{"idx": 6527, "name": "Goldendale Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "District bus garage facility"}
+{"idx": 6528, "name": "Fun To Go Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, special needs flag"}
+{"idx": 6529, "name": "Ecco School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation contractor"}
+{"idx": 6530, "name": "Keshequa Central Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school transportation department"}
+{"idx": 6531, "name": "Y Q Limousine", "verdict": "not_transport", "confidence": 0.6, "reason": "Limousine, likely not school"}
+{"idx": 6532, "name": "Upward Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC transportation, special needs"}
+{"idx": 6533, "name": "Agritec International LTD", "verdict": "not_transport", "confidence": 0.85, "reason": "Agricultural tech company"}
+{"idx": 6534, "name": "City-Glendora-Bus Imprvmt Dist", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City business improvement district"}
+{"idx": 6535, "name": "Southern CALIFORNIA Bus Advsrs", "verdict": "not_transport", "confidence": 0.7, "reason": "Business advisors, not transport"}
+{"idx": 6536, "name": "Syds Kyds Christian Family", "verdict": "not_transport", "confidence": 0.8, "reason": "Christian daycare/family service"}
+{"idx": 6537, "name": "Wheelchair Ambulette", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical ambulette service"}
+{"idx": 6538, "name": "Renee's Helping Hands LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Care/helping hands service"}
+{"idx": 6539, "name": "Davis School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus barn facility"}

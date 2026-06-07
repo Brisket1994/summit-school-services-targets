@@ -1,0 +1,30 @@
+{"idx": 5550, "name": "JB T Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special-needs transport"}
+{"idx": 5551, "name": "Kidzjet", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private kids transport service"}
+{"idx": 5552, "name": "Kinzy Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine, may do special-needs transport"}
+{"idx": 5553, "name": "Rose Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine, possible special-needs"}
+{"idx": 5554, "name": "Taylor Creative Inc Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name, unclear business"}
+{"idx": 5555, "name": "Travel Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo, possible special-needs"}
+{"idx": 5556, "name": "American Access Rental Vans", "verdict": "not_transport", "confidence": 0.6, "reason": "Van rental, not contractor"}
+{"idx": 5557, "name": "Assisted Non Emergency Trnsprt", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT, possible special-needs transport"}
+{"idx": 5558, "name": "Stat EMS", "verdict": "not_transport", "confidence": 0.7, "reason": "EMS/ambulance, not student transport"}
+{"idx": 5559, "name": "We Drive U", "verdict": "private_contractor", "confidence": 0.5, "reason": "Driving service, possibly special-needs"}
+{"idx": 5560, "name": "Welch Distributing", "verdict": "not_transport", "confidence": 0.7, "reason": "Distribution company, not transport"}
+{"idx": 5561, "name": "Twlight Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo, possible special-needs"}
+{"idx": 5562, "name": "Admired Transportation Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service"}
+{"idx": 5563, "name": "Care Van Transportation Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT/care van service"}
+{"idx": 5564, "name": "Summit Mobility", "verdict": "private_contractor", "confidence": 0.6, "reason": "Mobility/special-needs transport"}
+{"idx": 5565, "name": "Red Light Management", "verdict": "not_transport", "confidence": 0.7, "reason": "Management firm, not transport"}
+{"idx": 5566, "name": "Blake Williams Bus Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus transportation"}
+{"idx": 5567, "name": "Ryno School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation LLC"}
+{"idx": 5568, "name": "VIP Medical Transportation LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "NEMT medical transport"}
+{"idx": 5569, "name": "After Dark Limousine Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo, unlikely student transport"}
+{"idx": 5570, "name": "Divine Solar LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "Solar company, not transport"}
+{"idx": 5571, "name": "B & B Busing-Just For Kids", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school busing for kids"}
+{"idx": 5572, "name": "Blue Blazes Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name, unclear business"}
+{"idx": 5573, "name": "Paradise Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service"}
+{"idx": 5574, "name": "A's Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport LLC"}
+{"idx": 5575, "name": "Anson County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district garage"}
+{"idx": 5576, "name": "Churchill Area Regl Transit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Regional public transit agency"}
+{"idx": 5577, "name": "Access By Skip", "verdict": "private_contractor", "confidence": 0.45, "reason": "Possible accessible transport service"}
+{"idx": 5578, "name": "Access Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private accessible transport"}
+{"idx": 5579, "name": "Five G Svc LLC", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear business"}

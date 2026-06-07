@@ -1,0 +1,30 @@
+{"idx": 5400, "name": "Personal Touch Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs transport"}
+{"idx": 5401, "name": "Semax Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 5402, "name": "Sunset Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs transport"}
+{"idx": 5403, "name": "Comfort Zone", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, business unclear"}
+{"idx": 5404, "name": "Harvest Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport company, special-needs flagged"}
+{"idx": 5405, "name": "MBS Medical Transportation", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical/NEMT, not school transport"}
+{"idx": 5406, "name": "Executive Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, mostly executive transport"}
+{"idx": 5407, "name": "Starborn Logistics LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Logistics name, unclear if student transport"}
+{"idx": 5408, "name": "School District Of Lacrosse", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district, not acquirable"}
+{"idx": 5409, "name": "A & V Reality Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, special-needs flagged"}
+{"idx": 5410, "name": "Airport Limo Inc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Airport limo, primarily not school transport"}
+{"idx": 5411, "name": "Allstar Limousine Of Florida", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo service, possible special-needs"}
+{"idx": 5412, "name": "Courtesy Medical Svc", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical service, NEMT not school"}
+{"idx": 5413, "name": "Hyc Services", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 5414, "name": "Inter S Inc Unlimited Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, special-needs flagged"}
+{"idx": 5415, "name": "Van Rentals Florida", "verdict": "not_transport", "confidence": 0.7, "reason": "Van rental, not contractor operator"}
+{"idx": 5416, "name": "Yellow Cab Priority Wheelchar", "verdict": "private_contractor", "confidence": 0.5, "reason": "Cab/wheelchair service, possible special-needs"}
+{"idx": 5417, "name": "Call A Ride", "verdict": "private_contractor", "confidence": 0.5, "reason": "Ride service, possible special-needs transport"}
+{"idx": 5418, "name": "Fort Wayne Comm Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation department"}
+{"idx": 5419, "name": "Carolina Charter Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Charter school transportation, likely in-house"}
+{"idx": 5420, "name": "Personal Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possible special-needs"}
+{"idx": 5421, "name": "Bird Bus Sales", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales, not operator"}
+{"idx": 5422, "name": "Veterans Transportation Mgmt", "verdict": "not_transport", "confidence": 0.7, "reason": "Veterans medical transport, not school"}
+{"idx": 5423, "name": "Classy Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possible special-needs"}
+{"idx": 5424, "name": "EMT Emergency Med Training", "verdict": "not_transport", "confidence": 0.9, "reason": "EMT training, not transport operator"}
+{"idx": 5425, "name": "Handi Call", "verdict": "private_contractor", "confidence": 0.55, "reason": "Disability transport service, possible special-needs"}
+{"idx": 5426, "name": "Mariana Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possible special-needs"}
+{"idx": 5427, "name": "Transaction Corporate Shuttles", "verdict": "private_contractor", "confidence": 0.5, "reason": "Corporate shuttles, school flagged but unlikely focus"}
+{"idx": 5428, "name": "John R Lepley & Sons", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name PA school bus contractor"}
+{"idx": 5429, "name": "Hoverround Corp", "verdict": "not_transport", "confidence": 0.85, "reason": "Mobility scooter company, not transport operator"}

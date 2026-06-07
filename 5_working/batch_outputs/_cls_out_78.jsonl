@@ -1,0 +1,30 @@
+{"idx": 2340, "name": "Mineral Wells Isd Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 2341, "name": "Ellsworth Community Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "K12 district bus garage"}
+{"idx": 2342, "name": "Newaygo Public School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus garage"}
+{"idx": 2343, "name": "Riverton Senior Citizens Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Senior citizens center, not transport"}
+{"idx": 2344, "name": "CEO At Businesswise Family Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Business consulting, not student transport"}
+{"idx": 2345, "name": "Magic School Bus TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transport operator"}
+{"idx": 2346, "name": "Union Transportation-Training", "verdict": "unsure", "confidence": 0.5, "reason": "Possibly training company, unclear"}
+{"idx": 2347, "name": "Uptown Columbus Bus Imprvmt", "verdict": "not_transport", "confidence": 0.8, "reason": "Business improvement district, not transport"}
+{"idx": 2348, "name": "Indiana State Sch Bus Drivers", "verdict": "not_transport", "confidence": 0.9, "reason": "Driver association, not operator"}
+{"idx": 2349, "name": "Cozy Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company name"}
+{"idx": 2350, "name": "A & R Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC bus service"}
+{"idx": 2351, "name": "Joseph W-Mary C Wood Sch Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school bus contractor"}
+{"idx": 2352, "name": "Monroe Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2353, "name": "Dixon Public Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus garage"}
+{"idx": 2354, "name": "Valley Park School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school bus contractor"}
+{"idx": 2355, "name": "Surry County Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation department"}
+{"idx": 2356, "name": "Chittenango Central Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district"}
+{"idx": 2357, "name": "Dovetail Group Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear entity"}
+{"idx": 2358, "name": "Nightshade Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, residential address"}
+{"idx": 2359, "name": "Northern Adirondack Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Likely district bus garage"}
+{"idx": 2360, "name": "Uruguayan American Bus Council", "verdict": "not_transport", "confidence": 0.85, "reason": "Business council, not transport"}
+{"idx": 2361, "name": "Liberty Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc bus contractor"}
+{"idx": 2362, "name": "Central VA Small Bus Devmnt", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center"}
+{"idx": 2363, "name": "Sa Technologies Inc Which", "verdict": "not_transport", "confidence": 0.8, "reason": "Tech company, not transport"}
+{"idx": 2364, "name": "NYC Schoolbus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school bus operator"}
+{"idx": 2365, "name": "Berlin Central School-Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district bus garage"}
+{"idx": 2366, "name": "Elite Truck & Bus Ctr", "verdict": "not_transport", "confidence": 0.8, "reason": "Truck/bus service center, not operator"}
+{"idx": 2367, "name": "Emmett Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district"}
+{"idx": 2368, "name": "US D 309 Transportation Bldg", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD 309 district transportation"}
+{"idx": 2369, "name": "Queen City Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company"}

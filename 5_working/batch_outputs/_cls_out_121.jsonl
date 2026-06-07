@@ -1,0 +1,30 @@
+{"idx": 3630, "name": "White Plains Bus Co & Suburban", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Co name, private operator"}
+{"idx": 3631, "name": "Decatur County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transportation department"}
+{"idx": 3632, "name": "Gilmer County Sch Trnsprtn Ofc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation office"}
+{"idx": 3633, "name": "Schools-Public Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public schools transportation department"}
+{"idx": 3634, "name": "Barber County North Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "USD254 district bus barn"}
+{"idx": 3635, "name": "Eureka Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus barn, eurekausd.org"}
+{"idx": 3636, "name": "Ellsworth School Dept Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School department bus garage"}
+{"idx": 3637, "name": "Mesick Consolidated School Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Consolidated school district bus"}
+{"idx": 3638, "name": "Westran School Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 3639, "name": "Sheppard Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family name, private bus operator since 1951"}
+{"idx": 3640, "name": "JD Padilla School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named LLC school bus contractor"}
+{"idx": 3641, "name": "Casebook PBC Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Casebook PBC is software/tech company"}
+{"idx": 3642, "name": "Muccio School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named LLC school transportation"}
+{"idx": 3643, "name": "Myers Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name transportation company"}
+{"idx": 3644, "name": "Lampasas Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD district transportation"}
+{"idx": 3645, "name": "Weston Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Likely private transport service"}
+{"idx": 3646, "name": "Mountain View-Whisman Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district itself"}
+{"idx": 3647, "name": "Cumberland County Sch Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus garage"}
+{"idx": 3648, "name": "Crown Limo & Sedan Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo/sedan service, marginal student transport"}
+{"idx": 3649, "name": "A Class Limosenes", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, weak transport fit"}
+{"idx": 3650, "name": "Amethyst School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service"}
+{"idx": 3651, "name": "Antelope Valley Sch Bus Trnst", "verdict": "private_contractor", "confidence": 0.8, "reason": "School bus transit operator"}
+{"idx": 3652, "name": "Drivers Local LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic LLC name, unclear operations"}
+{"idx": 3653, "name": "Edison Truck & Bus Drivin", "verdict": "not_transport", "confidence": 0.75, "reason": "Truck and bus driving school"}
+{"idx": 3654, "name": "Fujitsu Bus Comm Systems Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Business communications systems, not transport"}
+{"idx": 3655, "name": "Mt Rubidoux Bus Ctr LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Bus center, unclear purpose"}
+{"idx": 3656, "name": "Rancbo Vista Bus Resources", "verdict": "unsure", "confidence": 0.5, "reason": "Bus resources, unclear operations"}
+{"idx": 3657, "name": "Sr Bus Affairs Mgr", "verdict": "not_transport", "confidence": 0.8, "reason": "Business affairs manager, not transport"}
+{"idx": 3658, "name": "Transportation-Our Children", "verdict": "unsure", "confidence": 0.5, "reason": "Possibly nonprofit transport program"}
+{"idx": 3659, "name": "Jed Wheelchair Van Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Wheelchair van special-needs transport"}

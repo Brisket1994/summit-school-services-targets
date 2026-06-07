@@ -1,0 +1,30 @@
+{"idx": 2640, "name": "BH Goodman Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service, family name"}
+{"idx": 2641, "name": "Cleveland School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District k12.ms.us website, in-house transport"}
+{"idx": 2642, "name": "Sallisaw Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 2643, "name": "Gallant Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo company, special needs contractor possible"}
+{"idx": 2644, "name": "M G's School Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transport"}
+{"idx": 2645, "name": "Saginaw Township Community Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Township community schools, public district"}
+{"idx": 2646, "name": "BMT Management LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC, special needs transport"}
+{"idx": 2647, "name": "Braga Transportation Cozy Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private family-named bus/tour operator"}
+{"idx": 2648, "name": "Martinsville City Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City public schools, in-house"}
+{"idx": 2649, "name": "Rodgers Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc, family name bus operator"}
+{"idx": 2650, "name": "Marion Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central School District, public"}
+{"idx": 2651, "name": "Bryan Kamae School Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private school transport"}
+{"idx": 2652, "name": "Affordable Fantasy Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, possibly special needs"}
+{"idx": 2653, "name": "Wilson Transport", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named private transport"}
+{"idx": 2654, "name": "Jencarli Transportation Systs", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation systems company"}
+{"idx": 2655, "name": "Kam Enterprises", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private enterprise, school transport flag"}
+{"idx": 2656, "name": "KIKI School Bus Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private Corp school bus transportation"}
+{"idx": 2657, "name": "Bubble Bus Franchise LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Bubble Bus is mobile entertainment franchise"}
+{"idx": 2658, "name": "Riverview Gardens Trnsprtn Ofc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District k12.mo.us, in-house transport office"}
+{"idx": 2659, "name": "Cry Quick Bus Machines R Y", "verdict": "unsure", "confidence": 0.4, "reason": "Garbled name, unclear entity"}
+{"idx": 2660, "name": "Transportation Buildings", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Patrick Henry schools garage facility"}
+{"idx": 2661, "name": "Bridgeport Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation, public district"}
+{"idx": 2662, "name": "Lansing Unified Sch Dist 469", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified School District, public"}
+{"idx": 2663, "name": "Hinckley-Finlayson Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District k12.mn.us, in-house transport"}
+{"idx": 2664, "name": "Nickerson South Hutchinson", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "USD309 KS district transport"}
+{"idx": 2665, "name": "SC Defiance Cty Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Defiance city schools bus garage"}
+{"idx": 2666, "name": "Lepley Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private Inc bus service"}
+{"idx": 2667, "name": "M10 Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc bus operator"}
+{"idx": 2668, "name": "Heritage Rides Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc special needs transport"}
+{"idx": 2669, "name": "Special Needs Chicago", "verdict": "unsure", "confidence": 0.45, "reason": ".org suggests nonprofit, possibly not transport"}

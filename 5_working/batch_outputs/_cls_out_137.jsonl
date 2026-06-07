@@ -1,0 +1,30 @@
+{"idx": 4110, "name": "Charles Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, special needs flagged"}
+{"idx": 4111, "name": "North Star Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport name, special needs"}
+{"idx": 4112, "name": "On Time Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo Inc, special needs"}
+{"idx": 4113, "name": "Rainbow Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service, special needs"}
+{"idx": 4114, "name": "Security Care Trnsprtn Co", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport Co, special needs"}
+{"idx": 4115, "name": "Shoshoni Public Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4116, "name": "Arab Public School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus shop"}
+{"idx": 4117, "name": "Bentonville Transportation Dpt", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation dept"}
+{"idx": 4118, "name": "Verida Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Verida NEMT provider, mostly medical"}
+{"idx": 4119, "name": "Comfort Coach Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private coach transport"}
+{"idx": 4120, "name": "Colorado Association-Sch Bus", "verdict": "not_transport", "confidence": 0.9, "reason": "Trade association, not operator"}
+{"idx": 4121, "name": "Withers Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private family-name transport"}
+{"idx": 4122, "name": "New England Shuttle", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private shuttle, special needs"}
+{"idx": 4123, "name": "Alaska Handi-Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private handicap transport"}
+{"idx": 4124, "name": "Handicapped Driver Svc-AL LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "MobilityWorks-affiliated, likely strategic owner"}
+{"idx": 4125, "name": "Essential Rehab Plus", "verdict": "not_transport", "confidence": 0.6, "reason": "Rehab service, likely medical"}
+{"idx": 4126, "name": "Priester Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family bus Inc, school flag"}
+{"idx": 4127, "name": "Leland F Harris Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family name Inc, school flag"}
+{"idx": 4128, "name": "Carroll Co Senior & Family Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior/family services nonprofit"}
+{"idx": 4129, "name": "Canby Public Schls Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school bus garage"}
+{"idx": 4130, "name": "Licking Limosne & Limo-Buses", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo/bus operator"}
+{"idx": 4131, "name": "Pajaro Valley Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 4132, "name": "David Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, special needs"}
+{"idx": 4133, "name": "Early Riser Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, special needs"}
+{"idx": 4134, "name": "Jilson", "verdict": "unsure", "confidence": 0.4, "reason": "Name alone insufficient"}
+{"idx": 4135, "name": "MJS Medical Transportation", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, not school focused"}
+{"idx": 4136, "name": "Perfect Will Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC transport, special needs"}
+{"idx": 4137, "name": "Rehab Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical rehab transport"}
+{"idx": 4138, "name": "Safelift Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, special needs"}
+{"idx": 4139, "name": "Transport Systems", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic private transport, special needs"}

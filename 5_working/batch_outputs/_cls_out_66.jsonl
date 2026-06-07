@@ -1,0 +1,30 @@
+{"idx": 1980, "name": "Domino Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company, Inc suffix"}
+{"idx": 1981, "name": "Private School Transit LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transit LLC for schools"}
+{"idx": 1982, "name": "Sijz Transport Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport corp"}
+{"idx": 1983, "name": "Hoglund Business Co Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Generic business name, Hoglund bus dealer possibly"}
+{"idx": 1984, "name": "A & B Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service"}
+{"idx": 1985, "name": "Wide Area Trnsprtn SVC Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation service Inc"}
+{"idx": 1986, "name": "Ribblett School Bus Line", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family school bus line"}
+{"idx": 1987, "name": "East Washington School Corp", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School corp, district domain k12.in.us"}
+{"idx": 1988, "name": "New Bus Facility-Maytav Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 1989, "name": "Imperial County Local Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "County local transit authority"}
+{"idx": 1990, "name": "MCF Crprtion Which Will Do Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Bridge Housing, not transport"}
+{"idx": 1991, "name": "Darin Ingels ND PC Which Will", "verdict": "not_transport", "confidence": 0.9, "reason": "Naturopathic doctor practice"}
+{"idx": 1992, "name": "Geneseo Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Central school district"}
+{"idx": 1993, "name": "Bright Futures School TRNSPRTN", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation"}
+{"idx": 1994, "name": "Magic Van School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport LLC"}
+{"idx": 1995, "name": "Rainbow School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport LLC"}
+{"idx": 1996, "name": "Valentin's School TRNSPRTN Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport Inc"}
+{"idx": 1997, "name": "Mariner's Anchor Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service"}
+{"idx": 1998, "name": "Morgan County Sch Pupil", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school pupil transport, in-house"}
+{"idx": 1999, "name": "Prscoll Truck Ctr Doing Bus As", "verdict": "not_transport", "confidence": 0.7, "reason": "Truck center, not school transport"}
+{"idx": 2000, "name": "Leake Academy Bus #8 Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Single-bus operator for academy"}
+{"idx": 2001, "name": "Triad Inc Amer Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 2002, "name": "Duncan Sherman School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus Inc"}
+{"idx": 2003, "name": "K-D Ent Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic enterprises, unclear"}
+{"idx": 2004, "name": "Bruhn Logan Sch Bus No 2 LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family school bus LLC"}
+{"idx": 2005, "name": "Oneida City Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City school district transportation"}
+{"idx": 2006, "name": "Global Resource Mgmt Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Generic management company"}
+{"idx": 2007, "name": "Colleton County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation"}
+{"idx": 2008, "name": "School Bus Drive 50 LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus LLC"}
+{"idx": 2009, "name": "Trans4kids Shuttle Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private kids shuttle Inc"}

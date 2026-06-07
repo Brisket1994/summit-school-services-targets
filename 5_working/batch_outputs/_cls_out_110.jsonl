@@ -1,0 +1,30 @@
+{"idx": 3300, "name": "Jenkins School Buses", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus operator"}
+{"idx": 3301, "name": "Columbus Public Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transport, USD493"}
+{"idx": 3302, "name": "Davis Truck & Bus Of Mi LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC bus operator"}
+{"idx": 3303, "name": "Triomphe Midtown Bus Office", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous bus office name"}
+{"idx": 3304, "name": "Clock Mobility", "verdict": "not_transport", "confidence": 0.85, "reason": "Mobility equipment dealer, not operator"}
+{"idx": 3305, "name": "Bally", "verdict": "not_transport", "confidence": 0.7, "reason": "Ballytech, not transport operator"}
+{"idx": 3306, "name": "Brigantinetaxi & Limo Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private taxi/limo, special-needs transport"}
+{"idx": 3307, "name": "Geneseo Central Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district bus garage"}
+{"idx": 3308, "name": "Perkins Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation"}
+{"idx": 3309, "name": "A Plus Care Non Emergency Med", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT operator, possibly special-needs"}
+{"idx": 3310, "name": "Clayton Borough Of-Bus Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Borough government bus office"}
+{"idx": 3311, "name": "Xenia Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation"}
+{"idx": 3312, "name": "At Your Svc Town Cars Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private livery, possibly student transport"}
+{"idx": 3313, "name": "Uzurv Holdings Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Rideshare tech platform, not operator"}
+{"idx": 3314, "name": "Secure Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo, special-needs transport"}
+{"idx": 3315, "name": "Community Connections Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport company"}
+{"idx": 3316, "name": "Cascade Cabulance", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private NEMT/cabulance operator"}
+{"idx": 3317, "name": "Franklin Monroe Local Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Local school district"}
+{"idx": 3318, "name": "Bridgeport High Sch-Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "High school bus shop"}
+{"idx": 3319, "name": "Hillsboro Isd Maintainment", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "ISD maintenance department"}
+{"idx": 3320, "name": "Valley Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service company"}
+{"idx": 3321, "name": "All City Transport LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport operator"}
+{"idx": 3322, "name": "Cowan Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district transport"}
+{"idx": 3323, "name": "Scottsdale Preparatory Academy", "verdict": "not_transport", "confidence": 0.95, "reason": "Charter school, not transport"}
+{"idx": 3324, "name": "Dca Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC transportation operator"}
+{"idx": 3325, "name": "Paw Paw Public Schl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transport"}
+{"idx": 3326, "name": "Bruk Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school transport"}
+{"idx": 3327, "name": "Care A Van Transit", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transit, special-needs operator"}
+{"idx": 3328, "name": "Tracy Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transport"}
+{"idx": 3329, "name": "Woods Logistics LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, possibly special-needs transport"}

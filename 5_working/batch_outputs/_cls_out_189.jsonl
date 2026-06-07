@@ -1,0 +1,30 @@
+{"idx": 5670, "name": "Pine Tree Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 5671, "name": "Special Class Limo Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "private limo service, special needs"}
+{"idx": 5672, "name": "Star Limo", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limo, special needs flag"}
+{"idx": 5673, "name": "Taylor Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "private transport, special needs flag"}
+{"idx": 5674, "name": "Travel Jai Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5675, "name": "Upscale Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5676, "name": "International Bus Initiative", "verdict": "unsure", "confidence": 0.5, "reason": "unclear initiative, possibly nonprofit"}
+{"idx": 5677, "name": "Big Foot Recreation District", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "public recreation district"}
+{"idx": 5678, "name": "Hancock County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "county school bus garage"}
+{"idx": 5679, "name": "Atlantis Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5680, "name": "Elite Fleet Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5681, "name": "Georgia's Loving Care Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "private transport, special needs"}
+{"idx": 5682, "name": "Metro North Logistics LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "private LLC, special needs flag"}
+{"idx": 5683, "name": "Newstar Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5684, "name": "Nurse Medical Svc LLC", "verdict": "not_transport", "confidence": 0.75, "reason": "medical service, not transport"}
+{"idx": 5685, "name": "Red Stone Mobility", "verdict": "private_contractor", "confidence": 0.6, "reason": "private mobility service"}
+{"idx": 5686, "name": "SNS Andrew Express LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "private LLC, special needs flag"}
+{"idx": 5687, "name": "Compassion Transport Svc LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "private LLC transport service"}
+{"idx": 5688, "name": "Emmetsburg Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "district bus barn facility"}
+{"idx": 5689, "name": "William G Becker & Sons Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "family-owned Inc, school transport"}
+{"idx": 5690, "name": "Henrico County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "public school district"}
+{"idx": 5691, "name": "Palm Springs Bus Ctr", "verdict": "unsure", "confidence": 0.5, "reason": "ambiguous bus center"}
+{"idx": 5692, "name": "Buck Horn Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "private limousine service"}
+{"idx": 5693, "name": "Care Cars", "verdict": "private_contractor", "confidence": 0.6, "reason": "private transport, special needs"}
+{"idx": 5694, "name": "Jefferson County Transport", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "county school district transport"}
+{"idx": 5695, "name": "Dynasty Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5696, "name": "Hubbard School Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "school district bus barn"}
+{"idx": 5697, "name": "Sundown Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "private limousine service"}
+{"idx": 5698, "name": "Wisdom School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "private LLC school transport"}
+{"idx": 5699, "name": "Dinar School Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "private school transport company"}

@@ -1,0 +1,25 @@
+{"idx": 275, "name": "Creatus Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA bus, unclear operator"}
+{"idx": 276, "name": "New England Transit Sales Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus sales dealership, not operator"}
+{"idx": 277, "name": "B H Goodman Bus SE", "verdict": "private_contractor", "confidence": 0.85, "reason": "Houston charter/school bus operator"}
+{"idx": 278, "name": "Marks Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name bus service, NJ"}
+{"idx": 279, "name": "National Afrcn Amer Bus Allnce", "verdict": "not_transport", "confidence": 0.9, "reason": "Business alliance/association, not operator"}
+{"idx": 280, "name": "San Fernando/Osborne Bus Sta", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "LA Metro bus station, public transit"}
+{"idx": 281, "name": "Garden City Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 282, "name": "Global Transportation Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private NY transportation Inc"}
+{"idx": 283, "name": "Richmond Burton Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Richmond-Burton High School district"}
+{"idx": 284, "name": "Germantown Friends Sch", "verdict": "not_transport", "confidence": 0.98, "reason": "Private Quaker school"}
+{"idx": 285, "name": "Forcenet Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA bus, unclear"}
+{"idx": 286, "name": "Transportation Authority Inc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "SF County Transportation Authority"}
+{"idx": 287, "name": "Lake Dallas Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Lake Dallas ISD transportation"}
+{"idx": 288, "name": "Tadpole Productions Inc Which", "verdict": "not_transport", "confidence": 0.8, "reason": "Production company, not transport"}
+{"idx": 289, "name": "Madison Area Bus Advocates Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Transit advocacy nonprofit"}
+{"idx": 290, "name": "Get On Bus-The-Office", "verdict": "not_transport", "confidence": 0.8, "reason": "Field trip nonprofit program"}
+{"idx": 291, "name": "Pistol Pete Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, unclear operator"}
+{"idx": 292, "name": "Star Trans Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Indiana private bus operator"}
+{"idx": 293, "name": "Waterworks Technologies Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Water technology company"}
+{"idx": 294, "name": "E Auto & Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Auto/bus dealership, not operator"}
+{"idx": 295, "name": "Johnson Bus Serivce LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Maryland family-name bus service LLC"}
+{"idx": 296, "name": "Upside-Downs Which Will Do Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Down syndrome nonprofit organization"}
+{"idx": 297, "name": "Das USA Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.45, "reason": "Generic Inc DBA bus, unclear"}
+{"idx": 298, "name": "North Little Rock Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 299, "name": "Clear Sky Ent Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA, unclear operator"}

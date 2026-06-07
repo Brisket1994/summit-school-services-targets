@@ -1,0 +1,30 @@
+{"idx": 1410, "name": "District 56 Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation department"}
+{"idx": 1411, "name": "Dine Bidziil PBC Which Will Do", "verdict": "private_contractor", "confidence": 0.6, "reason": "PBC corporate entity in bus listing"}
+{"idx": 1412, "name": "LSC Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc corporate bus entity"}
+{"idx": 1413, "name": "Solution First Inc Which Will", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc corporate bus entity"}
+{"idx": 1414, "name": "Warmth Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc corporate bus entity"}
+{"idx": 1415, "name": "G & D Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service company"}
+{"idx": 1416, "name": "National Afrcn Amer Bus Allnce", "verdict": "not_transport", "confidence": 0.85, "reason": "Industry association, not operator"}
+{"idx": 1417, "name": "Seymour Community Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district bus garage"}
+{"idx": 1418, "name": "Thomas Buses Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Inc"}
+{"idx": 1419, "name": "Chippewa Hills School Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus garage"}
+{"idx": 1420, "name": "Bismarck Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 1421, "name": "999 Industrial Highway LLC", "verdict": "unsure", "confidence": 0.4, "reason": "LLC name not clearly transport"}
+{"idx": 1422, "name": "San Fernando/Osborne Bus Sta", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Metro.net transit bus station"}
+{"idx": 1423, "name": "Semret School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school transportation operator"}
+{"idx": 1424, "name": "Plano Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage Plano88.org"}
+{"idx": 1425, "name": "K W R L Transportation Co-Op", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Districts transportation cooperative"}
+{"idx": 1426, "name": "Get On The School Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private operator, residential address"}
+{"idx": 1427, "name": "MO Flo Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc corporate bus entity"}
+{"idx": 1428, "name": "Massini Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus company Inc"}
+{"idx": 1429, "name": "Jackson School Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 1430, "name": "Trinity Truck & Bus Repair LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "Repair shop, not transport operator"}
+{"idx": 1431, "name": "Eyes On Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc corporate bus entity"}
+{"idx": 1432, "name": "Fallbrook Union Elementary Sch", "verdict": "not_transport", "confidence": 0.9, "reason": "School district itself"}
+{"idx": 1433, "name": "Fuesd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Fallbrook district transportation dept"}
+{"idx": 1434, "name": "Gatsby Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc corporate bus entity"}
+{"idx": 1435, "name": "APS San Luis Bus Ofc Sn Luis", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "APS school district bus office"}
+{"idx": 1436, "name": "Wilton Sta", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous abbreviation at school address"}
+{"idx": 1437, "name": "Mt Zion Cmnty Unit Sch Dist #3", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community unit school district"}
+{"idx": 1438, "name": "Schools-Lebanon-Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 1439, "name": "Garden City Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}

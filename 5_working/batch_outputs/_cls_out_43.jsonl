@@ -1,0 +1,30 @@
+{"idx": 1290, "name": "Lewis County Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school transportation department"}
+{"idx": 1291, "name": "Choices In Community Living", "verdict": "not_transport", "confidence": 0.9, "reason": "Disability services provider, not transport"}
+{"idx": 1292, "name": "Best Coachman Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 1293, "name": "Transportation Association-Sc", "verdict": "not_transport", "confidence": 0.95, "reason": "SCAPT trade association, not operator"}
+{"idx": 1294, "name": "Pawling Central School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1295, "name": "EZ Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus operator"}
+{"idx": 1296, "name": "Adirondack Central Sch Trnsprt", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transportation"}
+{"idx": 1297, "name": "Focus In Chinuck Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Website suggests entertainment, unclear transport"}
+{"idx": 1298, "name": "Greenwood Lake Union Free Schl", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Union Free School district"}
+{"idx": 1299, "name": "Lasalle Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 1300, "name": "P V Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company"}
+{"idx": 1301, "name": "Arlington School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 1302, "name": "Juho Co Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1303, "name": "One Step Beyond Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA, possibly disability services"}
+{"idx": 1304, "name": "Madison County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation"}
+{"idx": 1305, "name": "Freedom II Limousine Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service LLC, possible transport"}
+{"idx": 1306, "name": "APS Tucson Red Rock Bus Ofc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "APS school bus office"}
+{"idx": 1307, "name": "Alleva Corp Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear business"}
+{"idx": 1308, "name": "Bando Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1309, "name": "Bartleby LTD Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1310, "name": "BB Enterprises Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1311, "name": "Chelle Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1312, "name": "Cognition Center PBC Which", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1313, "name": "Etched Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1314, "name": "Honey-Locusts Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1315, "name": "LKM Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1316, "name": "Plaza Center Corp Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1317, "name": "Red Phoenix Corp Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1318, "name": "Roma Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1319, "name": "Willy Nilly Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}

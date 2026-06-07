@@ -1,0 +1,30 @@
+{"idx": 6360, "name": "Russell Independent Schl Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District in-house bus operation"}
+{"idx": 6361, "name": "Bittner Farms", "verdict": "unsure", "confidence": 0.5, "reason": "Farm name, unclear if contractor"}
+{"idx": 6362, "name": "Jwbeard School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school bus Inc"}
+{"idx": 6363, "name": "Battle Lake School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, K12 website"}
+{"idx": 6364, "name": "Isd 361 Facilities & Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 6365, "name": "Lawrence Academy Bus Club-WA", "verdict": "not_transport", "confidence": 0.7, "reason": "Academy club, not contractor"}
+{"idx": 6366, "name": "MCS Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District (Macon County Schools) garage"}
+{"idx": 6367, "name": "Middle Township Bus Grge Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Township district bus garage"}
+{"idx": 6368, "name": "Bloomfield Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District transportation, K12 NM website"}
+{"idx": 6369, "name": "H M Ramirez Bus Co Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named bus company Inc"}
+{"idx": 6370, "name": "North Union Schls", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 6371, "name": "Grove Public Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district bus barn"}
+{"idx": 6372, "name": "Idabel Public Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district bus barn"}
+{"idx": 6373, "name": "Fisher Brothers Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named Inc, likely contractor"}
+{"idx": 6374, "name": "Palmetto Kidz SCHL Shuttle LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school shuttle LLC"}
+{"idx": 6375, "name": "Watertown School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District bus garage, K12 website"}
+{"idx": 6376, "name": "Uintah School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 6377, "name": "Change Finance PBC Will Do Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Finance company, not transport"}
+{"idx": 6378, "name": "Global Maritime-Trnsprtn Sch", "verdict": "not_transport", "confidence": 0.85, "reason": "Maritime training school"}
+{"idx": 6379, "name": "Oaktree International Bus GRP", "verdict": "unsure", "confidence": 0.5, "reason": "Generic business group name"}
+{"idx": 6380, "name": "Paige Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named bus service LLC"}
+{"idx": 6381, "name": "Anchor Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo provider, special-needs flag"}
+{"idx": 6382, "name": "Gentle Heart Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport, special-needs rides"}
+{"idx": 6383, "name": "KVL Transport LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport LLC"}
+{"idx": 6384, "name": "Metcalf Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named bus service"}
+{"idx": 6385, "name": "Ameratrans LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport LLC"}
+{"idx": 6386, "name": "Specialized Transport Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private specialized transport Inc"}
+{"idx": 6387, "name": "Century Small Bus Solutions", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private small bus solutions"}
+{"idx": 6388, "name": "Mineral County Sch Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus garage"}
+{"idx": 6389, "name": "Castle Car Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private car service, special-needs"}

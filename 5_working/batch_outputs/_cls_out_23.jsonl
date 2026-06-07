@@ -1,0 +1,30 @@
+{"idx": 690, "name": "Dougherty County Sch Syst", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school system, public district"}
+{"idx": 691, "name": "Houston County Board-Edu", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County Board of Education, public"}
+{"idx": 692, "name": "Integrity Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private student transportation operator, NJ"}
+{"idx": 693, "name": "John F Kennedy Catholic HS", "verdict": "not_transport", "confidence": 0.98, "reason": "Catholic high school, not transport"}
+{"idx": 694, "name": "Puyallup School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 695, "name": "RTC Access", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "Regional Transit Commission paratransit, public"}
+{"idx": 696, "name": "Lakota Local Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local school district transportation"}
+{"idx": 697, "name": "Hallen School", "verdict": "not_transport", "confidence": 0.95, "reason": "Special education school, not operator"}
+{"idx": 698, "name": "Empire Medi-Van", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical van; possibly NEMT not school"}
+{"idx": 699, "name": "Bethlehem Central Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}
+{"idx": 700, "name": "Access Springfield", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "SMTD public transit paratransit service"}
+{"idx": 701, "name": "Springfield Mass Transit", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public mass transit district"}
+{"idx": 702, "name": "Lapeer Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district in-house transportation"}
+{"idx": 703, "name": "Cisd Student Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Crowley ISD transportation department"}
+{"idx": 704, "name": "Forestville Bus Lot", "verdict": "unsure", "confidence": 0.5, "reason": "Bus lot, likely PG County depot"}
+{"idx": 705, "name": "Prince George County Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "PGCPS county school transportation"}
+{"idx": 706, "name": "Robert's Central Laupahoehoe", "verdict": "private_contractor", "confidence": 0.85, "reason": "Roberts Hawaii school bus contractor"}
+{"idx": 707, "name": "Akron Pub Schools Trans Svc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Akron Public Schools transportation"}
+{"idx": 708, "name": "Southampton Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 709, "name": "Penn-Harris-Madison's Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School corporation transportation department"}
+{"idx": 710, "name": "Carefor Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Brooklyn private school bus company"}
+{"idx": 711, "name": "Cupie Transportation Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Brooklyn private school bus corporation"}
+{"idx": 712, "name": "Mcllwain School Bus Line Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private school bus line"}
+{"idx": 713, "name": "Northstar Body & Equipment Co", "verdict": "not_transport", "confidence": 0.7, "reason": "Bus body/equipment manufacturer, not operator"}
+{"idx": 714, "name": "Jay Medicar Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical/special-needs transport, Chicago"}
+{"idx": 715, "name": "Colonial Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Colonial School District transportation, Delaware"}
+{"idx": 716, "name": "Dufour Tours", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private motorcoach/school operator"}
+{"idx": 717, "name": "Project Mainstream", "verdict": "unsure", "confidence": 0.45, "reason": "Possibly nonprofit special-needs program"}
+{"idx": 718, "name": "Bartholomew Consolidated Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Consolidated school corporation transportation"}
+{"idx": 719, "name": "Blue Bird Coachworks", "verdict": "not_transport", "confidence": 0.95, "reason": "Blue Bird bus manufacturer, not operator"}

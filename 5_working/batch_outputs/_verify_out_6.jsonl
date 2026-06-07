@@ -1,0 +1,25 @@
+{"idx": 150, "name": "United Access", "verdict": "not_transport", "confidence": 0.85, "reason": "BraunAbility mobility equipment dealer, not transit operator"}
+{"idx": 151, "name": "A & A Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, unlikely school bus focused"}
+{"idx": 152, "name": "General Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Generic private transportation company name"}
+{"idx": 153, "name": "Metro County Connect", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Kalamazoo Metro public transit agency"}
+{"idx": 154, "name": "Amb-U-Cab Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "Mercy ambulance medical transport, not school"}
+{"idx": 155, "name": "D & S Community Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Sevita health/disability services provider"}
+{"idx": 156, "name": "SMTS", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Southeast Missouri public transit nonprofit"}
+{"idx": 157, "name": "Mcfarland Dial-A-Ride", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City of McFarland municipal dial-a-ride"}
+{"idx": 158, "name": "Med Shore EMS", "verdict": "not_transport", "confidence": 0.95, "reason": "EMS ambulance service, not student transport"}
+{"idx": 159, "name": "Dean Transportation", "verdict": "private_contractor", "confidence": 0.95, "reason": "Major Michigan private school bus contractor"}
+{"idx": 160, "name": "Palmer Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Minnesota private school bus contractor"}
+{"idx": 161, "name": "Braga Transportation Cozy Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MA bus/coach operator"}
+{"idx": 162, "name": "A & M Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "US Coach Tours affiliated private operator"}
+{"idx": 163, "name": "Harlow's School Bus Svc Inc-Mt", "verdict": "private_contractor", "confidence": 0.97, "reason": "Private Montana school bus contractor Inc"}
+{"idx": 164, "name": "King's Transit", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private PA transit company Inc"}
+{"idx": 165, "name": "JFK Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private California transportation company"}
+{"idx": 166, "name": "South Florida Commuter Svc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public commuter services agency, not school"}
+{"idx": 167, "name": "Duram School Svc L P", "verdict": "private_contractor", "confidence": 0.95, "reason": "Durham School Services, major private contractor"}
+{"idx": 168, "name": "Yucaipa Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private California school bus service"}
+{"idx": 169, "name": "Chicago School Transit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Chicago Public Schools transit department"}
+{"idx": 170, "name": "Surburban Bus Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NY school bus contractor"}
+{"idx": 171, "name": "Beaumont Independent Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Beaumont ISD in-house transportation department"}
+{"idx": 172, "name": "Orange County Pubc Sch-Bus Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Orange County Public Schools bus department"}
+{"idx": 173, "name": "Durham", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Listed under Blue Valley school district website"}
+{"idx": 174, "name": "Meridian Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Meridian Joint School District transportation"}

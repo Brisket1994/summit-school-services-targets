@@ -1,0 +1,30 @@
+{"idx": 5580, "name": "Clark Pleasant Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Clark-Pleasant district transportation dept"}
+{"idx": 5581, "name": "Don's Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Possessive name, private bus service"}
+{"idx": 5582, "name": "Lidgerwood School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District-owned bus garage"}
+{"idx": 5583, "name": "Verde Valley Caregivers Cltn", "verdict": "not_transport", "confidence": 0.9, "reason": "Nonprofit caregiver coalition, not transport"}
+{"idx": 5584, "name": "Ada Transport", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, special needs transport"}
+{"idx": 5585, "name": "Electric School Bus Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc suffix, private school bus"}
+{"idx": 5586, "name": "Eldercare Lake County", "verdict": "not_transport", "confidence": 0.9, "reason": "Eldercare nonprofit, not student transport"}
+{"idx": 5587, "name": "Jasper County Cmnty Unit 1 Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 5588, "name": "Old School Limo Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo company, possibly student transport"}
+{"idx": 5589, "name": "Lake Central Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Lake Central district in-house transport"}
+{"idx": 5590, "name": "Bella Care Columbus M Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear care/bus operator"}
+{"idx": 5591, "name": "Hearts To Go", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely nonmedical care provider"}
+{"idx": 5592, "name": "Carey Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, possibly special needs"}
+{"idx": 5593, "name": "Ontario Local Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage"}
+{"idx": 5594, "name": "Texas Style Limousine A", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 5595, "name": "Famiks Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc transport company"}
+{"idx": 5596, "name": "Steve's School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive Inc, private school bus"}
+{"idx": 5597, "name": "School's Out Party Bus", "verdict": "not_transport", "confidence": 0.9, "reason": "Party bus, not student transport"}
+{"idx": 5598, "name": "KKXX 93.1 Bus Ofc 93.1 Bus Ofc", "verdict": "not_transport", "confidence": 0.95, "reason": "Radio station business office"}
+{"idx": 5599, "name": "H & K School Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transportation company"}
+{"idx": 5600, "name": "Kingsport City Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Kingsport City Schools transportation"}
+{"idx": 5601, "name": "E & M Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Alaska remote enterprise"}
+{"idx": 5602, "name": "Clay County School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus shop"}
+{"idx": 5603, "name": "Esc County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Escambia County Schools transportation"}
+{"idx": 5604, "name": "Body Works One Bus & Truck", "verdict": "not_transport", "confidence": 0.85, "reason": "Auto body shop, not operator"}
+{"idx": 5605, "name": "Aero Technologies Inc Which", "verdict": "not_transport", "confidence": 0.85, "reason": "Tech company, PMB address, not transport"}
+{"idx": 5606, "name": "Annotation Unlimited PBC Which", "verdict": "not_transport", "confidence": 0.9, "reason": "PBC software/data, PMB address"}
+{"idx": 5607, "name": "Bottom Line Software Inc Which", "verdict": "not_transport", "confidence": 0.95, "reason": "Software company, not transport"}
+{"idx": 5608, "name": "Fernando Manuel Medina", "verdict": "unsure", "confidence": 0.4, "reason": "Individual name, unclear business"}
+{"idx": 5609, "name": "Fieldguide Inc Which Will Do", "verdict": "not_transport", "confidence": 0.95, "reason": "Software audit company, not transport"}

@@ -1,0 +1,30 @@
+{"idx": 6030, "name": "Lottery School Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school transportation operator"}
+{"idx": 6031, "name": "Als Limo Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo Inc, special-needs transport"}
+{"idx": 6032, "name": "Cambridge & Tiara", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, no entity suffix"}
+{"idx": 6033, "name": "Distinctive Limo LTD", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo LTD, special-needs transport"}
+{"idx": 6034, "name": "Fla Limousine", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine, special-needs transport"}
+{"idx": 6035, "name": "Garry Risman", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name only, no entity"}
+{"idx": 6036, "name": "Gemini Limo Svc Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private limo service Corp"}
+{"idx": 6037, "name": "Hellenic Limo", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo, special-needs transport"}
+{"idx": 6038, "name": "Metro Plus Limousine", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine, special-needs transport"}
+{"idx": 6039, "name": "Spindrift Limousine Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private limousine Inc, special-needs transport"}
+{"idx": 6040, "name": "RWR Transportation LTD", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation LTD, special-needs"}
+{"idx": 6041, "name": "Take 2 Transport LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport LLC, special-needs"}
+{"idx": 6042, "name": "Voyager Transport Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport service LLC, special-needs"}
+{"idx": 6043, "name": "Bus Station-San Leandro", "verdict": "not_transport", "confidence": 0.7, "reason": "Bus station, not an operator"}
+{"idx": 6044, "name": "Alpha Best Taxi Driving School", "verdict": "not_transport", "confidence": 0.9, "reason": "Driving school, not transport operator"}
+{"idx": 6045, "name": "School Transportation Office", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District transportation office"}
+{"idx": 6046, "name": "Community School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Culver community schools, K12 domain"}
+{"idx": 6047, "name": "West Ottawa Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "West Ottawa Public Schools transportation dept"}
+{"idx": 6048, "name": "BJ Enterprise Limo Svc In", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo service Inc"}
+{"idx": 6049, "name": "Coast To Coast Limousine Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo service, special-needs transport"}
+{"idx": 6050, "name": "E-Z Way Limo", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo, special-needs transport"}
+{"idx": 6051, "name": "El Shaddai Car Limsn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private car/limo, special-needs transport"}
+{"idx": 6052, "name": "Freeda Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private limo service Inc"}
+{"idx": 6053, "name": "Gonzalez & Son Limo Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-owned limo Inc"}
+{"idx": 6054, "name": "July Limo Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo service, special-needs transport"}
+{"idx": 6055, "name": "L & W Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private limousine service Inc"}
+{"idx": 6056, "name": "Limo Brazil Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo Inc, special-needs transport"}
+{"idx": 6057, "name": "Nicolas Limousine Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine service, special-needs"}
+{"idx": 6058, "name": "Regency 2 Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation, special-needs"}
+{"idx": 6059, "name": "St Gropez Limousine", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine, special-needs transport"}

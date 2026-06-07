@@ -1,0 +1,30 @@
+{"idx": 3810, "name": "Stars Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company; special-needs flagged, marginal fit"}
+{"idx": 3811, "name": "Virgin Fish Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Odd name; Avalontrans website suggests transport"}
+{"idx": 3812, "name": "Perry Lecompton Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage facility"}
+{"idx": 3813, "name": "Angel I Sedan & Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Sedan/limo service, marginal"}
+{"idx": 3814, "name": "Wendorf Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service, school flagged"}
+{"idx": 3815, "name": "Mah", "verdict": "unsure", "confidence": 0.3, "reason": "Name too vague to classify"}
+{"idx": 3816, "name": "Obrien Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family-name limo service"}
+{"idx": 3817, "name": "Bertie Ambulance Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not student transport"}
+{"idx": 3818, "name": "A1 Mobile Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, special-needs flagged"}
+{"idx": 3819, "name": "Sonoma Gateway", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name, no website"}
+{"idx": 3820, "name": "Upper Lake School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus garage"}
+{"idx": 3821, "name": "Adorno Mobility", "verdict": "private_contractor", "confidence": 0.5, "reason": "Mobility service, possible NEMT"}
+{"idx": 3822, "name": "Moble Care Inc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Mobility care; likely NEMT not school"}
+{"idx": 3823, "name": "Lenas Bus Mgt & Hsing Con", "verdict": "unsure", "confidence": 0.4, "reason": "Bus management with housing consulting, unclear"}
+{"idx": 3824, "name": "Loudoun Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 3825, "name": "Elmbrook Senior Taxi", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior taxi service, not student"}
+{"idx": 3826, "name": "Limo Guys", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company, marginal fit"}
+{"idx": 3827, "name": "Advantage Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, marginal"}
+{"idx": 3828, "name": "Guts", "verdict": "unsure", "confidence": 0.3, "reason": "Name too vague to classify"}
+{"idx": 3829, "name": "US Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal"}
+{"idx": 3830, "name": "Student Transit Eau Claire Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Student Transit private contractor, strong fit"}
+{"idx": 3831, "name": "Presidential Limosne TRNSP LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine transport LLC, marginal"}
+{"idx": 3832, "name": "Voges Services Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name services, school flagged"}
+{"idx": 3833, "name": "Evans Group Action Bus Coach", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus coach, school flagged"}
+{"idx": 3834, "name": "Esquire Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, marginal"}
+{"idx": 3835, "name": "Nevada Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 3836, "name": "Transportation-Schultz Ctr", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Washoe County school district transportation"}
+{"idx": 3837, "name": "SLS Accnting Bus Cnslting Svc", "verdict": "not_transport", "confidence": 0.95, "reason": "Accounting and business consulting"}
+{"idx": 3838, "name": "Monroe Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus line, school flagged"}
+{"idx": 3839, "name": "Hamburg Public School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district bus garage"}

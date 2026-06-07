@@ -1,0 +1,30 @@
+{"idx": 1110, "name": "Midland Columbia Bus Co", "verdict": "private_contractor", "confidence": 0.92, "reason": "Bus Co name, OR operator"}
+{"idx": 1111, "name": "Greenville Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD - public school district"}
+{"idx": 1112, "name": "New Malwa Express Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc transport, special needs"}
+{"idx": 1113, "name": "Freehold Regional High Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Regional High School district"}
+{"idx": 1114, "name": "Tri Star Transport", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private NY transport company"}
+{"idx": 1115, "name": "Delphis Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Inc doing bus business CA"}
+{"idx": 1116, "name": "Execuspace-AA Avenue Bus Ctr", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus center, private operator"}
+{"idx": 1117, "name": "Visions Door 2 Door Sch", "verdict": "private_contractor", "confidence": 0.8, "reason": "Door-to-door school transport"}
+{"idx": 1118, "name": "Perry Local Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local Schools district garage"}
+{"idx": 1119, "name": "East End Bus", "verdict": "private_contractor", "confidence": 0.82, "reason": "Private bus operator NJ"}
+{"idx": 1120, "name": "Lake County Schools Bus Lot", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County Schools district lot"}
+{"idx": 1121, "name": "Jacksonville Isd Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 1122, "name": "Boardman School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School district bus garage"}
+{"idx": 1123, "name": "Metro Omaha WNS Bus Ctr-Mwbc", "verdict": "unsure", "confidence": 0.5, "reason": "Bus center, unclear ownership"}
+{"idx": 1124, "name": "Leade RS Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc doing bus business CA"}
+{"idx": 1125, "name": "Polk School District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School District transportation"}
+{"idx": 1126, "name": "Golden Age Senior Citizens Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Senior citizens center, not transport"}
+{"idx": 1127, "name": "Bedford Charter Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Charter service, private MA operator"}
+{"idx": 1128, "name": "Natural Gas School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC school bus operator TX"}
+{"idx": 1129, "name": "Vidor ISD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 1130, "name": "Mohonasen Transportation", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Mohonasen CSD district transport"}
+{"idx": 1131, "name": "Archemist Co Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Co doing bus business CA"}
+{"idx": 1132, "name": "Onepro Technology Inc Which", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc doing bus business CA"}
+{"idx": 1133, "name": "Siempre Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc doing bus business CA"}
+{"idx": 1134, "name": "Wayne County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County School transportation"}
+{"idx": 1135, "name": "Medicab Of Rochester", "verdict": "private_contractor", "confidence": 0.75, "reason": "Medical transport, special needs"}
+{"idx": 1136, "name": "Bellingham Public Sch Trnsprt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public Schools district transport"}
+{"idx": 1137, "name": "Coleman Community Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community School district garage"}
+{"idx": 1138, "name": "Alliance Home Health Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Home health care, not transport"}
+{"idx": 1139, "name": "Go Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, special needs transport"}

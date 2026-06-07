@@ -1,0 +1,30 @@
+{"idx": 2130, "name": "Daun School Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named private school bus service"}
+{"idx": 2131, "name": "San Benito County Local", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "County transit agency, not private contractor"}
+{"idx": 2132, "name": "Mindful Magical School Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly educational program"}
+{"idx": 2133, "name": "D & Y Transport School LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC private school transport operator"}
+{"idx": 2134, "name": "Happy Ride School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC private school transportation"}
+{"idx": 2135, "name": "Jelis School Trnsprtn Svc Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Corp private school transportation service"}
+{"idx": 2136, "name": "Limo 4 Kids Schl Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.88, "reason": "LLC private student transport"}
+{"idx": 2137, "name": "Private School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC private school bus operator"}
+{"idx": 2138, "name": "Safesteps School Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC private school transport"}
+{"idx": 2139, "name": "School Transportation Assoc", "verdict": "unsure", "confidence": 0.45, "reason": "Could be trade association or operator"}
+{"idx": 2140, "name": "St Joseph S M Bus Sch PR Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous parochial school transport reference"}
+{"idx": 2141, "name": "TNS School Bus Operator Trnng", "verdict": "not_transport", "confidence": 0.75, "reason": "Bus operator training, not transport operator"}
+{"idx": 2142, "name": "Advanced Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC private bus service"}
+{"idx": 2143, "name": "Alamance-Burlington Sch Systs", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "School system name suggests district"}
+{"idx": 2144, "name": "King's Academy & Trnsprtn Inc", "verdict": "not_transport", "confidence": 0.6, "reason": "Academy with transportation, primarily a school"}
+{"idx": 2145, "name": "Suit Up Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Odd name, unclear business"}
+{"idx": 2146, "name": "Washington County Mini Bus Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc operator, county-name but private"}
+{"idx": 2147, "name": "Bus Building LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Could be manufacturer or operator"}
+{"idx": 2148, "name": "Caroline County Sch Bus Contrs", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus contractors group, private"}
+{"idx": 2149, "name": "Coombs Bus & Truck Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-named private bus service"}
+{"idx": 2150, "name": "D J 's Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive LLC private bus service"}
+{"idx": 2151, "name": "St Mary's County Sch Bus", "verdict": "unsure", "confidence": 0.45, "reason": "County name ambiguous, possibly district"}
+{"idx": 2152, "name": "Muskegon Bus Station Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Bus station/terminal, not school operator"}
+{"idx": 2153, "name": "Aksamit Trans Of Browerville", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private transport operator"}
+{"idx": 2154, "name": "Bendickson School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named Inc private school bus"}
+{"idx": 2155, "name": "Greig's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive Inc private bus service"}
+{"idx": 2156, "name": "New Munich Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc private bus service operator"}
+{"idx": 2157, "name": "Rustad School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named Inc private school bus"}
+{"idx": 2158, "name": "Gravel Hill Community Bus Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc private community bus operator"}
+{"idx": 2159, "name": "Avery County Sch Bus Drivers", "verdict": "public_or_inhouse", "confidence": 0.65, "reason": "County school bus drivers group, district-affiliated"}

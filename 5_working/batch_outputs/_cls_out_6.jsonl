@@ -1,0 +1,30 @@
+{"idx": 180, "name": "Limousine", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, possibly limo/special-needs operator"}
+{"idx": 181, "name": "Limousine Service", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, possibly limo/special-needs operator"}
+{"idx": 182, "name": "School Garage", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Appears to be district garage facility"}
+{"idx": 183, "name": "Millennium Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo, special-needs transport possible"}
+{"idx": 184, "name": "School Transportation Svc Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corp suffix, private school transport contractor"}
+{"idx": 185, "name": "Jump On The School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus operator with website"}
+{"idx": 186, "name": "Old School Limo", "verdict": "not_transport", "confidence": 0.6, "reason": "Limo brand, not student transport"}
+{"idx": 187, "name": "Kids-Express School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc suffix, private school bus operator"}
+{"idx": 188, "name": "Russ Stratton Buses", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus operator"}
+{"idx": 189, "name": "Rockford School District 205", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 190, "name": "Acme Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "ABA Transportation, private NY school bus contractor"}
+{"idx": 191, "name": "Sheppard Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private NJ school bus operator"}
+{"idx": 192, "name": "H & L Bloom", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private MA school bus operator"}
+{"idx": 193, "name": "I C Bus LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC suffix, Island Charter bus operator"}
+{"idx": 194, "name": "Jackson Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District in-house transportation department"}
+{"idx": 195, "name": "George Dapper Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name Inc, private NJ school bus operator"}
+{"idx": 196, "name": "Kiessling School Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private MA school transport operator"}
+{"idx": 197, "name": "Amboy Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NY school bus company"}
+{"idx": 198, "name": "WCSD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Wappingers CSD in-house transport dept"}
+{"idx": 199, "name": "Frisco Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 200, "name": "Consolidated Bus Transit", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NYC school bus contractor"}
+{"idx": 201, "name": "Barker Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private NJ school bus operator"}
+{"idx": 202, "name": "Monarch Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MN school bus operator"}
+{"idx": 203, "name": "Edina Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District in-house transportation department"}
+{"idx": 204, "name": "Eschbach Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private PA school bus operator"}
+{"idx": 205, "name": "Houston Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 206, "name": "Town Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Likely private NY school bus operator"}
+{"idx": 207, "name": "Sac City USD Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "USD in-house transportation department"}
+{"idx": 208, "name": "Reliant Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private AK transport, school/special-needs"}
+{"idx": 209, "name": "Aetna Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}

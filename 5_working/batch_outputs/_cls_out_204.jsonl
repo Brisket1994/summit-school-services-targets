@@ -1,0 +1,30 @@
+{"idx": 6120, "name": "School Bus Bin Svc", "verdict": "unsure", "confidence": 0.5, "reason": "ambiguous name, could be bin service"}
+{"idx": 6121, "name": "AAA Limo Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo company, special needs flag"}
+{"idx": 6122, "name": "Classic Carriage Limousin", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo company, special needs transport"}
+{"idx": 6123, "name": "Dville Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo company, special needs transport"}
+{"idx": 6124, "name": "Florida Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "wheelchair transport, special needs"}
+{"idx": 6125, "name": "Go Limo Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo company, special needs transport"}
+{"idx": 6126, "name": "Mystic School Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "private school transportation operator"}
+{"idx": 6127, "name": "On Time Medical Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "medical transport, special needs flag"}
+{"idx": 6128, "name": "Scooter King Orlando", "verdict": "not_transport", "confidence": 0.7, "reason": "scooter retail/rental, not transport operator"}
+{"idx": 6129, "name": "Tropical Towncars", "verdict": "private_contractor", "confidence": 0.6, "reason": "towncar service, special needs transport"}
+{"idx": 6130, "name": "We Take You Wheelchair Trnsprt", "verdict": "private_contractor", "confidence": 0.7, "reason": "wheelchair transport, special needs"}
+{"idx": 6131, "name": "A Ace Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "private bus company, school flag"}
+{"idx": 6132, "name": "A Ace Bus Co Ace Bus Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "duplicate of Ace Bus Co"}
+{"idx": 6133, "name": "Maryland Small Bus Resource", "verdict": "unsure", "confidence": 0.4, "reason": "name suggests business resource, not operator"}
+{"idx": 6134, "name": "Quency & Aaron's Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "family-named LLC, special needs transport"}
+{"idx": 6135, "name": "Your Way Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "private transport service, special needs"}
+{"idx": 6136, "name": "W W Berry Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "family-named transportation, school flag"}
+{"idx": 6137, "name": "Jenda Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "private transport Inc, special needs"}
+{"idx": 6138, "name": "Pleasant Ride Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "private transport LLC, special needs"}
+{"idx": 6139, "name": "Mr Jupiter Desphy Special", "verdict": "private_contractor", "confidence": 0.5, "reason": "unclear name, special needs flag"}
+{"idx": 6140, "name": "Trust Towing LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "towing company, not passenger transport"}
+{"idx": 6141, "name": "Global Concierge Svc LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "concierge service, special needs flag"}
+{"idx": 6142, "name": "G & E Diesel Repair", "verdict": "not_transport", "confidence": 0.85, "reason": "diesel repair shop, not transport"}
+{"idx": 6143, "name": "A Star Medical Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "medical transport, special needs"}
+{"idx": 6144, "name": "Bright International Ent", "verdict": "private_contractor", "confidence": 0.6, "reason": "non-emergency transport per website"}
+{"idx": 6145, "name": "Silicon Valley Non-Emergency", "verdict": "private_contractor", "confidence": 0.7, "reason": "non-emergency medical transport"}
+{"idx": 6146, "name": "All Star Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo company, special needs transport"}
+{"idx": 6147, "name": "Riverside Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo service, special needs transport"}
+{"idx": 6148, "name": "Sir Charles Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "limo service, special needs transport"}
+{"idx": 6149, "name": "Steph's Taxi LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "taxi LLC, special needs transport"}

@@ -1,0 +1,30 @@
+{"idx": 6180, "name": "Prairie Bus Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Small bus service, likely private contractor"}
+{"idx": 6181, "name": "Boulevard Limousine Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, possibly special-needs transport"}
+{"idx": 6182, "name": "Cardinal Care Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely medical/special-needs transport, not school"}
+{"idx": 6183, "name": "Jams All Occasion Limo LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Occasion limo, weak student-transport fit"}
+{"idx": 6184, "name": "Canadian Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, weak student-transport fit"}
+{"idx": 6185, "name": "Swvcc-Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center at SWVCC college"}
+{"idx": 6186, "name": "Dupont Circle Bus Imprvmt Dist", "verdict": "not_transport", "confidence": 0.95, "reason": "Business Improvement District, not transport"}
+{"idx": 6187, "name": "Fantastic Limousines Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company, weak student-transport fit"}
+{"idx": 6188, "name": "Naples Transcare LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely medical/NEMT transport, weak fit"}
+{"idx": 6189, "name": "A Perfect Ride Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Generic transport, possible special-needs"}
+{"idx": 6190, "name": "A Premier Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, weak student-transport fit"}
+{"idx": 6191, "name": "Healthcare Express", "verdict": "private_contractor", "confidence": 0.55, "reason": "Healthcare transport, likely NEMT not school"}
+{"idx": 6192, "name": "Advanced Cabulance Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Cabulance, medical transport not school"}
+{"idx": 6193, "name": "Finan Center Bus Ofc Ctr Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Finance center business office, not transport"}
+{"idx": 6194, "name": "Gresham Driving Aids Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Adaptive driving equipment supplier, not operator"}
+{"idx": 6195, "name": "Michigan Essential Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Generic transport, possible special-needs contractor"}
+{"idx": 6196, "name": "Nu Starr Network LTD", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear business type"}
+{"idx": 6197, "name": "A Standard Taxi Co", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi company, weak student-transport fit"}
+{"idx": 6198, "name": "Impps Taxi Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi service, weak student-transport fit"}
+{"idx": 6199, "name": "Mobile Fiesta Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, possible special-needs"}
+{"idx": 6200, "name": "Samaritam Medical Ctr", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical center, not transport operator"}
+{"idx": 6201, "name": "T W Intl", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, unclear business"}
+{"idx": 6202, "name": "Ry-An MEYERS LLC", "verdict": "unsure", "confidence": 0.45, "reason": "Personal LLC name, unclear business"}
+{"idx": 6203, "name": "Signature Corp Twne Car Lmusin", "verdict": "private_contractor", "confidence": 0.5, "reason": "Town car limo, weak student-transport fit"}
+{"idx": 6204, "name": "Capital City Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company, weak student-transport fit"}
+{"idx": 6205, "name": "CRG Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, possible special-needs"}
+{"idx": 6206, "name": "Crystal River Coaches", "verdict": "private_contractor", "confidence": 0.65, "reason": "Coach operator, possible student transport"}
+{"idx": 6207, "name": "Let's Go Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear transport type"}
+{"idx": 6208, "name": "Need-A-Ride Transportation Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, possible special-needs"}
+{"idx": 6209, "name": "Quick Service Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic transport, possible special-needs"}

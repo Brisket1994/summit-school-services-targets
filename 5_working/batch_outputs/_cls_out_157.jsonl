@@ -1,0 +1,30 @@
+{"idx": 4710, "name": "Paul Zukow Limousine Sales", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine sales business, not operator"}
+{"idx": 4711, "name": "Rangely School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation dept, k12 domain"}
+{"idx": 4712, "name": "Extraordinary Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs"}
+{"idx": 4713, "name": "TCB Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo service flagged special-needs"}
+{"idx": 4714, "name": "White Limo Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, Canadian website, unclear"}
+{"idx": 4715, "name": "Hood Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC transportation operator"}
+{"idx": 4716, "name": "Rose Wheelchair Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private wheelchair transport LLC"}
+{"idx": 4717, "name": "Sioux Falls Wheelchair Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private wheelchair transit operator"}
+{"idx": 4718, "name": "Ace Of Hearts Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo service"}
+{"idx": 4719, "name": "CPLS Limited", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous initials, limited info"}
+{"idx": 4720, "name": "Mountainburg School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage"}
+{"idx": 4721, "name": "West Fork Public Sch Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school bus garage"}
+{"idx": 4722, "name": "Carnaghe Gibbs Bus Solutions", "verdict": "unsure", "confidence": 0.4, "reason": "Website unrelated, name ambiguous"}
+{"idx": 4723, "name": "Fresno County Superintendent", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County superintendent office"}
+{"idx": 4724, "name": "Reciprocity Inc Which Will Do", "verdict": "not_transport", "confidence": 0.8, "reason": "Reciprocity Labs, not transport"}
+{"idx": 4725, "name": "Sutter County One Stop Bus Ctr", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "County one-stop center, not operator"}
+{"idx": 4726, "name": "Triple D Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.75, "reason": "Del Dotto Vineyards, not transport"}
+{"idx": 4727, "name": "Dolores Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation dept"}
+{"idx": 4728, "name": "Prologis Stapleton Bus Ctr", "verdict": "not_transport", "confidence": 0.7, "reason": "Prologis business center, not operator"}
+{"idx": 4729, "name": "Msd-Martinsville Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Metropolitan school district dept"}
+{"idx": 4730, "name": "A-Z School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus LLC"}
+{"idx": 4731, "name": "New Orleans Hornets Bus Ofc", "verdict": "not_transport", "confidence": 0.85, "reason": "NBA team business office"}
+{"idx": 4732, "name": "St Bernard Bus-Career", "verdict": "unsure", "confidence": 0.4, "reason": "Likely parish business-career center"}
+{"idx": 4733, "name": "Big River Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Hastings Bus Company, private operator"}
+{"idx": 4734, "name": "Blue Knight Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo service"}
+{"idx": 4735, "name": "New Millennium Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Private limo service"}
+{"idx": 4736, "name": "Ready Bus Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company Inc"}
+{"idx": 4737, "name": "A Prestige Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Private limo service"}
+{"idx": 4738, "name": "Choctaw County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4739, "name": "Leake County School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus shop"}

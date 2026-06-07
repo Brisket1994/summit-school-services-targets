@@ -1,0 +1,30 @@
+{"idx": 3900, "name": "Verns Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, possibly NEMT/special-needs"}
+{"idx": 3901, "name": "Camelot Coach Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private coach company, Inc suffix"}
+{"idx": 3902, "name": "All Pro Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo operator"}
+{"idx": 3903, "name": "Towne Executive", "verdict": "private_contractor", "confidence": 0.65, "reason": "Executive limo service, private"}
+{"idx": 3904, "name": "Allied Medical Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport service, likely NEMT"}
+{"idx": 3905, "name": "Golden Spread Rural Frontier", "verdict": "not_transport", "confidence": 0.5, "reason": "Greyhound affiliate, intercity bus not school"}
+{"idx": 3906, "name": "Gmtcare LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Care transport LLC, likely NEMT"}
+{"idx": 3907, "name": "T L C School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company"}
+{"idx": 3908, "name": "Cristian A Matos Gonzalez", "verdict": "unsure", "confidence": 0.5, "reason": "Personal name in PR, unclear operator"}
+{"idx": 3909, "name": "Irmo Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service"}
+{"idx": 3910, "name": "Pete & Annette Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-owned limousine service"}
+{"idx": 3911, "name": "Richardson Taxi Cab Plus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Taxi service, possibly NEMT"}
+{"idx": 3912, "name": "Southeastern Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus company"}
+{"idx": 3913, "name": "Acadiana Handicap Solutions", "verdict": "private_contractor", "confidence": 0.7, "reason": "Handicap/special-needs transport"}
+{"idx": 3914, "name": "Coughlin Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc, school flag, family-name operator"}
+{"idx": 3915, "name": "Lane's Professional Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named private transport"}
+{"idx": 3916, "name": "ATC", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous initials, school flag set"}
+{"idx": 3917, "name": "Barukh Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport LLC"}
+{"idx": 3918, "name": "Drivergent", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private driver-service company, school flag"}
+{"idx": 3919, "name": "Corporate America Limosne Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limousine service"}
+{"idx": 3920, "name": "Hastings Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation department"}
+{"idx": 3921, "name": "Yellow Blue Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus LLC"}
+{"idx": 3922, "name": "Annie's Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named private transport Inc"}
+{"idx": 3923, "name": "Big Tao Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport operator"}
+{"idx": 3924, "name": "Kerine Smith LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Personal-name LLC, special-needs flag"}
+{"idx": 3925, "name": "Anytime Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limousine service"}
+{"idx": 3926, "name": "Non Emergency Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT operator, generic name"}
+{"idx": 3927, "name": "Premier Handicap & Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Handicap transport private operator"}
+{"idx": 3928, "name": "R & E Family Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-owned private transport"}
+{"idx": 3929, "name": "Roman Limo Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service"}

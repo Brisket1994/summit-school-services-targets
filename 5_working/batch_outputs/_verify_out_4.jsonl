@@ -1,0 +1,25 @@
+{"idx": 100, "name": "Peoples Express", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport operator, special needs flagged"}
+{"idx": 101, "name": "Wheelchair Transport Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport service"}
+{"idx": 102, "name": "RATS", "verdict": "private_contractor", "confidence": 0.6, "reason": "Rockbridge Area Transportation, likely nonprofit/private operator"}
+{"idx": 103, "name": "Cozy Van", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs van transport"}
+{"idx": 104, "name": "First Class Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corporate Inc suffix, private transport"}
+{"idx": 105, "name": "Deming Karen", "verdict": "private_contractor", "confidence": 0.55, "reason": "Beach wheelchair, likely small private operator"}
+{"idx": 106, "name": "Hour Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation company"}
+{"idx": 107, "name": "Student Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Bus Co suffix, private school bus operator"}
+{"idx": 108, "name": "Student Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "STA, large private student transport company"}
+{"idx": 109, "name": "Minnesota Coaches Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Coaches Inc, private bus operator"}
+{"idx": 110, "name": "GVC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bronx school bus operator, private"}
+{"idx": 111, "name": "School Bus Sales Co", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus sales dealer, not transport operator"}
+{"idx": 112, "name": "Fullington Auto Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company, family-owned PA"}
+{"idx": 113, "name": "Grand Avenue Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, website is state DMV"}
+{"idx": 114, "name": "Butler's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive family name, private bus service"}
+{"idx": 115, "name": "Harlow's School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive family name, private school bus"}
+{"idx": 116, "name": "A M Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Co, private Chicago school bus"}
+{"idx": 117, "name": "Golden Ring Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc suffix, private Brooklyn transport"}
+{"idx": 118, "name": "Pre-School Learning Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Preschool/daycare, not a transport company"}
+{"idx": 119, "name": "Lakewood Local Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 120, "name": "Palmer Bus Svc Of JWP", "verdict": "private_contractor", "confidence": 0.95, "reason": "Palmer Bus Service, private MN operator"}
+{"idx": 121, "name": "Fullington", "verdict": "private_contractor", "confidence": 0.9, "reason": "Fullington Tours, private PA bus company"}
+{"idx": 122, "name": "Smyth Buss Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Co suffix, private operator"}
+{"idx": 123, "name": "Hoekstra Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family name, private transportation company"}
+{"idx": 124, "name": "Sonny Merryman Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales, not transport operator"}

@@ -1,0 +1,30 @@
+{"idx": 5130, "name": "Jam Distributor & Express Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 5131, "name": "Lloyds Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5132, "name": "Lokie Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5133, "name": "Lords Executive Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Executive limo, marginal student-transport relevance"}
+{"idx": 5134, "name": "Lux Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5135, "name": "Luxur Wave Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5136, "name": "Mancuso Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5137, "name": "National Limosne Drivers Assn", "verdict": "not_transport", "confidence": 0.85, "reason": "Trade association, not an operator"}
+{"idx": 5138, "name": "Onstar Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5139, "name": "Precious Cargo", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear operator type"}
+{"idx": 5140, "name": "Primo Class Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5141, "name": "RLS Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal student-transport relevance"}
+{"idx": 5142, "name": "Sea Breze Lmsne Chauffeur Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo chauffeur service"}
+{"idx": 5143, "name": "Silver Car & Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Car and limo service"}
+{"idx": 5144, "name": "So Cal Medical Tranz-Ill", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, not school bus"}
+{"idx": 5145, "name": "St Anthony Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transportation provider"}
+{"idx": 5146, "name": "Stage Coach West", "verdict": "unsure", "confidence": 0.45, "reason": "Generic name, possibly charter/tour"}
+{"idx": 5147, "name": "Teresa S Mama Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal relevance"}
+{"idx": 5148, "name": "Vogue Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal relevance"}
+{"idx": 5149, "name": "Zbest Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal relevance"}
+{"idx": 5150, "name": "Henderson School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus operator"}
+{"idx": 5151, "name": "Cravens School Bus Lines", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name school bus contractor"}
+{"idx": 5152, "name": "City-Yellow Checker Cab Co", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi/cab company, marginal relevance"}
+{"idx": 5153, "name": "Care E Me Wheelchair", "verdict": "private_contractor", "confidence": 0.5, "reason": "Wheelchair transport, special-needs relevance"}
+{"idx": 5154, "name": "Good News Medical Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport LLC"}
+{"idx": 5155, "name": "Toms Liberty Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear service type"}
+{"idx": 5156, "name": "Evart Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 5157, "name": "R CS Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal relevance"}
+{"idx": 5158, "name": "Brinc Bus Systems Of Chrleston", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus systems operator"}
+{"idx": 5159, "name": "Avanti Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, marginal relevance"}

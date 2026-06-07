@@ -1,0 +1,30 @@
+{"idx": 300, "name": "East End Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC bus service, Long Island NY"}
+{"idx": 301, "name": "Mid-Placer Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school transportation, k12.ca.us domain"}
+{"idx": 302, "name": "Beeville Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent School District, ISD"}
+{"idx": 303, "name": "Big Blu Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus company in Colorado"}
+{"idx": 304, "name": "Perry Bus Maintenance Facility", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "MARTA Atlanta public transit facility"}
+{"idx": 305, "name": "EMT", "verdict": "not_transport", "confidence": 0.85, "reason": "Express Medical, medical transport not student"}
+{"idx": 306, "name": "Raphael Irvin Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Raphael Bus, NJ school bus contractor since 1919"}
+{"idx": 307, "name": "Wisconsin School Bus Associati", "verdict": "not_transport", "confidence": 0.95, "reason": "Trade association, not operator"}
+{"idx": 308, "name": "South Crlina Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.98, "reason": "Small Business Development Center, university"}
+{"idx": 309, "name": "Valley Transit Bus Station", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Public transit bus station"}
+{"idx": 310, "name": "At Your Svc Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport, Georgia"}
+{"idx": 311, "name": "Marcus Whitman Central Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central School district"}
+{"idx": 312, "name": "Leahy's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned bus service Philadelphia"}
+{"idx": 313, "name": "Vendetti Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned bus company, Massachusetts"}
+{"idx": 314, "name": "Rogers Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public Schools transportation department"}
+{"idx": 315, "name": "Prestige Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not school bus"}
+{"idx": 316, "name": "Zerega Bus Mntnc-Training", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "MTA bus maintenance facility"}
+{"idx": 317, "name": "Safe Passage Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport, Indiana"}
+{"idx": 318, "name": "Man Engines-A Bus Unit-Man", "verdict": "not_transport", "confidence": 0.95, "reason": "MAN Engines manufacturer division"}
+{"idx": 319, "name": "London Central London Gen Bus", "verdict": "not_transport", "confidence": 0.95, "reason": "Go-Ahead London transit, not US student"}
+{"idx": 320, "name": "Garza's School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned school bus service Houston"}
+{"idx": 321, "name": "Mnsota School Bus Tech LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "North America Central parent, strategic owned"}
+{"idx": 322, "name": "Arambula Bus Accnting Svc Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Business accounting service, not bus operator"}
+{"idx": 323, "name": "Drogin Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned bus company, NJ"}
+{"idx": 324, "name": "GST Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport company, NJ"}
+{"idx": 325, "name": "Rybak & Assoc", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical practice, not transport"}
+{"idx": 326, "name": "Oregon Department-Consumer-Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Oregon state government department"}
+{"idx": 327, "name": "Trobecs Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned bus service, Minnesota"}
+{"idx": 328, "name": "Lucky Star Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Intercity coach Boston-NYC, not student"}
+{"idx": 329, "name": "Cumberland County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transportation department"}

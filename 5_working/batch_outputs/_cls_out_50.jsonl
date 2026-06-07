@@ -1,0 +1,30 @@
+{"idx": 1500, "name": "Michelle Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic CA shell name, no website"}
+{"idx": 1501, "name": "Niche Biomedical Inc Which", "verdict": "not_transport", "confidence": 0.85, "reason": "Biomedical company, not transport"}
+{"idx": 1502, "name": "Novel Co LTD Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic shell name, unclear business"}
+{"idx": 1503, "name": "Paris Ventures Inc Which Will", "verdict": "unsure", "confidence": 0.5, "reason": "Generic ventures name, unclear"}
+{"idx": 1504, "name": "Pistol Pete Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear business"}
+{"idx": 1505, "name": "Ras Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic shell name, no website"}
+{"idx": 1506, "name": "Robertson Enterprises Inc Will", "verdict": "unsure", "confidence": 0.5, "reason": "Generic enterprises name, unclear"}
+{"idx": 1507, "name": "Solutions Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Generic shell name, unclear"}
+{"idx": 1508, "name": "Speedy Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.55, "reason": "Possibly transport but unclear"}
+{"idx": 1509, "name": "Storyplace PBC Which Will Do", "verdict": "not_transport", "confidence": 0.7, "reason": "PBC name suggests media/content, not transport"}
+{"idx": 1510, "name": "Worldport Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear"}
+{"idx": 1511, "name": "Blue Collar Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear business"}
+{"idx": 1512, "name": "Life Proof Inc Which Will Do", "verdict": "not_transport", "confidence": 0.75, "reason": "LifeProof case maker, not transport"}
+{"idx": 1513, "name": "Supersource Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear"}
+{"idx": 1514, "name": "Post Falls Sch Dist 273", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district, not acquirable"}
+{"idx": 1515, "name": "Star Trans Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus contractor with website"}
+{"idx": 1516, "name": "Encap Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear business"}
+{"idx": 1517, "name": "Hive Co Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear"}
+{"idx": 1518, "name": "Peoples Express", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport, MN, 1992"}
+{"idx": 1519, "name": "Waterworks Technologies Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Water tech company, not transport"}
+{"idx": 1520, "name": "Phenix City Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1521, "name": "Easy Ride Express Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company in Columbus OH"}
+{"idx": 1522, "name": "Tuloso Midway Isd Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 1523, "name": "Mayfield Independent Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district"}
+{"idx": 1524, "name": "Northern Westchester Bus-Truck", "verdict": "private_contractor", "confidence": 0.75, "reason": "Likely private bus and truck operator"}
+{"idx": 1525, "name": "Mclean County School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1526, "name": "Clinton CSD Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district bus barn"}
+{"idx": 1527, "name": "North City Bus Armature Repair", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus repair shop, not operator"}
+{"idx": 1528, "name": "North Branch Area Sch-Transprt", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation dept"}
+{"idx": 1529, "name": "Dept Of Ed-School Bus Mntnc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "SC Dept of Education maintenance"}

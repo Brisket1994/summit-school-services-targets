@@ -1,0 +1,30 @@
+{"idx": 1350, "name": "Caliray Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated 'Which Will Do Bus' name, ambiguous entity"}
+{"idx": 1351, "name": "L A Unified Sch Dist 604 E", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "LAUSD public school district"}
+{"idx": 1352, "name": "Matter Group Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, unclear actual business"}
+{"idx": 1353, "name": "Peterlee Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, possibly cosmetics brand"}
+{"idx": 1354, "name": "Power2b Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous entity"}
+{"idx": 1355, "name": "Richy's Enterprises Which Will", "verdict": "unsure", "confidence": 0.55, "reason": "Possessive name but truncated, unclear"}
+{"idx": 1356, "name": "Art Of Care", "verdict": "private_contractor", "confidence": 0.6, "reason": "Special needs transport, MA-based small operator"}
+{"idx": 1357, "name": "Carolina Specialty Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NC special-needs transport operator"}
+{"idx": 1358, "name": "Crescent Transit LTD", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Brooklyn NY transit/school bus operator"}
+{"idx": 1359, "name": "Ride Connection", "verdict": "not_transport", "confidence": 0.85, "reason": "Nonprofit paratransit (.org), not acquirable contractor"}
+{"idx": 1360, "name": "Mason County Trnsprtn Co-Op", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district co-op (sheltonschools.org)"}
+{"idx": 1361, "name": "West Coast Outlaws Inc Which", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous entity"}
+{"idx": 1362, "name": "Regional School Unit Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Maine RSU19 district bus garage"}
+{"idx": 1363, "name": "Kanawha School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Kanawha County school district garage"}
+{"idx": 1364, "name": "Department Of Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Huber Heights schools transportation dept"}
+{"idx": 1365, "name": "Medi-Van Of Green Bay", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical/special-needs van operator"}
+{"idx": 1366, "name": "Grande Ronde Transportation Co", "verdict": "private_contractor", "confidence": 0.75, "reason": "Mid-Columbia bus, private OR operator"}
+{"idx": 1367, "name": "Wenatchee Public Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Wenatchee public school district transportation"}
+{"idx": 1368, "name": "Open Door Group PBC Which Will", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated PBC name, ambiguous"}
+{"idx": 1369, "name": "D W Clark & Son", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned NJ school bus contractor"}
+{"idx": 1370, "name": "Wills Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NJ school bus service company"}
+{"idx": 1371, "name": "Bus Maintenance II LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private NY bus maintenance/operator LLC"}
+{"idx": 1372, "name": "Ezra International Entertainer", "verdict": "private_contractor", "confidence": 0.6, "reason": "Ezra Tours, private charter/tour operator"}
+{"idx": 1373, "name": "Trans Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private IN bus company, Inc suffix"}
+{"idx": 1374, "name": "Artform Co Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous business"}
+{"idx": 1375, "name": "Towne Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "We Transport, private NY school bus operator"}
+{"idx": 1376, "name": "Gameplay Corp Inc Which Will", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous business"}
+{"idx": 1377, "name": "Intera Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous business"}
+{"idx": 1378, "name": "Spase Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous business"}
+{"idx": 1379, "name": "Synchron Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, ambiguous business"}

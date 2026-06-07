@@ -1,0 +1,30 @@
+{"idx": 3780, "name": "Emmanuel Medical Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical transport LLC, possible special-needs"}
+{"idx": 3781, "name": "Belle Vernon Area Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3782, "name": "American's Hts", "verdict": "unsure", "confidence": 0.3, "reason": "Unclear name, website is park-n-swap"}
+{"idx": 3783, "name": "Four Seasons Limousine Co LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine company, marginal student-transport fit"}
+{"idx": 3784, "name": "Transwest", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 3785, "name": "VIP Luxury Sedans", "verdict": "private_contractor", "confidence": 0.4, "reason": "Luxury sedan service, weak school fit"}
+{"idx": 3786, "name": "American General Bus Systems", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, school flag"}
+{"idx": 3787, "name": "Hurrah Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus company Inc"}
+{"idx": 3788, "name": "Old School Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private student transportation service"}
+{"idx": 3789, "name": "Ky High School Soccer Coaches", "verdict": "not_transport", "confidence": 0.95, "reason": "Coaching association, not transport"}
+{"idx": 3790, "name": "Center School-Crisis Prvntn", "verdict": "not_transport", "confidence": 0.9, "reason": "School/crisis prevention center"}
+{"idx": 3791, "name": "Natecare Home Health Svc LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "Home health service, not transport"}
+{"idx": 3792, "name": "Classic Xpress", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, school website mismatch"}
+{"idx": 3793, "name": "Snow Country Limousine Inc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine, weak special-needs fit"}
+{"idx": 3794, "name": "Airport Limousine Svc", "verdict": "private_contractor", "confidence": 0.35, "reason": "Airport limousine, weak student fit"}
+{"idx": 3795, "name": "Limousine Network", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limousine service, weak student fit"}
+{"idx": 3796, "name": "Mobility Works", "verdict": "not_transport", "confidence": 0.8, "reason": "Wheelchair van dealer, not operator"}
+{"idx": 3797, "name": "Wellnet Medi-Van Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical van transport, possible special-needs"}
+{"idx": 3798, "name": "Topeka Public School USD 501", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district USD"}
+{"idx": 3799, "name": "Fairfield Community Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Community transportation, likely public"}
+{"idx": 3800, "name": "Andersonville Bus Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus line, school flag"}
+{"idx": 3801, "name": "Personalized Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, possible special-needs"}
+{"idx": 3802, "name": "Jacobson Co", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear"}
+{"idx": 3803, "name": "7 K Bus Sales Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus sales dealer, not operator"}
+{"idx": 3804, "name": "Non Emergent Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT, possible special-needs"}
+{"idx": 3805, "name": "Independent International Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus company, school flag"}
+{"idx": 3806, "name": "Romotive", "verdict": "not_transport", "confidence": 0.85, "reason": "Robotics startup, not transport"}
+{"idx": 3807, "name": "Cisd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Comal ISD transportation department"}
+{"idx": 3808, "name": "Carey Of Los Angeles", "verdict": "private_contractor", "confidence": 0.4, "reason": "Carey limousine franchise, weak student fit"}
+{"idx": 3809, "name": "Rich Limousines Inc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine company, weak student fit"}

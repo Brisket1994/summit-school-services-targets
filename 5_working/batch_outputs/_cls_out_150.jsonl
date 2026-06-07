@@ -1,0 +1,30 @@
+{"idx": 4500, "name": "US Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special-needs flag, small operator"}
+{"idx": 4501, "name": "Loudoun County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4502, "name": "All Luxury Limousines", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo, special-needs flag"}
+{"idx": 4503, "name": "Pacific Coach LTD", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private coach company"}
+{"idx": 4504, "name": "Caddo Parish Schools Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District-owned bus garage"}
+{"idx": 4505, "name": "Cherokee School Bus Maint Shop", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District maintenance shop"}
+{"idx": 4506, "name": "Regency Limousine & Trnsp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo/transport company"}
+{"idx": 4507, "name": "Deal Spotter-Local Bus Deals", "verdict": "not_transport", "confidence": 0.7, "reason": "Deal listing, not operator"}
+{"idx": 4508, "name": "Plover Taxi", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private taxi, special-needs flag"}
+{"idx": 4509, "name": "Cal-Med", "verdict": "private_contractor", "confidence": 0.5, "reason": "Likely medical transport"}
+{"idx": 4510, "name": "Greater California Livery Assn", "verdict": "not_transport", "confidence": 0.85, "reason": "Trade association"}
+{"idx": 4511, "name": "Pacificoach", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private coach operator"}
+{"idx": 4512, "name": "Fulton County Sch Trnsprtn Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 4513, "name": "Perry Blvd Bus Facility", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Atlanta APS bus facility"}
+{"idx": 4514, "name": "Charlotte Metro Trnsprtn LLP", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLP transport"}
+{"idx": 4515, "name": "Holiday Limousine Charlotte", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo, special-needs flag"}
+{"idx": 4516, "name": "Total Access Assisted", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely assisted transport provider"}
+{"idx": 4517, "name": "Southampton Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District-affiliated bus operation"}
+{"idx": 4518, "name": "Pennridge School Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 4519, "name": "JPD Inc Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair transport Inc"}
+{"idx": 4520, "name": "Jefferson Cnty Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4521, "name": "Southern Alternative Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private alternative transport"}
+{"idx": 4522, "name": "Nite Life Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Nightlife limo, weak school fit"}
+{"idx": 4523, "name": "Royal Coachworks", "verdict": "private_contractor", "confidence": 0.55, "reason": "Possible coachbuilder/transport"}
+{"idx": 4524, "name": "Jackson Cnty Public School Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 4525, "name": "School Bus Yellow LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC school bus operator"}
+{"idx": 4526, "name": "Beech Grove Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4527, "name": "Assisted Care Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private assisted transport"}
+{"idx": 4528, "name": "Courtesy Coach", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private coach operator"}
+{"idx": 4529, "name": "D M A Metro Sedan Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private sedan Inc, special-needs flag"}

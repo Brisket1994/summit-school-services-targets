@@ -1,0 +1,30 @@
+{"idx": 2460, "name": "South Dakota School Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Website is university; ambiguous entity"}
+{"idx": 2461, "name": "Andrews Family Limousine LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family LLC, special needs transport"}
+{"idx": 2462, "name": "V & L Van Svc Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private van service, special needs"}
+{"idx": 2463, "name": "Cite Center For Innovation", "verdict": "not_transport", "confidence": 0.9, "reason": "Sam Houston State University center"}
+{"idx": 2464, "name": "Dexter Public School Bus Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transport dept"}
+{"idx": 2465, "name": "Napoleon Area Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transport"}
+{"idx": 2466, "name": "Chariots", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, no website"}
+{"idx": 2467, "name": "Missouri Central School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private contractor name"}
+{"idx": 2468, "name": "All American Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Inc"}
+{"idx": 2469, "name": "Yoflo LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC, special needs transport"}
+{"idx": 2470, "name": "North Iowa Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company, Cavalier Coaches"}
+{"idx": 2471, "name": "Altmar Parish Williamstown", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 2472, "name": "Harlan Schools-Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus barn"}
+{"idx": 2473, "name": "Phenix City Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transport"}
+{"idx": 2474, "name": "Utica Community Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community schools district transport"}
+{"idx": 2475, "name": "E-Fficient School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school transportation"}
+{"idx": 2476, "name": "Geronimo Professional Svc LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC school transport"}
+{"idx": 2477, "name": "Margaretta Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transport dept"}
+{"idx": 2478, "name": "D & J School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company"}
+{"idx": 2479, "name": "Amb Small Bus Accnting Svc", "verdict": "not_transport", "confidence": 0.9, "reason": "Accounting service, not transport"}
+{"idx": 2480, "name": "Serenity Sweet Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, special needs transport"}
+{"idx": 2481, "name": "Durham Bus Svc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "First Student subsidiary, non-independent"}
+{"idx": 2482, "name": "Valcheck Frank D Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named Inc, school transport"}
+{"idx": 2483, "name": "Meryc Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company"}
+{"idx": 2484, "name": "Lion Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus service"}
+{"idx": 2485, "name": "Franklin County Bus Svc", "verdict": "unsure", "confidence": 0.5, "reason": "County-named, could be private or public"}
+{"idx": 2486, "name": "Franklin County Trnsprtn Cncl", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "OATS transit council, public agency"}
+{"idx": 2487, "name": "Brad & Kim Dalrymple Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named Inc, school transport"}
+{"idx": 2488, "name": "Unicare Transport Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport service, special needs"}
+{"idx": 2489, "name": "Mckenzie School Bus SVC LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school bus service"}

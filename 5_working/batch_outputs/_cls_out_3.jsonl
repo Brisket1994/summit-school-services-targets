@@ -1,0 +1,30 @@
+{"idx": 90, "name": "L T Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation company name"}
+{"idx": 91, "name": "Dakota Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service Inc"}
+{"idx": 92, "name": "Care-A-Van", "verdict": "private_contractor", "confidence": 0.65, "reason": "Likely paratransit/special needs operator"}
+{"idx": 93, "name": "School Bus Consultants", "verdict": "not_transport", "confidence": 0.85, "reason": "Consulting firm, not operator"}
+{"idx": 94, "name": "B-J School Buses Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus Inc"}
+{"idx": 95, "name": "Ability Center", "verdict": "not_transport", "confidence": 0.8, "reason": "BraunAbility website, mobility equipment maker"}
+{"idx": 96, "name": "First Class Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation Inc"}
+{"idx": 97, "name": "Celebrity Limousine", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine/cab, not school transport"}
+{"idx": 98, "name": "Johannes Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus service"}
+{"idx": 99, "name": "School Transportation Sltns", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transportation solutions"}
+{"idx": 100, "name": "Independent Coach Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private coach corporation"}
+{"idx": 101, "name": "Cata Spec Tran", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Capital Area Transportation Authority, public transit"}
+{"idx": 102, "name": "Transportation Services", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Polk County Schools FL website, district"}
+{"idx": 103, "name": "Marion County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transportation"}
+{"idx": 104, "name": "Mission School Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Atlantic Express website, possibly defunct parent"}
+{"idx": 105, "name": "Jupiter School Bus Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus service"}
+{"idx": 106, "name": "M & J Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus Inc, family initials"}
+{"idx": 107, "name": "School Bus Svc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Taylor schools website, district transport"}
+{"idx": 108, "name": "Suburban School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private suburban school transport"}
+{"idx": 109, "name": "Vocell Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus company"}
+{"idx": 110, "name": "A A Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation Co Inc"}
+{"idx": 111, "name": "Yellow Cab Co", "verdict": "not_transport", "confidence": 0.75, "reason": "Taxi cab company, not school"}
+{"idx": 112, "name": "F M Kuzmeskus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Travel Kuz family-owned bus Inc"}
+{"idx": 113, "name": "Caldwell Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation Co Inc"}
+{"idx": 114, "name": "Ottawa Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service Inc"}
+{"idx": 115, "name": "Huntington Coach Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private coach corporation"}
+{"idx": 116, "name": "Cyr Bus Line", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-owned bus line Maine"}
+{"idx": 117, "name": "Wmata Andrews Fed Ctr Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "WMATA public transit authority garage"}
+{"idx": 118, "name": "North America Central Sch Bus", "verdict": "private_contractor", "confidence": 0.5, "reason": "NACSB, large strategic acquirer not independent"}
+{"idx": 119, "name": "School Bus Transportation", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "NC bus safety state site, governmental"}

@@ -1,0 +1,30 @@
+{"idx": 3510, "name": "FLX Ride LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC special-needs transport, likely private"}
+{"idx": 3511, "name": "Columbus Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 3512, "name": "Worldwide Medical Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport LLC, may not be school"}
+{"idx": 3513, "name": "Stilwell Public Sch Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus barn"}
+{"idx": 3514, "name": "T D Non-EMERGENCY Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Non-emergency medical transport, possibly NEMT"}
+{"idx": 3515, "name": "A Trinity Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport company"}
+{"idx": 3516, "name": "Huffer Bus Planning", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-named bus operator"}
+{"idx": 3517, "name": "Laita Corp", "verdict": "unsure", "confidence": 0.45, "reason": "Generic corp name, unclear business"}
+{"idx": 3518, "name": "Sedgwick County Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County government transportation"}
+{"idx": 3519, "name": "Orrville City School Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district garage"}
+{"idx": 3520, "name": "Health Star Home Care", "verdict": "not_transport", "confidence": 0.8, "reason": "Home care, not transport operator"}
+{"idx": 3521, "name": "HRT Professionals LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC, special-needs transport"}
+{"idx": 3522, "name": "K & M Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-initial service, special-needs transport"}
+{"idx": 3523, "name": "Renowned Solutions LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic LLC, special-needs transport"}
+{"idx": 3524, "name": "Bear Lake County Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school bus garage"}
+{"idx": 3525, "name": "Schools Public Business Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Lake County Schools garage"}
+{"idx": 3526, "name": "Kidz In Motion LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, school transport"}
+{"idx": 3527, "name": "Sikorski Bus Co LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named bus company LLC"}
+{"idx": 3528, "name": "Celebrity Wheelchair Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair service, possible NEMT"}
+{"idx": 3529, "name": "Mom's School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator"}
+{"idx": 3530, "name": "Safe Care Transportation LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC special-needs transport"}
+{"idx": 3531, "name": "Storm Lake Cmnty Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district bus garage"}
+{"idx": 3532, "name": "North Ottawa USD Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD school district bus barn"}
+{"idx": 3533, "name": "Pratt USD 382 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD district transportation"}
+{"idx": 3534, "name": "Floyd County Sch-Transporation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation department"}
+{"idx": 3535, "name": "New Buffalo Area Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 3536, "name": "Jackson R-2 School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "R-2 school district transportation"}
+{"idx": 3537, "name": "M Squared Assoc Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic NYC associates, name truncated"}
+{"idx": 3538, "name": "Margaretville Central Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district bus"}
+{"idx": 3539, "name": "Cove Taxi", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi service, likely NEMT not school"}

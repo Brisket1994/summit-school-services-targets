@@ -1,0 +1,30 @@
+{"idx": 2580, "name": "Amera-Care Transport Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport company, Inc suffix"}
+{"idx": 2581, "name": "Hour Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport firm, special-needs services"}
+{"idx": 2582, "name": "Royalsystems Corp", "verdict": "unsure", "confidence": 0.5, "reason": "Generic corp name, unclear transport nature"}
+{"idx": 2583, "name": "St Andrew School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company, Inc suffix"}
+{"idx": 2584, "name": "Fort Stockton Dist Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus barn, in-house operation"}
+{"idx": 2585, "name": "Sunshine City Bus Solutions", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus solutions company"}
+{"idx": 2586, "name": "BN Wolf Lines Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus line, family name"}
+{"idx": 2587, "name": "Spencers Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus service Inc"}
+{"idx": 2588, "name": "Ridewithricky-Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private medical transport, possibly NEMT-focused"}
+{"idx": 2589, "name": "Coldwater Community Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2590, "name": "Big Grey Bus LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC bus operator"}
+{"idx": 2591, "name": "Schools Transportation-Mntnc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Grand County school district transport dept"}
+{"idx": 2592, "name": "State Of Art Transport New", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company, special-needs"}
+{"idx": 2593, "name": "Goshen County Schools Transp", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation dept"}
+{"idx": 2594, "name": "Medivac Wheel Chair Vans", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair van service, NEMT-focused"}
+{"idx": 2595, "name": "Bolze Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus service Inc"}
+{"idx": 2596, "name": "Hegins Valley Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus lines company"}
+{"idx": 2597, "name": "William W Mercer Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private school bus Inc"}
+{"idx": 2598, "name": "USD 309 Transportation Bldg", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Unified school district transportation building"}
+{"idx": 2599, "name": "Vocell Bus Co Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus company"}
+{"idx": 2600, "name": "Lincoln Academy", "verdict": "not_transport", "confidence": 0.9, "reason": "Private academy school, not transport"}
+{"idx": 2601, "name": "Toney's School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus company"}
+{"idx": 2602, "name": "Tropical Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC transport company"}
+{"idx": 2603, "name": "FPS Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Fulton Public Schools transportation dept"}
+{"idx": 2604, "name": "Holland Patent Central Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public central school district"}
+{"idx": 2605, "name": "Caro School Bus Drivers Assn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School bus drivers association at district"}
+{"idx": 2606, "name": "Another Magical School Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus operator"}
+{"idx": 2607, "name": "Greenville City Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation dept"}
+{"idx": 2608, "name": "RJC Charter Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private charter bus LLC, possibly Academy-affiliated"}
+{"idx": 2609, "name": "Ravenna School System", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school system"}

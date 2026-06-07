@@ -1,0 +1,30 @@
+{"idx": 3690, "name": "Safe Routes To Schools", "verdict": "not_transport", "confidence": 0.8, "reason": "Safety/advocacy program, not bus operator"}
+{"idx": 3691, "name": "Mayer Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house transport, mayerschools.org"}
+{"idx": 3692, "name": "Council School Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus corporation"}
+{"idx": 3693, "name": "Caspian Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport company"}
+{"idx": 3694, "name": "Healthride", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical/health transport, not student"}
+{"idx": 3695, "name": "Chool Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Likely private school bus operator"}
+{"idx": 3696, "name": "Downs & Downs Tng LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name LLC, school transport"}
+{"idx": 3697, "name": "C Transit Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private NY transit Inc, special needs"}
+{"idx": 3698, "name": "TNT Transportation Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transportation service"}
+{"idx": 3699, "name": "Spiker Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus lines Inc"}
+{"idx": 3700, "name": "Transit Express Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "WeDriveU website suggests strategic ownership"}
+{"idx": 3701, "name": "Carecar LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport LLC"}
+{"idx": 3702, "name": "Carevan Co LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs van company"}
+{"idx": 3703, "name": "Rehab Transit", "verdict": "not_transport", "confidence": 0.6, "reason": "Likely medical rehab transport"}
+{"idx": 3704, "name": "Gary James Transport LTD", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private transport company"}
+{"idx": 3705, "name": "Special Occasion Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not student transport"}
+{"idx": 3706, "name": "Livingston Schools Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, livingston.k12.mt.us"}
+{"idx": 3707, "name": "Woodlands Wheelchair Shuttle", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair shuttle service"}
+{"idx": 3708, "name": "Rome Charters LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private charter LLC"}
+{"idx": 3709, "name": "Heavenly Wheelchair TRNSPRTN", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private wheelchair transport company"}
+{"idx": 3710, "name": "Middledorf Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus company"}
+{"idx": 3711, "name": "Wilkes Co Schools Bus Office", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools bus office, public district"}
+{"idx": 3712, "name": "Grand County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transport, grandschools.org"}
+{"idx": 3713, "name": "Sioux Center School Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 3714, "name": "Dundy County Stratton Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transport"}
+{"idx": 3715, "name": "Accessbile Mini Van Rentals", "verdict": "not_transport", "confidence": 0.7, "reason": "Van rental business, not operator"}
+{"idx": 3716, "name": "Tender Care Non Emergency", "verdict": "not_transport", "confidence": 0.75, "reason": "Non-emergency medical transport"}
+{"idx": 3717, "name": "Mellor's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name possessive bus service"}
+{"idx": 3718, "name": "Distinctive Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport company"}
+{"idx": 3719, "name": "Kelloggsville Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transport, kvilleps.org public schools"}

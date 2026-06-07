@@ -1,0 +1,30 @@
+{"idx": 4920, "name": "American Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; possible special-needs transport"}
+{"idx": 4921, "name": "Nationwide Medical Trnsprtn", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not student transport"}
+{"idx": 4922, "name": "Accent Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; possible special-needs contract"}
+{"idx": 4923, "name": "North Carolina Citizens-Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "NC Justice Center advocacy org, not operator"}
+{"idx": 4924, "name": "RJM Student Transportation Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Named student transportation service"}
+{"idx": 4925, "name": "Chauffeured Dreams Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/chauffeur; possible special-needs contract"}
+{"idx": 4926, "name": "Global Transport Training Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Training services, not operator"}
+{"idx": 4927, "name": "Andiamos Platinum TRNSP", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport LLC; possible special-needs"}
+{"idx": 4928, "name": "ATP Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine; possible special-needs contract"}
+{"idx": 4929, "name": "Elite", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, insufficient info"}
+{"idx": 4930, "name": "Lightning Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; possible special-needs"}
+{"idx": 4931, "name": "Paradise Limo Svc Stuart", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; possible special-needs"}
+{"idx": 4932, "name": "Gvi Management Group LLC", "verdict": "unsure", "confidence": 0.3, "reason": "Generic management group, unclear"}
+{"idx": 4933, "name": "Northwest Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; possible special-needs"}
+{"idx": 4934, "name": "PH Transportation LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport LLC; possible special-needs"}
+{"idx": 4935, "name": "Honesty Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, no clarity"}
+{"idx": 4936, "name": "Manchester Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; possible special-needs"}
+{"idx": 4937, "name": "Alabama Medical Transporters", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not student"}
+{"idx": 4938, "name": "Fleur D' Feaux Transport LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport LLC; possible special-needs"}
+{"idx": 4939, "name": "Sylvan Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Named transportation LLC with website"}
+{"idx": 4940, "name": "Super Joes Limo LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo LLC; possible special-needs"}
+{"idx": 4941, "name": "Pringle Tours", "verdict": "private_contractor", "confidence": 0.5, "reason": "Tour operator; possible charter/student"}
+{"idx": 4942, "name": "Whitehall School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District in-house garage, k12.oh.us domain"}
+{"idx": 4943, "name": "Freedom Charter & Limousine LL", "verdict": "private_contractor", "confidence": 0.6, "reason": "Charter and limo operator"}
+{"idx": 4944, "name": "Kellys Carpet Installations", "verdict": "not_transport", "confidence": 0.95, "reason": "Carpet installer, not transport"}
+{"idx": 4945, "name": "Spalding Bus Line", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus Line, school flag set"}
+{"idx": 4946, "name": "AAA Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport co; possible special-needs"}
+{"idx": 4947, "name": "American Alternative Trnsprtn", "verdict": "private_contractor", "confidence": 0.55, "reason": "Alternative transport; possible special-needs"}
+{"idx": 4948, "name": "Flavjack Touring & Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Touring/transport; possible charter"}
+{"idx": 4949, "name": "U-Save Auto Rental", "verdict": "not_transport", "confidence": 0.9, "reason": "Auto rental company, not operator"}

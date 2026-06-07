@@ -1,0 +1,25 @@
+{"idx": 0, "name": "Northstar Bus Lines LLC", "verdict": "private_contractor", "confidence": 0.97, "reason": "LLC school bus line operator"}
+{"idx": 1, "name": "Voigt's Bus", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-named private school bus operator"}
+{"idx": 2, "name": "Marschall Line", "verdict": "private_contractor", "confidence": 0.93, "reason": "Family-named private bus line"}
+{"idx": 3, "name": "Hallen School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual private school, not transport"}
+{"idx": 4, "name": "Mcllwain School Bus Line Inc", "verdict": "private_contractor", "confidence": 0.98, "reason": "Inc school bus line contractor"}
+{"idx": 5, "name": "Yellow Bird Co Inc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Inc private school bus operator"}
+{"idx": 6, "name": "Jubb's Bus Svc", "verdict": "private_contractor", "confidence": 0.96, "reason": "Family-named bus service company"}
+{"idx": 7, "name": "Harlem Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Harlem 122 school district transportation"}
+{"idx": 8, "name": "Peter Brega Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named Inc bus contractor"}
+{"idx": 9, "name": "Service Bus Tours", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus/tours operator"}
+{"idx": 10, "name": "Fayetteville Transportation", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "Fayetteville school district transportation"}
+{"idx": 11, "name": "Kelly's Transit", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named transit operator"}
+{"idx": 12, "name": "West County Transportation", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "JPA cooperative, schoolbusing.org domain"}
+{"idx": 13, "name": "Via Mobility", "verdict": "private_contractor", "confidence": 0.7, "reason": "Nonprofit paratransit/mobility operator"}
+{"idx": 14, "name": "Jennings Transportation", "verdict": "private_contractor", "confidence": 0.93, "reason": "Private trans corp contractor"}
+{"idx": 15, "name": "Bedford Charter Svc", "verdict": "private_contractor", "confidence": 0.94, "reason": "Private charter bus service"}
+{"idx": 16, "name": "D W Clark & Son", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned school bus contractor"}
+{"idx": 17, "name": "Cloquet Transit Co", "verdict": "private_contractor", "confidence": 0.93, "reason": "Private transit company"}
+{"idx": 18, "name": "Fort Wayne Cmnty Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District in-house transportation department"}
+{"idx": 19, "name": "Wolfe Co Bus Terminal", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Wolfe County schools bus terminal"}
+{"idx": 20, "name": "Lower Pioneer Vly Educational", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Educational collaborative, not private"}
+{"idx": 21, "name": "Lincoln Coach Lines", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private coach line operator"}
+{"idx": 22, "name": "Watson", "verdict": "private_contractor", "confidence": 0.7, "reason": "Watson Inc bus service operator"}
+{"idx": 23, "name": "Harvey School", "verdict": "not_transport", "confidence": 0.98, "reason": "Actual private school in Katonah"}
+{"idx": 24, "name": "Hoff-Barthelson Music School", "verdict": "not_transport", "confidence": 0.99, "reason": "Music school, not transportation"}

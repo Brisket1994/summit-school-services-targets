@@ -1,0 +1,30 @@
+{"idx": 3960, "name": "Running Horse Enterprises LLC", "verdict": "unsure", "confidence": 0.45, "reason": "Generic name, special needs flag only"}
+{"idx": 3961, "name": "School Transportation Of Kids", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport operator in Miami"}
+{"idx": 3962, "name": "Sessaly Rose Transit Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transit Inc, special needs operator"}
+{"idx": 3963, "name": "Jomo Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC special needs transportation operator"}
+{"idx": 3964, "name": "People Care-Iers Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Boston-area special needs transport"}
+{"idx": 3965, "name": "Nelsonville York City Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 3966, "name": "Charis Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private CA special needs transport company"}
+{"idx": 3967, "name": "Amtran Medical Transport Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical/EMS transport, not school bus"}
+{"idx": 3968, "name": "Caldwell County Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school bus garage, in-house"}
+{"idx": 3969, "name": "Hope Ambulette Svc Corp", "verdict": "private_contractor", "confidence": 0.6, "reason": "Ambulette service, may handle special needs"}
+{"idx": 3970, "name": "Mid States School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator in Nebraska"}
+{"idx": 3971, "name": "Afoi Global Limousine LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine LLC, possible special needs transport"}
+{"idx": 3972, "name": "Hermes Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear transport focus"}
+{"idx": 3973, "name": "Special Service Trnsprtn Agcy", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "SSTA Vermont public paratransit agency"}
+{"idx": 3974, "name": "Jefferson Scranton CSD Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 3975, "name": "Active Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC special needs transport"}
+{"idx": 3976, "name": "Bellevue City Schools District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3977, "name": "Metrolift Other", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Houston Metro paratransit, public agency"}
+{"idx": 3978, "name": "Bragg Lines", "verdict": "unsure", "confidence": 0.4, "reason": "Fort Rucker military base, unclear operator"}
+{"idx": 3979, "name": "Imago Transitions", "verdict": "not_transport", "confidence": 0.55, "reason": "Likely therapy/transitions service, not transport"}
+{"idx": 3980, "name": "Direct Point Logistics Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Logistics company, special needs flag"}
+{"idx": 3981, "name": "Hurst Limousines", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine operator, possible special needs"}
+{"idx": 3982, "name": "Ala Elegance Limousine & Trans", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine and transport operator"}
+{"idx": 3983, "name": "Business 4 Solutions", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, unclear transport operation"}
+{"idx": 3984, "name": "County Exec Taxi & Car Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private taxi/car service operator"}
+{"idx": 3985, "name": "Transportation Solution Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special needs transport service"}
+{"idx": 3986, "name": "Midland Services Link Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic services name, unclear focus"}
+{"idx": 3987, "name": "Express Care Mobility", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private mobility/special needs transport"}
+{"idx": 3988, "name": "Siebert Mobility Of Iowa LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair van dealer/transport operator"}
+{"idx": 3989, "name": "Affordable Wheelchair Vans LLC", "verdict": "not_transport", "confidence": 0.65, "reason": "Wheelchair van sales, not transport service"}

@@ -1,0 +1,30 @@
+{"idx": 5160, "name": "Fidelity Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport co, special-needs flag"}
+{"idx": 5161, "name": "Go Bob Go", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear name, tiny operation"}
+{"idx": 5162, "name": "Gold Star Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo svc, possible special-needs transport"}
+{"idx": 5163, "name": "Rockys Desert Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal student-transport fit"}
+{"idx": 5164, "name": "Thompsons Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal fit"}
+{"idx": 5165, "name": "Alliance 1 Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company"}
+{"idx": 5166, "name": "Allstars Of Mecklenburg Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Inc, special-needs transport"}
+{"idx": 5167, "name": "Full Moon Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, unclear business"}
+{"idx": 5168, "name": "Lundberg Specialty Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Specialty transport, private operator"}
+{"idx": 5169, "name": "Walls Logistics LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "LLC logistics, marginal fit"}
+{"idx": 5170, "name": "United Non-Emergency Med", "verdict": "private_contractor", "confidence": 0.4, "reason": "NEMT, not school transport"}
+{"idx": 5171, "name": "Front Row Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal fit"}
+{"idx": 5172, "name": "Southeast Trans", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport, small operator"}
+{"idx": 5173, "name": "Bus Center Of Michigan Inc", "verdict": "unsure", "confidence": 0.45, "reason": "Likely bus dealer, not operator"}
+{"idx": 5174, "name": "Wheelchair Transportation Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair transport, special-needs adjacent"}
+{"idx": 5175, "name": "Eps Public Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Edmond Public Schools transportation dept"}
+{"idx": 5176, "name": "KSM Transport Advisors", "verdict": "not_transport", "confidence": 0.8, "reason": "Transport advisors/consultancy, not operator"}
+{"idx": 5177, "name": "Affordable Senior Transport", "verdict": "private_contractor", "confidence": 0.4, "reason": "Senior transport, not school-focused"}
+{"idx": 5178, "name": "Absolute Luxury Limousine LLC", "verdict": "private_contractor", "confidence": 0.45, "reason": "Luxury limo, marginal fit"}
+{"idx": 5179, "name": "Affordbladorable Limousine LLC", "verdict": "private_contractor", "confidence": 0.45, "reason": "Limo LLC, marginal fit"}
+{"idx": 5180, "name": "Chadwick Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal fit"}
+{"idx": 5181, "name": "Coaches Mountain LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Coach LLC, possible charter/student"}
+{"idx": 5182, "name": "Okeechobee School Board", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school board"}
+{"idx": 5183, "name": "I Still Have A Dream Fndtn", "verdict": "not_transport", "confidence": 0.9, "reason": "Foundation/nonprofit, not transport"}
+{"idx": 5184, "name": "J L S Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Initials only, unclear business"}
+{"idx": 5185, "name": "Central Jersey Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, school flag"}
+{"idx": 5186, "name": "Roadmaster Limos & Trnsp", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo and transport private operator"}
+{"idx": 5187, "name": "Kiddie City Early Learning Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Early learning center, not transport"}
+{"idx": 5188, "name": "CEO Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal fit"}
+{"idx": 5189, "name": "Hi Life Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal fit"}

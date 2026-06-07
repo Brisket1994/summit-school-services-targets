@@ -1,0 +1,30 @@
+{"idx": 3870, "name": "Dove Inc Bus Office", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous bus office, could be nonprofit or contractor"}
+{"idx": 3871, "name": "BLHS Schools Bus Supervisor", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "School district bus supervisor, in-house"}
+{"idx": 3872, "name": "J & N Transit Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit corp, special needs transport"}
+{"idx": 3873, "name": "Cherry Creek Sch Dist 5", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3874, "name": "Allstar Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC student transport"}
+{"idx": 3875, "name": "Connect Kids Ct Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc, student transport"}
+{"idx": 3876, "name": "Greenwich Country Day Sch Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Private school, not transport operator"}
+{"idx": 3877, "name": "Eben-Ezer School Trnsprtn", "verdict": "not_transport", "confidence": 0.7, "reason": "School-affiliated transport, likely religious school"}
+{"idx": 3878, "name": "Hillsborough County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3879, "name": "Iowa Falls Cmnty Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district transport"}
+{"idx": 3880, "name": "Oneness Mobility Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC mobility service"}
+{"idx": 3881, "name": "Elevate Transportation Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc, special needs transport"}
+{"idx": 3882, "name": "Med Tran Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical transport Inc"}
+{"idx": 3883, "name": "Greene County Sch-Trnsprtn Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation department"}
+{"idx": 3884, "name": "Henderson County Pubc Sch-Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus department"}
+{"idx": 3885, "name": "Auburn Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation"}
+{"idx": 3886, "name": "Dorsey Wilfred", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear entity type"}
+{"idx": 3887, "name": "Middletown Township Bus-Pro", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus-Pro likely private contractor despite township name"}
+{"idx": 3888, "name": "Medtrust Ambulance", "verdict": "private_contractor", "confidence": 0.6, "reason": "Ambulance service, possibly contracts special needs"}
+{"idx": 3889, "name": "Santee Wateree Regl Transit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Regional transit authority, public agency"}
+{"idx": 3890, "name": "Dietrich's Of Mitchell Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus company"}
+{"idx": 3891, "name": "Easters Auto & Bus Sale", "verdict": "not_transport", "confidence": 0.7, "reason": "Auto and bus dealer, not transport operator"}
+{"idx": 3892, "name": "Poquoson City Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3893, "name": "Wvbe-Vibe 100 Bus Ofc 100 Bus", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "WV Board of Education bus office"}
+{"idx": 3894, "name": "Abramson Enterprises Inc", "verdict": "unsure", "confidence": 0.45, "reason": "Generic enterprises name, USVI based"}
+{"idx": 3895, "name": "Board Of Education Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Board of Education in-house garage"}
+{"idx": 3896, "name": "Orma Limo Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo Inc, special needs transport"}
+{"idx": 3897, "name": "Metro Med Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport service"}
+{"idx": 3898, "name": "Around Clock Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs transport"}
+{"idx": 3899, "name": "Sbcusd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "San Bernardino USD transportation department"}

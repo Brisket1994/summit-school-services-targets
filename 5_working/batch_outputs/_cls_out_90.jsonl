@@ -1,0 +1,30 @@
+{"idx": 2700, "name": "Connections Through Mobile", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, special-needs transport possible"}
+{"idx": 2701, "name": "Michigan Truck & Bus Svc Ctr", "verdict": "not_transport", "confidence": 0.7, "reason": "Service center, not transport operator"}
+{"idx": 2702, "name": "Hoquiam-Abderdeen Transportatn", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "District transport between two school systems"}
+{"idx": 2703, "name": "Disabled Medical Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical/special needs transport, likely NEMT"}
+{"idx": 2704, "name": "Milan Area Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District-owned transportation dept"}
+{"idx": 2705, "name": "Greeneview Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "K12.OH.US district bus garage"}
+{"idx": 2706, "name": "Ride4health LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Health/medical transport, not school"}
+{"idx": 2707, "name": "Virginia Medical Transport Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not school bus"}
+{"idx": 2708, "name": "Canfield Local Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local school district transportation"}
+{"idx": 2709, "name": "Tarpon Bus Ctr Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc bus center, possible operator"}
+{"idx": 2710, "name": "Gen Bus Mgmt Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus management Inc"}
+{"idx": 2711, "name": "RNG Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private NJ school transport Inc"}
+{"idx": 2712, "name": "Scholastic Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NJ school bus company"}
+{"idx": 2713, "name": "V & G Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private NJ school transport operator"}
+{"idx": 2714, "name": "A & C School Bus Consltng LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Consulting firm, not operator"}
+{"idx": 2715, "name": "Show Bus Public Transportation", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Public transit agency"}
+{"idx": 2716, "name": "Old School Shuttles", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private shuttle, possibly tourism not school"}
+{"idx": 2717, "name": "James Collins Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private bus service LLC"}
+{"idx": 2718, "name": "Limo Scene Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine company, not school bus"}
+{"idx": 2719, "name": "Joseph L Gonzales School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 2720, "name": "Michelle Davis Sch Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 2721, "name": "Schools Bus Barns", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous, could be district bus facility"}
+{"idx": 2722, "name": "Bowman Brothers Trucking Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name trucking with school transport"}
+{"idx": 2723, "name": "Nys SM Bus Develop Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "NY Small Business Development Center"}
+{"idx": 2724, "name": "Meda Care Van", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical care van, not school"}
+{"idx": 2725, "name": "Roettger Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private bus service"}
+{"idx": 2726, "name": "Campus Transport LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC campus transport operator"}
+{"idx": 2727, "name": "Elsa School Bus-Miami", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Miami school bus operator"}
+{"idx": 2728, "name": "Melba School Trnsprtn Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Miami school transportation Corp"}
+{"idx": 2729, "name": "Malliette Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus company Inc"}

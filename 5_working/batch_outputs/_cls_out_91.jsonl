@@ -1,0 +1,30 @@
+{"idx": 2730, "name": "Sawtelle's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Possessive family name, bus service"}
+{"idx": 2731, "name": "Manor Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 2732, "name": "Lake Chelan Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district transportation dept"}
+{"idx": 2733, "name": "Genesis Non Emergency", "verdict": "private_contractor", "confidence": 0.7, "reason": "NEMT operator, special needs"}
+{"idx": 2734, "name": "Berber Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ school transport company"}
+{"idx": 2735, "name": "Strategic Bus Solutions NJ", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus solutions company"}
+{"idx": 2736, "name": "Belton Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 2737, "name": "Allegany County Sch Bus Contrs", "verdict": "private_contractor", "confidence": 0.8, "reason": "County school bus contractors association"}
+{"idx": 2738, "name": "Meridian Public Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school bus garage"}
+{"idx": 2739, "name": "A1 Elegant Sch Trans Logistic", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport logistics"}
+{"idx": 2740, "name": "Rochester Medical Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "NEMT operator, special needs"}
+{"idx": 2741, "name": "Mobility Experts-Senior Hm", "verdict": "not_transport", "confidence": 0.6, "reason": "Senior mobility, not school transport"}
+{"idx": 2742, "name": "World Class Limousine", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not school"}
+{"idx": 2743, "name": "G M Truck & Bus-Caretaker", "verdict": "unsure", "confidence": 0.5, "reason": "Truck and bus, unclear operator"}
+{"idx": 2744, "name": "Edgewood Isd Mntnc/Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD maintenance/transportation dept"}
+{"idx": 2745, "name": "Second Mile Support LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC, school transport"}
+{"idx": 2746, "name": "Grandview Schools Trnsprtn DPT", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district transportation department"}
+{"idx": 2747, "name": "Myrtle Point Fun Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private incorporated bus company"}
+{"idx": 2748, "name": "Island Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company"}
+{"idx": 2749, "name": "Wayne County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus garage"}
+{"idx": 2750, "name": "Sarasota Cnty Intstate Bus Ctr", "verdict": "unsure", "confidence": 0.5, "reason": "Interstate bus center, unclear"}
+{"idx": 2751, "name": "Need-A-Lift", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs lift transport"}
+{"idx": 2752, "name": "JCR Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private incorporated transport company"}
+{"idx": 2753, "name": "Long Beach NY Pubc Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Public transportation entity"}
+{"idx": 2754, "name": "Wautoma Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 2755, "name": "My Medical Transporter LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "NEMT operator, special needs"}
+{"idx": 2756, "name": "Rockwell City Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "City school bus barn"}
+{"idx": 2757, "name": "Quantum Care Solutions Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private care/transport company"}
+{"idx": 2758, "name": "Ripley County Transit", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "County public transit agency"}
+{"idx": 2759, "name": "Grand Ledge Pubc Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school transportation dept"}

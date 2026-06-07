@@ -1,0 +1,30 @@
+{"idx": 990, "name": "American Cities Auto Leasing", "verdict": "unsure", "confidence": 0.45, "reason": "Auto leasing name; special needs flag ambiguous"}
+{"idx": 991, "name": "Via Mobility", "verdict": "not_transport", "confidence": 0.7, "reason": "Nonprofit paratransit/mobility org (.org)"}
+{"idx": 992, "name": "Jennings Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name PA school bus contractor"}
+{"idx": 993, "name": "West Geauga Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 994, "name": "Stratford Student Bus Svc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Durham School Services site; National Express owned"}
+{"idx": 995, "name": "Mentor School Svc TRNSP", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Mentor district in-house transport"}
+{"idx": 996, "name": "Centralia Pupil Trnsprtn Co-Op", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District cooperative transportation"}
+{"idx": 997, "name": "Interntonal SCHL Bus Svc Isbs", "verdict": "private_contractor", "confidence": 0.8, "reason": "Chicago private school bus service"}
+{"idx": 998, "name": "Center Grove TRNSP Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 999, "name": "Woodford County Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district bus garage"}
+{"idx": 1000, "name": "Tic School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "Canton district in-house (ccsdistrict.org)"}
+{"idx": 1001, "name": "University Of IL Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public university transportation"}
+{"idx": 1002, "name": "Troy School Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Could be district or contractor; no website"}
+{"idx": 1003, "name": "Alex Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company; special needs transport possible"}
+{"idx": 1004, "name": "Reliable Express Care Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Possibly medical transport, not school"}
+{"idx": 1005, "name": "ICC West Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc corporate suffix, school flagged"}
+{"idx": 1006, "name": "Canon-Mcmillan Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 1007, "name": "Elyria Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District; website shows First Student operating"}
+{"idx": 1008, "name": "Terry's Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name Inc, Brooklyn special needs"}
+{"idx": 1009, "name": "Springfield Township Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Township school district"}
+{"idx": 1010, "name": "MTS Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc special needs transport VA"}
+{"idx": 1011, "name": "Intercontinental Trading Inc", "verdict": "unsure", "confidence": 0.35, "reason": "Trading name unusual for bus operator"}
+{"idx": 1012, "name": "Comal Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Texas ISD public school district"}
+{"idx": 1013, "name": "Tranmedic-Wheelchair & Gurney", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical wheelchair/gurney transport, not school"}
+{"idx": 1014, "name": "Raleigh County Cmnty Action", "verdict": "not_transport", "confidence": 0.9, "reason": "Community action nonprofit agency"}
+{"idx": 1015, "name": "#70 Division Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Likely CTA bus route, not operator"}
+{"idx": 1016, "name": "Booth School-Bus Career", "verdict": "not_transport", "confidence": 0.9, "reason": "Chicago Booth business school career office"}
+{"idx": 1017, "name": "Illinois Bus & Van Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealership/sales, not operator"}
+{"idx": 1018, "name": "JPC Enterprises Inc Which Will", "verdict": "unsure", "confidence": 0.35, "reason": "Generic Inc, Wacker Dr office address"}
+{"idx": 1019, "name": "West Clermont Local Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Local school district"}

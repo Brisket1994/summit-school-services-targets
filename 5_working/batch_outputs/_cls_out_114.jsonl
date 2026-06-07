@@ -1,0 +1,30 @@
+{"idx": 3420, "name": "Community Med Trans-South", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical/special-needs transport private operator"}
+{"idx": 3421, "name": "Blue Boy Bus Trnsprtn Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus transportation company Inc"}
+{"idx": 3422, "name": "American Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs wheelchair transport"}
+{"idx": 3423, "name": "Sunshine Medical Transport-Fl", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical/special-needs transport"}
+{"idx": 3424, "name": "Range Of Motions Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Name unclear, possibly therapy/care service"}
+{"idx": 3425, "name": "Alton Coach Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private coach company Inc"}
+{"idx": 3426, "name": "Pacalo LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic LLC name, unclear business"}
+{"idx": 3427, "name": "Buttafly's Xpress LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC special-needs transport"}
+{"idx": 3428, "name": "Ohio Power Co Bus Ofc Power Co", "verdict": "not_transport", "confidence": 0.7, "reason": "Utility company business office, not transport"}
+{"idx": 3429, "name": "Premier Express Transport LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC transport company"}
+{"idx": 3430, "name": "Norwalk Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation department"}
+{"idx": 3431, "name": "Community Care Svc Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Generic care service, unclear if transport"}
+{"idx": 3432, "name": "J & I Classic Limousine Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine service"}
+{"idx": 3433, "name": "Liberty School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Liberty SD garage, district website libertysd.us"}
+{"idx": 3434, "name": "Johnson County School TRNSP", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district transportation"}
+{"idx": 3435, "name": "Midwest Limousine Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine service"}
+{"idx": 3436, "name": "Quality Limousine Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limousine service"}
+{"idx": 3437, "name": "Orange County Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus garage"}
+{"idx": 3438, "name": "Virgo Medical Svc Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private medical transport Inc"}
+{"idx": 3439, "name": "Rassier School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private family-name school bus company Inc"}
+{"idx": 3440, "name": "Dean Management Svc Inc", "verdict": "unsure", "confidence": 0.45, "reason": "Generic management service, unclear"}
+{"idx": 3441, "name": "Pueblo Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district transportation"}
+{"idx": 3442, "name": "To & From School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school transportation"}
+{"idx": 3443, "name": "Tampa Bay Intl Bus Council", "verdict": "not_transport", "confidence": 0.75, "reason": "Business council/association, not transport"}
+{"idx": 3444, "name": "Cartersville School Syst", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school system"}
+{"idx": 3445, "name": "HD Development-MD Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Development company, not transport"}
+{"idx": 3446, "name": "Roper Mountain Bus Ctr I LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Bus center, possibly dealership not operator"}
+{"idx": 3447, "name": "Perry School System Trans", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school system transportation"}
+{"idx": 3448, "name": "Biloxi School Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public school district transportation"}
+{"idx": 3449, "name": "Teton Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}

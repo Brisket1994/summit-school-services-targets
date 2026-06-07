@@ -1,0 +1,30 @@
+{"idx": 6960, "name": "School District Osceola County", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6961, "name": "South Dade Traffic School", "verdict": "not_transport", "confidence": 0.95, "reason": "Driver traffic school, not transport operator"}
+{"idx": 6962, "name": "Volusia County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation dept"}
+{"idx": 6963, "name": "Putnam County Transit Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County government transit department"}
+{"idx": 6964, "name": "School District Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, only 3 employees"}
+{"idx": 6965, "name": "Student Transport Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "In-house transport for Woodward Academy"}
+{"idx": 6966, "name": "Wilkes County School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district bus shop"}
+{"idx": 6967, "name": "Mediapolis Comm School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 6968, "name": "Nevada Community High School", "verdict": "not_transport", "confidence": 0.95, "reason": "Public high school"}
+{"idx": 6969, "name": "Seibus", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "SEIRPC regional planning commission transit"}
+{"idx": 6970, "name": "Joint School District 60", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6971, "name": "Joint School District No 171", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6972, "name": "Kellogg School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 6973, "name": "Lake Pend Oreille School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6974, "name": "Abingdon School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 6975, "name": "Athens Community Unit School", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community unit school district"}
+{"idx": 6976, "name": "Bethalto School Dist 8 Mntnc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district maintenance"}
+{"idx": 6977, "name": "Dispatch Medical Transport", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical transport, not student transport"}
+{"idx": 6978, "name": "Homer Consolidated School", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Consolidated public school district"}
+{"idx": 6979, "name": "Jacksonville School Dist 117", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6980, "name": "Jacobs High School", "verdict": "not_transport", "confidence": 0.95, "reason": "Public high school"}
+{"idx": 6981, "name": "Marshall Schools Business Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 6982, "name": "Oak Wood School Unit 76", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district unit"}
+{"idx": 6983, "name": "Peotone School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 6984, "name": "Quincy Public School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6985, "name": "School District U-46-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 6986, "name": "Bloomington Transit", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Municipal public transit agency"}
+{"idx": 6987, "name": "Boone County Senior Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Senior services nonprofit, not student"}
+{"idx": 6988, "name": "Marion Community School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 6989, "name": "MSD Decatur Township", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Metropolitan school district township"}

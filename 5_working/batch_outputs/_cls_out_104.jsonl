@@ -1,0 +1,30 @@
+{"idx": 3120, "name": "Smith Matthew Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service operator"}
+{"idx": 3121, "name": "Care Ah Van Express LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, special needs transport"}
+{"idx": 3122, "name": "South Carolina Chillicothe", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Ccsd.us website implies city school district"}
+{"idx": 3123, "name": "Emessa Trading Group LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Trading group name unclear if transport"}
+{"idx": 3124, "name": "Hisoar LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear business type from name"}
+{"idx": 3125, "name": "Community Transportation", "verdict": "unsure", "confidence": 0.45, "reason": "Generic name, could be nonprofit/public"}
+{"idx": 3126, "name": "Cambridge City Schools Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City schools bus garage in-house"}
+{"idx": 3127, "name": "Wheelchair Accessible Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private wheelchair transport operator"}
+{"idx": 3128, "name": "Westcal Corp Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Corp doing bus business"}
+{"idx": 3129, "name": "Stafford MSD Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Stafford Municipal School District department"}
+{"idx": 3130, "name": "Ketchikan Senior Ctr", "verdict": "not_transport", "confidence": 0.9, "reason": "Senior center, not transport company"}
+{"idx": 3131, "name": "Daniel M Doyle 2007 Electing", "verdict": "unsure", "confidence": 0.3, "reason": "Trust name, unclear operation"}
+{"idx": 3132, "name": "South Florida Commuter Svc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Regional commuter services, public agency"}
+{"idx": 3133, "name": "Coastal Paramedics", "verdict": "not_transport", "confidence": 0.85, "reason": "Paramedic/EMS service, not school transport"}
+{"idx": 3134, "name": "Comfort Care Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private medical/special needs transport"}
+{"idx": 3135, "name": "Pellston Schools Bus Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district in-house transportation"}
+{"idx": 3136, "name": "VGM Gov Biz LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Government biz LLC, unclear focus"}
+{"idx": 3137, "name": "KNOX Medex Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical transport company"}
+{"idx": 3138, "name": "Diamonds-Jewels Med Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private medical transport LLC"}
+{"idx": 3139, "name": "Transportation Garage", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Generic name suggests district garage"}
+{"idx": 3140, "name": "Ray's Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private transport service"}
+{"idx": 3141, "name": "Together We Ride LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC special needs transport"}
+{"idx": 3142, "name": "Bus & Truck Of Chicago Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus/truck company Inc"}
+{"idx": 3143, "name": "Agape Handicap Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private handicap transport service"}
+{"idx": 3144, "name": "G & G Wheelchair Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private wheelchair transport LLC"}
+{"idx": 3145, "name": "Clarkston School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 3146, "name": "One Life Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport operator"}
+{"idx": 3147, "name": "Westshore Chrtr Boat Lmsne Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Charter boat/limousine, not school bus"}
+{"idx": 3148, "name": "Bristol Township School", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Township school district"}
+{"idx": 3149, "name": "Care 4 Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC special needs transport"}

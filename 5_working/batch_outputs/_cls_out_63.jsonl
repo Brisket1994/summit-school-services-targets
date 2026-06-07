@@ -1,0 +1,30 @@
+{"idx": 1890, "name": "My Yellow School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator name"}
+{"idx": 1891, "name": "Catholic Secondary Sch Bus Grg", "verdict": "not_transport", "confidence": 0.85, "reason": "Catholic school's own bus garage"}
+{"idx": 1892, "name": "Idalmys School Bus Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}
+{"idx": 1893, "name": "Charlotte School Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "CMS district transportation department"}
+{"idx": 1894, "name": "Northern NV Water Solutions", "verdict": "not_transport", "confidence": 0.95, "reason": "Water company, not transportation"}
+{"idx": 1895, "name": "Visser Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus service"}
+{"idx": 1896, "name": "West End-Elliott Bus Assoc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus association in PA"}
+{"idx": 1897, "name": "East Coast School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Incorporated private school bus operator"}
+{"idx": 1898, "name": "Barker Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-name Inc school transport PA"}
+{"idx": 1899, "name": "Orange County Public Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County government public transportation"}
+{"idx": 1900, "name": "Reconnect Transportation Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport service"}
+{"idx": 1901, "name": "Pervine LTD Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Ltd company doing bus business"}
+{"idx": 1902, "name": "Gold Coast Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service in Memphis"}
+{"idx": 1903, "name": "Cabulance Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs/medical transport Inc"}
+{"idx": 1904, "name": "Christianson Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus company"}
+{"idx": 1905, "name": "Sanders Bkkeeping Bus Svc LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Bookkeeping business service, not transport"}
+{"idx": 1906, "name": "Four Legged Kids Sch Bus LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC school bus operator"}
+{"idx": 1907, "name": "Wheelcare Express Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs/paratransit operator"}
+{"idx": 1908, "name": "Covered Educational TRNSPRTN", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private educational transport company FL"}
+{"idx": 1909, "name": "MK Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport MI"}
+{"idx": 1910, "name": "Eshelman School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private school bus service"}
+{"idx": 1911, "name": "Fleetwood Community Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Incorporated private community bus operator"}
+{"idx": 1912, "name": "Garlan ISD Trnsprtn Facility", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Garland ISD district transportation facility"}
+{"idx": 1913, "name": "Small Bus Council For Amer", "verdict": "not_transport", "confidence": 0.9, "reason": "Small business council, not transport"}
+{"idx": 1914, "name": "Santa Maria Energy Holdings", "verdict": "not_transport", "confidence": 0.95, "reason": "Energy holdings company, not transport"}
+{"idx": 1915, "name": "Gasconade Reorganized School", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Reorganized public school district"}
+{"idx": 1916, "name": "Piedmont Wagon", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly transport"}
+{"idx": 1917, "name": "Van Dyke Schools Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 1918, "name": "Mc Gough Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name incorporated bus company"}
+{"idx": 1919, "name": "Point Plus", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, website is city domain"}

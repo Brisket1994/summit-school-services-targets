@@ -1,0 +1,30 @@
+{"idx": 5910, "name": "Luda Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo, special needs flag; tiny operator"}
+{"idx": 5911, "name": "Maberry Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family name transport, special needs"}
+{"idx": 5912, "name": "Malik Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family name transport, special needs"}
+{"idx": 5913, "name": "MC S Medical Transportation", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not student/school"}
+{"idx": 5914, "name": "My Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special needs"}
+{"idx": 5915, "name": "Now Medical Transportation", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical transport, not student"}
+{"idx": 5916, "name": "Paris Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo, possibly special needs transport"}
+{"idx": 5917, "name": "Pick Up & Drop Off Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small transport, special needs"}
+{"idx": 5918, "name": "Power Transportation Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transport company"}
+{"idx": 5919, "name": "Precious Stone Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo, possibly special needs"}
+{"idx": 5920, "name": "Rapid Assurance", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, unclear business"}
+{"idx": 5921, "name": "Ray Transport Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transport"}
+{"idx": 5922, "name": "Ready To Go Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transport"}
+{"idx": 5923, "name": "Real Connections LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Generic name, citylocal directory"}
+{"idx": 5924, "name": "Reliable Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo, possibly special needs"}
+{"idx": 5925, "name": "Richardson Medi Car Trnsprtn", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical car transport, not student"}
+{"idx": 5926, "name": "Simms Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family name transport"}
+{"idx": 5927, "name": "SMMC Corp", "verdict": "unsure", "confidence": 0.35, "reason": "Acronym, likely medical transport"}
+{"idx": 5928, "name": "Spendr's West Suburan", "verdict": "unsure", "confidence": 0.35, "reason": "Unclear name and business"}
+{"idx": 5929, "name": "Sure Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transport"}
+{"idx": 5930, "name": "Tanner Group Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Generic group name, downtown office"}
+{"idx": 5931, "name": "TNT Enterprise", "verdict": "unsure", "confidence": 0.35, "reason": "Generic enterprise name"}
+{"idx": 5932, "name": "Transportation Rhondas Gental", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small family transport operator"}
+{"idx": 5933, "name": "Trust Riders Medical", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical transport, not student"}
+{"idx": 5934, "name": "Unlimited Care Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Care transport, possibly special needs"}
+{"idx": 5935, "name": "US Transport Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small private transport service"}
+{"idx": 5936, "name": "V J Ware Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family name transport company"}
+{"idx": 5937, "name": "Valentinos Private Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo, possibly special needs"}
+{"idx": 5938, "name": "Wills Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family name transport company"}
+{"idx": 5939, "name": "N C Sm Bus & Tech Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small business development center, not transport"}

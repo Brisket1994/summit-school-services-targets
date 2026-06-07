@@ -1,0 +1,30 @@
+{"idx": 5940, "name": "A Car Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small car service, possibly special-needs transport"}
+{"idx": 5941, "name": "A Travel A Limousine LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo LLC, special-needs flagged"}
+{"idx": 5942, "name": "Ace Limousine Co", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo company, special-needs flagged"}
+{"idx": 5943, "name": "All Class Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo operator, special-needs flagged"}
+{"idx": 5944, "name": "All Exclusive Limo Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service, special-needs flagged"}
+{"idx": 5945, "name": "Alston Entertainment Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Entertainment company, not transport"}
+{"idx": 5946, "name": "Arc Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo operator, special-needs flagged"}
+{"idx": 5947, "name": "Argosy Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo operator, special-needs flagged"}
+{"idx": 5948, "name": "Choice Limo LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo LLC, special-needs flagged"}
+{"idx": 5949, "name": "Chucks VIP Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service, special-needs flagged"}
+{"idx": 5950, "name": "Concord Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo operator, special-needs flagged"}
+{"idx": 5951, "name": "Easy Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service, special-needs flagged"}
+{"idx": 5952, "name": "Enigma Limousine LTD", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo company, special-needs flagged"}
+{"idx": 5953, "name": "Innovative Embroidry", "verdict": "not_transport", "confidence": 0.9, "reason": "Embroidery shop, not transport"}
+{"idx": 5954, "name": "Javed Nasir", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear business type"}
+{"idx": 5955, "name": "L Austin Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service, special-needs flagged"}
+{"idx": 5956, "name": "Limo Now LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo LLC, special-needs flagged"}
+{"idx": 5957, "name": "O & J Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport company, special-needs flagged"}
+{"idx": 5958, "name": "On The Job Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo Inc, special-needs flagged"}
+{"idx": 5959, "name": "Orak Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo Inc, special-needs flagged"}
+{"idx": 5960, "name": "Pyramids Radwan Express Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo operator, special-needs flagged"}
+{"idx": 5961, "name": "Sprunky Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo Inc, special-needs flagged"}
+{"idx": 5962, "name": "Tommys Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo Inc, special-needs flagged"}
+{"idx": 5963, "name": "Box Elder Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 5964, "name": "Olympic Taxi Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Taxi service, may do special-needs transport"}
+{"idx": 5965, "name": "A Fantasy Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo operator, special-needs flagged"}
+{"idx": 5966, "name": "Archangels Wheelchair Trnsprt", "verdict": "private_contractor", "confidence": 0.7, "reason": "Wheelchair transport, special-needs flagged"}
+{"idx": 5967, "name": "Brito's Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name private transport, special-needs flagged"}
+{"idx": 5968, "name": "Diamante Limo & Airport Trnsp", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo/airport transport, special-needs flagged"}
+{"idx": 5969, "name": "E C R Access Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private access transport, special-needs flagged"}

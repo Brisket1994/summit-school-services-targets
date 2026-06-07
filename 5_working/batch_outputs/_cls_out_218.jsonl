@@ -1,0 +1,30 @@
+{"idx": 6540, "name": "Guardian Transport", "verdict": "private_contractor", "confidence": 0.82, "reason": "Private SC special-needs transport operator"}
+{"idx": 6541, "name": "Tropicare Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport, ID"}
+{"idx": 6542, "name": "Tap Bus Sys Of ILLINOIS Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc, private school bus system"}
+{"idx": 6543, "name": "Rolling Hills School Transport", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "k12.oh.us domain, district transport dept"}
+{"idx": 6544, "name": "Yellowfin Transportation Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Inc but yellowfin.mx domain ambiguous"}
+{"idx": 6545, "name": "Edison Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private OR transport operator"}
+{"idx": 6546, "name": "Endeavr Institute", "verdict": "not_transport", "confidence": 0.85, "reason": "Institute, not a transport operator"}
+{"idx": 6547, "name": "Texas Medical Transport", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not student-focused"}
+{"idx": 6548, "name": "Transfer One Medical Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transfer service, not student transport"}
+{"idx": 6549, "name": "Schumacher Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC, family name, special needs"}
+{"idx": 6550, "name": "Salem City Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "City schools bus garage, district-owned"}
+{"idx": 6551, "name": "Liberty Limousines", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo, possibly special-needs transport"}
+{"idx": 6552, "name": "Bo-Mar Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc, Maine bus rentals, private"}
+{"idx": 6553, "name": "Two Star Bussing", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private WI school bussing"}
+{"idx": 6554, "name": "Dmg-Assoc Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear nature"}
+{"idx": 6555, "name": "Spanish School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC, private school bus operator"}
+{"idx": 6556, "name": "Emery County School TRNSP", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school transport, gov domain"}
+{"idx": 6557, "name": "Elite Van Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC, private special-needs transport"}
+{"idx": 6558, "name": "Jude's Family Auto Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC, family name, private bus"}
+{"idx": 6559, "name": "Lenoir's Transportation-Chrtr", "verdict": "private_contractor", "confidence": 0.85, "reason": "Possessive name, charter service"}
+{"idx": 6560, "name": "Gume School Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private TX school bus operator"}
+{"idx": 6561, "name": "Cherryco Transportation Buses", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private KY school bus operator"}
+{"idx": 6562, "name": "Magdalena School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC, private school bus operator"}
+{"idx": 6563, "name": "Green County Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County schools bus garage, district"}
+{"idx": 6564, "name": "Coach 28 Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc, coach private operator"}
+{"idx": 6565, "name": "Virgo Link LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic LLC name, unclear"}
+{"idx": 6566, "name": "Hub City Bus Action Ntwrk", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous network name"}
+{"idx": 6567, "name": "Mycareride LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC, care ride private operator"}
+{"idx": 6568, "name": "Ride By Your Side LLC", "verdict": "private_contractor", "confidence": 0.78, "reason": "LLC, private special-needs transport"}
+{"idx": 6569, "name": "Rick Evans Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc, personal name, private operator"}

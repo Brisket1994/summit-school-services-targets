@@ -1,0 +1,30 @@
+{"idx": 480, "name": "Corporate Coach", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private coach/transport operator, special-needs flagged"}
+{"idx": 481, "name": "Justranzit School Bus Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus contractor, Inc"}
+{"idx": 482, "name": "Anthonys Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo/special-needs transport operator"}
+{"idx": 483, "name": "Lester C Foor School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned private school bus company"}
+{"idx": 484, "name": "Holiday Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service doing special-needs transport"}
+{"idx": 485, "name": "Orangeburg Limo", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo with special-needs transport flag"}
+{"idx": 486, "name": "Xiong Bus Station LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC school bus operator"}
+{"idx": 487, "name": "Zweigart Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-owned private school bus Inc"}
+{"idx": 488, "name": "Rolling V Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus corporation NY"}
+{"idx": 489, "name": "West Coast Transportation Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport Inc, special-needs"}
+{"idx": 490, "name": "Evans Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school/special-needs transport operator"}
+{"idx": 491, "name": "Vpsi Inc", "verdict": "unsure", "confidence": 0.5, "reason": "VPSI is vanpool/commuter, not school bus"}
+{"idx": 492, "name": "Health Care Activity Transport", "verdict": "not_transport", "confidence": 0.6, "reason": "Healthcare patient transport, not school"}
+{"idx": 493, "name": "VIP Limousine Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo Inc, special-needs transport flagged"}
+{"idx": 494, "name": "Handicapped Driver Svc LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "MobilityWorks dealer, not school transport"}
+{"idx": 495, "name": "Allegiance Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC special-needs transport operator"}
+{"idx": 496, "name": "VIP Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}
+{"idx": 497, "name": "First Class Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo with special-needs transport"}
+{"idx": 498, "name": "AM/PM 24 Hr Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport operator"}
+{"idx": 499, "name": "Riders Club Co-Op", "verdict": "public_or_inhouse", "confidence": 0.6, "reason": "Co-op .org likely educational collaborative"}
+{"idx": 500, "name": "Fantasy Limousine LTD", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo Ltd with special-needs transport"}
+{"idx": 501, "name": "Hoveround Corp", "verdict": "not_transport", "confidence": 0.9, "reason": "Power wheelchair manufacturer, not transport"}
+{"idx": 502, "name": "Kastone Mobility Svc LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private mobility/special-needs transport LLC"}
+{"idx": 503, "name": "Hottenstein Bus & Charter", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-owned private school bus charter"}
+{"idx": 504, "name": "American Service Medicar", "verdict": "not_transport", "confidence": 0.8, "reason": "Medicar/NEMT, not school transport"}
+{"idx": 505, "name": "We Care Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport Inc"}
+{"idx": 506, "name": "Express Medical Transporters", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical NEMT operator, not school"}
+{"idx": 507, "name": "Bus Department", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "Generic name suggests district transport dept"}
+{"idx": 508, "name": "Five Star Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, special-needs flagged"}
+{"idx": 509, "name": "Regency Centers LP Non Bus", "verdict": "not_transport", "confidence": 0.9, "reason": "Regency Centers is REIT, non-bus"}

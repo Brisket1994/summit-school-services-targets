@@ -1,0 +1,30 @@
+{"idx": 120, "name": "Amaral Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus company, Inc, MA operator"}
+{"idx": 121, "name": "Cypress Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Cypress-Fairbanks ISD, public school district"}
+{"idx": 122, "name": "Krapf Group-Sch Bus & Trnsprtn", "verdict": "private_contractor", "confidence": 0.95, "reason": "Krapf, large PA/DE family bus contractor"}
+{"idx": 123, "name": "School Dist 141 Chisago", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School District, public entity"}
+{"idx": 124, "name": "Handi Van Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private paratransit/special-needs van service"}
+{"idx": 125, "name": "Ecco Ride", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus operator in Louisiana"}
+{"idx": 126, "name": "Carrier Coach Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private coach/school bus operator, Buffalo NY"}
+{"idx": 127, "name": "Dufour Escorted Tours Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Tour/charter operator, possibly school work"}
+{"idx": 128, "name": "Troops Into Trnsprtn-THE Cdl", "verdict": "not_transport", "confidence": 0.85, "reason": "CDL training school, not transport operator"}
+{"idx": 129, "name": "ATEL Bus & Truck Svc Ctr", "verdict": "not_transport", "confidence": 0.75, "reason": "Bus and truck service center, repair shop"}
+{"idx": 130, "name": "Rethink64 Bionetworks PBC", "verdict": "not_transport", "confidence": 0.9, "reason": "Bionetworks PBC, not transportation"}
+{"idx": 131, "name": "Northland Bus Svc Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Name suggests private, mismatched website"}
+{"idx": 132, "name": "Royal Coach Lines", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private coach line, NY since 1950"}
+{"idx": 133, "name": "Taylors Bus Ctr", "verdict": "unsure", "confidence": 0.5, "reason": "Name private but website is school district"}
+{"idx": 134, "name": "Hartleys School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus contractor, GA"}
+{"idx": 135, "name": "Bowens Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service, Baltimore MD"}
+{"idx": 136, "name": "Schoharie County Pubc Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County public transportation, government entity"}
+{"idx": 137, "name": "F & S Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private PA transportation operator, 1975"}
+{"idx": 138, "name": "Apple Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Apple Bus, regional school bus contractor"}
+{"idx": 139, "name": "Shaw School Bus Lines Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus contractor, PA"}
+{"idx": 140, "name": "Eden Valley School Bus Lines", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus lines, MN"}
+{"idx": 141, "name": "Rowan-Salisbury Sch Syst", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School system, public district NC"}
+{"idx": 142, "name": "D & M Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Initials-name private bus company"}
+{"idx": 143, "name": "Express Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Irish website, generic name, unclear"}
+{"idx": 144, "name": "E-M Sch Trnsprtn Svc-Sw Fl", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transportation service, FL"}
+{"idx": 145, "name": "Randall Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service, Jacksonville FL"}
+{"idx": 146, "name": "Emergency Medical Transport", "verdict": "not_transport", "confidence": 0.85, "reason": "EMS/medical transport, not student transport"}
+{"idx": 147, "name": "On The Way Pvt Sch Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transportation operator, FL"}
+{"idx": 148, "name": "Msad 49 Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Maine School Admin District garage, public"}
+{"idx": 149, "name": "Maine Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}

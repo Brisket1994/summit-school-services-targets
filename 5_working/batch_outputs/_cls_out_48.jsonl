@@ -1,0 +1,30 @@
+{"idx": 1440, "name": "Pittsburg USD 250 Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD district transportation dept"}
+{"idx": 1441, "name": "K & K Bus Line & K Bus Line", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-style bus line, NY"}
+{"idx": 1442, "name": "Morgan County School Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school garage, district-run"}
+{"idx": 1443, "name": "Cross Country Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company NJ"}
+{"idx": 1444, "name": "Global Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc corporate suffix, NY operator"}
+{"idx": 1445, "name": "TFD Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Co private operator"}
+{"idx": 1446, "name": "SPS Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Stillwater Public Schools transport dept"}
+{"idx": 1447, "name": "Owego Apalachin Central School", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central School district NY"}
+{"idx": 1448, "name": "Performance Mobility", "verdict": "not_transport", "confidence": 0.8, "reason": "BraunAbility mobility van dealer"}
+{"idx": 1449, "name": "Richmond Burton Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Richmond Burton HS district transport"}
+{"idx": 1450, "name": "Charlotte Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools district transport"}
+{"idx": 1451, "name": "Germantown Friends Sch", "verdict": "not_transport", "confidence": 0.97, "reason": "Private Friends school, not operator"}
+{"idx": 1452, "name": "Blue Star Bus Sales LTD", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus dealer/sales, not operator"}
+{"idx": 1453, "name": "Batesville Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools district transport"}
+{"idx": 1454, "name": "Willow Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Inc bus service NY operator"}
+{"idx": 1455, "name": "Avex USA Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear"}
+{"idx": 1456, "name": "Cloverleaf Productions Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Productions name unclear if transport"}
+{"idx": 1457, "name": "Forcenet Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA, gov.au website odd"}
+{"idx": 1458, "name": "Fusion LA Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1459, "name": "TKO Solutions Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1460, "name": "US Ocg Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1461, "name": "Innovation USA Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1462, "name": "Arcus Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1463, "name": "Bee Line Bus Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "LLC bus transportation AZ"}
+{"idx": 1464, "name": "Hamilton Community Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community Schools district MI"}
+{"idx": 1465, "name": "Bluebee Corp Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1466, "name": "Tideways Corp Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name unclear"}
+{"idx": 1467, "name": "Artistree Hospitality Group", "verdict": "not_transport", "confidence": 0.85, "reason": "Hospitality group, not transport"}
+{"idx": 1468, "name": "Fulton County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools district transport"}
+{"idx": 1469, "name": "Limestone County Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools bus garage, .gov"}

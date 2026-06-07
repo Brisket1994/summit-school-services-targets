@@ -1,0 +1,30 @@
+{"idx": 5010, "name": "Shoto Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; possible special-needs transport"}
+{"idx": 5011, "name": "Skyline Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; tiny operator"}
+{"idx": 5012, "name": "Smooth Ride", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name; unclear scope"}
+{"idx": 5013, "name": "Stinson Limousine Ent In", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo enterprise; tiny private operator"}
+{"idx": 5014, "name": "Superb Services Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Generic services name; ambiguous"}
+{"idx": 5015, "name": "Suv Motor Werks Of Chicago", "verdict": "not_transport", "confidence": 0.6, "reason": "Sounds like auto shop, not transport"}
+{"idx": 5016, "name": "Sweets To The Sweets", "verdict": "unsure", "confidence": 0.3, "reason": "Name suggests catering, not transport"}
+{"idx": 5017, "name": "Top Flight Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; small private operator"}
+{"idx": 5018, "name": "Transportation Rails", "verdict": "unsure", "confidence": 0.4, "reason": "Generic transport name; unclear"}
+{"idx": 5019, "name": "Transportation Specialties", "verdict": "private_contractor", "confidence": 0.5, "reason": "Specialty transport; small operator"}
+{"idx": 5020, "name": "Trax Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company; tiny operator"}
+{"idx": 5021, "name": "Trust Riders Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport; possible special-needs"}
+{"idx": 5022, "name": "Two Cool Cats Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name; unclear business"}
+{"idx": 5023, "name": "Valentine Grozdanov Corp", "verdict": "unsure", "confidence": 0.35, "reason": "Personal-name corp; unclear scope"}
+{"idx": 5024, "name": "Vcare Medical Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport; possible special-needs"}
+{"idx": 5025, "name": "Vee Enterprises LLC", "verdict": "unsure", "confidence": 0.3, "reason": "Generic LLC; unclear business"}
+{"idx": 5026, "name": "Vintageridecom", "verdict": "unsure", "confidence": 0.3, "reason": "Likely vintage car rentals; unclear"}
+{"idx": 5027, "name": "KF Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; tiny operator"}
+{"idx": 5028, "name": "E A Car Svc Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Car service; small operator"}
+{"idx": 5029, "name": "Gray Glove Limousne Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; small operator"}
+{"idx": 5030, "name": "AMC Technology Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Technology firm, not transport"}
+{"idx": 5031, "name": "Trans Assist Of America LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Transport assistance; possible NEMT"}
+{"idx": 5032, "name": "Krystle's Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; tiny operator"}
+{"idx": 5033, "name": "Glad Care Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Care transport; likely NEMT"}
+{"idx": 5034, "name": "BNB Non Emergency Med", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT operator; not school bus"}
+{"idx": 5035, "name": "Central Valley Transport LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Sports website suggests not transport"}
+{"idx": 5036, "name": "Semax Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair transport; NEMT operator"}
+{"idx": 5037, "name": "Avia Solutions LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Aviation services; not school bus"}
+{"idx": 5038, "name": "Chari's Services LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Generic services LLC; unclear"}
+{"idx": 5039, "name": "Care Van", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Lakewood Health System's medical van"}

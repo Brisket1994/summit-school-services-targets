@@ -1,0 +1,30 @@
+{"idx": 6330, "name": "Encore Coach LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC coach operator, special needs"}
+{"idx": 6331, "name": "Reward Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "LLC transport service"}
+{"idx": 6332, "name": "Vintage Limousine LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, likely non-school transport"}
+{"idx": 6333, "name": "Joytech International Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, no address"}
+{"idx": 6334, "name": "Colt Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo operator, special needs flagged"}
+{"idx": 6335, "name": "Shipshewana School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage facility"}
+{"idx": 6336, "name": "Bloomfield School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District garage, school domain"}
+{"idx": 6337, "name": "Dover Wheelchair Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC wheelchair transport, special needs"}
+{"idx": 6338, "name": "Aladdins World Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Vague enterprises name"}
+{"idx": 6339, "name": "All Occasion Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo, primarily event not student"}
+{"idx": 6340, "name": "Arrowlink Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport operator"}
+{"idx": 6341, "name": "Asakir Medical Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, likely NEMT not school"}
+{"idx": 6342, "name": "Columbus Custom Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service"}
+{"idx": 6343, "name": "Distinct Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo Inc"}
+{"idx": 6344, "name": "Eco Van Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Van transport Inc"}
+{"idx": 6345, "name": "Lacey Limousines", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo operator"}
+{"idx": 6346, "name": "Leace Transportation Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation corp"}
+{"idx": 6347, "name": "Med Ride", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical ride, likely NEMT"}
+{"idx": 6348, "name": "Nubia Medical Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, likely NEMT"}
+{"idx": 6349, "name": "Wellcare Transportation LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC transportation"}
+{"idx": 6350, "name": "Avid Limousine Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company"}
+{"idx": 6351, "name": "Greystone Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo operator"}
+{"idx": 6352, "name": "Hang Town Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo operator"}
+{"idx": 6353, "name": "Reverse Exchange Svc Inc Which", "verdict": "unsure", "confidence": 0.3, "reason": "Unclear, financial-sounding name"}
+{"idx": 6354, "name": "T & J Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service"}
+{"idx": 6355, "name": "Novel Advantage Bus Resources", "verdict": "private_contractor", "confidence": 0.6, "reason": "Bus resources, possibly broker"}
+{"idx": 6356, "name": "Francis Enterprises LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "LLC, limousine website"}
+{"idx": 6357, "name": "Dooly County Schools Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County schools bus shop"}
+{"idx": 6358, "name": "New Plymouth Sch Dist 372", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district"}
+{"idx": 6359, "name": "Mason County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus garage"}

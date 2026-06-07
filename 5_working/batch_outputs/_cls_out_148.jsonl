@@ -1,0 +1,30 @@
+{"idx": 4440, "name": "Zinia Limo & Sedan Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo/sedan operator; minimal school focus"}
+{"idx": 4441, "name": "Rochon's Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named bus service Inc; school flag"}
+{"idx": 4442, "name": "Aj Limousines Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company; minimal school transport role"}
+{"idx": 4443, "name": "All Occasion Sedan Limosne Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Sedan/limo; not core school transport"}
+{"idx": 4444, "name": "All Star Express Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine operator; not core school transport"}
+{"idx": 4445, "name": "Andrew Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service Inc; not school-focused"}
+{"idx": 4446, "name": "At Your Svc Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4447, "name": "Champagne Dream Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo operator; events not school"}
+{"idx": 4448, "name": "Comfort Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4449, "name": "Dav-El Los Angeles Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Dav-El chauffeured limo; not school"}
+{"idx": 4450, "name": "Delmar Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4451, "name": "Destination Limousine & Sedan", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/sedan service; not school-focused"}
+{"idx": 4452, "name": "Dia Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4453, "name": "DK Coaches", "verdict": "private_contractor", "confidence": 0.6, "reason": "Coach operator; possible charter"}
+{"idx": 4454, "name": "Dolox Only Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4455, "name": "Dreams", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name; unclear business"}
+{"idx": 4456, "name": "Excalibur Transportation Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport service; not clearly school"}
+{"idx": 4457, "name": "Executive Services & Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Executive limo; not school-focused"}
+{"idx": 4458, "name": "G L S Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4459, "name": "Gemini Limousine Specialties", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service; not school-focused"}
+{"idx": 4460, "name": "Glendale Dial-A-Ride", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Municipal dial-a-ride paratransit service"}
+{"idx": 4461, "name": "Ice Princess Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo; not school-focused"}
+{"idx": 4462, "name": "Interntnal Lmusines Exec Trans", "verdict": "private_contractor", "confidence": 0.5, "reason": "Executive limo transport; not school"}
+{"idx": 4463, "name": "Interstae Transportation", "verdict": "private_contractor", "confidence": 0.5, "reason": "Generic transport; unclear school role"}
+{"idx": 4464, "name": "Luxe Homecare Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Homecare company, not transport operator"}
+{"idx": 4465, "name": "South Gate Phone-A-Ride", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Municipal phone-a-ride paratransit service"}
+{"idx": 4466, "name": "USA 1 Limousines Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo company; not school-focused"}
+{"idx": 4467, "name": "Walton County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 4468, "name": "Genesee H S-Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "High school bus garage; district-owned"}
+{"idx": 4469, "name": "Kendrick Jr Sr High Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}

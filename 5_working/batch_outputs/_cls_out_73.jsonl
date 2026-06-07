@@ -1,0 +1,30 @@
+{"idx": 2190, "name": "Next Generation SCH Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport name"}
+{"idx": 2191, "name": "Plano Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 2192, "name": "Dothan City Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City schools transportation department"}
+{"idx": 2193, "name": "Royal Xpress Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc, special needs transport"}
+{"idx": 2194, "name": "TBS Technical Bus Solution", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus solutions company"}
+{"idx": 2195, "name": "Sunflower Transportation", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private special needs transport"}
+{"idx": 2196, "name": "Mountain Side Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc bus service"}
+{"idx": 2197, "name": "B & S School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-style private school bus"}
+{"idx": 2198, "name": "Eagle International Bus LLC", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private LLC bus operator"}
+{"idx": 2199, "name": "Victor Valley Union High Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public union high school district"}
+{"idx": 2200, "name": "Hastings Area Sch Syst", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school system"}
+{"idx": 2201, "name": "Herrera School Buses & Coaches", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus/coach operator"}
+{"idx": 2202, "name": "Bowers Ambulance", "verdict": "not_transport", "confidence": 0.7, "reason": "Ambulance/EMS, not school transport"}
+{"idx": 2203, "name": "Haley Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name private school transport"}
+{"idx": 2204, "name": "Immaculate Heart Of Mary Sch", "verdict": "not_transport", "confidence": 0.95, "reason": "Catholic school, not transport"}
+{"idx": 2205, "name": "Paris Academy Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.82, "reason": "Private LLC student transport"}
+{"idx": 2206, "name": "D & K Bus Charter Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-style private bus charter"}
+{"idx": 2207, "name": "Magik School Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school bus operator"}
+{"idx": 2208, "name": "Fast Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus service"}
+{"idx": 2209, "name": "Hartland Consolidated Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Consolidated public school district"}
+{"idx": 2210, "name": "Robertson's Transit Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private transit Inc"}
+{"idx": 2211, "name": "Harlows School Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private school bus operator"}
+{"idx": 2212, "name": "Pacific Coast Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous truncated name"}
+{"idx": 2213, "name": "Coeur D'Alene Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 2214, "name": "Great Bay Chair Car Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private chair car/special needs service"}
+{"idx": 2215, "name": "Transtar Medical LTD", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private medical transport, possibly special needs"}
+{"idx": 2216, "name": "Buswest", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus operator"}
+{"idx": 2217, "name": "Path Academy Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Likely private student transport contractor"}
+{"idx": 2218, "name": "Canton Public Sch Trnsprtn Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2219, "name": "Carthage School Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Could be district or private contractor"}

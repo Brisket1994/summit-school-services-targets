@@ -1,0 +1,30 @@
+{"idx": 6240, "name": "Red River Transportation Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Transport service name, special needs"}
+{"idx": 6241, "name": "Owl Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, no clarity"}
+{"idx": 6242, "name": "Precious Hearts", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name suggests care, unclear"}
+{"idx": 6243, "name": "Sies Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name transportation operator"}
+{"idx": 6244, "name": "Ambassador Limosne & Sedan Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo/sedan service, possibly special needs"}
+{"idx": 6245, "name": "Medvan", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical van transport, special needs"}
+{"idx": 6246, "name": "Trusted Care Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transportation service, special needs"}
+{"idx": 6247, "name": "A Plus Bus USA Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus corp, school transport"}
+{"idx": 6248, "name": "Buggy Technologies Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Tech company, possibly software not operator"}
+{"idx": 6249, "name": "Bus Bus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Bus operator name, school transport"}
+{"idx": 6250, "name": "Carmena Non-Med TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Non-medical transportation LLC"}
+{"idx": 6251, "name": "Franmar International Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 6252, "name": "Homeshores LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Generic LLC name, unclear"}
+{"idx": 6253, "name": "Hult International Business", "verdict": "not_transport", "confidence": 0.95, "reason": "Hult business school, .edu domain"}
+{"idx": 6254, "name": "Hurtado School Van LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school van LLC"}
+{"idx": 6255, "name": "J C Arver Sch Bus Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family school bus transportation Inc"}
+{"idx": 6256, "name": "Lucy School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Small school bus operator"}
+{"idx": 6257, "name": "Maritza & Miguel School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus operator"}
+{"idx": 6258, "name": "Mim Inter American Bus Trad", "verdict": "private_contractor", "confidence": 0.6, "reason": "Bus trading/transport business"}
+{"idx": 6259, "name": "Phoenix Academies-Excellence", "verdict": "not_transport", "confidence": 0.85, "reason": "Academy/school not transport operator"}
+{"idx": 6260, "name": "School Bus Live LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "School bus LLC operator"}
+{"idx": 6261, "name": "School Bus Trnsprtn Tyh Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus transportation corp"}
+{"idx": 6262, "name": "Chariot Enterprises LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Transport enterprise LLC, special needs"}
+{"idx": 6263, "name": "Capital One", "verdict": "not_transport", "confidence": 0.95, "reason": "Bank, not a transport operator"}
+{"idx": 6264, "name": "Mit School Bus SVC", "verdict": "private_contractor", "confidence": 0.85, "reason": "School bus service company"}
+{"idx": 6265, "name": "Tour Deforce Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limousine service, special needs"}
+{"idx": 6266, "name": "Isd Transportation LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transportation LLC, school transport"}
+{"idx": 6267, "name": "Malone School-Incarcerated", "verdict": "not_transport", "confidence": 0.9, "reason": "School/prison program, not transport"}
+{"idx": 6268, "name": "MHF Logistical Solutions", "verdict": "unsure", "confidence": 0.4, "reason": "Logistics firm, unclear if school transport"}
+{"idx": 6269, "name": "A Touch Of Class Limo Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, special needs transport"}

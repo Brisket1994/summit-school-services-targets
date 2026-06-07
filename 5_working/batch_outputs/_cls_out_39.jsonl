@@ -1,0 +1,30 @@
+{"idx": 1170, "name": "Petal School District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 1171, "name": "Anchor Bay Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 1172, "name": "Brewster Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district"}
+{"idx": 1173, "name": "Johnson School Bus Kewaskum", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private school bus operator"}
+{"idx": 1174, "name": "Grandview Consolidated School", "verdict": "not_transport", "confidence": 0.9, "reason": "School, not transport operator"}
+{"idx": 1175, "name": "Northampton Regional Emergency", "verdict": "not_transport", "confidence": 0.85, "reason": "Regional emergency services, not student transport"}
+{"idx": 1176, "name": "Blytheville Public Sch Svc Ctr", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school service center"}
+{"idx": 1177, "name": "Lion Corp", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1178, "name": "Lane Transit District-City Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public transit district"}
+{"idx": 1179, "name": "Medical Transport Co Of AZ", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transport, not student"}
+{"idx": 1180, "name": "Bradley Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company with corp suffix"}
+{"idx": 1181, "name": "Canutillo Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 1182, "name": "Inter-County Bus Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus corporation"}
+{"idx": 1183, "name": "Rcusa Holdings Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Holding company, unclear operations"}
+{"idx": 1184, "name": "Riegel Truck & Bus Parts LP", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus parts supplier, not operator"}
+{"idx": 1185, "name": "Fce Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1186, "name": "Williamsville Central Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}
+{"idx": 1187, "name": "Beyond Limits 1 Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1188, "name": "Denali System Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1189, "name": "Memoria Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1190, "name": "Nucleus Technology Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Technology company, unclear"}
+{"idx": 1191, "name": "Octavo Corp Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1192, "name": "Reva Technology Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Technology company, unclear"}
+{"idx": 1193, "name": "West Valley Shpg Ctr Inc Which", "verdict": "not_transport", "confidence": 0.8, "reason": "Shopping center, not transport"}
+{"idx": 1194, "name": "Gentle Arms Daily Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Likely special needs transport operator"}
+{"idx": 1195, "name": "Menominee Delta Schoolcraft", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Educational collaborative/ISD"}
+{"idx": 1196, "name": "Vista Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 1197, "name": "Kent School District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 1198, "name": "ZPS Transportation Ctr", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Zeeland Public Schools transportation center"}
+{"idx": 1199, "name": "Marion Central School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}

@@ -1,0 +1,30 @@
+{"idx": 4800, "name": "Central Dauphin Sch Dist-Krise", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 4801, "name": "Cicada Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 4802, "name": "Dependable Transit Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transit LLC, special needs"}
+{"idx": 4803, "name": "All American Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limousine operator, possible NEMT"}
+{"idx": 4804, "name": "Elysee Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service Inc"}
+{"idx": 4805, "name": "Marquis Enterprises", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 4806, "name": "International Bus Specialist", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus specialist private operator"}
+{"idx": 4807, "name": "Kid Ridez Fleet LLC", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private kid transport LLC"}
+{"idx": 4808, "name": "Access Mobilitiy Transprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private mobility transport, special needs"}
+{"idx": 4809, "name": "All Time Svc", "verdict": "unsure", "confidence": 0.45, "reason": "Generic service name"}
+{"idx": 4810, "name": "Miracle Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine operator"}
+{"idx": 4811, "name": "Petrosian Transportation Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named transportation company"}
+{"idx": 4812, "name": "Accessibility Solutions LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC, special needs transport"}
+{"idx": 4813, "name": "NTC Transportation Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation service"}
+{"idx": 4814, "name": "Center City Bus Innovation FND", "verdict": "not_transport", "confidence": 0.75, "reason": "Foundation, not operator"}
+{"idx": 4815, "name": "Happy Paws School Bus LLC", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private school bus LLC"}
+{"idx": 4816, "name": "School Bus One LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC"}
+{"idx": 4817, "name": "Preferred Chauffeur", "verdict": "private_contractor", "confidence": 0.55, "reason": "Chauffeur service, possible NEMT"}
+{"idx": 4818, "name": "Royal Rose Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine operator"}
+{"idx": 4819, "name": "Stardust Sedan Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Sedan service operator"}
+{"idx": 4820, "name": "Richmond County Sch-Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school bus garage"}
+{"idx": 4821, "name": "Arlington Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 4822, "name": "Van Go Taxi", "verdict": "private_contractor", "confidence": 0.55, "reason": "Taxi service, possible NEMT"}
+{"idx": 4823, "name": "Care-A-VAN Transport LLC", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private transport LLC, special needs"}
+{"idx": 4824, "name": "Care-Ful Wheels Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation operator"}
+{"idx": 4825, "name": "Foote Associates Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic associates name, unclear"}
+{"idx": 4826, "name": "Quality Transport Nemt", "verdict": "private_contractor", "confidence": 0.85, "reason": "NEMT private transport"}
+{"idx": 4827, "name": "Chariots Of Hire Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private hire transport Inc"}
+{"idx": 4828, "name": "Traverse Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear"}
+{"idx": 4829, "name": "Wave Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine operator"}

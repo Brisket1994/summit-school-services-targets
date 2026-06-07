@@ -1,0 +1,30 @@
+{"idx": 1020, "name": "United Ambulance Svc-Auburn", "verdict": "not_transport", "confidence": 0.85, "reason": "Ambulance service, not student transport"}
+{"idx": 1021, "name": "Medport Medport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely medical/special-needs transport private operator"}
+{"idx": 1022, "name": "Best School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus contractor, Inc suffix"}
+{"idx": 1023, "name": "Seneca Falls School District", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 1024, "name": "Akita Enterprises LTD", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LTD entity, likely school transport"}
+{"idx": 1025, "name": "Jackson County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "County school district transportation department"}
+{"idx": 1026, "name": "Griffin-Spalding County Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public county school district"}
+{"idx": 1027, "name": "Mooresville Consolidated Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Consolidated public school district"}
+{"idx": 1028, "name": "Kerry Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service, family/possessive name"}
+{"idx": 1029, "name": "Compass Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company"}
+{"idx": 1030, "name": "Elkhart Community Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district transportation"}
+{"idx": 1031, "name": "National Charter Bus Cleveland", "verdict": "private_contractor", "confidence": 0.5, "reason": "Charter bus broker; mostly charters not school"}
+{"idx": 1032, "name": "Newburgh Beacon Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus corporation"}
+{"idx": 1033, "name": "3 A", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, cannot determine"}
+{"idx": 1034, "name": "Dean's Auto Bus & Truck", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named private bus/truck operator"}
+{"idx": 1035, "name": "Illinois School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company"}
+{"idx": 1036, "name": "Pegasus Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transit operator, special needs"}
+{"idx": 1037, "name": "Eastside Community Rsrccntr", "verdict": "not_transport", "confidence": 0.75, "reason": "Community resource center, not transport"}
+{"idx": 1038, "name": "Buffalo Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation Inc, special needs"}
+{"idx": 1039, "name": "Assisted Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport operator"}
+{"idx": 1040, "name": "Garage Maintenance Dept", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District maintenance/garage department"}
+{"idx": 1041, "name": "Oceanside Unified Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Unified school district transportation"}
+{"idx": 1042, "name": "Bradley Technologies CA Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Technology company name, unclear transport role"}
+{"idx": 1043, "name": "Bus & Maintenance Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage, K12 domain"}
+{"idx": 1044, "name": "Automatic Bar Controls Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bar equipment manufacturer, not transport"}
+{"idx": 1045, "name": "Missouri Central Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus operator"}
+{"idx": 1046, "name": "Dairyland Hamilton Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc entity serving Hamilton school district"}
+{"idx": 1047, "name": "Secure Medical Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private medical/special-needs transport"}
+{"idx": 1048, "name": "Eldon's Five Star Transport", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private transport operator"}
+{"idx": 1049, "name": "Noblesville Schools TRNSPRTN", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transportation"}

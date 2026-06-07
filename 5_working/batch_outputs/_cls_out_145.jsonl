@@ -1,0 +1,30 @@
+{"idx": 4350, "name": "Emily School Transport Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport Inc"}
+{"idx": 4351, "name": "Major H Svc LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Med transport LLC, NEMT special needs"}
+{"idx": 4352, "name": "Bme Transit LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit LLC, school flag"}
+{"idx": 4353, "name": "Garcia Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special needs transport"}
+{"idx": 4354, "name": "All American Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special needs flag"}
+{"idx": 4355, "name": "Haddock Blue Line Cab Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private cab company, special needs"}
+{"idx": 4356, "name": "Affordable Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 4357, "name": "Metro Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 4358, "name": "Whitcraft Services Inc Mntnc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Whitcraft Bus, private school operator since 1931"}
+{"idx": 4359, "name": "Jermaine Moore", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name only, unclear entity"}
+{"idx": 4360, "name": "Custer County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school district transportation"}
+{"idx": 4361, "name": "Greene Classic Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo company"}
+{"idx": 4362, "name": "Next Episode Limousine Svc TH", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 4363, "name": "Welltrans Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT operator, special needs"}
+{"idx": 4364, "name": "Cimarron Municipal Sch Bus BRN", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Municipal school district bus barn"}
+{"idx": 4365, "name": "Dave's Gurney & Wheelchair", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair/medical transport, special needs"}
+{"idx": 4366, "name": "School Safety-Security", "verdict": "not_transport", "confidence": 0.7, "reason": "Security service, not transport"}
+{"idx": 4367, "name": "Proforma Heartland Bus Rsrcs", "verdict": "not_transport", "confidence": 0.6, "reason": "Proforma is promo products franchise"}
+{"idx": 4368, "name": "My Mobility Path", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private mobility transport company"}
+{"idx": 4369, "name": "Champion Worldwide Bus Systems", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus systems, school flag"}
+{"idx": 4370, "name": "Shalom General Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation Inc"}
+{"idx": 4371, "name": "All Star Limosne & Sedan Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo/sedan service"}
+{"idx": 4372, "name": "Around Town Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo company"}
+{"idx": 4373, "name": "Ground Trip Transportation LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation LLC"}
+{"idx": 4374, "name": "Legacy Luxury Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private luxury limo Inc"}
+{"idx": 4375, "name": "Madison Mobility", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private mobility transport"}
+{"idx": 4376, "name": "Mbg Integrated Solutions Mlb", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous integrated solutions name"}
+{"idx": 4377, "name": "Navigator Express Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport Inc"}
+{"idx": 4378, "name": "Medi-Cab", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private medical cab, special needs"}
+{"idx": 4379, "name": "M K Transportation Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation service"}

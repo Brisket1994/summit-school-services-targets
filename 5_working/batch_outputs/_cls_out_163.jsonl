@@ -1,0 +1,30 @@
+{"idx": 4890, "name": "Green Truck & Bus Solutions", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private bus solutions company, school flag"}
+{"idx": 4891, "name": "6 Trans LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "LLC special-needs transport operator"}
+{"idx": 4892, "name": "USA Taxi Svc Pensacola", "verdict": "private_contractor", "confidence": 0.55, "reason": "Taxi service, special-needs transport"}
+{"idx": 4893, "name": "Classic Lines Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo special-needs transport"}
+{"idx": 4894, "name": "Smiths Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named limo service"}
+{"idx": 4895, "name": "North East Transfer Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private Inc transport company"}
+{"idx": 4896, "name": "Adaptive Enterprise", "verdict": "private_contractor", "confidence": 0.5, "reason": "Private special-needs transport"}
+{"idx": 4897, "name": "Ambu Cab By Neighbors Intl", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private cab/medical transport"}
+{"idx": 4898, "name": "Gretna Public Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus operation"}
+{"idx": 4899, "name": "Rudco Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc, school transport NJ"}
+{"idx": 4900, "name": "Touch Of Elegance Limosne Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine service"}
+{"idx": 4901, "name": "Yuba Feather School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus garage"}
+{"idx": 4902, "name": "Mobilityplus", "verdict": "private_contractor", "confidence": 0.5, "reason": "Private mobility/special-needs operator"}
+{"idx": 4903, "name": "Transcare Medical", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, special-needs"}
+{"idx": 4904, "name": "Boro Transit Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Brooklyn school transit, Consolidated Bus affiliate"}
+{"idx": 4905, "name": "Able Transport Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private Inc special-needs transport"}
+{"idx": 4906, "name": "Kang Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named private school transport"}
+{"idx": 4907, "name": "Pro Service & Equipment", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous service/equipment name"}
+{"idx": 4908, "name": "Garden State Transport Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc school transport, 1968"}
+{"idx": 4909, "name": "Newport Limo Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo Inc"}
+{"idx": 4910, "name": "Als Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine, family-named"}
+{"idx": 4911, "name": "Abeds Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-named private limo service"}
+{"idx": 4912, "name": "S EZ Contract Transportat", "verdict": "private_contractor", "confidence": 0.6, "reason": "Contract transport operator"}
+{"idx": 4913, "name": "Beach Front Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 4914, "name": "Blade Runner", "verdict": "unsure", "confidence": 0.35, "reason": "Ambiguous name, no clear transport indicator"}
+{"idx": 4915, "name": "Second Chances/Sc Med Trnsprt", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private medical transport company"}
+{"idx": 4916, "name": "Aquarius Limousine Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo Inc"}
+{"idx": 4917, "name": "Budget Handicap Vans LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC handicap van transport"}
+{"idx": 4918, "name": "Exotica Limousines Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limousine Inc"}
+{"idx": 4919, "name": "Rundquist Ralph Bus Office", "verdict": "unsure", "confidence": 0.45, "reason": "Personal name bus office, ambiguous"}

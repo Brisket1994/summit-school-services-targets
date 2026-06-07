@@ -1,0 +1,30 @@
+{"idx": 4680, "name": "Pennfield Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation department"}
+{"idx": 4681, "name": "Charles School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company"}
+{"idx": 4682, "name": "Beck Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company name"}
+{"idx": 4683, "name": "Sonoma Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 4684, "name": "Trait Of Lioness LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous LLC name, unclear operations"}
+{"idx": 4685, "name": "BJS Transportations", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company"}
+{"idx": 4686, "name": "Devon-North Town Bus & Pro", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Chicago bus operator"}
+{"idx": 4687, "name": "DSA Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, special needs flagged"}
+{"idx": 4688, "name": "Triangle Access", "verdict": "private_contractor", "confidence": 0.7, "reason": "Likely private paratransit/special needs operator"}
+{"idx": 4689, "name": "Abilitrax", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private accessible transport company"}
+{"idx": 4690, "name": "Lodi Truck Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Truck service, not student transport"}
+{"idx": 4691, "name": "Butler Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private wheelchair/special needs transport"}
+{"idx": 4692, "name": "Gold Star Limousines Manate", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possible special needs contract"}
+{"idx": 4693, "name": "Larrys Executive Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, peripheral student transport"}
+{"idx": 4694, "name": "Lexi Medical Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical/special needs transport"}
+{"idx": 4695, "name": "All Star Medivan Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private medical van transport"}
+{"idx": 4696, "name": "A Regal Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, peripheral fit"}
+{"idx": 4697, "name": "Chillicothe City Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation"}
+{"idx": 4698, "name": "Personal Touch Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special needs transport"}
+{"idx": 4699, "name": "Passport Luxury Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, peripheral fit"}
+{"idx": 4700, "name": "Van Pool Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private van pool transport operator"}
+{"idx": 4701, "name": "AA Eastern Mobility Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private mobility/special needs transport"}
+{"idx": 4702, "name": "Arrive In Style Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, peripheral fit"}
+{"idx": 4703, "name": "Caring Harts Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special needs transport"}
+{"idx": 4704, "name": "Ena", "verdict": "not_transport", "confidence": 0.85, "reason": "Ena-Kikoku, Japanese school, not transport"}
+{"idx": 4705, "name": "Holy Name Mary Montessori Sch", "verdict": "not_transport", "confidence": 0.97, "reason": "Montessori school, not transport"}
+{"idx": 4706, "name": "KERN River Vly Student", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Likely school district student transport"}
+{"idx": 4707, "name": "Well House", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely nonprofit/shelter, not transport"}
+{"idx": 4708, "name": "Daniel Webster Clg Bus Offce", "verdict": "not_transport", "confidence": 0.9, "reason": "College bus office, not contractor"}
+{"idx": 4709, "name": "Easy Med Co Ransportion", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical transport company"}

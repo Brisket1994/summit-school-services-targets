@@ -1,0 +1,30 @@
+{"idx": 7080, "name": "South Lane School Dist TRNSP", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 7081, "name": "AC School Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc with goschoolbus.com domain, private contractor"}
+{"idx": 7082, "name": "Penn Delco School Dist Svc Ctr", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district service center"}
+{"idx": 7083, "name": "Shaw School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus operator"}
+{"idx": 7084, "name": "Swart School Buses", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus operator"}
+{"idx": 7085, "name": "Colleton County Sch Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school bus shop, public"}
+{"idx": 7086, "name": "School District Pickens County", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7087, "name": "Bedford County Transportation", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "County school district transportation"}
+{"idx": 7088, "name": "Dekalb County School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7089, "name": "Drive-Rite Driving School", "verdict": "not_transport", "confidence": 0.9, "reason": "Driver education school, not transport operator"}
+{"idx": 7090, "name": "Allen Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public ISD"}
+{"idx": 7091, "name": "Birdville School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 7092, "name": "Dallas County School", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "County school transportation entity"}
+{"idx": 7093, "name": "Everman School Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 7094, "name": "Goliad Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public ISD"}
+{"idx": 7095, "name": "KATY Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public ISD"}
+{"idx": 7096, "name": "Lubbock Christian School", "verdict": "not_transport", "confidence": 0.95, "reason": "Private school, not transport operator"}
+{"idx": 7097, "name": "Sanger School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 7098, "name": "Seguin Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public ISD"}
+{"idx": 7099, "name": "Canyons School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 7100, "name": "County Of Gloucester Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County government transportation"}
+{"idx": 7101, "name": "County Of Montgomery", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County government entity"}
+{"idx": 7102, "name": "School Transportation Mgmt", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, no website or details"}
+{"idx": 7103, "name": "Valley Care Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Special needs transport, small private operator"}
+{"idx": 7104, "name": "Brewster School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 7105, "name": "Cheney School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 7106, "name": "Cle Elum Roslyn School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7107, "name": "Davenport School Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus garage"}
+{"idx": 7108, "name": "Eatonville School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7109, "name": "Entiat School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}

@@ -1,0 +1,25 @@
+{"idx": 125, "name": "Sheppard Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company"}
+{"idx": 126, "name": "Middledorf Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus company"}
+{"idx": 127, "name": "Alachua County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 128, "name": "Bensalem Christian Day School", "verdict": "not_transport", "confidence": 0.98, "reason": "Actual school, not transport operator"}
+{"idx": 129, "name": "Moose Lake Cmnty Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation department"}
+{"idx": 130, "name": "Suffolk Transportation Systs", "verdict": "private_contractor", "confidence": 0.97, "reason": "Major private student transport contractor"}
+{"idx": 131, "name": "Aging Disability & Transit Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Disability transit service, not student"}
+{"idx": 132, "name": "Modivcare Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Non-emergency medical transport, not student"}
+{"idx": 133, "name": "Johannes Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus service"}
+{"idx": 134, "name": "Independent Coach Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private coach/transport company"}
+{"idx": 135, "name": "Bus & Maintenance Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District garage, k12.oh.us domain"}
+{"idx": 136, "name": "A1 Service Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit company, a1transit.net"}
+{"idx": 137, "name": "Palmer Bus Svc Of Maple River", "verdict": "private_contractor", "confidence": 0.97, "reason": "Palmer Bus Service private contractor"}
+{"idx": 138, "name": "Jackson County Sm Bus Incbtr", "verdict": "not_transport", "confidence": 0.9, "reason": "Small business incubator, not transport"}
+{"idx": 139, "name": "Lincoln Academy", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual school/academy"}
+{"idx": 140, "name": "Northside Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Northside ISD district transportation"}
+{"idx": 141, "name": "Go-Ahead North America", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transport operator subsidiary"}
+{"idx": 142, "name": "Shaker Heights Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Shaker Heights school district transport"}
+{"idx": 143, "name": "Mohonasen Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Mohonasen school district transport"}
+{"idx": 144, "name": "Lewis-Palmer District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district transportation department"}
+{"idx": 145, "name": "Byram Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private incorporated bus company"}
+{"idx": 146, "name": "Uptown Columbus Bus Imprvmt", "verdict": "not_transport", "confidence": 0.9, "reason": "Business improvement district, not operator"}
+{"idx": 147, "name": "Farsha Capital Amer Bus Group", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus group company"}
+{"idx": 148, "name": "A A Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private incorporated transport company"}
+{"idx": 149, "name": "WMK LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "MobilityWorks, wheelchair vehicle dealer"}

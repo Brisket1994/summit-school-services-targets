@@ -1,0 +1,30 @@
+{"idx": 6810, "name": "Bus Transportation Office", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus transportation office"}
+{"idx": 6811, "name": "Standish-Sterling Community", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public school district"}
+{"idx": 6812, "name": "Amanda's Transportation Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport service"}
+{"idx": 6813, "name": "Comfort Travel Ada Mobile", "verdict": "not_transport", "confidence": 0.6, "reason": "ADA medical mobility, not student"}
+{"idx": 6814, "name": "Jennings School Transport Bldg", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District transport building"}
+{"idx": 6815, "name": "Beaver Local Schl Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage"}
+{"idx": 6816, "name": "Accessible Van Rental", "verdict": "not_transport", "confidence": 0.7, "reason": "Van rental, not student transport"}
+{"idx": 6817, "name": "Southern CA Medical Transport", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not student"}
+{"idx": 6818, "name": "Clarke Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District transportation department"}
+{"idx": 6819, "name": "Translink Medical Trnsprtn", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transport, not student"}
+{"idx": 6820, "name": "M S Bond Busing LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school busing LLC"}
+{"idx": 6821, "name": "Recovery Medical Transport", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transport, not student"}
+{"idx": 6822, "name": "Ollis, Jason", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear operation"}
+{"idx": 6823, "name": "Elliott County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school bus garage"}
+{"idx": 6824, "name": "Lifestyles Medical & Leisure", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical/leisure, not student"}
+{"idx": 6825, "name": "Monticello School Dist Bus Shp", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus shop"}
+{"idx": 6826, "name": "MTL Specialized Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Specialized transport, unclear scope"}
+{"idx": 6827, "name": "Mic Medical Claims Processing", "verdict": "not_transport", "confidence": 0.95, "reason": "Medical claims processing"}
+{"idx": 6828, "name": "Pryor Public Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public schools bus garage"}
+{"idx": 6829, "name": "Dependable Express Inc", "verdict": "not_transport", "confidence": 0.6, "reason": "Generic express, likely medical/courier"}
+{"idx": 6830, "name": "Rosemeyer School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school bus service"}
+{"idx": 6831, "name": "My E Transportation LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic transportation LLC"}
+{"idx": 6832, "name": "Ruby Medical Transit Svc LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical transit, not student"}
+{"idx": 6833, "name": "Allamakee CSD Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "CSD district bus garage"}
+{"idx": 6834, "name": "Fish For My People", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely ministry/nonprofit"}
+{"idx": 6835, "name": "Good Samaritans Med Transport", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical transport, not student"}
+{"idx": 6836, "name": "Walters Public Schls Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public schools bus shop"}
+{"idx": 6837, "name": "Gamel's Magic School Bus", "verdict": "not_transport", "confidence": 0.6, "reason": "Likely daycare/preschool program"}
+{"idx": 6838, "name": "Abal Healthcare Transport", "verdict": "not_transport", "confidence": 0.9, "reason": "Healthcare transport, not student"}
+{"idx": 6839, "name": "First Choice Care", "verdict": "not_transport", "confidence": 0.7, "reason": "Healthcare provider, not transport"}

@@ -1,0 +1,30 @@
+{"idx": 3210, "name": "Accessible Transit Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transit service, likely special-needs transport"}
+{"idx": 3211, "name": "Las Vegas Transportation Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation Inc, special-needs flagged"}
+{"idx": 3212, "name": "Black Hawk Limousine", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not school bus operator"}
+{"idx": 3213, "name": "Country Elagance Limo Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limo service, not school transport"}
+{"idx": 3214, "name": "Legacy Limousine Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Limousine service, not school transport"}
+{"idx": 3215, "name": "Catoosa Public Schools Supt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district superintendent office"}
+{"idx": 3216, "name": "Moore Expediting LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Expediting LLC, unclear if school transport"}
+{"idx": 3217, "name": "Schwartz School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus service, private contractor"}
+{"idx": 3218, "name": "Tri-State Wheelchair Svc", "verdict": "not_transport", "confidence": 0.75, "reason": "Ambulance org, not school transport"}
+{"idx": 3219, "name": "Safe-Way Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company in WI"}
+{"idx": 3220, "name": "Spartan Corp Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Corp doing bus business, private operator"}
+{"idx": 3221, "name": "CCI Medtrans", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not school bus"}
+{"idx": 3222, "name": "Dot Transportation", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior services Alexandria, not school transport"}
+{"idx": 3223, "name": "Shelbyville School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation dept, k12.il.us domain"}
+{"idx": 3224, "name": "Nordonia Hills City Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district, public entity"}
+{"idx": 3225, "name": "Gardenia Blossoms LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC name, unclear transport nature"}
+{"idx": 3226, "name": "Onsted Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district transportation dept"}
+{"idx": 3227, "name": "Fort Stockton Isd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD bus barn, district-owned facility"}
+{"idx": 3228, "name": "Freight All Kinds Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Freight company, not school transport"}
+{"idx": 3229, "name": "Greater Mobility LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Mobility LLC, likely special-needs transport"}
+{"idx": 3230, "name": "Socorro Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district, public entity"}
+{"idx": 3231, "name": "Kross N EMT LLC", "verdict": "not_transport", "confidence": 0.75, "reason": "EMT/medical service, not school transport"}
+{"idx": 3232, "name": "US Hazard Disclosure Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Hazard disclosure, not transportation"}
+{"idx": 3233, "name": "Sunny Day Med Transport LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not school bus"}
+{"idx": 3234, "name": "Perfect Kup Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear business"}
+{"idx": 3235, "name": "School Bus System", "verdict": "private_contractor", "confidence": 0.7, "reason": "School bus system, private LA operator"}
+{"idx": 3236, "name": "A B C School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus service Inc, Miami"}
+{"idx": 3237, "name": "Star Medical Transportation Co", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical transportation, not school bus"}
+{"idx": 3238, "name": "Nursing Services Of Palm Beach", "verdict": "not_transport", "confidence": 0.9, "reason": "Nursing services, not transportation operator"}
+{"idx": 3239, "name": "Imed Mobility Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "MobilityWorks, wheelchair vehicle dealer not operator"}

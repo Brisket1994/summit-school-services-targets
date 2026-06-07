@@ -1,0 +1,30 @@
+{"idx": 3570, "name": "Cmi Mobility", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private mobility/special needs transport operator"}
+{"idx": 3571, "name": "Exclusive Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, may handle special needs transport"}
+{"idx": 3572, "name": "Silver Shadow Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private service, likely limo/transport"}
+{"idx": 3573, "name": "TLC Taxi", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi service, not core school bus"}
+{"idx": 3574, "name": "Wheels Fargo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport operator"}
+{"idx": 3575, "name": "Ws/Fcs Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Winston-Salem/Forsyth County Schools district dept"}
+{"idx": 3576, "name": "Mokarez LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, special needs transport"}
+{"idx": 3577, "name": "Cisd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Columbus ISD bus barn, district owned"}
+{"idx": 3578, "name": "Board Mntal Rtardation Bus Gar", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "County board of MR/DD bus garage"}
+{"idx": 3579, "name": "Perryton Isd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD bus barn, district owned"}
+{"idx": 3580, "name": "Lucy Transport LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC special needs transport"}
+{"idx": 3581, "name": "Craven County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school bus garage, district owned"}
+{"idx": 3582, "name": "Beaufort School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District school bus shop"}
+{"idx": 3583, "name": "Grand Coulee Dam Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus garage"}
+{"idx": 3584, "name": "East Grand Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 3585, "name": "Svaden Disability Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private disability transport service"}
+{"idx": 3586, "name": "Access EZ Transport Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc, special needs transport"}
+{"idx": 3587, "name": "Central Valley School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 3588, "name": "Desert Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo service"}
+{"idx": 3589, "name": "Diamond Care Logistics LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC, special needs transport"}
+{"idx": 3590, "name": "Sunshine Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo, special needs flag"}
+{"idx": 3591, "name": "School Transportation Solution", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport company, website confirms"}
+{"idx": 3592, "name": "Palmetto Passengers LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC passenger transport"}
+{"idx": 3593, "name": "Rod-N-Staff Wheelchair", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private wheelchair transport"}
+{"idx": 3594, "name": "Care Wheelchair Transport LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC wheelchair transport"}
+{"idx": 3595, "name": "GC Logistics LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, likely logistics not school"}
+{"idx": 3596, "name": "Harrah Public Schools-Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus barn"}
+{"idx": 3597, "name": "C J Logistics Trnsprtn Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC transportation service"}
+{"idx": 3598, "name": "Safety Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private school transport company"}
+{"idx": 3599, "name": "Limousine Service Of BP Corp", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo corp, school flag"}

@@ -1,0 +1,30 @@
+{"idx": 5370, "name": "A Accessible Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Small special-needs transport operator, FL"}
+{"idx": 5371, "name": "ALC Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC special-needs transport, FL"}
+{"idx": 5372, "name": "Alliance Transport Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport service, FL"}
+{"idx": 5373, "name": "Red Kite LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC name, unclear operations"}
+{"idx": 5374, "name": "Spruce Creek Limousine Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine company, possibly special-needs transport"}
+{"idx": 5375, "name": "Savage Transport Svc LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport LLC, MD"}
+{"idx": 5376, "name": "Saginaw Bus Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Greyhound website suggests bus terminal not operator"}
+{"idx": 5377, "name": "Big Brother Security Prgm Inc", "verdict": "not_transport", "confidence": 0.6, "reason": "Security program, not transport"}
+{"idx": 5378, "name": "Grace Rides", "verdict": "private_contractor", "confidence": 0.7, "reason": "Small special-needs ride service, CO"}
+{"idx": 5379, "name": "Lovette Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named transport service, FL"}
+{"idx": 5380, "name": "Richard Transportation Para", "verdict": "private_contractor", "confidence": 0.75, "reason": "Paratransit operator, MO"}
+{"idx": 5381, "name": "Washington Security & Limosne", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine/security, possible special-needs"}
+{"idx": 5382, "name": "All Events Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, events focus"}
+{"idx": 5383, "name": "Buckeye Transport Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport service, OH"}
+{"idx": 5384, "name": "Els & Assoc", "verdict": "unsure", "confidence": 0.35, "reason": "Generic associates name, unclear"}
+{"idx": 5385, "name": "Limousines Of Macedonia Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine company, possible special-needs"}
+{"idx": 5386, "name": "Microconsult Medical Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transport operator, OH"}
+{"idx": 5387, "name": "Rees' Wheelchair Mobility Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Wheelchair mobility service, OH"}
+{"idx": 5388, "name": "SC School Districts-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation, public"}
+{"idx": 5389, "name": "Shriner's Cripple Child", "verdict": "not_transport", "confidence": 0.9, "reason": "Shriners charity hospital, not transport"}
+{"idx": 5390, "name": "West Valley Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 5391, "name": "A & J Mobility", "verdict": "private_contractor", "confidence": 0.7, "reason": "Mobility/wheelchair transport, WI"}
+{"idx": 5392, "name": "A-1 Medi Mobile", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical mobility transport, WI"}
+{"idx": 5393, "name": "Abas Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible special-needs"}
+{"idx": 5394, "name": "Ardonwood School Transport Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport company, CA"}
+{"idx": 5395, "name": "City Medical Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical transportation, CA"}
+{"idx": 5396, "name": "Clarinod Gomes Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family-named limo, possible special-needs"}
+{"idx": 5397, "name": "Front Field", "verdict": "not_transport", "confidence": 0.6, "reason": "Farm website, not transport operator"}
+{"idx": 5398, "name": "Hidden Rhythm Inc Which Will", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated unclear name"}
+{"idx": 5399, "name": "Mom's Favorite PBC Which Will", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated PBC name, unclear"}

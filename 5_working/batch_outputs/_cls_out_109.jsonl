@@ -1,0 +1,30 @@
+{"idx": 3270, "name": "Msad 40 Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "MSAD school district bus garage"}
+{"idx": 3271, "name": "Nache Valley Schl Dist Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 3272, "name": "B P & B M Sch Bus Trnsprtn Crp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus transport corp"}
+{"idx": 3273, "name": "Icare Transportation SVC LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, special needs transport"}
+{"idx": 3274, "name": "Low Country Taxi & Limosne Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "Taxi and limo service, not school bus"}
+{"idx": 3275, "name": "Cumberland Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 3276, "name": "Tupelo Public School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3277, "name": "Step One Academy Child Care", "verdict": "not_transport", "confidence": 0.95, "reason": "Childcare/daycare, not transport operator"}
+{"idx": 3278, "name": "Easton Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service Inc"}
+{"idx": 3279, "name": "Charleston School Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "District website suggests in-house"}
+{"idx": 3280, "name": "Mt Pleasant Central Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district"}
+{"idx": 3281, "name": "Wilou Transit Svc Inc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private transit service Inc"}
+{"idx": 3282, "name": "Red Barn Films Inc Which Will", "verdict": "not_transport", "confidence": 0.9, "reason": "Film production company"}
+{"idx": 3283, "name": "Transmedcare", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not school bus"}
+{"idx": 3284, "name": "Union Scioto Local Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Local public school district"}
+{"idx": 3285, "name": "Handicap Transportation Inc", "verdict": "private_contractor", "confidence": 0.78, "reason": "Private special-needs transport Inc"}
+{"idx": 3286, "name": "Orion Cusd 223 Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "CUSD district bus garage"}
+{"idx": 3287, "name": "Scorpio Restaurant & Lounge", "verdict": "not_transport", "confidence": 0.98, "reason": "Restaurant, not transport"}
+{"idx": 3288, "name": "Levelland Independent Sch Tran", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "ISD transportation department"}
+{"idx": 3289, "name": "Hybrid Enterprise", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear business"}
+{"idx": 3290, "name": "Pacs Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport, special needs"}
+{"idx": 3291, "name": "N Y C Dept Of Finc Bus Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name in Kingston NY"}
+{"idx": 3292, "name": "Dependable Wheelchair Trnsprt", "verdict": "not_transport", "confidence": 0.75, "reason": "Wheelchair medical transport"}
+{"idx": 3293, "name": "Dolgeville Central Sch Bus Grg", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school bus garage"}
+{"idx": 3294, "name": "Florence School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus shop, ed.sc.gov website"}
+{"idx": 3295, "name": "Mark Edmonds", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear business"}
+{"idx": 3296, "name": "Golden Cross Ambulance Inc", "verdict": "not_transport", "confidence": 0.92, "reason": "Ambulance service, not school transport"}
+{"idx": 3297, "name": "District Management Assn", "verdict": "not_transport", "confidence": 0.7, "reason": "Management association, Crouse hospital site"}
+{"idx": 3298, "name": "Veteran's Wheelchair Trnsprtn", "verdict": "not_transport", "confidence": 0.85, "reason": "Veterans wheelchair/limo transport"}
+{"idx": 3299, "name": "Hoekstra Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private family-name transport, 1927"}

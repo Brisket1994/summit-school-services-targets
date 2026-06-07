@@ -1,0 +1,30 @@
+{"idx": 4200, "name": "Mouton Pharmacy", "verdict": "not_transport", "confidence": 0.97, "reason": "Pharmacy, not transport operator"}
+{"idx": 4201, "name": "Greater Lakes Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport co; special-needs flag"}
+{"idx": 4202, "name": "Renali Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport LLC; special-needs"}
+{"idx": 4203, "name": "Carolina Molbility & Seating", "verdict": "not_transport", "confidence": 0.9, "reason": "Mobility equipment seller, not transport"}
+{"idx": 4204, "name": "Bell Transportation Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport Inc; special-needs"}
+{"idx": 4205, "name": "Medistar Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely NEMT provider; possibly medical"}
+{"idx": 4206, "name": "TNT Medi Van Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medi-van NEMT; weak school fit"}
+{"idx": 4207, "name": "Top Class Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly student transport"}
+{"idx": 4208, "name": "Logan County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District garage, kyschools.us domain"}
+{"idx": 4209, "name": "KS Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo, marginal student transport fit"}
+{"idx": 4210, "name": "AAA Wheelchair & Stretcher", "verdict": "private_contractor", "confidence": 0.5, "reason": "Wheelchair/NEMT, not school transport"}
+{"idx": 4211, "name": "Allied Medical", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical, not clearly transport"}
+{"idx": 4212, "name": "Good Wheels Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility/NEMT provider"}
+{"idx": 4213, "name": "Mectran Medical Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical NEMT, not school"}
+{"idx": 4214, "name": "Wheelchair Taxi", "verdict": "private_contractor", "confidence": 0.5, "reason": "Wheelchair taxi NEMT"}
+{"idx": 4215, "name": "Hopewell Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "cmsk12.org Charlotte-Mecklenburg district"}
+{"idx": 4216, "name": "Peterman Stsa LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name LLC, school transport"}
+{"idx": 4217, "name": "Arkansas Enterprise-Jobs For Y", "verdict": "not_transport", "confidence": 0.85, "reason": "Jobs program nonprofit, not transport"}
+{"idx": 4218, "name": "ASAP Taxi", "verdict": "private_contractor", "confidence": 0.5, "reason": "Taxi service, marginal student transport"}
+{"idx": 4219, "name": "Black Tie Coach LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Coach LLC, possibly student transport"}
+{"idx": 4220, "name": "Let's Go 2", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, tiny shop"}
+{"idx": 4221, "name": "Moose Lake Cmnty Sch-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district transport dept"}
+{"idx": 4222, "name": "Seacoast Student Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private student transport LLC"}
+{"idx": 4223, "name": "Delegance Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, marginal fit"}
+{"idx": 4224, "name": "A Bus LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus LLC, school flagged"}
+{"idx": 4225, "name": "Rehab Solutions", "verdict": "not_transport", "confidence": 0.8, "reason": "Rehab services, not transport"}
+{"idx": 4226, "name": "Suffolk Transportation Systs", "verdict": "private_contractor", "confidence": 0.9, "reason": "Suffolk Bus, large LI school contractor"}
+{"idx": 4227, "name": "South Arkansas Bus Solutions", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus contractor"}
+{"idx": 4228, "name": "Ct Small Bus Development Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "UConn business dev center, not transport"}
+{"idx": 4229, "name": "E & M School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport operator"}

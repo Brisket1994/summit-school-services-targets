@@ -1,0 +1,30 @@
+{"idx": 4230, "name": "Wheelchair Express Transport", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport operator"}
+{"idx": 4231, "name": "Osage Community Sch-Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District-owned bus barn"}
+{"idx": 4232, "name": "Illinois Valley Central Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4233, "name": "NPR-America Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous corporate name, possibly private"}
+{"idx": 4234, "name": "Eastern Aroostook Rsu 39", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Regional school unit, public district"}
+{"idx": 4235, "name": "Farmington Public Sch Trnsprt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transport"}
+{"idx": 4236, "name": "Jackson County Intermediate", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Intermediate school district"}
+{"idx": 4237, "name": "Dawson Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transport"}
+{"idx": 4238, "name": "Discover Ride", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport company"}
+{"idx": 4239, "name": "Quitman School Transportation", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Likely district transport department"}
+{"idx": 4240, "name": "Noxon Public Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district bus barn"}
+{"idx": 4241, "name": "Alamance-Burlington Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4242, "name": "Goodwill Foundation Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Nonprofit foundation, not transport operator"}
+{"idx": 4243, "name": "Mat Paratransit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "MAT public transit paratransit service"}
+{"idx": 4244, "name": "Holiday Express", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus charter operator"}
+{"idx": 4245, "name": "Strategies For Bus-Government", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly consultancy"}
+{"idx": 4246, "name": "Wilson County Sch Trnsprtn Dpt", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transport department"}
+{"idx": 4247, "name": "Amelia County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4248, "name": "Bundy Lcs-Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Lee County Schools bus shop"}
+{"idx": 4249, "name": "Non Ambulatory Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private non-ambulatory transport service"}
+{"idx": 4250, "name": "Cube Co Which Will DO Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous corporate name"}
+{"idx": 4251, "name": "Silicon Valley Sch-Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Likely private school bus operator"}
+{"idx": 4252, "name": "Tudycare Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC special-needs transport"}
+{"idx": 4253, "name": "Wheels-Harbison Area Transit", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Area transit, likely public"}
+{"idx": 4254, "name": "Big Star Transit LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC transit company"}
+{"idx": 4255, "name": "E K Ad LLC Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport operator"}
+{"idx": 4256, "name": "G & M Automotive Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private auto transport, may not be student"}
+{"idx": 4257, "name": "Satterwhite Ossian", "verdict": "private_contractor", "confidence": 0.55, "reason": "Family name, private special-needs transport"}
+{"idx": 4258, "name": "Atlantas Best Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service, not school focused"}
+{"idx": 4259, "name": "Wings-Eagle Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport operator"}

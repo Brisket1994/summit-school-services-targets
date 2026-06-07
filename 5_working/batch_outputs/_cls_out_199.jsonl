@@ -1,0 +1,30 @@
+{"idx": 5970, "name": "Gemsoft", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, possibly software not transport"}
+{"idx": 5971, "name": "Goldstar Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possibly special-needs transport"}
+{"idx": 5972, "name": "Harold E Brny Mntry Trans Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small transport service, private operator"}
+{"idx": 5973, "name": "J & J Auto Sales", "verdict": "not_transport", "confidence": 0.9, "reason": "Auto dealer, not transport operator"}
+{"idx": 5974, "name": "J D Svc Express", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear service type"}
+{"idx": 5975, "name": "Johns Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special-needs"}
+{"idx": 5976, "name": "Limo Cars", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine operator, small private"}
+{"idx": 5977, "name": "Limousine Xpress", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private operator"}
+{"idx": 5978, "name": "LRL Lets Roll Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, small private"}
+{"idx": 5979, "name": "North Star Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5980, "name": "Nu Care Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Care transport Inc, likely special-needs operator"}
+{"idx": 5981, "name": "Paradise Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5982, "name": "Perfect Touch Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5983, "name": "Quest Chauffered Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Chauffeur service, small private"}
+{"idx": 5984, "name": "Robert Preiss Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5985, "name": "Rolling Out", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name, unclear business"}
+{"idx": 5986, "name": "Santiago Enterprises Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Event center website, not transport"}
+{"idx": 5987, "name": "Shiratori Limousine & Hire", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo and hire service"}
+{"idx": 5988, "name": "St Anthony Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Transport Inc, likely private operator"}
+{"idx": 5989, "name": "Thee Big Easy Limo Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5990, "name": "Transport US Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transport Inc, generic private operator"}
+{"idx": 5991, "name": "Vintage Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5992, "name": "Carey Hawaii", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo brand affiliate, likely non-independent"}
+{"idx": 5993, "name": "H/H Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5994, "name": "Margies Transportation Co Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transportation Co Inc, family name"}
+{"idx": 5995, "name": "Secret Limousine Co", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5996, "name": "Super Hawaii Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, small private"}
+{"idx": 5997, "name": "E Z Transport Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transport Inc, small private operator"}
+{"idx": 5998, "name": "Har Sil Limo Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo Inc, small private"}
+{"idx": 5999, "name": "Integra Logistics", "verdict": "unsure", "confidence": 0.4, "reason": "Logistics firm, unclear if student transport"}

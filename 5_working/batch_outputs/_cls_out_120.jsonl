@@ -1,0 +1,30 @@
+{"idx": 3600, "name": "Merry-Go-Round Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation company, school routes"}
+{"idx": 3601, "name": "A Town Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company with Inc suffix"}
+{"idx": 3602, "name": "North County School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Lenoir county K12 district bus garage"}
+{"idx": 3603, "name": "Coastal Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport, residential NJ address"}
+{"idx": 3604, "name": "Onebunchhookup LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "LLC, special needs transport, unclear branding"}
+{"idx": 3605, "name": "Kids To & From School", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport service"}
+{"idx": 3606, "name": "Comfort Transit Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit service, special needs"}
+{"idx": 3607, "name": "Perry Schools Trnsprtn Ctr", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Perry K12 district transportation center"}
+{"idx": 3608, "name": "Backroad Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC, special needs transport"}
+{"idx": 3609, "name": "Tandy Lcorrales", "verdict": "private_contractor", "confidence": 0.6, "reason": "Personal name, special needs transport"}
+{"idx": 3610, "name": "Keegan Enterpises", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private enterprise, special needs transport"}
+{"idx": 3611, "name": "John Cardinal O'Connor School", "verdict": "not_transport", "confidence": 0.98, "reason": "Actual school, not transport operator"}
+{"idx": 3612, "name": "Valentin Beianu Special Needs", "verdict": "private_contractor", "confidence": 0.8, "reason": "Personal name, special needs transport"}
+{"idx": 3613, "name": "Enterprise City School Svc Ctr", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Enterprise city schools district service center"}
+{"idx": 3614, "name": "Air Libore Limousine Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limousine service"}
+{"idx": 3615, "name": "Hupp Mobile Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc, special needs transport"}
+{"idx": 3616, "name": "Mr Dees Limousine", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private limousine company"}
+{"idx": 3617, "name": "Woodhall Leasing", "verdict": "unsure", "confidence": 0.5, "reason": "Leasing company, unclear if operator"}
+{"idx": 3618, "name": "Riverbend Head Start", "verdict": "not_transport", "confidence": 0.9, "reason": "Head Start program, not transport operator"}
+{"idx": 3619, "name": "Universal Transportation Sltns", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation solutions, special needs"}
+{"idx": 3620, "name": "CK Professional Group LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private LLC, special needs transport"}
+{"idx": 3621, "name": "Willits Unified Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Willits Unified school district transportation"}
+{"idx": 3622, "name": "Patten-Strickland Sch Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private school bus service"}
+{"idx": 3623, "name": "Kvusd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Kelseyville USD transportation department"}
+{"idx": 3624, "name": "Central States Bus Sales Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales, not operator"}
+{"idx": 3625, "name": "Dupont Livery", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private livery service"}
+{"idx": 3626, "name": "Speedy Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private wheelchair transport service"}
+{"idx": 3627, "name": "Wayne County Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Wayne County school district transportation"}
+{"idx": 3628, "name": "Moses Limousine Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private limousine service"}
+{"idx": 3629, "name": "Specialty Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private specialty transport, special needs"}

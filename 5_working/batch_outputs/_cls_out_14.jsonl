@@ -1,0 +1,30 @@
+{"idx": 420, "name": "Charlies School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive private bus operator name"}
+{"idx": 421, "name": "Harlow's Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus service"}
+{"idx": 422, "name": "Schools Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Generic name, likely private contractor"}
+{"idx": 423, "name": "Northern Express Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service operator"}
+{"idx": 424, "name": "St Johns Pubc Sch Bus Driver's", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public school bus driver group"}
+{"idx": 425, "name": "Cozy Van", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport"}
+{"idx": 426, "name": "Santa Barbara Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Likely private contractor, possibly STA-affiliated"}
+{"idx": 427, "name": "Fischer Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private Inc contractor"}
+{"idx": 428, "name": "Bus Center", "verdict": "unsure", "confidence": 0.5, "reason": "Could be dealer not operator"}
+{"idx": 429, "name": "After Hours Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo doing special-needs transport"}
+{"idx": 430, "name": "Central Avenue Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service operator"}
+{"idx": 431, "name": "J & L's Medical Transport LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private medical/special-needs transport LLC"}
+{"idx": 432, "name": "Lewis Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private LLC contractor"}
+{"idx": 433, "name": "Voigt's Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus service"}
+{"idx": 434, "name": "Sandollar Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo special-needs transport"}
+{"idx": 435, "name": "Able Transport Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport service"}
+{"idx": 436, "name": "Boyo Transportation SVC Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc transportation contractor"}
+{"idx": 437, "name": "Wagner Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus service"}
+{"idx": 438, "name": "Promed", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely private medical transport"}
+{"idx": 439, "name": "Jackson Bus Line", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus line"}
+{"idx": 440, "name": "D & E Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Initials-named private contractor"}
+{"idx": 441, "name": "Lincoln Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc transportation contractor"}
+{"idx": 442, "name": "E-Z Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc bus contractor"}
+{"idx": 443, "name": "Five Star Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport contractor"}
+{"idx": 444, "name": "Garden State Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private medical/special-needs transport"}
+{"idx": 445, "name": "Go Riteway", "verdict": "private_contractor", "confidence": 0.95, "reason": "Known WI private school bus operator"}
+{"idx": 446, "name": "Healthsouth Regional Bus Ofc", "verdict": "not_transport", "confidence": 0.8, "reason": "HealthSouth healthcare regional office, not transport"}
+{"idx": 447, "name": "Lakeside Buses Of Wisconsin", "verdict": "private_contractor", "confidence": 0.4, "reason": "Website ridesta.com suggests STA ownership"}
+{"idx": 448, "name": "Lakeside Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Cook-Illinois affiliate, strategic owner"}
+{"idx": 449, "name": "Mobility Express Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc special-needs transport"}

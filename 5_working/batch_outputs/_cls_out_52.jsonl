@@ -1,0 +1,30 @@
+{"idx": 1560, "name": "Johnson Bus Serivce LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus service LLC"}
+{"idx": 1561, "name": "Central Huron Ambulance Svc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}
+{"idx": 1562, "name": "Central Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1563, "name": "Fremont Community Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public community school district"}
+{"idx": 1564, "name": "Manhattan-OGDEN Usd 383", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 1565, "name": "Upstream USA Inc Which Will Do", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, nonprofit healthcare org"}
+{"idx": 1566, "name": "5 On 4 Wheels Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation LLC"}
+{"idx": 1567, "name": "Birchwood Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus service Inc"}
+{"idx": 1568, "name": "Desoto County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district transportation"}
+{"idx": 1569, "name": "Big Apple Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NY bus Inc"}
+{"idx": 1570, "name": "Upside-Downs Which Will Do Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Down syndrome nonprofit, not transport"}
+{"idx": 1571, "name": "Newark School Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District bus garage in-house"}
+{"idx": 1572, "name": "Boyd Enterprises Inc Which", "verdict": "unsure", "confidence": 0.5, "reason": "Truncated name, unclear business"}
+{"idx": 1573, "name": "Island City Area EMS", "verdict": "not_transport", "confidence": 0.95, "reason": "EMS ambulance, not student transport"}
+{"idx": 1574, "name": "Metro St Louis", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public transit agency"}
+{"idx": 1575, "name": "School Bus Safety Inc", "verdict": "unsure", "confidence": 0.5, "reason": "Possibly training/safety org not operator"}
+{"idx": 1576, "name": "Bo Tai Group Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic CA shell, unclear operations"}
+{"idx": 1577, "name": "Fahrenheit Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Beverly Hills shell, unclear business"}
+{"idx": 1578, "name": "Jasmine Systems Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, truncated, unclear"}
+{"idx": 1579, "name": "Medreportguard PBC Which Will", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical reporting PBC, not transport"}
+{"idx": 1580, "name": "Mythical Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "Mythical Entertainment media company"}
+{"idx": 1581, "name": "Oceanside Unified Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district"}
+{"idx": 1582, "name": "Saferide Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear if operator"}
+{"idx": 1583, "name": "Freeman Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus corporation"}
+{"idx": 1584, "name": "Naz Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus LLC in Texas"}
+{"idx": 1585, "name": "Myers Bus Parts & Supply Co", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus parts supplier, not operator"}
+{"idx": 1586, "name": "Muskogee Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transport"}
+{"idx": 1587, "name": "Acme Art Co", "verdict": "not_transport", "confidence": 0.9, "reason": "Art company, not transport"}
+{"idx": 1588, "name": "West Milford Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District transportation department"}
+{"idx": 1589, "name": "Isd 197-Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district transportation"}

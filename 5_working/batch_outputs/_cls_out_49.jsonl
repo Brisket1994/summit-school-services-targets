@@ -1,0 +1,30 @@
+{"idx": 1470, "name": "Montgomery Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 1471, "name": "Ardour Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA name, unclear operator"}
+{"idx": 1472, "name": "Intra-City Bus Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus Corp with corporate suffix"}
+{"idx": 1473, "name": "Fort Dodge Cmnty Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Community school district"}
+{"idx": 1474, "name": "School Bus Of Tech LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "LLC school bus operator"}
+{"idx": 1475, "name": "KELO Academy", "verdict": "not_transport", "confidence": 0.9, "reason": "Academy is a school, not transport"}
+{"idx": 1476, "name": "Ramco Il Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated DBA, unclear purpose"}
+{"idx": 1477, "name": "Pvta Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "PVTA public transit authority garage"}
+{"idx": 1478, "name": "Picayune Public Schl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transportation"}
+{"idx": 1479, "name": "S & K Bus Stop", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, could be retail"}
+{"idx": 1480, "name": "Pinks Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service"}
+{"idx": 1481, "name": "Huron Valley Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district transportation department"}
+{"idx": 1482, "name": "Transportation Authority Inc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "SFCTA public transportation authority"}
+{"idx": 1483, "name": "Apple Handy Ride", "verdict": "private_contractor", "confidence": 0.7, "reason": "Special needs transport operator"}
+{"idx": 1484, "name": "Lake Dallas Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "LDISD school district transportation"}
+{"idx": 1485, "name": "Vidor Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 1486, "name": "Handi-Cab Transportation Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Special needs cab transport service"}
+{"idx": 1487, "name": "Fairfield Center For Indpndnc", "verdict": "not_transport", "confidence": 0.85, "reason": "Independence center, disability services"}
+{"idx": 1488, "name": "American Scenes Inc Which Will", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear operator"}
+{"idx": 1489, "name": "Lion Share Productions Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Productions company, not transport"}
+{"idx": 1490, "name": "Tadpole Productions Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Productions company, NZ website"}
+{"idx": 1491, "name": "Madison Area Bus Advocates Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Advocacy nonprofit, not operator"}
+{"idx": 1492, "name": "Ace King E-Bus Solutions Inc", "verdict": "unsure", "confidence": 0.5, "reason": "E-bus solutions, possibly vendor"}
+{"idx": 1493, "name": "Assemble Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear purpose"}
+{"idx": 1494, "name": "Comotion Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear purpose"}
+{"idx": 1495, "name": "Coveralls Inc Which Will Do", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear purpose"}
+{"idx": 1496, "name": "Desert Power Co-Ca Which Will", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear purpose"}
+{"idx": 1497, "name": "Doughboy Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear purpose"}
+{"idx": 1498, "name": "Get On Bus-The-Office", "verdict": "not_transport", "confidence": 0.6, "reason": "Charter bus tours, not school"}
+{"idx": 1499, "name": "Maison International Inc Which", "verdict": "unsure", "confidence": 0.3, "reason": "Truncated DBA, unclear purpose"}

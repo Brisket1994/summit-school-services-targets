@@ -1,0 +1,30 @@
+{"idx": 5490, "name": "Monark Student Trnsprtn Hq", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private student transportation company"}
+{"idx": 5491, "name": "Western Coach Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, may do special-needs transport"}
+{"idx": 5492, "name": "Admiral Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible special-needs transport"}
+{"idx": 5493, "name": "Med Equipment", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical equipment, not transport operator"}
+{"idx": 5494, "name": "AAA Wheel Chair Direct", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair transport, possibly NEMT not school"}
+{"idx": 5495, "name": "Artemis Black", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, unclear business"}
+{"idx": 5496, "name": "Best Medical Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, likely NEMT not school"}
+{"idx": 5497, "name": "Sierra Limousines", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possible special-needs"}
+{"idx": 5498, "name": "Sutton Bus & Truck Co Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, school flag set"}
+{"idx": 5499, "name": "Lakeland School Corp", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School corporation, public district"}
+{"idx": 5500, "name": "Wings Of Mercy East Michigan", "verdict": "not_transport", "confidence": 0.85, "reason": "Charity medical flight nonprofit"}
+{"idx": 5501, "name": "Modified Vehicle Specialists", "verdict": "not_transport", "confidence": 0.75, "reason": "Vehicle modification shop, not operator"}
+{"idx": 5502, "name": "Mineola Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD in-house transportation department"}
+{"idx": 5503, "name": "Limo One", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possible special-needs transport"}
+{"idx": 5504, "name": "J & S Children's Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Children's transport, school flag set"}
+{"idx": 5505, "name": "Special K's Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport operator, possibly NEMT"}
+{"idx": 5506, "name": "Best Way Non Emergency Med", "verdict": "private_contractor", "confidence": 0.5, "reason": "Non-emergency medical transport, not school"}
+{"idx": 5507, "name": "Liaise Transportation LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Transport LLC, possible special-needs"}
+{"idx": 5508, "name": "Nova Bus Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company, school flag set"}
+{"idx": 5509, "name": "Advance Mobility LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Mobility LLC, likely NEMT"}
+{"idx": 5510, "name": "Ohio Valley Cab & Delivery Svc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Cab and delivery, likely not school"}
+{"idx": 5511, "name": "Independent Again", "verdict": "not_transport", "confidence": 0.7, "reason": "Mobility/independence services, not transport"}
+{"idx": 5512, "name": "Incare Transpor", "verdict": "private_contractor", "confidence": 0.5, "reason": "Care transport, likely NEMT"}
+{"idx": 5513, "name": "American Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possible special-needs"}
+{"idx": 5514, "name": "Embassie Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possible special-needs"}
+{"idx": 5515, "name": "Jenike Enterprises LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Generic enterprises name, unclear business"}
+{"idx": 5516, "name": "J C Chauffeur Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Chauffeur service, possible special-needs"}
+{"idx": 5517, "name": "BUMBLEBEESCOOTERS.COM", "verdict": "not_transport", "confidence": 0.8, "reason": "Scooter rental, not school transport"}
+{"idx": 5518, "name": "Majestix Transportation LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Transportation LLC, Kissimmee likely tourist"}
+{"idx": 5519, "name": "C S Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine service, possible special-needs"}

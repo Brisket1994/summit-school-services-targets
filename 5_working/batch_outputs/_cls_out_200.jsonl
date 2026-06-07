@@ -1,0 +1,30 @@
+{"idx": 6000, "name": "JJ Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo svc, possible special-needs contractor"}
+{"idx": 6001, "name": "MD Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6002, "name": "Mile Master Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear transport type"}
+{"idx": 6003, "name": "Penskne Logistics", "verdict": "not_transport", "confidence": 0.85, "reason": "Penske Logistics, freight/trucking strategic"}
+{"idx": 6004, "name": "R & N Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6005, "name": "Radi Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Radilimo.com, private limo operator"}
+{"idx": 6006, "name": "Urban Wings LTD", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, no details"}
+{"idx": 6007, "name": "Yatry Corp-Subway", "verdict": "not_transport", "confidence": 0.7, "reason": "Subway franchise, not transport operator"}
+{"idx": 6008, "name": "York Town Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, possible special-needs route"}
+{"idx": 6009, "name": "Charis Solutions LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC name, unclear"}
+{"idx": 6010, "name": "Urban Crest LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic LLC, unclear transport"}
+{"idx": 6011, "name": "Coast Bus", "verdict": "private_contractor", "confidence": 0.65, "reason": "Bus operator, school flag set"}
+{"idx": 6012, "name": "A & L Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special-needs flag"}
+{"idx": 6013, "name": "A & T Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special-needs flag"}
+{"idx": 6014, "name": "About Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo, special-needs flag"}
+{"idx": 6015, "name": "Best Limo & Car Sevc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo/car svc, special-needs"}
+{"idx": 6016, "name": "DMD Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6017, "name": "Finest Executive Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Executive limo, mostly corporate not student"}
+{"idx": 6018, "name": "Frino Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6019, "name": "L & M Car Svc Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private car svc, special-needs flag"}
+{"idx": 6020, "name": "Marians Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-name limo, special-needs flag"}
+{"idx": 6021, "name": "MPC Bus Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Bus Corp, special-needs flag"}
+{"idx": 6022, "name": "Suburban Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6023, "name": "Towne Limousine Of Westfield", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special-needs flag"}
+{"idx": 6024, "name": "USA Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo, special-needs flag"}
+{"idx": 6025, "name": "VVV Limousine Svc LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6026, "name": "Winners Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation, special-needs flag"}
+{"idx": 6027, "name": "Alpine Executive Sedan", "verdict": "private_contractor", "confidence": 0.45, "reason": "Executive sedan svc, mostly corporate"}
+{"idx": 6028, "name": "Nationwide Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private limo svc, special-needs flag"}
+{"idx": 6029, "name": "William M Wood Medical Trnsprt", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical transport, not student-focused"}

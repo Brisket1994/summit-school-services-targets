@@ -1,0 +1,30 @@
+{"idx": 4950, "name": "CEO Limousine Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo co, special needs transport"}
+{"idx": 4951, "name": "Scat Van", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, limited info"}
+{"idx": 4952, "name": "B & E Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service, special needs"}
+{"idx": 4953, "name": "Harris Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service, special needs"}
+{"idx": 4954, "name": "Levett Lnier Lxury Limosne Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service"}
+{"idx": 4955, "name": "Travelking Express LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC transport"}
+{"idx": 4956, "name": "West Central GA Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely private transport operator"}
+{"idx": 4957, "name": "Wilkerson Glasgow", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear entity type"}
+{"idx": 4958, "name": "Bay City School Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely private school transport contractor"}
+{"idx": 4959, "name": "Countryside Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo, special needs"}
+{"idx": 4960, "name": "A & B Limousine Svc LTD", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service"}
+{"idx": 4961, "name": "A Better Day", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, unclear"}
+{"idx": 4962, "name": "A Regency Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport company"}
+{"idx": 4963, "name": "AAA Reliable Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport company"}
+{"idx": 4964, "name": "Aba Limousine Corp", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo corp"}
+{"idx": 4965, "name": "Ace 4u Medical Svc", "verdict": "not_transport", "confidence": 0.5, "reason": "Medical service, not school transport"}
+{"idx": 4966, "name": "Advantage Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport company"}
+{"idx": 4967, "name": "Affordable Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, possibly NEMT only"}
+{"idx": 4968, "name": "Alexandria Limo Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo company"}
+{"idx": 4969, "name": "AM PM Limousine Svc I", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service"}
+{"idx": 4970, "name": "Americana Express Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo company"}
+{"idx": 4971, "name": "Ashwain Limo Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo company"}
+{"idx": 4972, "name": "Beaver Transportation Inc Buzy", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport inc"}
+{"idx": 4973, "name": "Best Care Transit Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transit service"}
+{"idx": 4974, "name": "Bluejays Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport company"}
+{"idx": 4975, "name": "Boju Limo LTD", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo company"}
+{"idx": 4976, "name": "By Popular Demand Limo Sr", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo service"}
+{"idx": 4977, "name": "Careplus", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, possibly medical"}
+{"idx": 4978, "name": "CBX Diversified Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport inc"}
+{"idx": 4979, "name": "Chicago Disability Transit LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private disability transit LLC"}

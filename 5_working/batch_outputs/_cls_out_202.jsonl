@@ -1,0 +1,30 @@
+{"idx": 6060, "name": "Stevirg Mobility Assistance", "verdict": "private_contractor", "confidence": 0.7, "reason": "Small private mobility/special-needs operator"}
+{"idx": 6061, "name": "Virgo Mobility Assistance", "verdict": "private_contractor", "confidence": 0.7, "reason": "Small private mobility/special-needs operator"}
+{"idx": 6062, "name": "World National Limo Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, likely non-emergency medical transport"}
+{"idx": 6063, "name": "Because De Cares", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly care/transport service"}
+{"idx": 6064, "name": "Sunrise Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo serving special-needs"}
+{"idx": 6065, "name": "Vital Care Wheelchair Van Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private wheelchair van service"}
+{"idx": 6066, "name": "Bob's Famous Traffic Schools", "verdict": "not_transport", "confidence": 0.95, "reason": "Traffic school, not transportation operator"}
+{"idx": 6067, "name": "Carey Agency", "verdict": "unsure", "confidence": 0.4, "reason": "Generic agency name, unclear business"}
+{"idx": 6068, "name": "Fame Limour Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 6069, "name": "Gagopa Service", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly special-needs transport"}
+{"idx": 6070, "name": "GJR Enterprise", "verdict": "unsure", "confidence": 0.4, "reason": "Generic enterprise name, unclear"}
+{"idx": 6071, "name": "Grace Med Transports", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private medical transport, possibly NEMT"}
+{"idx": 6072, "name": "Lanes Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 6073, "name": "Limo To School & Limo To Work", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school transport limo service"}
+{"idx": 6074, "name": "MJ Reliable Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport"}
+{"idx": 6075, "name": "Raj's Transport", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named private transport operator"}
+{"idx": 6076, "name": "Silverline Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo service"}
+{"idx": 6077, "name": "Style Luxury Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Luxury limo, likely not school-focused"}
+{"idx": 6078, "name": "Sun Limousine & Hire", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo/hire service"}
+{"idx": 6079, "name": "Sunway Express", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport, likely special-needs"}
+{"idx": 6080, "name": "Too Hip Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Luxury limo, likely not school"}
+{"idx": 6081, "name": "Okumura Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-named private bus service, school"}
+{"idx": 6082, "name": "Glenn Mc Guire School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private school bus operator"}
+{"idx": 6083, "name": "Transcare Wheelchair Trnsprtn", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private wheelchair transportation"}
+{"idx": 6084, "name": "Adaptive Equipment Enterprises", "verdict": "not_transport", "confidence": 0.7, "reason": "Adaptive equipment supplier, not transport"}
+{"idx": 6085, "name": "Sids Transportation Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Family-named private transport service"}
+{"idx": 6086, "name": "AAA Discount Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private discount limo service"}
+{"idx": 6087, "name": "North Newton Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District bus garage, k12.in.us domain"}
+{"idx": 6088, "name": "Grabill-Lifford Limos", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-named private limo operator"}
+{"idx": 6089, "name": "Schu Tran LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private LLC transport operator"}

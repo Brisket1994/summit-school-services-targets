@@ -1,0 +1,30 @@
+{"idx": 1230, "name": "Moxies Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1231, "name": "Hoover Truck & Bus Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Truck and bus dealer/center, not operator"}
+{"idx": 1232, "name": "MCCSC Schools Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Monroe County school district transport dept"}
+{"idx": 1233, "name": "Franklin Township Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1234, "name": "Transportation Citicare", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely private transport provider, unclear specialty"}
+{"idx": 1235, "name": "Jackson Madison County Sch DST", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1236, "name": "Victoria Isd Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD transportation department"}
+{"idx": 1237, "name": "Big Walnut Local Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 1238, "name": "Wmata-Bladensburg Bus Facility", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "WMATA public transit agency facility"}
+{"idx": 1239, "name": "Call-A-Ride Plus", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely paratransit provider, possibly nonprofit"}
+{"idx": 1240, "name": "Sparrows Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1241, "name": "Benz Air Engrng Co Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Engineering name, unclear bus operator"}
+{"idx": 1242, "name": "Central TX Rural Transit Dist", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Rural transit district, public entity"}
+{"idx": 1243, "name": "Brookville Jr/Sr High School", "verdict": "not_transport", "confidence": 0.98, "reason": "Actual school, not transport company"}
+{"idx": 1244, "name": "Cuddle Academy Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Daycare-affiliated transport service"}
+{"idx": 1245, "name": "West Orange Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transportation"}
+{"idx": 1246, "name": "M & G School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus operator"}
+{"idx": 1247, "name": "Richmond Community Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public community school district"}
+{"idx": 1248, "name": "Aces I/O Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1249, "name": "Aventurine School TRNSPRTN LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transportation"}
+{"idx": 1250, "name": "Bananafish Inc Which Will Do", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1251, "name": "Beanfields Inc Which Will Do", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1252, "name": "Brothers Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1253, "name": "C-J Ent Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1254, "name": "C-S Ent Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1255, "name": "Carlton Enterprises Inc Will", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1256, "name": "Catalina Seven Ventures Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private CA Inc, likely bus operator"}
+{"idx": 1257, "name": "Chatsworthy Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus service operator"}
+{"idx": 1258, "name": "Elite Concepts Inc Which Will", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private CA Inc doing bus operations"}
+{"idx": 1259, "name": "Eurotrend Inc Which Will Do", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private CA Inc doing bus operations"}

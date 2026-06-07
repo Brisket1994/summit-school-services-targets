@@ -1,0 +1,30 @@
+{"idx": 3540, "name": "Reliable Medical Trnsprtn", "verdict": "not_transport", "confidence": 0.7, "reason": "Medical/NEMT transport, not school bus"}
+{"idx": 3541, "name": "Galvez Medical Transportation", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical transport, not school"}
+{"idx": 3542, "name": "Transportation Partners LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Generic LLC, possible special-needs contractor"}
+{"idx": 3543, "name": "Lowndes County Sch Dist-Mntnc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district maintenance"}
+{"idx": 3544, "name": "Vernon Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Vague enterprises name, ID school flag"}
+{"idx": 3545, "name": "Msad 67", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Maine School Administrative District"}
+{"idx": 3546, "name": "Roanoke County Sch Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school bus garage, district-owned"}
+{"idx": 3547, "name": "Ambucare Transport", "verdict": "not_transport", "confidence": 0.8, "reason": "Ambulance/medical transport"}
+{"idx": 3548, "name": "Bath Transportation", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Bathschools.net domain, district department"}
+{"idx": 3549, "name": "Atlanta Transportation & Bus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Atlisd.net domain, school district transport"}
+{"idx": 3550, "name": "Glory Healthcare LLC", "verdict": "not_transport", "confidence": 0.85, "reason": "Healthcare entity, not school transport"}
+{"idx": 3551, "name": "LSG Limo Inc", "verdict": "not_transport", "confidence": 0.6, "reason": "Limo company, likely not school"}
+{"idx": 3552, "name": "Jefferson Parish Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school parish district"}
+{"idx": 3553, "name": "Russian-American Bus Council", "verdict": "not_transport", "confidence": 0.9, "reason": "Business council, not transport"}
+{"idx": 3554, "name": "Trinity Wheelchair Transport", "verdict": "not_transport", "confidence": 0.8, "reason": "Wheelchair NEMT, not school"}
+{"idx": 3555, "name": "Van Pool Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "MA private student transport contractor"}
+{"idx": 3556, "name": "Cleveland Public Sch Sch Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school garage, district-owned"}
+{"idx": 3557, "name": "Student First Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private student transport Inc"}
+{"idx": 3558, "name": "City United Bus Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company Inc"}
+{"idx": 3559, "name": "Peterson Bussing LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named bussing LLC, WI"}
+{"idx": 3560, "name": "Meridian School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 3561, "name": "Missouri School Bus Contr Assn", "verdict": "not_transport", "confidence": 0.95, "reason": "Trade association, not operator"}
+{"idx": 3562, "name": "American Dream Limos", "verdict": "not_transport", "confidence": 0.8, "reason": "Limo service, not school transport"}
+{"idx": 3563, "name": "Pacific Biosciences-Ca Inc", "verdict": "not_transport", "confidence": 0.98, "reason": "Biotech company, miscategorized"}
+{"idx": 3564, "name": "Crystal Limousine Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Limousine company, not school"}
+{"idx": 3565, "name": "Golden Age Mobility", "verdict": "not_transport", "confidence": 0.85, "reason": "Senior mobility NEMT"}
+{"idx": 3566, "name": "Dejavu Limo Sedan", "verdict": "not_transport", "confidence": 0.85, "reason": "Limo/sedan service, not school"}
+{"idx": 3567, "name": "T & S Response Group LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 3568, "name": "Progressive II Inc", "verdict": "unsure", "confidence": 0.35, "reason": "Vague name, unclear operator"}
+{"idx": 3569, "name": "Holcomb School Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD363 district school garage"}

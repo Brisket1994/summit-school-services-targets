@@ -1,0 +1,30 @@
+{"idx": 6900, "name": "Anna's Mini-Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Possessive name, mini-bus service operator"}
+{"idx": 6901, "name": "Jesse's & Fernanda's School", "verdict": "not_transport", "confidence": 0.7, "reason": "Name suggests a school, not transport"}
+{"idx": 6902, "name": "Randolph Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district's own bus barn"}
+{"idx": 6903, "name": "Cragle Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service in PA"}
+{"idx": 6904, "name": "Centennial Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District-owned bus barn"}
+{"idx": 6905, "name": "Oak Hill School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district garage"}
+{"idx": 6906, "name": "Ventura Community Sch Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus barn"}
+{"idx": 6907, "name": "Sad 23 & 38 School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Maine SAD district school garage"}
+{"idx": 6908, "name": "Liberty Transportation Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Generic transport service, special-needs flag"}
+{"idx": 6909, "name": "Community Unit Dist 3 Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community Unit District bus dept"}
+{"idx": 6910, "name": "Gerald R Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Personal-name Inc transportation company"}
+{"idx": 6911, "name": "Chino Valley Sch Dist Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district department"}
+{"idx": 6912, "name": "Robertson County School TRNSP", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school transportation department"}
+{"idx": 6913, "name": "Rader, Nellie M", "verdict": "private_contractor", "confidence": 0.7, "reason": "Individual driver, likely sole proprietor"}
+{"idx": 6914, "name": "Blackwell Public Sch Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district bus barn"}
+{"idx": 6915, "name": "Necedah Area Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district bus garage"}
+{"idx": 6916, "name": "Graham County USD 281 Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "USD district transportation department"}
+{"idx": 6917, "name": "Iola-Scandinavia Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation"}
+{"idx": 6918, "name": "Bryan, Jackson", "verdict": "private_contractor", "confidence": 0.65, "reason": "Individual sole proprietor, special-needs"}
+{"idx": 6919, "name": "Harold Smith LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Personal name LLC, single driver"}
+{"idx": 6920, "name": "RKW Bus Driving Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Incorporated bus driving company"}
+{"idx": 6921, "name": "Treutlen County Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus shop"}
+{"idx": 6922, "name": "Dora R3 School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "R3 school district garage"}
+{"idx": 6923, "name": "Palmerton Preschool Co-Op", "verdict": "not_transport", "confidence": 0.9, "reason": "Preschool, not a transport operator"}
+{"idx": 6924, "name": "Fairfield Local School Distict", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Local school district"}
+{"idx": 6925, "name": "Brewton City School District", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City school district"}
+{"idx": 6926, "name": "Ezrideezlife", "verdict": "unsure", "confidence": 0.5, "reason": "Unclear branded name, possible transport"}
+{"idx": 6927, "name": "Jackson County Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "County government garage, sheriff website"}
+{"idx": 6928, "name": "Atkins Public Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 6929, "name": "Decatur School Mntnc & Trnsp", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district maintenance and transportation"}

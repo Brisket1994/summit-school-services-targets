@@ -1,0 +1,30 @@
+{"idx": 5070, "name": "Action Mobility Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs/mobility transport service"}
+{"idx": 5071, "name": "Alpine Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo operator, possibly special-needs transport"}
+{"idx": 5072, "name": "Cassidy Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transportation contractor"}
+{"idx": 5073, "name": "K & H Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school transport company"}
+{"idx": 5074, "name": "On Time Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, possibly special-needs transport"}
+{"idx": 5075, "name": "Rainbow Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo operator with special-needs flag"}
+{"idx": 5076, "name": "All One Transports", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs transport operator"}
+{"idx": 5077, "name": "Best Transportation Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service, likely medical/special-needs"}
+{"idx": 5078, "name": "Buckeye Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport service"}
+{"idx": 5079, "name": "Central Ohio Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service"}
+{"idx": 5080, "name": "Cheerful Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport operator"}
+{"idx": 5081, "name": "Dial A Ride", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name; could be public paratransit"}
+{"idx": 5082, "name": "Directions Plus", "verdict": "private_contractor", "confidence": 0.55, "reason": "Likely private transport service"}
+{"idx": 5083, "name": "Going Your Way Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service"}
+{"idx": 5084, "name": "Haven Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport service"}
+{"idx": 5085, "name": "Infinity Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical transport, not school-focused"}
+{"idx": 5086, "name": "Limo Van Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo/van service"}
+{"idx": 5087, "name": "Miracle Medical Transportation", "verdict": "private_contractor", "confidence": 0.45, "reason": "Medical transport, not school transport"}
+{"idx": 5088, "name": "Mobil Martin Wheelchair Limo", "verdict": "private_contractor", "confidence": 0.5, "reason": "Wheelchair transport, mobility focus"}
+{"idx": 5089, "name": "Shagrin Valley Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 5090, "name": "Stay At Hm Vehicle Mdfctns", "verdict": "not_transport", "confidence": 0.85, "reason": "Wheelchair van modification shop, not operator"}
+{"idx": 5091, "name": "Swift Transportation Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo transport service"}
+{"idx": 5092, "name": "Wilson's Mobility", "verdict": "unsure", "confidence": 0.4, "reason": "Could be mobility equipment or transport"}
+{"idx": 5093, "name": "A Better Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 5094, "name": "A Plus Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo operator, possibly special-needs"}
+{"idx": 5095, "name": "Aaron Medical Transportation", "verdict": "private_contractor", "confidence": 0.45, "reason": "Medical transport, not school-focused"}
+{"idx": 5096, "name": "De Capua Fredric M", "verdict": "unsure", "confidence": 0.35, "reason": "Personal name, unclear what entity does"}
+{"idx": 5097, "name": "Joseph Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 5098, "name": "Val Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 5099, "name": "At Your Svc Limousine 2 I", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, possibly special-needs transport"}

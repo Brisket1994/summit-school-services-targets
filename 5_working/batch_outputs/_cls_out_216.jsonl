@@ -1,0 +1,30 @@
+{"idx": 6480, "name": "Around N About LLC", "verdict": "unsure", "confidence": 0.4, "reason": "generic name, special needs flag only"}
+{"idx": 6481, "name": "Special Care Transport Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc, special needs transport operator"}
+{"idx": 6482, "name": "School Bus Stop", "verdict": "unsure", "confidence": 0.4, "reason": "ambiguous name, could be retail or operator"}
+{"idx": 6483, "name": "Barrett Specialized Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "specialized transport, family name"}
+{"idx": 6484, "name": "Taras Limo & Airport Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "limo/airport service, not school transport"}
+{"idx": 6485, "name": "Paris Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "school district garage facility"}
+{"idx": 6486, "name": "Ketos Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "unusual name, unclear operations"}
+{"idx": 6487, "name": "PKB Transit Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Transit Inc, private operator"}
+{"idx": 6488, "name": "1 Priority Transportation LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC, special needs transport"}
+{"idx": 6489, "name": "Jim Stewart Transportation LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "family name LLC transport"}
+{"idx": 6490, "name": "Lozano Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "family-name bus service, school flag"}
+{"idx": 6491, "name": "Rock Mills Daycare & Preschool", "verdict": "not_transport", "confidence": 0.95, "reason": "daycare/preschool, not transport"}
+{"idx": 6492, "name": "Wayne County Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "public school district"}
+{"idx": 6493, "name": "Debs Limo Svc", "verdict": "not_transport", "confidence": 0.7, "reason": "limo service, not school transport"}
+{"idx": 6494, "name": "Amon Limousines & Sedan", "verdict": "not_transport", "confidence": 0.75, "reason": "limousine/sedan service"}
+{"idx": 6495, "name": "Centerline Drivers", "verdict": "unsure", "confidence": 0.4, "reason": "staffing brand name, unclear local op"}
+{"idx": 6496, "name": "Madison Parish-School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "parish school district garage"}
+{"idx": 6497, "name": "St Johns Community Bus Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Inc community bus operator"}
+{"idx": 6498, "name": "Classic Coach Limousine", "verdict": "not_transport", "confidence": 0.7, "reason": "limousine service, not school"}
+{"idx": 6499, "name": "Kent Regional Bus Alliance", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "regional alliance, likely collaborative"}
+{"idx": 6500, "name": "Perry Local Schools-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "school district transportation dept"}
+{"idx": 6501, "name": "All Occasions Limousine Svc", "verdict": "not_transport", "confidence": 0.8, "reason": "limousine service"}
+{"idx": 6502, "name": "Prigge's School Buses Bus Info", "verdict": "private_contractor", "confidence": 0.8, "reason": "family-name school bus operator since 1949"}
+{"idx": 6503, "name": "Canby Lancers Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc school bus service"}
+{"idx": 6504, "name": "Fulda Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc school bus service"}
+{"idx": 6505, "name": "Worthington Medi-Van", "verdict": "not_transport", "confidence": 0.8, "reason": "medical van service, not school"}
+{"idx": 6506, "name": "Touch Of Class Limo Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "limousine service"}
+{"idx": 6507, "name": "1st Interventions Inc", "verdict": "unsure", "confidence": 0.3, "reason": "name unclear, website mentions bicycles"}
+{"idx": 6508, "name": "Kansas Central School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "school bus operator name"}
+{"idx": 6509, "name": "Compassionate Hands", "verdict": "not_transport", "confidence": 0.6, "reason": "likely care service, not transport"}

@@ -1,0 +1,30 @@
+{"idx": 150, "name": "Excellent Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus service Inc, NY school operator"}
+{"idx": 151, "name": "S & L Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name transport, special-needs operator"}
+{"idx": 152, "name": "R & A School Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus company Inc"}
+{"idx": 153, "name": "Madison County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County school bus garage, district in-house"}
+{"idx": 154, "name": "Bus USA", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private FL bus company, school service"}
+{"idx": 155, "name": "Transportation Unlimited Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc, special-needs transport operator"}
+{"idx": 156, "name": "Lincoln Square Bus Improvement", "verdict": "not_transport", "confidence": 0.9, "reason": "Business Improvement District, not transport operator"}
+{"idx": 157, "name": "Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School district bus garage, in-house operation"}
+{"idx": 158, "name": "All Aboard School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private LLC school transportation contractor"}
+{"idx": 159, "name": "Elite School Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private Inc school transportation contractor"}
+{"idx": 160, "name": "Young Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name transport, special-needs operator"}
+{"idx": 161, "name": "John T Cyr & Sons Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-owned Maine bus/coach company"}
+{"idx": 162, "name": "Nebraska School Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school bus company"}
+{"idx": 163, "name": "M V Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely MV Transit, large strategic; possibly non-independent"}
+{"idx": 164, "name": "Heart To Heart Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs/school transport operator"}
+{"idx": 165, "name": "First Med", "verdict": "private_contractor", "confidence": 0.7, "reason": "Medical/special-needs transport, likely private"}
+{"idx": 166, "name": "Funseekers", "verdict": "unsure", "confidence": 0.5, "reason": "Name ambiguous, possibly tours/charter operator"}
+{"idx": 167, "name": "Bluff Country School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private MN school bus service"}
+{"idx": 168, "name": "Alpha Rehabilitation Trnsprtn", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private rehab/special-needs transport operator"}
+{"idx": 169, "name": "Miles Away Charter LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private charter LLC, school service"}
+{"idx": 170, "name": "Fallert Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus service Inc"}
+{"idx": 171, "name": "Southwest Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private WI school bus service Inc"}
+{"idx": 172, "name": "ABC Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private DE school transportation LLC"}
+{"idx": 173, "name": "DNG Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private CA school bus service Inc"}
+{"idx": 174, "name": "Crystal City Bus Imprvmt Dist", "verdict": "not_transport", "confidence": 0.9, "reason": "Business Improvement District, not transport operator"}
+{"idx": 175, "name": "Luxury Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo service, possibly special-needs contract"}
+{"idx": 176, "name": "Johnson Transport Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name private transport Inc"}
+{"idx": 177, "name": "Medic Express", "verdict": "private_contractor", "confidence": 0.65, "reason": "Medical transport, possibly special-needs operator"}
+{"idx": 178, "name": "Plaquemines Parish School BD", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Parish School Board, public district"}
+{"idx": 179, "name": "L & L Bus Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school bus operator"}

@@ -1,0 +1,30 @@
+{"idx": 900, "name": "Isd School Dist 15 Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 901, "name": "Dunlap Community Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 902, "name": "College Station Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "CSISD district transportation department"}
+{"idx": 903, "name": "North Little Rock Pubc SCHLS", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools district"}
+{"idx": 904, "name": "Manor Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 905, "name": "Elmira City School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City school district bus garage"}
+{"idx": 906, "name": "RTS Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private livery, special-needs transport"}
+{"idx": 907, "name": "PM Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Inc"}
+{"idx": 908, "name": "Averill Park School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 909, "name": "Star & Strand Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company name"}
+{"idx": 910, "name": "BCSC Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Brownsburg Community Schools transport dept"}
+{"idx": 911, "name": "Huntsville Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation"}
+{"idx": 912, "name": "Brockport Central Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}
+{"idx": 913, "name": "Hilton Central Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}
+{"idx": 914, "name": "East Chicago School Bus TRNSPR", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Likely district bus operation"}
+{"idx": 915, "name": "Friends-The Amrcas Foundation", "verdict": "not_transport", "confidence": 0.85, "reason": "Foundation, not transport operator"}
+{"idx": 916, "name": "Curtin Medical Delivery Svc", "verdict": "not_transport", "confidence": 0.75, "reason": "Medical livery, not student transport"}
+{"idx": 917, "name": "Service Bus Tours", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus tour/charter company"}
+{"idx": 918, "name": "Franmar School Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus service"}
+{"idx": 919, "name": "Willoughby-Eastlake Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district"}
+{"idx": 920, "name": "Hatzoloh", "verdict": "not_transport", "confidence": 0.9, "reason": "Volunteer EMS ambulance organization"}
+{"idx": 921, "name": "Butler Area Sch Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 922, "name": "Lindale Independent School", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Independent school district"}
+{"idx": 923, "name": "Breza Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus service Inc, family name"}
+{"idx": 924, "name": "Iroquois Central Transpor", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}
+{"idx": 925, "name": "Seaman USD 345-Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD district transportation"}
+{"idx": 926, "name": "Hillsboro R-3 School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district"}
+{"idx": 927, "name": "Wheelchair Accessible Vans Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private special-needs van operator"}
+{"idx": 928, "name": "Medi Coach", "verdict": "not_transport", "confidence": 0.6, "reason": "Medical transport, not student"}
+{"idx": 929, "name": "Eshelman Transportation Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private transportation Inc, family name"}

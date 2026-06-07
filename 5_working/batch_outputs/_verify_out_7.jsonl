@@ -1,0 +1,25 @@
+{"idx": 175, "name": "Lees Summit Transportation", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "District in-house dept; Lsr7.org domain"}
+{"idx": 176, "name": "FCPS Department Of Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation department"}
+{"idx": 177, "name": "Ct Transit", "verdict": "not_transport", "confidence": 0.9, "reason": "State public transit agency, not school"}
+{"idx": 178, "name": "ABC Transit Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school bus contractor PA"}
+{"idx": 179, "name": "Liberty Lines Bus Assoc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus operator Yonkers NY"}
+{"idx": 180, "name": "Houston County Board-Edu", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school board, not acquirable"}
+{"idx": 181, "name": "Integrity Student Trnsprtn", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NJ student transport contractor"}
+{"idx": 182, "name": "Akron Pub Schools Trans Svc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Akron public schools transportation dept"}
+{"idx": 183, "name": "Colonial Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Colonial school district dept, DE"}
+{"idx": 184, "name": "Dufour Tours", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MA bus/coach operator"}
+{"idx": 185, "name": "Bartholomew Consolidated Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Consolidated school corp in-house dept"}
+{"idx": 186, "name": "Blue Bird Coachworks", "verdict": "not_transport", "confidence": 0.98, "reason": "Bus manufacturer, not transportation operator"}
+{"idx": 187, "name": "Carmel Clay Sch Facilities", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Carmel Clay school district facilities"}
+{"idx": 188, "name": "LWSD Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Lake Washington School District in-house"}
+{"idx": 189, "name": "Chief School Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NE school bus contractor"}
+{"idx": 190, "name": "Tri County Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private PA contractor, own domain"}
+{"idx": 191, "name": "Goldstar Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private TX transit/bus operator"}
+{"idx": 192, "name": "MBG Enterprises Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc MD school transport contractor"}
+{"idx": 193, "name": "Louisa County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district VA"}
+{"idx": 194, "name": "Firststudent", "verdict": "private_contractor", "confidence": 0.95, "reason": "First Student, large private contractor"}
+{"idx": 195, "name": "V Rolling Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Rolling V bus corp NY private"}
+{"idx": 196, "name": "Beach Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MT charter/school bus operator"}
+{"idx": 197, "name": "B & F Skilled Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private NY bus contractor Brooklyn"}
+{"idx": 198, "name": "East Grand Forks Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district in-house transportation MN"}
+{"idx": 199, "name": "E Class Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc NY school transport contractor"}

@@ -1,0 +1,30 @@
+{"idx": 390, "name": "All American School Bus Co", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus contractor, Staten Island"}
+{"idx": 391, "name": "Battle Buddy Mobility Trnsprt", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs mobility transport operator"}
+{"idx": 392, "name": "Montville School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District garage, montvilleschools.org domain"}
+{"idx": 393, "name": "International Bus Resources", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely private bus company, ambiguous scope"}
+{"idx": 394, "name": "National School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc school bus service"}
+{"idx": 395, "name": "Big Sky Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus operator with own domain"}
+{"idx": 396, "name": "Valley Medical Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possibly NEMT not student"}
+{"idx": 397, "name": "Sundae School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus operator"}
+{"idx": 398, "name": "Colorado Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 399, "name": "Big Love Bus Co", "verdict": "not_transport", "confidence": 0.85, "reason": "Bigdragbus.com, drag/entertainment bus, not school"}
+{"idx": 400, "name": "Clare Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 401, "name": "Portland Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation, MI"}
+{"idx": 402, "name": "Sta", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly STA subsidiary"}
+{"idx": 403, "name": "H & M Bus Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private family-name bus service"}
+{"idx": 404, "name": "School Bus Training Co", "verdict": "not_transport", "confidence": 0.8, "reason": "Training company, not transportation operator"}
+{"idx": 405, "name": "West Delaware Schools Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District bus barn, delaware.k12.ia.us domain"}
+{"idx": 406, "name": "B & M Bus Charter Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private charter bus Inc, Brooklyn"}
+{"idx": 407, "name": "Greenwood Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, NJ"}
+{"idx": 408, "name": "Bus-Let Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company Inc, California"}
+{"idx": 409, "name": "Lake Shore Buses Inc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Ashland.k12.wi.us domain suggests district-run"}
+{"idx": 410, "name": "Dependable Medical Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, likely NEMT not student"}
+{"idx": 411, "name": "Board Bus LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC bus operator, Maryland"}
+{"idx": 412, "name": "H & M Bus Co", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private family-name bus company"}
+{"idx": 413, "name": "Paul Palmer Trustee-5000", "verdict": "unsure", "confidence": 0.35, "reason": "Trustee name, unclear entity type"}
+{"idx": 414, "name": "Elena & Juan School Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private school bus service"}
+{"idx": 415, "name": "Wilton Bus Svc", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "Wilton.k12.ct.us domain suggests district"}
+{"idx": 416, "name": "School Transportation Conslnts", "verdict": "not_transport", "confidence": 0.85, "reason": "Consultants, not operator"}
+{"idx": 417, "name": "Miller Bus Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private family-name bus service, IL"}
+{"idx": 418, "name": "Wheelchair Transport Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Wheelchair transport, likely NEMT not student"}
+{"idx": 419, "name": "Brown Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private family-name bus service, MD"}

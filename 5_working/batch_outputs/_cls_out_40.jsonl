@@ -1,0 +1,30 @@
+{"idx": 1200, "name": "A1 Service Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Inc with transit website, likely private operator"}
+{"idx": 1201, "name": "Nelson Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name + Transportation Inc"}
+{"idx": 1202, "name": "Board Our Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Branded bus service, likely private"}
+{"idx": 1203, "name": "Resources For Seniors", "verdict": "not_transport", "confidence": 0.9, "reason": "Senior services nonprofit, not school transport"}
+{"idx": 1204, "name": "Lowell Area Business Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District garage, Lowellschools.com website"}
+{"idx": 1205, "name": "Lewis-Palmer District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 1206, "name": "Arp Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 1207, "name": "Byram Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Inc since 1964, classic private operator"}
+{"idx": 1208, "name": "Transportation Main Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Concord public schools transportation office"}
+{"idx": 1209, "name": "John Leckie Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family name Inc, NJ school bus contractor"}
+{"idx": 1210, "name": "Taylor International Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Bus Corp, family name, private"}
+{"idx": 1211, "name": "Minooka Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "School district garage, mchs.net domain"}
+{"idx": 1212, "name": "Custer's Garage Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family possessive Inc, PA garage"}
+{"idx": 1213, "name": "Accelor Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic tech-style name, ambiguous"}
+{"idx": 1214, "name": "Buxton Academy Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Academy in name, unclear if school or operator"}
+{"idx": 1215, "name": "Duda Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, ambiguous DBA filing"}
+{"idx": 1216, "name": "Ladon Technologies PBC Which", "verdict": "unsure", "confidence": 0.3, "reason": "Technologies PBC, likely tech firm not operator"}
+{"idx": 1217, "name": "Pictor Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc, unclear DBA filing"}
+{"idx": 1218, "name": "Sherpa Analytics Inc Which", "verdict": "unsure", "confidence": 0.3, "reason": "Analytics firm, unlikely transport operator"}
+{"idx": 1219, "name": "Yukon School Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Yukonps.com, district transportation"}
+{"idx": 1220, "name": "Twincity Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Independent MN transport company since 1988"}
+{"idx": 1221, "name": "Delaware Community School Tran", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district transportation"}
+{"idx": 1222, "name": "Alamo Heights Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department, ahisd.net"}
+{"idx": 1223, "name": "Ellis Truck & Bus Repair", "verdict": "unsure", "confidence": 0.5, "reason": "Repair shop, not transport operator"}
+{"idx": 1224, "name": "Inspiria Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA filing, ambiguous"}
+{"idx": 1225, "name": "Kingdomway USA Corp Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corp DBA, ambiguous"}
+{"idx": 1226, "name": "Scoop Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Scoop app, carpool tech not bus operator"}
+{"idx": 1227, "name": "Speckle Corp Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corp DBA filing"}
+{"idx": 1228, "name": "Telfer Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Generic enterprises Inc DBA"}
+{"idx": 1229, "name": "Heretoday Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Generic Inc DBA filing, ambiguous"}

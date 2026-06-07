@@ -1,0 +1,30 @@
+{"idx": 2280, "name": "Joy School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service company"}
+{"idx": 2281, "name": "Grant Public SCHLS Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation department"}
+{"idx": 2282, "name": "Stahlke Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service"}
+{"idx": 2283, "name": "Candlewood Valley Bus Co", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus company name"}
+{"idx": 2284, "name": "Steves School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Family-name incorporated school bus service"}
+{"idx": 2285, "name": "Brik Transportation Acad LLC", "verdict": "private_contractor", "confidence": 0.78, "reason": "LLC transportation; possibly training academy, unclear"}
+{"idx": 2286, "name": "Bus Station-Forden", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Wavetransit.com is public transit authority"}
+{"idx": 2287, "name": "Kaiser Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name; insufficient signal"}
+{"idx": 2288, "name": "Lovington Transportation Inc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Lovington.org suggests city government department"}
+{"idx": 2289, "name": "Varsity Business Sales", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus sales dealership, not operator"}
+{"idx": 2290, "name": "Minich Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus service"}
+{"idx": 2291, "name": "LA Grange Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation department"}
+{"idx": 2292, "name": "New Jersey Small Bus Dev Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not bus"}
+{"idx": 2293, "name": "Suffolk City Sch Bus Drivers", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "City school district bus drivers"}
+{"idx": 2294, "name": "Two Rivers Buses Inc", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "Two-rivers.org is city government website"}
+{"idx": 2295, "name": "On Time Plus Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transportation operator"}
+{"idx": 2296, "name": "Meister Special Care Transport", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private special-needs transport company"}
+{"idx": 2297, "name": "Papio Transport School Svc Inc", "verdict": "private_contractor", "confidence": 0.93, "reason": "Incorporated private school transport service"}
+{"idx": 2298, "name": "Revere Local Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Local school district bus garage"}
+{"idx": 2299, "name": "Michigan Transportation Svc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Michigan.gov state agency"}
+{"idx": 2300, "name": "Linder Bus Co", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name private bus company"}
+{"idx": 2301, "name": "Bradford Area School Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "Could be district or contractor"}
+{"idx": 2302, "name": "Medstar Cabulance Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private medical/special-needs transport service"}
+{"idx": 2303, "name": "Bus Station 4 LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC suggests private entity"}
+{"idx": 2304, "name": "Volusia County Sch Board", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school board, public entity"}
+{"idx": 2305, "name": "Chagrin Valley Bus Co", "verdict": "not_transport", "confidence": 0.6, "reason": "Website chagrinvalleymusic.com suggests music school"}
+{"idx": 2306, "name": "Lynden School Dist 504 Bus GRG", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School District bus garage"}
+{"idx": 2307, "name": "Hopskipdrive Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "VC-backed rideshare; non-independent strategic"}
+{"idx": 2308, "name": "Runakaype E-Commerce BUS LLC", "verdict": "not_transport", "confidence": 0.75, "reason": "E-commerce business, not transport"}
+{"idx": 2309, "name": "SJP School Trnsprtn Speclsts", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private school transportation specialists"}

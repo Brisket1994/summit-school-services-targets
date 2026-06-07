@@ -1,0 +1,30 @@
+{"idx": 2670, "name": "Pre-School Learning Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Preschool/daycare, not transport operator"}
+{"idx": 2671, "name": "Batavia Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation dept"}
+{"idx": 2672, "name": "Fredericksburg Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Independent school district (ISD)"}
+{"idx": 2673, "name": "Cooperstown Central Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district bus garage"}
+{"idx": 2674, "name": "Proforma Bus Image Solutions", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus graphics/branding vendor, not operator"}
+{"idx": 2675, "name": "Warsaw Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District-owned bus garage"}
+{"idx": 2676, "name": "Iola USD 257 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district transportation"}
+{"idx": 2677, "name": "Marysville School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private contractor name with website"}
+{"idx": 2678, "name": "Apple Business Co", "verdict": "private_contractor", "confidence": 0.6, "reason": "Website firststudentinc.com suggests First Student ownership"}
+{"idx": 2679, "name": "Medex Patient Transport-Rlgh", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical patient transport, not student"}
+{"idx": 2680, "name": "Cabs Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.8, "reason": "OSU university transit garage"}
+{"idx": 2681, "name": "Nashville Bus Incubation Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Business incubator, not transport operator"}
+{"idx": 2682, "name": "Iaeger School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus garage"}
+{"idx": 2683, "name": "W V W Transport Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Inc, private school transport contractor"}
+{"idx": 2684, "name": "Sikeston R-6 Transportation", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 2685, "name": "SM Kuzmeskus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name Inc, MA school bus operator"}
+{"idx": 2686, "name": "Swift River Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Bus Co, private MA operator"}
+{"idx": 2687, "name": "Bowling Green CNTL Bus Spcial", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear; downtown BG website suggests non-transport"}
+{"idx": 2688, "name": "Integrity Student Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private student transportation service"}
+{"idx": 2689, "name": "Millard School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 2690, "name": "Millennium Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Generic transport name, likely private NY"}
+{"idx": 2691, "name": "Beaver Medical", "verdict": "not_transport", "confidence": 0.8, "reason": "Medical, not student transport"}
+{"idx": 2692, "name": "Bethel School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation department"}
+{"idx": 2693, "name": "Joseph W Luter III Sch-Bus", "verdict": "not_transport", "confidence": 0.8, "reason": "CNU business school building, not transport"}
+{"idx": 2694, "name": "Kennedy Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name bus service, private MN"}
+{"idx": 2695, "name": "Yes Management Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, possibly private operator"}
+{"idx": 2696, "name": "Stanwood-Camano Trnsprtn Ctr", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District transportation center"}
+{"idx": 2697, "name": "Rains & Martin School Bus Barn", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name school bus contractor"}
+{"idx": 2698, "name": "Alliance City Schools Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "City schools district bus garage"}
+{"idx": 2699, "name": "Gallagher Student TRNSPRTN", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name student transportation, private PA"}

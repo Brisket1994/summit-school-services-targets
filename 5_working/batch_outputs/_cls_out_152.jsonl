@@ -1,0 +1,30 @@
+{"idx": 4560, "name": "Mas Transportation Corp", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport corp, special needs"}
+{"idx": 4561, "name": "Reliable Transport", "verdict": "unsure", "confidence": 0.5, "reason": "Disability navigator site, unclear operator"}
+{"idx": 4562, "name": "Tech Corp Which Will DO Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Garbled name, unclear entity"}
+{"idx": 4563, "name": "Vietnamese Amer Bus Planning", "verdict": "not_transport", "confidence": 0.6, "reason": "Business planning, not bus operator"}
+{"idx": 4564, "name": "Blue Dot Cab Co", "verdict": "private_contractor", "confidence": 0.6, "reason": "Cab company, possibly special needs"}
+{"idx": 4565, "name": "Prince George's County Pubc", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public county school district"}
+{"idx": 4566, "name": "E T Limo", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limo, special needs transport"}
+{"idx": 4567, "name": "A Red Carpet Limousine & Chauf", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine/chauffeur, possibly special needs"}
+{"idx": 4568, "name": "Washington Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, special needs"}
+{"idx": 4569, "name": "Hunterdon County Esc Morris", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Educational services commission, public"}
+{"idx": 4570, "name": "RTC Ada Paratransit Svc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "RTC public regional transit authority"}
+{"idx": 4571, "name": "Rosemore", "verdict": "unsure", "confidence": 0.4, "reason": "Name unclear, no transport identifier"}
+{"idx": 4572, "name": "Hudson Happy Vly Logistics", "verdict": "private_contractor", "confidence": 0.55, "reason": "Logistics firm, possibly special needs transport"}
+{"idx": 4573, "name": "Louisiana School Bus Driver", "verdict": "not_transport", "confidence": 0.6, "reason": "Likely driver training, not operator"}
+{"idx": 4574, "name": "Wybrirk Bus Develpment Ctr", "verdict": "not_transport", "confidence": 0.6, "reason": "Development center, not operator"}
+{"idx": 4575, "name": "Stafford County Pupil Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County pupil transportation department"}
+{"idx": 4576, "name": "First Class Limosne TRNSP Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private limo transport service"}
+{"idx": 4577, "name": "School Time Trnsprtn-Child Cr", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school transport/child care"}
+{"idx": 4578, "name": "Turimex Internacional Bus Svc", "verdict": "not_transport", "confidence": 0.85, "reason": "Turimex intercity coach, not school"}
+{"idx": 4579, "name": "Patten School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service Inc"}
+{"idx": 4580, "name": "Garden City Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, possibly special needs"}
+{"idx": 4581, "name": "Anytime Anywhere Trnsprtn", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transport, special needs"}
+{"idx": 4582, "name": "Right Away Transit", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transit, special needs"}
+{"idx": 4583, "name": "Abie Wheelchair Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Wheelchair transport, special needs operator"}
+{"idx": 4584, "name": "Sherwood Realtors", "verdict": "not_transport", "confidence": 0.95, "reason": "Real estate firm, not transport"}
+{"idx": 4585, "name": "Specialized Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, special needs"}
+{"idx": 4586, "name": "A Unity Transportation 2 LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transport, special needs"}
+{"idx": 4587, "name": "M & M Corporate Trnsp LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Corporate transport LLC, special needs"}
+{"idx": 4588, "name": "J W Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transportation, special needs"}
+{"idx": 4589, "name": "Milwaukee Center For Indpndnc", "verdict": "not_transport", "confidence": 0.9, "reason": "Disability services nonprofit, not transport operator"}

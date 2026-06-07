@@ -1,0 +1,30 @@
+{"idx": 4980, "name": "Colesco Limo", "verdict": "private_contractor", "confidence": 0.75, "reason": "Small limo service, possibly special-needs transport"}
+{"idx": 4981, "name": "Crosstown Transportation LTD", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport company, special-needs flag"}
+{"idx": 4982, "name": "Dans Limo Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named limo Inc, small operator"}
+{"idx": 4983, "name": "Easy Way Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport Inc, special-needs flag"}
+{"idx": 4984, "name": "Elite Trans United Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private Inc transport operator"}
+{"idx": 4985, "name": "Embassy Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limousine, possibly special-needs transport"}
+{"idx": 4986, "name": "Family Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport operator, special-needs flag"}
+{"idx": 4987, "name": "Faye Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named limo Inc"}
+{"idx": 4988, "name": "Gabes Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named limo Inc"}
+{"idx": 4989, "name": "Gif Service", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, unclear if transport operator"}
+{"idx": 4990, "name": "Jamm Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport Inc"}
+{"idx": 4991, "name": "Jents Limousine", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limousine operator"}
+{"idx": 4992, "name": "Johnny Culpepper Private Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Owner-named private limo"}
+{"idx": 4993, "name": "Kac Transport Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport Inc"}
+{"idx": 4994, "name": "Kemit Corp", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corp name, unclear business"}
+{"idx": 4995, "name": "Midwest Med-Trans Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Likely medical transport, special-needs adjacent"}
+{"idx": 4996, "name": "Migs Limo Svc Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Family-named limo Inc"}
+{"idx": 4997, "name": "Neals Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named transport Inc"}
+{"idx": 4998, "name": "Pana Express Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport Inc"}
+{"idx": 4999, "name": "Paulina Chauffeuring Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private chauffeur service"}
+{"idx": 5000, "name": "Pleasure Ride Limousine Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limousine Inc"}
+{"idx": 5001, "name": "Price & Murdock Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-named private transport"}
+{"idx": 5002, "name": "Professional Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport operator with website"}
+{"idx": 5003, "name": "Richards Auto Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Auto sounds like dealer/repair, not transport"}
+{"idx": 5004, "name": "Rims & Assoc", "verdict": "unsure", "confidence": 0.3, "reason": "Ambiguous name, unclear transport operator"}
+{"idx": 5005, "name": "Ronald M Hutchinson Limo Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Owner-named limo service"}
+{"idx": 5006, "name": "RTC Transportation Corp", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transport corp with website"}
+{"idx": 5007, "name": "Safemed Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Likely medical transport LLC"}
+{"idx": 5008, "name": "Servese", "verdict": "unsure", "confidence": 0.3, "reason": "Vague name, no detail to classify"}
+{"idx": 5009, "name": "Services Your Destination", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transport, AHP services website"}

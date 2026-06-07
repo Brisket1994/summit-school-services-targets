@@ -1,0 +1,30 @@
+{"idx": 7050, "name": "Irvington Middle School", "verdict": "not_transport", "confidence": 0.98, "reason": "Actual school"}
+{"idx": 7051, "name": "Medina Central School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7052, "name": "Melrose School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual school"}
+{"idx": 7053, "name": "Mt Carmel School Of Religion", "verdict": "not_transport", "confidence": 0.98, "reason": "Religious school"}
+{"idx": 7054, "name": "Music School Of Westchester", "verdict": "not_transport", "confidence": 0.98, "reason": "Music school"}
+{"idx": 7055, "name": "New York School For The Deaf", "verdict": "not_transport", "confidence": 0.98, "reason": "School for the deaf"}
+{"idx": 7056, "name": "New York School-Court Report", "verdict": "not_transport", "confidence": 0.9, "reason": "Court reporting school"}
+{"idx": 7057, "name": "Pioneer Transportation Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NYC student transport operator"}
+{"idx": 7058, "name": "Safety Zone Driving School LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Driving instruction school"}
+{"idx": 7059, "name": "School District City Of Oswego", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7060, "name": "Cleveland Municipl School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7061, "name": "Columbus City Schools Bif1", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district facility"}
+{"idx": 7062, "name": "Dayton Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7063, "name": "Meigs Local School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7064, "name": "Northern Local School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7065, "name": "Northwest Local School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7066, "name": "Perrysburg School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house bus garage"}
+{"idx": 7067, "name": "Putnam County Council On Aging", "verdict": "not_transport", "confidence": 0.95, "reason": "County aging agency, not student transport"}
+{"idx": 7068, "name": "Ravenna School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 7069, "name": "Shelby City School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7070, "name": "Tri-County North Local School", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 7071, "name": "Upper Sandusky School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house bus garage"}
+{"idx": 7072, "name": "Astoria School Dist Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 7073, "name": "Beaverton School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 7074, "name": "Centennial School Dist Svc Ctr", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district facility"}
+{"idx": 7075, "name": "Estacada School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}
+{"idx": 7076, "name": "Estacada School District", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7077, "name": "Grants Pass School District 7", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7078, "name": "Oakland School District 1", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7079, "name": "Redmond School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District in-house transportation"}

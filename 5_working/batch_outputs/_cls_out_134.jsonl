@@ -1,0 +1,30 @@
+{"idx": 4020, "name": "Walter Scott Limo", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo, special-needs transport"}
+{"idx": 4021, "name": "Belfast School-Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transport, belfastcsd.org domain"}
+{"idx": 4022, "name": "Royal T Limousine Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo service, special-needs"}
+{"idx": 4023, "name": "Integrity Secure Transport LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC, special-needs transport"}
+{"idx": 4024, "name": "East Springfield Trans", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, Springfield MA"}
+{"idx": 4025, "name": "Wiscasset Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District garage, wiscassetschools.org"}
+{"idx": 4026, "name": "Safe Wheels LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, school transport"}
+{"idx": 4027, "name": "Exclusivley Yours", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, possibly limo"}
+{"idx": 4028, "name": "Heyden Limousine Svc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo Inc, special-needs"}
+{"idx": 4029, "name": "Regional Center Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, possibly disability services"}
+{"idx": 4030, "name": "Rodriguez Enterprises Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private Inc, special-needs transport"}
+{"idx": 4031, "name": "Michigan Bus Parts", "verdict": "not_transport", "confidence": 0.9, "reason": "Parts supplier, not operator"}
+{"idx": 4032, "name": "School Bus Rides LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC school bus operator"}
+{"idx": 4033, "name": "Eureka Springs Public Sch-Trns", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transport"}
+{"idx": 4034, "name": "Majestic Luxury Limousines", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private limo, special-needs transport"}
+{"idx": 4035, "name": "Eamc-Lanier Bus Ofc Bus Ofc", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Bus office, likely district/hospital"}
+{"idx": 4036, "name": "Bus Upfitters", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus upfitting/modification, not operator"}
+{"idx": 4037, "name": "Bret Harte Union High Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 4038, "name": "Lga School Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc, school transport"}
+{"idx": 4039, "name": "M & E School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport operator"}
+{"idx": 4040, "name": "Ofelia's School Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private school transport"}
+{"idx": 4041, "name": "Kamiah Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transport"}
+{"idx": 4042, "name": "Small World Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc, special-needs transport"}
+{"idx": 4043, "name": "Star Medicar Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medical/special-needs transport"}
+{"idx": 4044, "name": "Windy City Limo-Bus Worldwide", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private limo/bus operator"}
+{"idx": 4045, "name": "Advance Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private wheelchair/special-needs transport"}
+{"idx": 4046, "name": "Mcdowell County Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district garage"}
+{"idx": 4047, "name": "Thomas Built Buses Inc", "verdict": "not_transport", "confidence": 0.98, "reason": "Bus manufacturer, Daimler subsidiary"}
+{"idx": 4048, "name": "Midstate School Bus", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus operator"}
+{"idx": 4049, "name": "Mobility Independent Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private mobility/special-needs transport"}

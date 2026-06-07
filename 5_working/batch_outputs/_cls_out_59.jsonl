@@ -1,0 +1,30 @@
+{"idx": 1770, "name": "Central PA Honor Bus Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, Inc suffix"}
+{"idx": 1771, "name": "Alvarez School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus service Inc"}
+{"idx": 1772, "name": "Hery School Bus LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school bus LLC"}
+{"idx": 1773, "name": "Maria's School TRNSPRTN Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name school transportation Inc"}
+{"idx": 1774, "name": "Tiki-Hut School BUS LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC"}
+{"idx": 1775, "name": "Riverview Gardens Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district, k12 website"}
+{"idx": 1776, "name": "Cal Coast Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus LLC"}
+{"idx": 1777, "name": "Offscreen Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated corporate name, unclear business"}
+{"idx": 1778, "name": "Inpulse Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.55, "reason": "Inc doing bus, unclear specifics"}
+{"idx": 1779, "name": "Dial-A-Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Likely public/nonprofit dial-a-ride service"}
+{"idx": 1780, "name": "Pocono Express Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company"}
+{"idx": 1781, "name": "Bandera Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Independent school district"}
+{"idx": 1782, "name": "Republic School Dist Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district bus garage"}
+{"idx": 1783, "name": "School Bus Supply Co", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus parts/supply company, not operator"}
+{"idx": 1784, "name": "SVP I Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Generic corporate name, unclear"}
+{"idx": 1785, "name": "Dryden Cent School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Central school district transportation"}
+{"idx": 1786, "name": "School Run Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus service"}
+{"idx": 1787, "name": "Synergy Auto Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private bus company likely"}
+{"idx": 1788, "name": "Texas Electric Sch Bus Project", "verdict": "not_transport", "confidence": 0.85, "reason": "Nonprofit advocacy project, .org"}
+{"idx": 1789, "name": "Bus Station Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Bus station, unclear if school operator"}
+{"idx": 1790, "name": "Whitehall-Coplay Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district"}
+{"idx": 1791, "name": "Sab School Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation company"}
+{"idx": 1792, "name": "Seal-Tech Inc Which Will Do", "verdict": "unsure", "confidence": 0.35, "reason": "Sealing tech name, unclear business"}
+{"idx": 1793, "name": "New Prague Area Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Area school transportation, npaschools website"}
+{"idx": 1794, "name": "Yakelin Marrero Sch Trnsprtn", "verdict": "private_contractor", "confidence": 0.9, "reason": "Personal-name school transportation"}
+{"idx": 1795, "name": "Keller Edwin A Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name bus service"}
+{"idx": 1796, "name": "Eagle Point Sch Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district transportation department"}
+{"idx": 1797, "name": "Stoughton Area Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district"}
+{"idx": 1798, "name": "South Lyon Cmnty Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Community schools transportation, slcs.us"}
+{"idx": 1799, "name": "Siloam Springs Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public schools"}

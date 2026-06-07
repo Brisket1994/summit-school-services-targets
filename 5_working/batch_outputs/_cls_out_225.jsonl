@@ -1,0 +1,30 @@
+{"idx": 6750, "name": "C & P Medical Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possible special-needs contractor"}
+{"idx": 6751, "name": "Crown Medicare Transport Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medicare transport, likely NEMT not school"}
+{"idx": 6752, "name": "Phillips, Willie", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, single operator, unclear"}
+{"idx": 6753, "name": "Madison Southern Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "School district bus garage facility"}
+{"idx": 6754, "name": "Saglam, Vahit", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, single driver, unclear"}
+{"idx": 6755, "name": "Slimousine, Zafar", "verdict": "not_transport", "confidence": 0.5, "reason": "Limousine service, not school transport"}
+{"idx": 6756, "name": "Schetky NW Sales", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus dealer/sales, not operator"}
+{"idx": 6757, "name": "J I S Limo", "verdict": "not_transport", "confidence": 0.7, "reason": "Limo service, not school transport"}
+{"idx": 6758, "name": "Raven Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Generic name, NZ website suspect"}
+{"idx": 6759, "name": "Range Of Motion", "verdict": "not_transport", "confidence": 0.7, "reason": "Likely PT/medical, not transport"}
+{"idx": 6760, "name": "Avon Chair Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Wheelchair transport service, possibly special-needs"}
+{"idx": 6761, "name": "Wheelchair-Long Distance", "verdict": "private_contractor", "confidence": 0.5, "reason": "Wheelchair transport, special-needs possible"}
+{"idx": 6762, "name": "Held Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name bus service, school contractor"}
+{"idx": 6763, "name": "Young, Jimmy D", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, single operator"}
+{"idx": 6764, "name": "Red Top Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "School-flagged private transport company"}
+{"idx": 6765, "name": "L & R Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Initials-named private school transport"}
+{"idx": 6766, "name": "Jjaye, Mark", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, single operator"}
+{"idx": 6767, "name": "Phase II Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Inc transport company, special-needs flagged"}
+{"idx": 6768, "name": "Socal Medtrans Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport Inc, likely NEMT"}
+{"idx": 6769, "name": "Allendale Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 6770, "name": "Santa Fe Medical Transport", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, likely NEMT"}
+{"idx": 6771, "name": "Stevens, Josephine", "verdict": "unsure", "confidence": 0.3, "reason": "Personal name at airport, unclear"}
+{"idx": 6772, "name": "Strout's Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name bus service, school contractor"}
+{"idx": 6773, "name": "Girard Transport Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport service, special-needs flagged"}
+{"idx": 6774, "name": "Peoples Special Transportation", "verdict": "private_contractor", "confidence": 0.65, "reason": "Special transport, likely special-needs contractor"}
+{"idx": 6775, "name": "Urmi Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport company, special-needs flagged"}
+{"idx": 6776, "name": "Bellows Texaco Station", "verdict": "not_transport", "confidence": 0.9, "reason": "Gas station, not transport operator"}
+{"idx": 6777, "name": "Mitchell, C", "verdict": "unsure", "confidence": 0.3, "reason": "Personal name, no address"}
+{"idx": 6778, "name": "Evergreen Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transportation dept, sharpschool website"}
+{"idx": 6779, "name": "Reid, Mark", "verdict": "unsure", "confidence": 0.3, "reason": "Personal name, single operator"}

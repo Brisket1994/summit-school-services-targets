@@ -1,0 +1,30 @@
+{"idx": 3060, "name": "Powers Ferry Bus Ofc Bldg", "verdict": "not_transport", "confidence": 0.8, "reason": "Office building, not transport operator"}
+{"idx": 3061, "name": "Anamosa Community Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus garage"}
+{"idx": 3062, "name": "West Valley Bus Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company name"}
+{"idx": 3063, "name": "St Mary's County Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3064, "name": "North Coast Bus Works LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC bus operator"}
+{"idx": 3065, "name": "Soo Coop CU Bus Spur Bldg", "verdict": "not_transport", "confidence": 0.85, "reason": "Credit union building on Business Spur"}
+{"idx": 3066, "name": "East Newton Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district bus barn"}
+{"idx": 3067, "name": "Maiden Bus Garage LLC", "verdict": "unsure", "confidence": 0.5, "reason": "LLC but may be district garage"}
+{"idx": 3068, "name": "Wilson County School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school district garage"}
+{"idx": 3069, "name": "Fifth Avenue Bus Imprvmt DST", "verdict": "not_transport", "confidence": 0.95, "reason": "Business Improvement District, not transport"}
+{"idx": 3070, "name": "Student Bus Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private student bus service"}
+{"idx": 3071, "name": "Mannford Public Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transport"}
+{"idx": 3072, "name": "Real Bus Lines LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus line"}
+{"idx": 3073, "name": "Dworak Motor Co Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family motor company, likely school bus operator"}
+{"idx": 3074, "name": "ASAP Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special-needs transport Inc"}
+{"idx": 3075, "name": "Exceptionalities Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport"}
+{"idx": 3076, "name": "Prime Medicar Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medicar service, likely medical/special-needs transport"}
+{"idx": 3077, "name": "TPS Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transportation"}
+{"idx": 3078, "name": "West New York Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 3079, "name": "I S A Fincl I T Bus Profession", "verdict": "not_transport", "confidence": 0.9, "reason": "Financial IT business professional, not transport"}
+{"idx": 3080, "name": "Bloomingdale Public Sch Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 3081, "name": "School Bus Fleet & Auto Repair", "verdict": "not_transport", "confidence": 0.7, "reason": "Auto repair shop, not operator"}
+{"idx": 3082, "name": "Express One Transportation LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC special-needs transport"}
+{"idx": 3083, "name": "Mohawk Mobility LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC mobility transport"}
+{"idx": 3084, "name": "Royal Limousine & Trnsp SVC", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, possibly special-needs transport"}
+{"idx": 3085, "name": "Signature Lmousines Sedans LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine LLC, possibly special-needs transport"}
+{"idx": 3086, "name": "R & A Transportation LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC transportation"}
+{"idx": 3087, "name": "Atlas Ambulette Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Ambulette, likely special-needs medical transport"}
+{"idx": 3088, "name": "Buna Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district transportation department"}
+{"idx": 3089, "name": "Safe Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private wheelchair transport service"}

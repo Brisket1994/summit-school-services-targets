@@ -1,0 +1,30 @@
+{"idx": 2010, "name": "Mayfield City Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district in-house"}
+{"idx": 2011, "name": "S-K Bus Solutions Inc Which", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus company, Inc suffix"}
+{"idx": 2012, "name": "Northview Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation department"}
+{"idx": 2013, "name": "United Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private bus service LLC"}
+{"idx": 2014, "name": "Scarborough School Bus Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district bus department"}
+{"idx": 2015, "name": "Canal Winchester Oper Ctr", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district operations center"}
+{"idx": 2016, "name": "Rusk Isd Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "ISD transportation department"}
+{"idx": 2017, "name": "A & J School Bus Trnsprtn CORP", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private school bus corp"}
+{"idx": 2018, "name": "Bright School Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport LLC"}
+{"idx": 2019, "name": "Chela School Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service LLC"}
+{"idx": 2020, "name": "Devyn Productions Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Productions name unclear for transport"}
+{"idx": 2021, "name": "Ileana School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator"}
+{"idx": 2022, "name": "J & M School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus LLC"}
+{"idx": 2023, "name": "Mavel School Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus corp"}
+{"idx": 2024, "name": "Sommer Bus School LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus LLC"}
+{"idx": 2025, "name": "Transit Plus", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Milwaukee MCTS paratransit service"}
+{"idx": 2026, "name": "Fairfield Schools Trnsprtn Ofc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation office"}
+{"idx": 2027, "name": "J & P Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo service, special needs"}
+{"idx": 2028, "name": "CTI School Bus Contract Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private contract bus service"}
+{"idx": 2029, "name": "Flores School Van", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school van operator"}
+{"idx": 2030, "name": "Thomas A Campbell PC Which", "verdict": "unsure", "confidence": 0.3, "reason": "PC suggests professional corp, unclear"}
+{"idx": 2031, "name": "Advance Bus & Truck", "verdict": "unsure", "confidence": 0.4, "reason": "May be bus/truck dealer or service"}
+{"idx": 2032, "name": "Schenectady Bus Con LTD", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus contractor LTD"}
+{"idx": 2033, "name": "Platinum Limousines Tampa", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, special needs transport"}
+{"idx": 2034, "name": "St Charles County Bubble Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear - may be mobile entertainment"}
+{"idx": 2035, "name": "School Days Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Brooklyn school transport Inc"}
+{"idx": 2036, "name": "Seneca-Crawford Area Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Regional area transportation, likely public"}
+{"idx": 2037, "name": "PRBS Prof Resources & Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, 4 employees"}
+{"idx": 2038, "name": "Romeo Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district transportation"}
+{"idx": 2039, "name": "Medina City School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation"}

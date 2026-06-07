@@ -1,0 +1,30 @@
+{"idx": 210, "name": "Any Time Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus company, Long Island NY"}
+{"idx": 211, "name": "GVC", "verdict": "unsure", "confidence": 0.5, "reason": "Bronx bus website but ambiguous name"}
+{"idx": 212, "name": "Public Schools Transportation", "verdict": "unsure", "confidence": 0.4, "reason": "Name suggests public but website unrelated"}
+{"idx": 213, "name": "Rainbow Transportation Svc Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private CT transport service Inc"}
+{"idx": 214, "name": "Osseo Brooklyn School Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus company MN"}
+{"idx": 215, "name": "Krise Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus service PA"}
+{"idx": 216, "name": "Saferide Services", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport AZ"}
+{"idx": 217, "name": "Canadian Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district Texas"}
+{"idx": 218, "name": "Mcgough Bus Co Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus company NJ"}
+{"idx": 219, "name": "Ramp Truck & Bus Ctr", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transportation company NY"}
+{"idx": 220, "name": "Superior School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company NJ"}
+{"idx": 221, "name": "Ashtown School Bus Station", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Website ashdownschools.org district transport"}
+{"idx": 222, "name": "Hendrickson Bus Corp", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus corp NY"}
+{"idx": 223, "name": "Hawaii Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 224, "name": "School Bus Sales Co", "verdict": "not_transport", "confidence": 0.9, "reason": "Bus dealer/sales, not operator"}
+{"idx": 225, "name": "AAA Medex", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical/special-needs transport AZ"}
+{"idx": 226, "name": "Rockwall Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Independent school district"}
+{"idx": 227, "name": "Marietta City School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City school district transportation dept"}
+{"idx": 228, "name": "L & M Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company Brooklyn NY"}
+{"idx": 229, "name": "Cottage Hill Co", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private operator Illinois"}
+{"idx": 230, "name": "Matthews Bus Co Inc Sch Buses", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus company PA"}
+{"idx": 231, "name": "Lucini Bus Lines", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus lines MA"}
+{"idx": 232, "name": "Total Transportation Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transport corp Bronx NY"}
+{"idx": 233, "name": "Pickens County Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County schools transport dept Alabama"}
+{"idx": 234, "name": "Baumann & Sons Buses", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus company NY"}
+{"idx": 235, "name": "Gomes School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private school bus HI"}
+{"idx": 236, "name": "Grand Avenue Enterprises", "verdict": "unsure", "confidence": 0.5, "reason": "Vague name, VT DMV website"}
+{"idx": 237, "name": "Kickert School Bus Lines", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private school bus IL"}
+{"idx": 238, "name": "Alex Your Bus Purchasing Asst", "verdict": "not_transport", "confidence": 0.8, "reason": "Bus purchasing assistant, not operator"}
+{"idx": 239, "name": "Campbell Bus Lines", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name private bus/tours PA"}

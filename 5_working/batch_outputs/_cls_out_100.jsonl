@@ -1,0 +1,30 @@
+{"idx": 3000, "name": "Care On Wheels Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "private special-needs transport service"}
+{"idx": 3001, "name": "Monroe Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "public school district transport dept"}
+{"idx": 3002, "name": "Buena Vista City School Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "city public school district transport"}
+{"idx": 3003, "name": "Pikeville City Schls TRNS Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "city schools transportation department"}
+{"idx": 3004, "name": "Leslie Public Schools Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "public school district transport"}
+{"idx": 3005, "name": "Iredell-Statesville Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "public school district"}
+{"idx": 3006, "name": "White Star Line", "verdict": "unsure", "confidence": 0.5, "reason": "name ambiguous, minimal info"}
+{"idx": 3007, "name": "Goodman Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "private bus service Inc"}
+{"idx": 3008, "name": "Auto Bus", "verdict": "unsure", "confidence": 0.5, "reason": "generic name, minimal info"}
+{"idx": 3009, "name": "Koch Transportation Svc LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "private LLC special-needs transport"}
+{"idx": 3010, "name": "Susquehanna Transit Co", "verdict": "private_contractor", "confidence": 0.75, "reason": "private transit company"}
+{"idx": 3011, "name": "Mitchell County Transit", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "county public transit agency"}
+{"idx": 3012, "name": "Guardian Medical Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "medical transport, possibly NEMT not school"}
+{"idx": 3013, "name": "H & M Rogers Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "family-name private transport"}
+{"idx": 3014, "name": "Bennett & Bennett Trnsprtn", "verdict": "private_contractor", "confidence": 0.85, "reason": "family-name private transport"}
+{"idx": 3015, "name": "Tri Town Area Bus Listings", "verdict": "unsure", "confidence": 0.45, "reason": "'Listings' suggests directory not operator"}
+{"idx": 3016, "name": "SMTS", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "South Missouri Transit Service, public"}
+{"idx": 3017, "name": "Big Brown Bus Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "private bus company"}
+{"idx": 3018, "name": "T G Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "private school bus LLC"}
+{"idx": 3019, "name": "Mcfarland Dial-A-Ride", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "municipal dial-a-ride service"}
+{"idx": 3020, "name": "ACC Midwest Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "private transport company"}
+{"idx": 3021, "name": "Aron's School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "possessive-name private school bus"}
+{"idx": 3022, "name": "Cleveland Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "district transportation department"}
+{"idx": 3023, "name": "Lenz Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "family-name private bus company"}
+{"idx": 3024, "name": "Ber Ber Transport LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "private LLC school transport"}
+{"idx": 3025, "name": "School Bus Traders LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "bus dealer/trader, not operator"}
+{"idx": 3026, "name": "Emt-Express Med Transporters", "verdict": "not_transport", "confidence": 0.75, "reason": "EMT ambulance service, not school"}
+{"idx": 3027, "name": "Morris Central Schl Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "central school district transport"}
+{"idx": 3028, "name": "Fortune Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "limo service, possibly special-needs"}
+{"idx": 3029, "name": "Bower Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "family-name private bus company"}

@@ -1,0 +1,30 @@
+{"idx": 2820, "name": "Seminole Isd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD bus barn — district in-house"}
+{"idx": 2821, "name": "Corporate Inv Bus BRKS Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous corporate name, unclear operator"}
+{"idx": 2822, "name": "Florida Bus Unlimited", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private bus company name"}
+{"idx": 2823, "name": "Arttiee Smart Tracking", "verdict": "unsure", "confidence": 0.4, "reason": "Tracking tech vendor, not operator"}
+{"idx": 2824, "name": "Marietta City Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City schools transportation department"}
+{"idx": 2825, "name": "Ellswrth Cmnty Schls Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community schools bus garage"}
+{"idx": 2826, "name": "Ewen-Trout Creek Sch Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus garage"}
+{"idx": 2827, "name": "Panama High School-Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "High school bus shop"}
+{"idx": 2828, "name": "Bee-Line Med Express", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, possible special needs"}
+{"idx": 2829, "name": "A2B Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation company"}
+{"idx": 2830, "name": "Sterling School Bus Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus Inc"}
+{"idx": 2831, "name": "Keystone Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service"}
+{"idx": 2832, "name": "Country Care A Van", "verdict": "private_contractor", "confidence": 0.7, "reason": "Special needs van transport"}
+{"idx": 2833, "name": "Schools Public Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school bus garage"}
+{"idx": 2834, "name": "International Bus Creation Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear, could be bus manufacturer"}
+{"idx": 2835, "name": "Tonasket Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "District bus garage"}
+{"idx": 2836, "name": "Reed City Area Public Sch-Bus", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public schools bus department"}
+{"idx": 2837, "name": "Bus Jack & Richard Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Website Invisiblefence — likely misclassified"}
+{"idx": 2838, "name": "T G Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transportation company"}
+{"idx": 2839, "name": "Malad Schools Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district bus shop"}
+{"idx": 2840, "name": "Chippewa Hills Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "School district"}
+{"idx": 2841, "name": "CHSD Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "District transportation department"}
+{"idx": 2842, "name": "Lakewood Local Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Local schools transportation"}
+{"idx": 2843, "name": "JRZ Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation Inc"}
+{"idx": 2844, "name": "North Crlina Small Bus Tech De", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Tech Dev Center"}
+{"idx": 2845, "name": "Sol Transportation Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private special needs transport"}
+{"idx": 2846, "name": "Three Rivers Local School Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Local school district"}
+{"idx": 2847, "name": "America Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.2, "reason": "Garbled name, unclear entity"}
+{"idx": 2848, "name": "Four Winds Bus Fleet Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus fleet Inc"}
+{"idx": 2849, "name": "National Alliance Bus Assoc", "verdict": "not_transport", "confidence": 0.85, "reason": "Business association, Nova Edu site"}

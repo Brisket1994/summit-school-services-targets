@@ -1,0 +1,30 @@
+{"idx": 1140, "name": "Trombly School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family name + school bus operator"}
+{"idx": 1141, "name": "A School Ride LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC student ride service"}
+{"idx": 1142, "name": "On Movin Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear business"}
+{"idx": 1143, "name": "North American School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "LLC school bus operator"}
+{"idx": 1144, "name": "Kentwood Public Schools", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 1145, "name": "Semo Alliance For Disability", "verdict": "not_transport", "confidence": 0.9, "reason": "Disability advocacy nonprofit"}
+{"idx": 1146, "name": "Cheyenne Bus Ctr", "verdict": "unsure", "confidence": 0.5, "reason": "Could be dealer or operator"}
+{"idx": 1147, "name": "Liberty Union High School Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 1148, "name": "Rolling Bus Corp", "verdict": "private_contractor", "confidence": 0.85, "reason": "Corp bus operator NY"}
+{"idx": 1149, "name": "Canajoharie Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 1150, "name": "Bartlesville Public Sch", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district"}
+{"idx": 1151, "name": "Transportation/Maintenance", "verdict": "unsure", "confidence": 0.4, "reason": "Generic dept name, likely district"}
+{"idx": 1152, "name": "S & S School Bus Garage", "verdict": "private_contractor", "confidence": 0.75, "reason": "Possibly small private operator"}
+{"idx": 1153, "name": "Dayton Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school district transport"}
+{"idx": 1154, "name": "Nor Recreation & Park District", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public park district"}
+{"idx": 1155, "name": "Honeoye Falls-Lima Transporta", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District transportation department"}
+{"idx": 1156, "name": "Upper Dublin School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation dept"}
+{"idx": 1157, "name": "Medix Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service not school bus"}
+{"idx": 1158, "name": "Stratford High Bus Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "High school bus office"}
+{"idx": 1159, "name": "FCSS Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Fannin County Schools transport dept"}
+{"idx": 1160, "name": "Hoyles School Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named school transport operator"}
+{"idx": 1161, "name": "Fayette County School Corp", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public school corporation"}
+{"idx": 1162, "name": "K & T Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic initials, business unclear"}
+{"idx": 1163, "name": "Tempe & Brogan Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear entity type"}
+{"idx": 1164, "name": "New Albany Plains School TRNSP", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 1165, "name": "H K Ent Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.5, "reason": "DBA fragment, unclear operations"}
+{"idx": 1166, "name": "Eagle Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service NC"}
+{"idx": 1167, "name": "Ingoodcompany Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "DBA fragment, business unclear"}
+{"idx": 1168, "name": "4.0 School Svc", "verdict": "unsure", "confidence": 0.4, "reason": "Possibly tutoring not transport"}
+{"idx": 1169, "name": "Flora & Fauna Food Bus LLC", "verdict": "not_transport", "confidence": 0.9, "reason": "Food business not transport"}

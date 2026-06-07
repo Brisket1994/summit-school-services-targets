@@ -1,0 +1,30 @@
+{"idx": 1080, "name": "White Transit School Buses Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus operator, Inc"}
+{"idx": 1081, "name": "Eastbay Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, special needs transport unclear"}
+{"idx": 1082, "name": "Kal Limousine Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private limo svc, special needs transport"}
+{"idx": 1083, "name": "Indiana Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.95, "reason": "Small Business Development Center, not transport"}
+{"idx": 1084, "name": "Boston Student Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private student transport operator"}
+{"idx": 1085, "name": "WRAY School District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 1086, "name": "Ashley School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service"}
+{"idx": 1087, "name": "T V School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service"}
+{"idx": 1088, "name": "Personal Leasing Co", "verdict": "unsure", "confidence": 0.4, "reason": "Leasing co, unclear if transport operator"}
+{"idx": 1089, "name": "Mutual Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus corporation"}
+{"idx": 1090, "name": "Modesto City Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City Schools transportation department"}
+{"idx": 1091, "name": "Battle Creek Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public Schools transportation department"}
+{"idx": 1092, "name": "Klamath County School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school transportation department"}
+{"idx": 1093, "name": "Let Limited", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, insufficient info"}
+{"idx": 1094, "name": "Liberty Healthcare Corp", "verdict": "not_transport", "confidence": 0.85, "reason": "Healthcare corporation, not transport"}
+{"idx": 1095, "name": "Hamburg School Car Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school car service"}
+{"idx": 1096, "name": "Turkish American Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Org website, possibly cultural assoc"}
+{"idx": 1097, "name": "Access Mobility Of Arizona Inc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Mobility/wheelchair van rentals, special needs"}
+{"idx": 1098, "name": "Transportation Mamaroneck Sch", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Mamaroneck schools transportation"}
+{"idx": 1099, "name": "Lahan Industrial & Auto Bus", "verdict": "unsure", "confidence": 0.45, "reason": "Industrial/auto bus, ambiguous operator"}
+{"idx": 1100, "name": "Structural Bridge Bus Unit", "verdict": "unsure", "confidence": 0.4, "reason": "Unusual name, unclear entity type"}
+{"idx": 1101, "name": "Richwoods School Bus Garage", "verdict": "unsure", "confidence": 0.45, "reason": "Garage, could be district or private"}
+{"idx": 1102, "name": "Laporte Community Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community School transportation department"}
+{"idx": 1103, "name": "Southwest Oregon Bus BNKG Ctr", "verdict": "unsure", "confidence": 0.4, "reason": "Banking center, unclear transport role"}
+{"idx": 1104, "name": "Lesa Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "LESA educational service agency transport dept"}
+{"idx": 1105, "name": "Midway Independent Sch Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent School District transportation"}
+{"idx": 1106, "name": "Absolute Care Staffing Health", "verdict": "not_transport", "confidence": 0.85, "reason": "Healthcare staffing, not transport"}
+{"idx": 1107, "name": "Salter's Express Co Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private express/transport company Inc"}
+{"idx": 1108, "name": "Winkle Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private bus company"}
+{"idx": 1109, "name": "Las Cruces Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public Schools transportation department"}

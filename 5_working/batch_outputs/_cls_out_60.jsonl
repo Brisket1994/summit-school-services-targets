@@ -1,0 +1,30 @@
+{"idx": 1800, "name": "Eaton Rapids Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation dept"}
+{"idx": 1801, "name": "Talawanda School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district transportation"}
+{"idx": 1802, "name": "Compose Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated filing name, unclear operations"}
+{"idx": 1803, "name": "Briarcliff Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company, NY school operator"}
+{"idx": 1804, "name": "Muscatine Community Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 1805, "name": "Lewiston Public Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district transportation"}
+{"idx": 1806, "name": "Bevy Collegiate Bus Svc LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private LLC bus service"}
+{"idx": 1807, "name": "Lower Pioneer Vly Educational", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Educational collaborative (LPVEC)"}
+{"idx": 1808, "name": "TP Industrial Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated filing name, unclear"}
+{"idx": 1809, "name": "Varsity Transit Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private NYC school bus contractor"}
+{"idx": 1810, "name": "Lamar County School Garage", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "County school garage, public"}
+{"idx": 1811, "name": "Air Scoolbus Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school bus Inc"}
+{"idx": 1812, "name": "HT Bus Svc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private bus service NJ"}
+{"idx": 1813, "name": "Northern Ariz Tech Bus Incbtor", "verdict": "not_transport", "confidence": 0.9, "reason": "Tech business incubator, not transport"}
+{"idx": 1814, "name": "Berg Enterprises Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated filing name"}
+{"idx": 1815, "name": "Masterwork Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated filing name"}
+{"idx": 1816, "name": "Modern Human Inc Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated filing name"}
+{"idx": 1817, "name": "Souza Enterprises Inc Which", "verdict": "not_transport", "confidence": 0.7, "reason": "Sweet potato spirits website, not transport"}
+{"idx": 1818, "name": "School Bus Plant Co LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC, school bus"}
+{"idx": 1819, "name": "DATTCO School Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "DATTCO large CT private bus operator"}
+{"idx": 1820, "name": "Cedar Creek Bus Prof Ctr", "verdict": "not_transport", "confidence": 0.85, "reason": "Business professional center, law firm"}
+{"idx": 1821, "name": "Lisdie Montano Sch Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Personal-named school transportation"}
+{"idx": 1822, "name": "RMR School Transportation LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transportation"}
+{"idx": 1823, "name": "Atlanta Magic Party Sch Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Party bus, not school transport"}
+{"idx": 1824, "name": "Iowa City VA Bus Office Annex", "verdict": "not_transport", "confidence": 0.9, "reason": "VA office annex, government, not transport"}
+{"idx": 1825, "name": "Valley Center Pubc Sch", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district"}
+{"idx": 1826, "name": "Dowagiac Union Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 1827, "name": "Kent City Cmnty Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Community school district transportation"}
+{"idx": 1828, "name": "Anacortes School Dist 103", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 1829, "name": "Alliance Plus LLC", "verdict": "unsure", "confidence": 0.45, "reason": "Generic LLC name, special needs flag"}

@@ -1,0 +1,25 @@
+{"idx": 250, "name": "K & T Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear if transport"}
+{"idx": 251, "name": "Eagle Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service company"}
+{"idx": 252, "name": "Lane Transit District-City Bus", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public transit district, not school bus"}
+{"idx": 253, "name": "Riegel Truck & Bus Parts LP", "verdict": "not_transport", "confidence": 0.9, "reason": "Truck and bus parts dealer"}
+{"idx": 254, "name": "Menominee Delta Schoolcraft", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Intermediate school district educational agency"}
+{"idx": 255, "name": "Nelson Transportation Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation Inc"}
+{"idx": 256, "name": "Board Our Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Charter/tour bus, not student transport"}
+{"idx": 257, "name": "Lowell Area Business Garage", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Lowell schools district garage"}
+{"idx": 258, "name": "Transportation Main Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Concord public schools transportation office"}
+{"idx": 259, "name": "Scoop Inc Which Will Do Bus", "verdict": "unsure", "confidence": 0.4, "reason": "App-related, possibly carpool tech"}
+{"idx": 260, "name": "Hoover Truck & Bus Ctr", "verdict": "not_transport", "confidence": 0.9, "reason": "Truck and bus dealership/center"}
+{"idx": 261, "name": "West Orange Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation department"}
+{"idx": 262, "name": "Eurotrend Inc Which Will Do", "verdict": "not_transport", "confidence": 0.7, "reason": "Tools website, likely not transport"}
+{"idx": 263, "name": "Secura Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.85, "reason": "Security key company, not transport"}
+{"idx": 264, "name": "Thomas Bus Gulf Coast", "verdict": "not_transport", "confidence": 0.9, "reason": "Thomas bus dealer/distributor"}
+{"idx": 265, "name": "M & J School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company"}
+{"idx": 266, "name": "Focus In Chinuck Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Entertainment website, unclear"}
+{"idx": 267, "name": "Lake Country Industries", "verdict": "private_contractor", "confidence": 0.7, "reason": "Lake Country Transportation, private operator"}
+{"idx": 268, "name": "Private School Bus Contract", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private school bus contractor"}
+{"idx": 269, "name": "Itm-USA Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "Korean tech company, not transport"}
+{"idx": 270, "name": "Mason County Trnsprtn Co-Op", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "School district transportation cooperative"}
+{"idx": 271, "name": "Grande Ronde Transportation Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company, MidCo Bus"}
+{"idx": 272, "name": "Ezra International Entertainer", "verdict": "not_transport", "confidence": 0.8, "reason": "Tour company, not student transport"}
+{"idx": 273, "name": "Towne Bus Corp", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus corporation, WE Transport"}
+{"idx": 274, "name": "Boger City Bus Repair", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus repair shop, not operator"}

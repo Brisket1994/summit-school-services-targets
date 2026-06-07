@@ -1,0 +1,30 @@
+{"idx": 5790, "name": "Pauls Towncar", "verdict": "private_contractor", "confidence": 0.55, "reason": "Tiny town car; likely livery, not school bus"}
+{"idx": 5791, "name": "Personal Navigator", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name; no clear transport indicator"}
+{"idx": 5792, "name": "Quality Airport Svc Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Airport service; not school transport focus"}
+{"idx": 5793, "name": "Rolex Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5794, "name": "School Time Taxi", "verdict": "private_contractor", "confidence": 0.65, "reason": "Small taxi; serves school transport"}
+{"idx": 5795, "name": "Taylormade Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5796, "name": "Town Car", "verdict": "private_contractor", "confidence": 0.5, "reason": "Town car livery; not school bus"}
+{"idx": 5797, "name": "Transworld Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service; not school bus"}
+{"idx": 5798, "name": "V I P III Trnsp & Limosne", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine/transport; not school bus"}
+{"idx": 5799, "name": "Wonderful Blessed Care Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Likely NEMT care provider"}
+{"idx": 5800, "name": "RGK Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transport company"}
+{"idx": 5801, "name": "Med Trans Express", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT medical transport, not school"}
+{"idx": 5802, "name": "Louisiana Minority Bus Council", "verdict": "not_transport", "confidence": 0.85, "reason": "Trade council, not operator"}
+{"idx": 5803, "name": "Class 1 Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5804, "name": "Echelon Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5805, "name": "Town Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5806, "name": "Maintennance Office", "verdict": "public_or_inhouse", "confidence": 0.7, "reason": "Likely district maintenance office"}
+{"idx": 5807, "name": "Cheney Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 5808, "name": "A North East Cab & Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Cab/limousine, not school bus"}
+{"idx": 5809, "name": "Amigo Mobility Ctr", "verdict": "not_transport", "confidence": 0.7, "reason": "Mobility equipment retailer"}
+{"idx": 5810, "name": "Barroso Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5811, "name": "Gwinnett Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5812, "name": "Immaculate Care Trnsprtn Ent", "verdict": "private_contractor", "confidence": 0.55, "reason": "NEMT care transport, not school"}
+{"idx": 5813, "name": "Royce Cloud LTD", "verdict": "unsure", "confidence": 0.35, "reason": "Ambiguous name; insufficient info"}
+{"idx": 5814, "name": "Tex Mex Taxi & Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Taxi/limo service, not school bus"}
+{"idx": 5815, "name": "Tuxedo Limousine Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5816, "name": "Wilturn Services", "verdict": "unsure", "confidence": 0.4, "reason": "Generic services name, unclear focus"}
+{"idx": 5817, "name": "World Class Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5818, "name": "Zoom Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limousine service, not school bus"}
+{"idx": 5819, "name": "Legacy Transit LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small private transit LLC"}

@@ -1,0 +1,30 @@
+{"idx": 450, "name": "SP & R Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport company, school flag set"}
+{"idx": 451, "name": "Bauer Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-named private bus service"}
+{"idx": 452, "name": "Door To Door Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport operator"}
+{"idx": 453, "name": "Alabama Small Bus Resource Ctr", "verdict": "not_transport", "confidence": 0.8, "reason": "Resource center, likely not operator"}
+{"idx": 454, "name": "Access Medical Trans LLC", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, may not serve schools"}
+{"idx": 455, "name": "Minnesota Central School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator"}
+{"idx": 456, "name": "Care Transport", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport"}
+{"idx": 457, "name": "A & M Transit", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit/coach operator"}
+{"idx": 458, "name": "M D Transportation & Charter", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private charter/transportation company"}
+{"idx": 459, "name": "Yamila School Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school bus operator"}
+{"idx": 460, "name": "School Transport Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school transport"}
+{"idx": 461, "name": "Van Conversions LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "MobilityWorks vehicle conversions, not operator"}
+{"idx": 462, "name": "Best Care Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private special-needs transport"}
+{"idx": 463, "name": "On Time Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport"}
+{"idx": 464, "name": "Alternative Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport company"}
+{"idx": 465, "name": "Linkdrive Express", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private school transport operator"}
+{"idx": 466, "name": "R W Transportation", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private special-needs transport"}
+{"idx": 467, "name": "Metro Transport LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private LLC, limousine site"}
+{"idx": 468, "name": "Magical School Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus operator NYC"}
+{"idx": 469, "name": "R Us School Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc school transport"}
+{"idx": 470, "name": "R & D Transportation Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport service"}
+{"idx": 471, "name": "Harlow's School Bus Svc Inc-Mt", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private school bus Inc"}
+{"idx": 472, "name": "Infinity Limousine Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limousine service, special-needs flag"}
+{"idx": 473, "name": "Cherokee Strip Transit", "verdict": "unsure", "confidence": 0.5, "reason": "Could be tribal/public transit"}
+{"idx": 474, "name": "Amt", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous acronym, unclear entity"}
+{"idx": 475, "name": "Infinity Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine, special-needs flag"}
+{"idx": 476, "name": "Royal Limousine", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private limousine, special-needs flag"}
+{"idx": 477, "name": "Lyft Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Rideshare giant, public company"}
+{"idx": 478, "name": "Impiccini School Buses", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named private school bus"}
+{"idx": 479, "name": "A Plus School Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school transport company"}

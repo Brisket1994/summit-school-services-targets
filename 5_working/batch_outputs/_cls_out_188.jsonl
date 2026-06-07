@@ -1,0 +1,30 @@
+{"idx": 5640, "name": "Liberty Capital Group", "verdict": "not_transport", "confidence": 0.85, "reason": "Capital group, not a transport operator"}
+{"idx": 5641, "name": "Los Lunas Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation department"}
+{"idx": 5642, "name": "Propps School Buses LLC", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name LLC school bus contractor"}
+{"idx": 5643, "name": "Little Miami Bus Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District transportation department"}
+{"idx": 5644, "name": "Chelsea Plantation Bus Ofc", "verdict": "unsure", "confidence": 0.5, "reason": "Bus office, unclear entity type"}
+{"idx": 5645, "name": "Department Of Education SC", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "State department of education"}
+{"idx": 5646, "name": "Greenwood School Dist No 50", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 5647, "name": "Schools Transportation Easley", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Schools transportation, likely district department"}
+{"idx": 5648, "name": "Strategic Point-Sale-Bus Solut", "verdict": "not_transport", "confidence": 0.8, "reason": "Point-of-sale business solutions, not transport"}
+{"idx": 5649, "name": "Tri-County Bus & Prof Women", "verdict": "not_transport", "confidence": 0.9, "reason": "Business and Professional Women association"}
+{"idx": 5650, "name": "S & G Enterprises LLC", "verdict": "unsure", "confidence": 0.5, "reason": "Generic enterprise name, unclear"}
+{"idx": 5651, "name": "Bus Boys LLC", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private LLC, likely school bus contractor"}
+{"idx": 5652, "name": "D & R Transportation Inc", "verdict": "private_contractor", "confidence": 0.88, "reason": "Private Inc transportation company"}
+{"idx": 5653, "name": "Hiers Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family-name transportation operator"}
+{"idx": 5654, "name": "MS Christy's Transportation", "verdict": "private_contractor", "confidence": 0.82, "reason": "Possessive-name private transport operator"}
+{"idx": 5655, "name": "A & O Enterprises", "verdict": "unsure", "confidence": 0.5, "reason": "Generic enterprises name, special needs flag"}
+{"idx": 5656, "name": "A-Rated Limousines", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service, possible special-needs transport"}
+{"idx": 5657, "name": "Acadia Wheelchair Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.8, "reason": "Wheelchair transportation service, special needs"}
+{"idx": 5658, "name": "Currys Spotlight Limousine SE", "verdict": "private_contractor", "confidence": 0.7, "reason": "Limo service possibly student transport"}
+{"idx": 5659, "name": "Dallas Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.82, "reason": "Wheelchair transport, special needs operator"}
+{"idx": 5660, "name": "Day & Nite Limos & Sedans", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo/sedan service, possibly student transport"}
+{"idx": 5661, "name": "Deleon Isd MNTNC-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD maintenance-transportation department"}
+{"idx": 5662, "name": "Exotic Limousine Co", "verdict": "private_contractor", "confidence": 0.6, "reason": "Limo company, possible special-needs transport"}
+{"idx": 5663, "name": "Handicapped-Elderly Trnsprtn", "verdict": "private_contractor", "confidence": 0.75, "reason": "Special needs/elderly transport service"}
+{"idx": 5664, "name": "Henry S Limo", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-name limo, possible special needs"}
+{"idx": 5665, "name": "Johnnie's Manor Trnsprtn Svc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Possessive-name transportation service"}
+{"idx": 5666, "name": "KC Limousine Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, possible special needs transport"}
+{"idx": 5667, "name": "Labelle Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, possible special needs"}
+{"idx": 5668, "name": "Lobo Limousine", "verdict": "private_contractor", "confidence": 0.65, "reason": "Limo service, possible special needs"}
+{"idx": 5669, "name": "Myriad Transportation Co", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transportation company"}

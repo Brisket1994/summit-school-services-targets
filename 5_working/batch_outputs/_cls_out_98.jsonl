@@ -1,0 +1,30 @@
+{"idx": 2940, "name": "United Special Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Special-needs transport operator, private name"}
+{"idx": 2941, "name": "H A Marston Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Family name with Inc, NH school bus"}
+{"idx": 2942, "name": "Florida International Sch-Bus", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school bus company name"}
+{"idx": 2943, "name": "Us Bus LLC", "verdict": "private_contractor", "confidence": 0.85, "reason": "LLC bus company, private"}
+{"idx": 2944, "name": "Milford Exempted Village TRNSP", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District transport dept, .org school site"}
+{"idx": 2945, "name": "DS Enterprises Which Will Do", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, unclear nature"}
+{"idx": 2946, "name": "Atlantic City Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc bus company, private operator"}
+{"idx": 2947, "name": "East Star Bus Co", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private bus company name"}
+{"idx": 2948, "name": "W J K School Bus Conslnts LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC consultants, possibly private operator"}
+{"idx": 2949, "name": "Bus Barn Wilie Isd", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD bus barn, district transport"}
+{"idx": 2950, "name": "Southern Local School Bus Grge", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "School district garage, k12.oh.us site"}
+{"idx": 2951, "name": "Transport-U", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport company"}
+{"idx": 2952, "name": "Helena West Helena Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "Durham School Services site, contractor"}
+{"idx": 2953, "name": "Belding Area School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District site bas-k12.org, in-house"}
+{"idx": 2954, "name": "Meda-Care Vans Of Waukesha", "verdict": "private_contractor", "confidence": 0.6, "reason": "WeDriveU site suggests strategic ownership"}
+{"idx": 2955, "name": "International Organization", "verdict": "unsure", "confidence": 0.3, "reason": "Vague name, DC address"}
+{"idx": 2956, "name": "King's Transit", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transit company, PA school bus"}
+{"idx": 2957, "name": "Bangor Township Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Township school district transport"}
+{"idx": 2958, "name": "Duncanville Isd Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 2959, "name": "Breckenridge Public School", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 2960, "name": "Koch Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name bus service, private"}
+{"idx": 2961, "name": "Easy Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private special-needs transport"}
+{"idx": 2962, "name": "Quality Med Transport", "verdict": "not_transport", "confidence": 0.6, "reason": "Medical transport, not student-focused"}
+{"idx": 2963, "name": "Assisted Transportation Corp", "verdict": "private_contractor", "confidence": 0.8, "reason": "Corp special-needs transport, private"}
+{"idx": 2964, "name": "Freemont County School Dist 1", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 2965, "name": "Triton Algae Innovations Inc", "verdict": "not_transport", "confidence": 0.95, "reason": "Algae biotech company, not transport"}
+{"idx": 2966, "name": "Devoted Care Svc LLC", "verdict": "private_contractor", "confidence": 0.7, "reason": "LLC care transportation, private"}
+{"idx": 2967, "name": "Winnsboro Isd Bus Barn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "ISD bus barn, district transport"}
+{"idx": 2968, "name": "Bellingham High School", "verdict": "not_transport", "confidence": 0.98, "reason": "Actual high school, not transport"}
+{"idx": 2969, "name": "Round-A-Bout Transportation Co", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transport company, special needs"}

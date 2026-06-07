@@ -1,0 +1,16 @@
+# Big binaries: kept LOCAL, not in git (reproducible or backed up separately)
+# - DB (507MB) rebuildable from scripts + batch_outputs + source
+# - 1_source_data (433MB) original Data Axle source; back up separately
+2_database/*.db
+1_source_data/
+
+# Transient
+5_working/inputs/_night_batch.json
+
+# System / session
+.DS_Store
+**/.DS_Store
+.firecrawl/
+.remember/
+
+# NOTE: 5_working/batch_outputs/ IS committed (~8MB) as raw enrichment provenance.

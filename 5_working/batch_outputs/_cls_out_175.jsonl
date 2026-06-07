@@ -1,0 +1,30 @@
+{"idx": 5250, "name": "Powhatan County Pubc Sch Bus", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County public school bus, .gov website"}
+{"idx": 5251, "name": "N Hawley Bus & Fncl Assistance", "verdict": "unsure", "confidence": 0.45, "reason": "Ambiguous, possibly individual operator"}
+{"idx": 5252, "name": "N & J Bus Svc LTD", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private bus service LTD, school flag"}
+{"idx": 5253, "name": "Arc Non-Emergency Medical", "verdict": "not_transport", "confidence": 0.8, "reason": "Arc nonprofit disability medical, .org"}
+{"idx": 5254, "name": "Mini-Bus Systems Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private Inc bus systems, school"}
+{"idx": 5255, "name": "Chariots Of Hope LLC", "verdict": "not_transport", "confidence": 0.7, "reason": "Nonprofit .org, not school transport"}
+{"idx": 5256, "name": "First Choice Car Svc Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Car service, possible special needs"}
+{"idx": 5257, "name": "Lexington Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo service, marginal fit"}
+{"idx": 5258, "name": "Med X Transportation Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Medical transport Inc, special needs flag"}
+{"idx": 5259, "name": "Union-Lyceum Fleet & Mobility", "verdict": "unsure", "confidence": 0.4, "reason": "Fleet/mobility, mechanic website unclear"}
+{"idx": 5260, "name": "Reliable School-Med Transport", "verdict": "private_contractor", "confidence": 0.85, "reason": "School and medical transport, private"}
+{"idx": 5261, "name": "Cheyenne's Total Care", "verdict": "not_transport", "confidence": 0.6, "reason": "Care service, likely home care"}
+{"idx": 5262, "name": "Flexible Moves Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport, special needs flag"}
+{"idx": 5263, "name": "New Public Schls Trnsprtn Svc", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public schools transport, k12.nd.us"}
+{"idx": 5264, "name": "Here To There Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private LLC transportation"}
+{"idx": 5265, "name": "Go Citas", "verdict": "unsure", "confidence": 0.4, "reason": "Appointments service, unclear scope"}
+{"idx": 5266, "name": "Rapid Response Ambulance", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance, not student transport"}
+{"idx": 5267, "name": "Genuine Care LLC", "verdict": "not_transport", "confidence": 0.65, "reason": "Care LLC, likely home care"}
+{"idx": 5268, "name": "School Busing Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private Inc school busing"}
+{"idx": 5269, "name": "Angels On The Run Med Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT, special needs flag"}
+{"idx": 5270, "name": "Caring Wheels Med Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Medical transport, special needs"}
+{"idx": 5271, "name": "Lagardes Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-name medical transport"}
+{"idx": 5272, "name": "Mcista", "verdict": "unsure", "confidence": 0.3, "reason": "Acronym unclear, school flag"}
+{"idx": 5273, "name": "Bigelow Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Family-name private transport"}
+{"idx": 5274, "name": "Granite State Limousine Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo Inc, marginal student fit"}
+{"idx": 5275, "name": "Reno Medical Transport LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport LLC, special needs"}
+{"idx": 5276, "name": "Affordable Passenger", "verdict": "private_contractor", "confidence": 0.5, "reason": "Passenger transport, special needs flag"}
+{"idx": 5277, "name": "Corporate Cab Inc", "verdict": "private_contractor", "confidence": 0.45, "reason": "Cab company, weak student fit"}
+{"idx": 5278, "name": "Going Your Way", "verdict": "private_contractor", "confidence": 0.5, "reason": "Transport service, special needs flag"}
+{"idx": 5279, "name": "Patron Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Private transport, special needs flag"}

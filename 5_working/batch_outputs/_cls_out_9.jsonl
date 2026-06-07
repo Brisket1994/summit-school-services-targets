@@ -1,0 +1,30 @@
+{"idx": 270, "name": "A & D Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus company name"}
+{"idx": 271, "name": "M & R Transportation Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Inc transportation entity"}
+{"idx": 272, "name": "Superior Bus Svc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus service, own website"}
+{"idx": 273, "name": "Sycamore Community Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community school district"}
+{"idx": 274, "name": "Greencastle Community Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district k12.in.us"}
+{"idx": 275, "name": "Worhunsky Corp", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name Corp, likely private operator"}
+{"idx": 276, "name": "Mason Co School Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District bus garage facility"}
+{"idx": 277, "name": "School Bus Shop", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "District shop, cov.k12.al.us"}
+{"idx": 278, "name": "Wittenberger Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private Inc bus service"}
+{"idx": 279, "name": "A M Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private bus company own website"}
+{"idx": 280, "name": "City Limousine", "verdict": "private_contractor", "confidence": 0.75, "reason": "Limo special-needs operator, likely private"}
+{"idx": 281, "name": "American School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Cook Illinois Corp, private operator"}
+{"idx": 282, "name": "Grand Blanc Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "District in-house transportation gbcs.org"}
+{"idx": 283, "name": "Westonka Bus Svc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Likely private bus service"}
+{"idx": 284, "name": "Sacrt Bus Svc Island", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Sacramento Regional Transit public agency"}
+{"idx": 285, "name": "Harlows School Bus Svc Inc-Mt", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name Inc, own website"}
+{"idx": 286, "name": "Alpha School Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private school bus company"}
+{"idx": 287, "name": "Lizak Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-name Inc since 1938"}
+{"idx": 288, "name": "A & A Limousine", "verdict": "private_contractor", "confidence": 0.8, "reason": "Limo special-needs private operator"}
+{"idx": 289, "name": "Muni Bus Information", "verdict": "unsure", "confidence": 0.4, "reason": "Unclear, comedyday.com website mismatch"}
+{"idx": 290, "name": "Miller Transportation Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name transportation service"}
+{"idx": 291, "name": "Elite School Bus Co LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private LLC school bus operator"}
+{"idx": 292, "name": "Hawai'i Small Bus Devmnt Ctr", "verdict": "not_transport", "confidence": 0.97, "reason": "Small Business Development Center, not transport"}
+{"idx": 293, "name": "B R Williams Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Family-name Inc since 1934"}
+{"idx": 294, "name": "Laser Transportation", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private transportation own website"}
+{"idx": 295, "name": "Riverview School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district in-house transportation"}
+{"idx": 296, "name": "Grady's Bus Ctr", "verdict": "private_contractor", "confidence": 0.8, "reason": "Family-name bus center, likely private"}
+{"idx": 297, "name": "Key Transit", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private transit special-needs operator"}
+{"idx": 298, "name": "Mcginn Bus Co", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name private bus company"}
+{"idx": 299, "name": "Ace Bus LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC bus operator"}

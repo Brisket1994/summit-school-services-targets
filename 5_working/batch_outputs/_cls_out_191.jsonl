@@ -1,0 +1,30 @@
+{"idx": 5730, "name": "Dale Paul Miess Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small NJ special-needs transport, Inc suffix"}
+{"idx": 5731, "name": "John Iannotte Limo Svc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Small limo service, possible special-needs transport"}
+{"idx": 5732, "name": "JP Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service flagged special-needs"}
+{"idx": 5733, "name": "Oceanside Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, possible special-needs transport"}
+{"idx": 5734, "name": "Platinum Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo company, special-needs flagged"}
+{"idx": 5735, "name": "Roberts Limousine", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, special-needs flagged"}
+{"idx": 5736, "name": "Sammans Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small limo Inc, possible special-needs"}
+{"idx": 5737, "name": "Ozanne Limo Sales", "verdict": "not_transport", "confidence": 0.75, "reason": "Limo sales business, not transport operator"}
+{"idx": 5738, "name": "Handicare Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Special-needs transport operator"}
+{"idx": 5739, "name": "Wheelchair Taxi-Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair taxi service, special-needs"}
+{"idx": 5740, "name": "American Limousine Connection", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small limo service"}
+{"idx": 5741, "name": "Others Before Self LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, special-needs flag, unclear"}
+{"idx": 5742, "name": "Smigley Services", "verdict": "unsure", "confidence": 0.4, "reason": "Generic services name, unclear"}
+{"idx": 5743, "name": "Express Taxi School Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Taxi driver training school, UK website"}
+{"idx": 5744, "name": "Alter Ride", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small transport, special-needs"}
+{"idx": 5745, "name": "Annex Transit", "verdict": "private_contractor", "confidence": 0.6, "reason": "Transit operator, special-needs"}
+{"idx": 5746, "name": "Galah Princess LLC", "verdict": "unsure", "confidence": 0.35, "reason": "Vague LLC name"}
+{"idx": 5747, "name": "Itz Our Turn LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Vague name, school flagged"}
+{"idx": 5748, "name": "GMTT Global Net LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Generic name, unclear operations"}
+{"idx": 5749, "name": "Lucero Bus Co Inc", "verdict": "private_contractor", "confidence": 0.75, "reason": "Bus company, school flagged"}
+{"idx": 5750, "name": "Golden Bus Svc Ctr Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Bus service center, possibly repair shop"}
+{"idx": 5751, "name": "Atlantis Limousine Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, special-needs flagged"}
+{"idx": 5752, "name": "Go Service Transportation Co", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small transport company"}
+{"idx": 5753, "name": "Grouse Management", "verdict": "unsure", "confidence": 0.35, "reason": "Management name, same address as Go Service"}
+{"idx": 5754, "name": "Hogan Bus Svc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Bus service, special-needs"}
+{"idx": 5755, "name": "Speedway Medical Trnsprtn", "verdict": "private_contractor", "confidence": 0.55, "reason": "Medical transport, special-needs"}
+{"idx": 5756, "name": "Western Reserve Limo Svc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Limo service, special-needs"}
+{"idx": 5757, "name": "Cascade Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Small limo service"}
+{"idx": 5758, "name": "East Side Car & Limo Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Small car/limo service"}
+{"idx": 5759, "name": "Wheelchair Stretcher Limo", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair/stretcher transport, special-needs"}

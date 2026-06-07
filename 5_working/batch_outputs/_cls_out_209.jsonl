@@ -1,0 +1,30 @@
+{"idx": 6270, "name": "Assisted Transport Svc", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transport service, special-needs"}
+{"idx": 6271, "name": "Daytona Beach Limousines", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, likely non-school"}
+{"idx": 6272, "name": "Lovette Transportation", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private transportation company, special-needs flag"}
+{"idx": 6273, "name": "Kauai Limo Corp", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limo corp, likely non-school"}
+{"idx": 6274, "name": "Garrett's Sta", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous truncated name"}
+{"idx": 6275, "name": "Champaign Limousine", "verdict": "private_contractor", "confidence": 0.5, "reason": "Limousine company, likely non-school"}
+{"idx": 6276, "name": "Demand Response Reservations", "verdict": "unsure", "confidence": 0.4, "reason": "Likely paratransit dispatch, not school"}
+{"idx": 6277, "name": "Burlington School Trnsprtn", "verdict": "private_contractor", "confidence": 0.7, "reason": "School transportation, likely private contractor"}
+{"idx": 6278, "name": "Jose B Escalera", "verdict": "unsure", "confidence": 0.4, "reason": "Personal name, unclear entity"}
+{"idx": 6279, "name": "Client Care Ctr", "verdict": "not_transport", "confidence": 0.6, "reason": "Care center, not transport operator"}
+{"idx": 6280, "name": "Gobrogge Limousine Svc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Family-name limo service"}
+{"idx": 6281, "name": "Moonlight Limo", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo company, likely non-school"}
+{"idx": 6282, "name": "Star Limousine", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine company"}
+{"idx": 6283, "name": "Allied Limo & Sedan Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo/sedan service, likely non-school"}
+{"idx": 6284, "name": "Dream Limo Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo service"}
+{"idx": 6285, "name": "Fox Valley Limousine", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine company"}
+{"idx": 6286, "name": "Transmed", "verdict": "private_contractor", "confidence": 0.5, "reason": "Likely medical transport company"}
+{"idx": 6287, "name": "A Touch Class Limousine Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo service, non-school"}
+{"idx": 6288, "name": "American Rio Transportation", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transportation company"}
+{"idx": 6289, "name": "City Lights Limo & Sedan", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo/sedan, non-school"}
+{"idx": 6290, "name": "Corporate Limousine Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Corporate limo service"}
+{"idx": 6291, "name": "Crandon Taxi & Limo Corp", "verdict": "private_contractor", "confidence": 0.4, "reason": "Taxi/limo company"}
+{"idx": 6292, "name": "Excell Expert Trnsprtn Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "Private transportation Inc"}
+{"idx": 6293, "name": "Latin Limousine Inc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine Inc"}
+{"idx": 6294, "name": "Life & Style Limousine Svc", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine service"}
+{"idx": 6295, "name": "Mabel School Trnsprtn Svc Inc", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transportation Inc"}
+{"idx": 6296, "name": "Miami Springs Taxi", "verdict": "private_contractor", "confidence": 0.4, "reason": "Taxi company, non-school"}
+{"idx": 6297, "name": "Patient Transportation Svc Inc", "verdict": "private_contractor", "confidence": 0.5, "reason": "Patient transport, non-school"}
+{"idx": 6298, "name": "Pinecrest Limousine", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine company"}
+{"idx": 6299, "name": "Planet Limo", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limo company"}

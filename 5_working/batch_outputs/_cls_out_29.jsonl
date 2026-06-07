@@ -1,0 +1,30 @@
+{"idx": 870, "name": "Donna Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD district transportation"}
+{"idx": 871, "name": "Troy Ambulance Svc Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance service, not student transport"}
+{"idx": 872, "name": "Santa Fe Schools Trans Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "District transportation department"}
+{"idx": 873, "name": "Trobec's School Bus Svc", "verdict": "private_contractor", "confidence": 0.97, "reason": "Family-named private school bus service"}
+{"idx": 874, "name": "Support Services Trnsprtn", "verdict": "unsure", "confidence": 0.5, "reason": "Generic name, unclear ownership"}
+{"idx": 875, "name": "Newark City Schools Bus Garage", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City schools bus garage"}
+{"idx": 876, "name": "Nw Transport Inc", "verdict": "not_transport", "confidence": 0.8, "reason": "Cabulance/medical transport, not school"}
+{"idx": 877, "name": "Bay Metro Dial A Ride", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Public metro transit dial-a-ride"}
+{"idx": 878, "name": "Midland School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 879, "name": "Cinnaminson Board-Edu Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Board of Education transportation"}
+{"idx": 880, "name": "Derby Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 881, "name": "Clark County Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools transportation"}
+{"idx": 882, "name": "Lexington County Sch Dist 1", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 883, "name": "Chesterfield Pupil Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County pupil transportation department"}
+{"idx": 884, "name": "Lifestar Medical Van Transport", "verdict": "not_transport", "confidence": 0.9, "reason": "Medical/EMS van transport"}
+{"idx": 885, "name": "Tacoma Special Educ Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Tacoma schools special ed transport"}
+{"idx": 886, "name": "WCS Transportation Dept", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Warren Consolidated Schools dept"}
+{"idx": 887, "name": "Norfolk Public School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school transportation"}
+{"idx": 888, "name": "Nelson Garage", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family-named PA school bus garage"}
+{"idx": 889, "name": "Augusta Net Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Unclear, bio/medical-related website"}
+{"idx": 890, "name": "Worthington Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation"}
+{"idx": 891, "name": "Safe Journey 2 School", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school transport service Chicago"}
+{"idx": 892, "name": "Woodland Transportation Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "District 50 transportation office"}
+{"idx": 893, "name": "Jefferson Co Public Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Jeffco Public Schools transportation"}
+{"idx": 894, "name": "Brazosport Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD transportation department"}
+{"idx": 895, "name": "Clint Independent School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district"}
+{"idx": 896, "name": "Peter Brega Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-named NY private bus contractor"}
+{"idx": 897, "name": "Vbems Inc", "verdict": "not_transport", "confidence": 0.85, "reason": "Van Buren EMS ambulance service"}
+{"idx": 898, "name": "Pensacola Bay Transportation", "verdict": "unsure", "confidence": 0.5, "reason": "Medical/special needs transport, unclear school"}
+{"idx": 899, "name": "Ready Wheels", "verdict": "not_transport", "confidence": 0.85, "reason": "Sanford Health medical transport"}

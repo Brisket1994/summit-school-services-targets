@@ -1,0 +1,30 @@
+{"idx": 720, "name": "Aurora Public Schools Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 721, "name": "Naperville Community Unit Schl", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Community unit school district"}
+{"idx": 722, "name": "KERN High School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 723, "name": "Carroll County Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation"}
+{"idx": 724, "name": "Carmel Clay Sch Facilities", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public school district facilities"}
+{"idx": 725, "name": "Riverhead School Trnsprtn Dept", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 726, "name": "Baumann & Sons Buses School", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-named NY school bus operator"}
+{"idx": 727, "name": "Glynn County Schools-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district transportation"}
+{"idx": 728, "name": "Dickinson Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district"}
+{"idx": 729, "name": "LWSD Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Lake Washington School District transport"}
+{"idx": 730, "name": "Broken Arrow Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 731, "name": "Bryan Isd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district transportation"}
+{"idx": 732, "name": "Lane Lifetrans Paramedics", "verdict": "not_transport", "confidence": 0.9, "reason": "Paramedic/ambulance service not student transport"}
+{"idx": 733, "name": "Chief School Bus Svc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private school bus service Omaha"}
+{"idx": 734, "name": "Literacy Instruction For Texas", "verdict": "not_transport", "confidence": 0.95, "reason": "Literacy nonprofit, not transport"}
+{"idx": 735, "name": "Tri County Transportation", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private PA school transportation operator"}
+{"idx": 736, "name": "Access Ambulance Co Inc", "verdict": "not_transport", "confidence": 0.9, "reason": "Ambulance company, not student transport"}
+{"idx": 737, "name": "Morris School Dist-Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation dept"}
+{"idx": 738, "name": "Long Beach Public Schools", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 739, "name": "Martin County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 740, "name": "Northside Isd Bus Station", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Independent school district bus station"}
+{"idx": 741, "name": "Goldstar Transit", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private transit operator TX"}
+{"idx": 742, "name": "Chandler Unified Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Unified school district transportation"}
+{"idx": 743, "name": "North Eastern Bus Rebuilders", "verdict": "not_transport", "confidence": 0.85, "reason": "Bus rebuilder/repair, not operator"}
+{"idx": 744, "name": "School Student Transportation", "verdict": "private_contractor", "confidence": 0.8, "reason": "Private PA student transportation operator"}
+{"idx": 745, "name": "Washington County Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 746, "name": "Liverpool Transportation Ctr", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Liverpool school district transportation center"}
+{"idx": 747, "name": "Dover-Eyota Pubc Sch Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation"}
+{"idx": 748, "name": "ASI", "verdict": "unsure", "confidence": 0.5, "reason": "Ambiguous acronym, website unrelated"}
+{"idx": 749, "name": "Jta Connexion Paratransit Svc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Jacksonville Transit Authority paratransit"}

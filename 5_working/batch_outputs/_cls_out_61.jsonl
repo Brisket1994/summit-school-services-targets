@@ -1,0 +1,30 @@
+{"idx": 1830, "name": "Ci Technologies Inc Which Will", "verdict": "unsure", "confidence": 0.4, "reason": "Tech name truncated DBA bus reference unclear"}
+{"idx": 1831, "name": "Bus Transportation Ctr Inc", "verdict": "public_or_inhouse", "confidence": 0.75, "reason": "Cata.org address suggests CATA transit authority"}
+{"idx": 1832, "name": "Fascino Reno Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.7, "reason": "Family name DBA bus, Inc suffix"}
+{"idx": 1833, "name": "MK Trans Inc Which Will Do Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private transport Inc DBA bus operations"}
+{"idx": 1834, "name": "B M E Transit", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private transit operator, school flag"}
+{"idx": 1835, "name": "H D School Transport LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transport operator"}
+{"idx": 1836, "name": "Integrity International Bus", "verdict": "private_contractor", "confidence": 0.75, "reason": "Private bus operator name"}
+{"idx": 1837, "name": "International Bus Fin Ctr LLC", "verdict": "unsure", "confidence": 0.4, "reason": "Bus finance center, not operator"}
+{"idx": 1838, "name": "Waukee Community Sch Bus Mntnc", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Community school district bus maintenance"}
+{"idx": 1839, "name": "Central MA Sch Bus Driver's", "verdict": "not_transport", "confidence": 0.6, "reason": "Likely drivers association, not operator"}
+{"idx": 1840, "name": "Brea-OLINDA Usd Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "USD unified school district transportation"}
+{"idx": 1841, "name": "Eastern Truck & Bus Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Truck bus dealer/service, not operator"}
+{"idx": 1842, "name": "Fischer Truck Bus Svc Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Truck/bus service, likely repair shop"}
+{"idx": 1843, "name": "International Bus Group Inc", "verdict": "private_contractor", "confidence": 0.65, "reason": "Private bus group near Atlanta airport"}
+{"idx": 1844, "name": "New Market Bus Imprvmt Dist", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Business improvement district, not transport"}
+{"idx": 1845, "name": "Dynamic Network Solutions Inc", "verdict": "unsure", "confidence": 0.3, "reason": "Tech name, unclear bus operation"}
+{"idx": 1846, "name": "Magilla Inc Which Will Do Bus", "verdict": "not_transport", "confidence": 0.7, "reason": "MagillaLoans.com indicates lending business"}
+{"idx": 1847, "name": "Rising Son Inc Which Will Do", "verdict": "private_contractor", "confidence": 0.6, "reason": "Inc DBA bus, residential address"}
+{"idx": 1848, "name": "California Golden Girls Inc", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, school flag only"}
+{"idx": 1849, "name": "WEBB City Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "City schools transportation department"}
+{"idx": 1850, "name": "Lia's School Bus SVC LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family name LLC school bus service"}
+{"idx": 1851, "name": "Two Wheels Corp", "verdict": "unsure", "confidence": 0.4, "reason": "Ambiguous name, special needs flag"}
+{"idx": 1852, "name": "Abrazar Inc", "verdict": "not_transport", "confidence": 0.7, "reason": "Nonprofit community services organization"}
+{"idx": 1853, "name": "GBH International Inc Which", "verdict": "unsure", "confidence": 0.4, "reason": "Truncated name, residential address"}
+{"idx": 1854, "name": "Isd 709 Transportation", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "ISD 709 Duluth school district"}
+{"idx": 1855, "name": "Monroe Woodbury Central Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Central school district transportation"}
+{"idx": 1856, "name": "Colorado Transportation School", "verdict": "not_transport", "confidence": 0.85, "reason": "CDL training school, not operator"}
+{"idx": 1857, "name": "Cleveland County Transit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County transit authority, public"}
+{"idx": 1858, "name": "Transportation Administration", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Same address as county transit"}
+{"idx": 1859, "name": "Atlantic City Bus Line Excrsn", "verdict": "private_contractor", "confidence": 0.6, "reason": "Bus line excursion, charter operator"}

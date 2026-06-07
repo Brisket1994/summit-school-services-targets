@@ -1,0 +1,30 @@
+{"idx": 7020, "name": "Wentzville School Dist Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 7021, "name": "Columbia School District Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 7022, "name": "Yazoo County School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County school district"}
+{"idx": 7023, "name": "Butte School District Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "School district transportation department"}
+{"idx": 7024, "name": "Elementary School Dist", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Public elementary school district"}
+{"idx": 7025, "name": "Gates County School Garage", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "County school district facility"}
+{"idx": 7026, "name": "Pitt County Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "County schools transportation department"}
+{"idx": 7027, "name": "Southwest Elementary School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual public elementary school"}
+{"idx": 7028, "name": "Bloomingdale School Dist", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district"}
+{"idx": 7029, "name": "Greenhouse Community School", "verdict": "not_transport", "confidence": 0.9, "reason": "Community school, not transport operator"}
+{"idx": 7030, "name": "Howell Township Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Township school transportation department"}
+{"idx": 7031, "name": "Montgomery Township Schools", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Township public school district"}
+{"idx": 7032, "name": "Pro Trans School Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private LLC school transportation contractor"}
+{"idx": 7033, "name": "All County Bus", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private bus company, 300 employees Yonkers"}
+{"idx": 7034, "name": "Avon Middle School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual middle school"}
+{"idx": 7035, "name": "Bolton Central School Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Central school district transportation"}
+{"idx": 7036, "name": "Chautauqua Area Rural Transit", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County public transit agency"}
+{"idx": 7037, "name": "City School District Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Rochester city school district transportation"}
+{"idx": 7038, "name": "Clear View School", "verdict": "not_transport", "confidence": 0.9, "reason": "Actual school, not transport"}
+{"idx": 7039, "name": "Community Unit School District", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Public school district"}
+{"idx": 7040, "name": "Eastchester Middle School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual middle school"}
+{"idx": 7041, "name": "Edgemont High School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual high school"}
+{"idx": 7042, "name": "Edgewood School", "verdict": "not_transport", "confidence": 0.95, "reason": "Actual school in Scarsdale district"}
+{"idx": 7043, "name": "French-American School OF Ny", "verdict": "not_transport", "confidence": 0.95, "reason": "Private school, not transport"}
+{"idx": 7044, "name": "From A-Z Taxi School", "verdict": "not_transport", "confidence": 0.9, "reason": "Taxi driving school, not transport operator"}
+{"idx": 7045, "name": "Golden Crown Driving School", "verdict": "not_transport", "confidence": 0.95, "reason": "Driving school, not transport"}
+{"idx": 7046, "name": "Harvey School", "verdict": "not_transport", "confidence": 0.95, "reason": "Private school"}
+{"idx": 7047, "name": "Haverford Township School Dist", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Township public school district"}
+{"idx": 7048, "name": "Hoff-Barthelson Music School", "verdict": "not_transport", "confidence": 0.98, "reason": "Music school, not transport"}
+{"idx": 7049, "name": "Hoosick Falls Central School", "verdict": "public_or_inhouse", "confidence": 0.92, "reason": "Central school district"}

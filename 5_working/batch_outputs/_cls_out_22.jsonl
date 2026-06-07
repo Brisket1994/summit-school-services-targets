@@ -1,0 +1,30 @@
+{"idx": 660, "name": "Peoria Public Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 661, "name": "Ada Paratransit Svc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Hartford transit affiliated paratransit, public"}
+{"idx": 662, "name": "Worcester Public Sch Transport", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 663, "name": "Belair Transport Inc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Private NJ school bus contractor Inc"}
+{"idx": 664, "name": "ABC Transit Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private PA school transit Inc"}
+{"idx": 665, "name": "Northstar Bus Lines LLC", "verdict": "private_contractor", "confidence": 0.95, "reason": "Private MN school bus LLC since 1962"}
+{"idx": 666, "name": "Valley View Cusd 365u Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "CUSD district transportation dept"}
+{"idx": 667, "name": "Integrity Medivan", "verdict": "private_contractor", "confidence": 0.7, "reason": "Private medivan special needs transport"}
+{"idx": 668, "name": "Staten Island Bus Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NY school bus contractor Inc"}
+{"idx": 669, "name": "MSD Of Wash Township Trans", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Metropolitan school district transportation"}
+{"idx": 670, "name": "Warren Township Transportation", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Township school district transportation"}
+{"idx": 671, "name": "American Star Trnsprtn LLC", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private NJ school transport LLC"}
+{"idx": 672, "name": "City Wide Bus Co Inc", "verdict": "private_contractor", "confidence": 0.9, "reason": "Private MD school bus company Inc"}
+{"idx": 673, "name": "Granite School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 674, "name": "Rinaldi School Bus Trnsprtn", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name NJ private school bus contractor"}
+{"idx": 675, "name": "Robert's School Bus", "verdict": "private_contractor", "confidence": 0.9, "reason": "Possessive family-name private school bus HI"}
+{"idx": 676, "name": "Hilliard City Schools Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public city schools transportation dept"}
+{"idx": 677, "name": "Paradise Valley Unified Sch", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public unified school district"}
+{"idx": 678, "name": "Yuma Schools TRNSP Ctr", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation center"}
+{"idx": 679, "name": "Auburn School Dist Trnsprtn", "verdict": "public_or_inhouse", "confidence": 0.98, "reason": "Public school district transportation dept"}
+{"idx": 680, "name": "Liberty Lines Bus Assoc Inc", "verdict": "private_contractor", "confidence": 0.8, "reason": "NY bus association, likely private operator"}
+{"idx": 681, "name": "Voigt's Bus", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family-name MN private school bus 1947"}
+{"idx": 682, "name": "Jaunt Inc", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "Regional public paratransit nonprofit VA"}
+{"idx": 683, "name": "Academy Transportation Office", "verdict": "public_or_inhouse", "confidence": 0.95, "reason": "Academy District 20 transportation office"}
+{"idx": 684, "name": "Hartnett Transit", "verdict": "private_contractor", "confidence": 0.88, "reason": "Family-name NJ private school transit"}
+{"idx": 685, "name": "Marschall Line", "verdict": "private_contractor", "confidence": 0.92, "reason": "Family-name MN private bus line 1945"}
+{"idx": 686, "name": "Toms River Sch Trnsprtn Assn", "verdict": "private_contractor", "confidence": 0.7, "reason": "NJ school transportation association, likely contractor"}
+{"idx": 687, "name": "Atlantic Paratransit Div", "verdict": "unsure", "confidence": 0.5, "reason": "Brooklyn paratransit division, unclear ownership"}
+{"idx": 688, "name": "Alvin Independent Sch Dist", "verdict": "public_or_inhouse", "confidence": 0.99, "reason": "Public independent school district TX"}
+{"idx": 689, "name": "Elite Medical Response", "verdict": "not_transport", "confidence": 0.85, "reason": "Medical response/EMS, not student transport"}

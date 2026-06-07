@@ -1,0 +1,30 @@
+{"idx": 4620, "name": "Dum's Bus Svc", "verdict": "private_contractor", "confidence": 0.92, "reason": "Possessive name + Bus Service"}
+{"idx": 4621, "name": "Senior Transit Fulton County", "verdict": "public_or_inhouse", "confidence": 0.9, "reason": "County government senior transit, .gov site"}
+{"idx": 4622, "name": "Louisville Wheelchair-Mobility", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair NEMT, likely private operator"}
+{"idx": 4623, "name": "Sendaride Inc", "verdict": "private_contractor", "confidence": 0.6, "reason": "NEMT ride platform, Inc"}
+{"idx": 4624, "name": "On My Way School Taxi", "verdict": "private_contractor", "confidence": 0.85, "reason": "Private school taxi operator"}
+{"idx": 4625, "name": "Houston County Board-Trans", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "County school board transportation, .us site"}
+{"idx": 4626, "name": "Gunnison Watershed South Dist", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "School district, gunnisonschools.net"}
+{"idx": 4627, "name": "Naches Valley School", "verdict": "not_transport", "confidence": 0.9, "reason": "School itself, nvsd.org"}
+{"idx": 4628, "name": "Alaska Low Range Recovery LLC", "verdict": "not_transport", "confidence": 0.8, "reason": "Vehicle recovery/towing, not student transport"}
+{"idx": 4629, "name": "J & M Vera School Bus Svc Inc", "verdict": "private_contractor", "confidence": 0.95, "reason": "Family school bus service Inc"}
+{"idx": 4630, "name": "Senior Independence Trans", "verdict": "private_contractor", "confidence": 0.5, "reason": "Senior transport, possibly NEMT private"}
+{"idx": 4631, "name": "Nacogdoches Independent Sch", "verdict": "public_or_inhouse", "confidence": 0.97, "reason": "Independent school district, nacisd.org"}
+{"idx": 4632, "name": "PPS Transportation Svc", "verdict": "public_or_inhouse", "confidence": 0.85, "reason": "Portsmouth Public Schools transport dept"}
+{"idx": 4633, "name": "Avante Luxury Limousine & Sed", "verdict": "private_contractor", "confidence": 0.5, "reason": "Luxury limo, unlikely student transport"}
+{"idx": 4634, "name": "Baqi Limousine", "verdict": "private_contractor", "confidence": 0.4, "reason": "Limousine, unlikely school transport"}
+{"idx": 4635, "name": "Be Mobile Transportation", "verdict": "private_contractor", "confidence": 0.55, "reason": "Mobility NEMT private operator"}
+{"idx": 4636, "name": "Central Vly Mrtuary TRNSPT Svc", "verdict": "not_transport", "confidence": 0.9, "reason": "Mortuary transport, not student"}
+{"idx": 4637, "name": "Col Wheelchair Inc", "verdict": "private_contractor", "confidence": 0.55, "reason": "Wheelchair NEMT Inc"}
+{"idx": 4638, "name": "Echarterbus", "verdict": "private_contractor", "confidence": 0.6, "reason": "Charter bus operator"}
+{"idx": 4639, "name": "Frisco Limo", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limo service, unlikely school"}
+{"idx": 4640, "name": "Lalune Limousine", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limousine, unlikely student transport"}
+{"idx": 4641, "name": "Majestic Limousine", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limousine, unlikely student transport"}
+{"idx": 4642, "name": "MB Gateway Limousine Svc", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limousine, unlikely student transport"}
+{"idx": 4643, "name": "Medxpress", "verdict": "private_contractor", "confidence": 0.5, "reason": "Medical NEMT private operator"}
+{"idx": 4644, "name": "Red Roses Limousine Svc", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limousine, unlikely student transport"}
+{"idx": 4645, "name": "Sactown Bike Bus LLC", "verdict": "private_contractor", "confidence": 0.5, "reason": "Bike bus LLC, niche school operator"}
+{"idx": 4646, "name": "Signature Limo", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limo, unlikely student transport"}
+{"idx": 4647, "name": "28 Trans LLC", "verdict": "private_contractor", "confidence": 0.55, "reason": "Transport LLC, likely NEMT private"}
+{"idx": 4648, "name": "Around T Limousine Inc", "verdict": "private_contractor", "confidence": 0.35, "reason": "Limousine Inc, unlikely student transport"}
+{"idx": 4649, "name": "We Care Wheelchair Transport", "verdict": "private_contractor", "confidence": 0.6, "reason": "Wheelchair NEMT private operator"}
