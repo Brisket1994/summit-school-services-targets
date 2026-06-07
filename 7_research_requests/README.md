@@ -44,7 +44,8 @@ sub-sector deltas (yellow / SPED / charter) are captured *within* each. Requeste
 3. Ingest the synthesized ranges into a new DB table (suggested **`market_overlay`**), keyed to join targets by
    **`sub_sector` + `scale_tier` + `geo` (state/national)** — plus any per-target multipliers (e.g., EV/bus,
    contract-renewal timing) keyed by target rank.
-4. Extend `4_pipeline/_w4_score.py` (weights dict `W`) with the overlay factors and re-run the W4 chain
-   (`_w4_score → _export_full → _build_master_view → _build_status`). Modular re-score, fully cited, not a rebuild.
+4. Apply via a **NEW** `4_pipeline/_w5_overlay.py` that reads the W4 output and adds an **additive** overlay
+   (separate weights; the W4 baseline is left untouched for comparison) → `3_deliverables/master_targets_ranked_overlay.csv`.
+   Do not edit `_w4_score.py`. Full step-by-step in `../NEXT_SESSION_PROMPT.md`.
 
 See `../NEXT_SESSION_PROMPT.md` for the full step-by-step.
