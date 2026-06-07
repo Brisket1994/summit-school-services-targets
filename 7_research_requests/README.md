@@ -36,6 +36,15 @@ pre-synthesized range. We aggregate the ledger into ranges ourselves at ingest.
 sub-sector deltas (yellow / SPED / charter) are captured *within* each. Requester identity kept generic
 ("a strategic consolidator").
 
-**Next:** run each brief in BrightWave; drop the returned report into that brief's `results/` folder and any
-downloaded primary-source files into its `sources/` folder, then ingest the machine-readable summary tables
-into the DB as the market-data overlay re-score.
+## Hand-off to the W5 overlay re-score
+1. Run each brief in BrightWave; drop the returned report into that brief's `results/` and the downloaded
+   primary-source files into its `sources/` (local/gitignored).
+2. **We** synthesize the evidence ledgers (one row per data-point × source) into our own ranges — BrightWave's
+   own conclusions are not authoritative. Verify each figure against the cited source in `sources/`.
+3. Ingest the synthesized ranges into a new DB table (suggested **`market_overlay`**), keyed to join targets by
+   **`sub_sector` + `scale_tier` + `geo` (state/national)** — plus any per-target multipliers (e.g., EV/bus,
+   contract-renewal timing) keyed by target rank.
+4. Extend `4_pipeline/_w4_score.py` (weights dict `W`) with the overlay factors and re-run the W4 chain
+   (`_w4_score → _export_full → _build_master_view → _build_status`). Modular re-score, fully cited, not a rebuild.
+
+See `../NEXT_SESSION_PROMPT.md` for the full step-by-step.
