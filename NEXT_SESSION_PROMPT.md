@@ -66,15 +66,16 @@ ls -la 2_database/summit_targets.db 3_deliverables/master_targets_FULL.csv 5_wor
 ## WHAT'S NEXT — prioritized menu (what we can analyze / layer in)
 *Pick with the user; each is independently runnable. A–B are the highest-leverage.*
 
-**A. Night-one A-list research at scale — the biggest lever (needs explicit go; touches the live web).**
-Run the `6_targets/` scaffold on the top A-list targets using the disciplined recon-brief template the
-team standardized on (see `06_Summit_Target_Recon/American Transportation Systems/` in the MASTER tree
-for the gold-standard format — public-source only, confidence-laddered, **no fabricated EBITDA/EV**).
-Runbook `6_targets/README.md`; spec `6_targets/RESEARCH_SPEC.md`; batch via `_next_batch.py N`. Produces
-per-target ownership/succession/contacts/contracts + a clean **revenue read that replaces the noisy
-`da_revenue_est`** (the W5 reconciliation showed Data Axle revenue is internally implausible — ~$4K–$343K
-per bus). Start with a pilot batch (e.g., top 25) and review before scaling. This is also what unlocks
-outreach drafts.
+**A. Night-one A-list research at scale — the biggest lever (now wired to the Kimi swarm).**
+Run the `6_targets/` scaffold on the A-list via the **Kimi K2.6 Agent Swarm (Allegro app)** — Kimi collects
+(`facts.json` + `overview.md`); Claude drafts outreach after the user verifies. The loop:
+`_next_batch.py 8 → _prep_kimi_batch.py` (public-only paste file) → run in the Allegro app → save the return →
+`_ingest_kimi_returns.py` (writes the files + flips `targets_status.csv`, idempotent). Public-source only,
+confidence-laddered, **no fabricated EBITDA/EV** (the swarm's guardrails). Full plan, batching budget, pilot
+gate, and recalibrated briefs: `…/AI Tool Research/kimi-swarm-execution-kit/RUNBOOK_Allegro_target-screening.md`.
+Start with the 20-target pilot gate before scaling. Produces per-target ownership/succession/contacts/
+contracts + a clean **revenue read that replaces the noisy `da_revenue_est`** (the W5 reconciliation showed
+Data Axle revenue is internally implausible — ~$4K–$343K per bus), and unlocks outreach drafts.
 
 **B. Deepen the overlay (sharpen the benchmarks we synthesized).**
 - **Calibration filings (Brief 01 §C, currently deferred):** parse the MCG/STI/First Student 10-Ks in

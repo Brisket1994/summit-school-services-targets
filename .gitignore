@@ -6,6 +6,8 @@
 
 # Transient
 5_working/inputs/_night_batch.json
+# Kimi Allegro app loop staging: paste files + raw swarm returns (local, transient, possibly large)
+5_working/kimi_returns/
 
 # System / session
 .DS_Store
