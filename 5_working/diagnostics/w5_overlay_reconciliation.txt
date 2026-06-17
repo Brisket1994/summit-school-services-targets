@@ -1,0 +1,27 @@
+W5 bus-anchor reconciliation (±50% tolerance)
+Tests whether each A-list target's implied-revenue band (fleet × rev/bus) brackets an independent signal (da_revenue_est, else web_employees_est × $135K). Sanity check, not a gate.
+
+A-list w/ verified census fleet + implied rev: 664
+  in_band:     247  (37.2% of 664 with an independent signal)
+  below_band:  236  (implied range above the independent signal)
+  above_band:  181  (implied range below the independent signal)
+  no_signal:     0
+
+By derived scale tier:
+      250+: n=  39  in=  12  below=  27  above=   0  nosig=   0
+    50-250: n=  98  in=  31  below=  61  above=   6  nosig=   0
+       <50: n= 527  in= 204  below= 148  above= 175  nosig=   0
+
+No systemic skew (one-sided bracket mismatch <=40%).
+
+Ratio of implied_rev_point to the independent signal (characterizes bias + signal noise):
+  vs da_revenue_est (n=660):  p10=0.20 p25=0.51 median=1.63 p75=3.73 p90=10.89
+  vs web_employees_est x $135K (n=650):  p10=0.08 p25=0.26 median=0.62 p75=1.02 p90=2.33
+
+INTERPRETATION: the low in-band rate is driven by NOISE IN da_revenue_est, not by the implied model.
+Data Axle revenue estimates for these private operators are internally implausible (observed range
+~$4K to ~$343K of stated revenue per census bus), so they make a weak reconciliation anchor. The
+fleet x rev/bus implied revenue — anchored on Summit's own bid/deal economics (~$98K/bus) — is the
+more internally consistent estimate. Median implied/da ~1.6x reflects Data Axle UNDER-counting small
+private-operator revenue. Treat the implied bands as the better revenue read; da_revenue_est is a
+cross-check, not ground truth. (Cleaner per-target revenue requires the night-research pass.)
