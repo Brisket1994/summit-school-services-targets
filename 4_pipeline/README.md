@@ -22,21 +22,34 @@ subfolders (`2_database/`, `5_working/inputs/`, `5_working/batch_outputs/`, `3_d
 | 9 | `_build_fallback.py` | `enrichment`+`fmcsa_census`+`fmcsa` → `5_working/inputs/_fmcsa_fallback.json` |
 | 10 | `_diagnostic.py` | read-only profile of `enrichment` → `_intermediate/targets_independent_enriched.csv` |
 | 11 | `_w4_score.py` | join sources → `master_targets_ranked.csv`, `_profiles.jsonl`, `_A_top50.md` **(the scorer)** |
-| 12 | `_export_full.py` | join + raw census → `master_targets_FULL.csv` (85 cols) |
+| 12 | `_export_full.py` | join + raw census → `master_targets_FULL.csv` (91 cols) |
 | 13 | `_build_master_view.py` | `master_targets_FULL.csv` → `master_targets` DB table (+indexes) |
 | 14 | `_build_status.py` | `master_targets` → `master_targets.jsonl` + `alist_queue.jsonl` + `targets_status.csv` (idempotent; preserves progress) |
 | 15 | `_next_batch.py [N]` | next N un-researched A-list → `5_working/inputs/_night_batch.json` |
 | 16 | `_status.py` | read-only DB snapshot + counts |
+| 17 | `_synthesize_market_overlay.py` | (W5) emit `5_working/inputs/market_overlay.csv` — the cited benchmark ranges, synthesized from internal bid/deal data + the data room. Documented derivation; deterministic. Edit its row literals to refresh benchmarks. |
+| 18 | `_w5_overlay.py` | (W5) `master_targets` + `market_overlay.csv` → `master_targets_ranked_overlay.csv` + `master_targets_overlay_A_top50.md` + `5_working/diagnostics/` (reconciliation + skipped-factor log). **Additive overlay on top of the untouched W4 baseline + per-target implied valuation.** |
 
-## Re-score / overlay chain (the W4 → W5 re-run)
+## Re-score chains
+
+**W4 re-score (Case A — needs the gitignored `enrichment`/`fmcsa`/`fmcsa_census` tables):**
 ```
 python3 4_pipeline/_w4_score.py          # re-score from DB
 python3 4_pipeline/_export_full.py       # → master_targets_FULL.csv
 python3 4_pipeline/_build_master_view.py # → master_targets table
 python3 4_pipeline/_build_status.py      # → jsonl/queue/status
 ```
-For the W5 overlay, the market-data table is joined in `_w4_score.py` and its weights dict `W` extended — a
-re-run of this chain, not a rebuild.
+
+**W5 overlay (the implemented design — a SEPARATE additive script; `_w4_score.py` is NOT edited):**
+```
+# Case B (fresh clone: DB absent, master_targets_FULL.csv present) — the common case:
+python3 4_pipeline/_build_master_view.py           # rebuild master_targets from the committed CSV
+python3 4_pipeline/_synthesize_market_overlay.py   # (only if market_overlay.csv changed)
+python3 4_pipeline/_w5_overlay.py                  # → overlay deliverables + diagnostics
+```
+The W5 overlay reads `master_targets` only (no enrichment/fmcsa tables), so it runs in Case B. It loads
+`market_overlay.csv` into a `market_overlay` DB table itself. The W4 baseline (`composite`, `a_rank`) is
+preserved in the overlay output for side-by-side comparison.
 
 ## Smoke test (verify intact; fast, non-destructive)
 `python3 4_pipeline/_status.py` then the re-score chain above → expect no errors and `git diff` clean

@@ -36,16 +36,31 @@ pre-synthesized range. We aggregate the ledger into ranges ourselves at ingest.
 sub-sector deltas (yellow / SPED / charter) are captured *within* each. Requester identity kept generic
 ("a strategic consolidator").
 
-## Hand-off to the W5 overlay re-score
-1. Run each brief in BrightWave; drop the returned report into that brief's `results/` and the downloaded
-   primary-source files into its `sources/` (local/gitignored).
-2. **We** synthesize the evidence ledgers (one row per data-point × source) into our own ranges — BrightWave's
-   own conclusions are not authoritative. Verify each figure against the cited source in `sources/`.
-3. Ingest the synthesized ranges into a new DB table (suggested **`market_overlay`**), keyed to join targets by
-   **`sub_sector` + `scale_tier` + `geo` (state/national)** — plus any per-target multipliers (e.g., EV/bus,
-   contract-renewal timing) keyed by target rank.
-4. Apply via a **NEW** `4_pipeline/_w5_overlay.py` that reads the W4 output and adds an **additive** overlay
-   (separate weights; the W4 baseline is left untouched for comparison) → `3_deliverables/master_targets_ranked_overlay.csv`.
-   Do not edit `_w4_score.py`. Full step-by-step in `../NEXT_SESSION_PROMPT.md`.
+## Status — W5 completed from internal + data-room sources (these briefs were NOT run in BrightWave)
 
-See `../NEXT_SESSION_PROMPT.md` for the full step-by-step.
+The BrightWave research drop never landed (all `results/` and `sources/` are still empty `.gitkeep`).
+W5 was instead completed (2026-06-17) by synthesizing the SAME underlying evidence **already on disk**
+in the broader MASTER tree, plus Summit's own proprietary data — which is better-calibrated than
+external research for the core unit-economics and valuation benchmarks. The briefs remain valid and
+un-run; they can still be executed later to deepen/replace specific rows.
+
+**Where the W5 inputs actually came from** (synthesized by us, every figure cited — see
+`../5_working/inputs/market_overlay_SOURCES.md`):
+- **Brief 01 (unit economics)** ← Summit bid teardowns (`Summit Pricing Models/_Teardowns/`) + live-deal
+  margins (`Deal_and_Person_Notes_V1.md`). Calibration 10-Ks (STI/Mobico, in the data room Lane 15)
+  carried but the rev/bus computation is **deferred** (needs PDF parsing, outside stdlib).
+- **Brief 02 (contract/reimbursement)** ← data-room state docs + `Onboarding_Market_Strategy_Memo.md`
+  (carried as cited categorical ordinals — outsourcing acceptance, EV-mandate stringency; per-state
+  numeric rates **deferred**, not cleanly extractable at primary+High).
+- **Brief 03 (synergies/precedent valuation)** ← live-deal precedents + the verified precedent-multiple
+  table in `02_Corp_Dev_Research/Summit Research/06_Valuation-and-Transaction-Multiples/CLAUDE.md`.
+
+**The mechanism that consumed them** (as designed): synthesized ranges →
+`5_working/inputs/market_overlay.csv` (keyed `sub_sector × scale_tier × geo`) → loaded into a
+`market_overlay` DB table by **`4_pipeline/_w5_overlay.py`** (NEW; `_w4_score.py` untouched) → additive
+overlay + per-target implied valuation → `3_deliverables/master_targets_ranked_overlay.csv`.
+
+**To run a brief later** (to replace the deferred/ordinal rows with primary extraction): drop the
+returned report into that brief's `results/` and primary files into `sources/`, verify each figure, then
+add/adjust the corresponding rows in `4_pipeline/_synthesize_market_overlay.py` and re-run
+`_synthesize_market_overlay.py && _w5_overlay.py`. See `../NEXT_SESSION_PROMPT.md`.
